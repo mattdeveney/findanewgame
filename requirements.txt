@@ -1,0 +1,16 @@
+Flask==0.10.1
+itsdangerous==0.24
+Jinja2==2.8
+MarkupSafe==0.23
+numpy==1.11.2
+pandas==0.19.1
+poster==0.8.1
+python-dateutil==2.6.0
+pytz==2016.10
+scikit-learn==0.18.1
+scipy==0.18.1
+six==1.10.0
+sklearn==0.0
+statsmodels==0.6.1
+Unirest==1.1.7
+Werkzeug==0.11.11

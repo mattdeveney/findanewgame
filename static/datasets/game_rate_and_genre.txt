@@ -1,0 +1,1545 @@
+,rating,genre
+#IDARB,E,Action
+#KILLALLZOMBIES,T,Action
+10 Second Ninja X,T,Action
+1001 Spikes,T,Action
+101 Ways to Die,T,Action
+6180 the Moon,E,Action
+7 Days to Die,M,Action
+A Boy and His Blob,E,Action
+Aaru's Awakening,E,Action
+Action Henk,E,Action
+Action News Heroes,T,Action
+Active Soccer 2 DX,E,Action
+Adam's Venture: Origins,E10+,Adventure
+Adventure Time: Finn and Jake Investigations,E10+,Adventure
+Agatha Christie's The ABC Murders,,Adventure
+AIPD - Artificial Intelligence Police Department,E10+,Action
+AirMech Arena,E10+,Simulation
+Albedo: Eyes from Outer Space,T,Action Adventure
+Alekhine's Gun,M,Action Adventure
+Alien: Isolation,M,Action Adventure
+Amazing Princess Sarah,T,Action
+Among the Sleep,T,Adventure
+Anarcute,E10+,Action
+Angry Birds Star Wars,E,Strategy
+Anima: Gate of Memories,T,Role-Playing
+Anode,E,Puzzle
+Another World: 20th Anniversary Edition,T,Action
+APB: Reloaded,M,Massively Multiplayer
+Armello,E10+,Miscellaneous
+Armikrog,E10+,Adventure
+Arslan: The Warriors of Legend,T,General
+Assassin's Creed Chronicles,T,Miscellaneous
+Assassin's Creed Chronicles: China,T,Historic
+Assassin's Creed Chronicles: India,T,Action Adventure
+Assassin's Creed Chronicles: Russia,T,Action Adventure
+Assassin's Creed IV: Black Flag,M,Action Adventure
+Assassin's Creed IV: Black Flag - Freedom Cry,M,Action Adventure
+Assassin's Creed Syndicate,M,Historic
+Assassin's Creed Syndicate: Jack the Ripper,M,Action Adventure
+Assassin's Creed Syndicate: The Last Maharaja,,Action Adventure
+Assassin's Creed Unity,M,Action Adventure
+Assassin's Creed Unity: Dead Kings,M,Action Adventure
+Assetto Corsa,E,Sports
+Attack on Titan,M,Action
+Awesomenauts Assemble!,T,Strategy
+Axiom Verge,T,Action Adventure
+Azkend 2: The World Beneath,E,Puzzle
+Back to the Future: The Game,T,Adventure
+BADLAND: Game of the Year Edition,E,Action
+Bard's Gold,E,Action
+Baseball Riot,E10+,Puzzle
+Batman: Arkham Knight,M,General
+Batman: Arkham Knight - A Matter of Family,M,Action Adventure
+Batman: Return to Arkham,T,Miscellaneous
+Batman: The Telltale Series,M,Action
+Batman: The Telltale Series - Episode 1: Realm of Shadows,M,Adventure
+Batman: The Telltale Series - Episode 2: Children of Arkham,M,Adventure
+Batman: The Telltale Series - Episode 3: New World Order,,Adventure
+Battle Worlds: Kronos,E10+,Strategy
+Battleborn,T,Sci-Fi
+Battlefield 1,M,Action
+Battlefield 4,M,Action
+Battlefield 4: China Rising,,Action
+Battlefield 4: Dragon's Teeth,M,Action
+Battlefield 4: Naval Strike,M,Action
+Battlefield 4: Second Assault,M,Action
+Battlefield Hardline,M,Modern
+Battleship,E10+,Miscellaneous
+Beach Buggy Racing,E,Action
+Beatbuddy: Tale of the Guardians,E,Action
+Bedlam,M,Action
+Beyond Eyes,E,Action Adventure
+Bike Mayhem 2,E,Sports
+BioShock: The Collection,M,Action
+Bladestorm: Nightmare,T,Action
+BlazBlue: Chrono Phantasma Extend,T,Action
+Blood Bowl 2,T,Sports
+Blue Estate,M,Action
+Blues and Bullets - Episode 1: The End of Peace,M,Action Adventure
+Blues and Bullets - Episode 2: Shaking The Hive,,Action Adventure
+Boom Ball for Kinect,E,Action
+Borderlands 2,M,Action
+Borderlands: The Handsome Collection,M,Miscellaneous
+Bridge Constructor,E,Simulation
+Broken Sword 5: The Serpent's Curse,T,Adventure
+Brothers: A Tale of Two Sons,T,Action Adventure
+Call of Duty: Advanced Warfare,M,Action
+Call of Duty: Advanced Warfare - Ascendance,M,Action
+Call of Duty: Advanced Warfare - Havoc,M,Action
+Call of Duty: Advanced Warfare - Reckoning,,Action
+Call of Duty: Advanced Warfare - Supremacy,,Action
+Call of Duty: Black Ops III,M,Action
+Call of Duty: Ghosts,M,Action
+Call of Duty: Ghosts - Devastation,M,Action
+Call of Duty: Ghosts - Invasion,M,Action
+Call of Duty: Ghosts - Onslaught,M,Action
+Carmageddon: Max Damage,M,Sports
+Casey Powell Lacrosse 16,E,Sports
+Cast of the Seven Godsends: Redux,T,Action
+Castle Crashers Remastered,T,Action
+CastleStorm: Definitive Edition,T,Strategy
+Cel Damage HD,,Simulation
+Chariot,E,Action
+Child of Light,E10+,Action
+Chivalry: Medieval Warfare,M,Action
+Claire: Extended Cut,M,Adventure
+Clash,E,Action
+Clockwork Tales: Of Glass and Ink,T,Puzzle
+Cobalt,E10+,Action
+Coffin Dodgers,T,Sports
+Contrast,T,Miscellaneous
+Costume Quest 2,E10+,Role-Playing
+Crimson Dragon,T,Action
+Crimsonland,T,Action
+Cubot - The Complexity of Simplicity,E,Puzzle
+D/Generation HD,E10+,Puzzle
+D4: Dark Dreams Don't Die,M,Action
+Dance Central Spotlight,T,Action
+Dangerous Golf,E,Sports
+Dark Souls II: Scholar of the First Sin,T,Role-Playing
+Dark Souls III,,Role-Playing
+Dark Souls III: Ashes of Ariandel,M,Role-Playing
+Darksiders II: Deathinitive Edition,M,Action Adventure
+DC Universe Online,T,Role-Playing
+Dead Island: Definitive Collection,M,Miscellaneous
+Dead or Alive 5: Last Round,M,Action
+Dead Rising,M,Action Adventure
+Dead Rising 3,M,Action
+Dead Rising 3: Apocalypse Edition,M,Action
+Dead Rising 3: Chaos Rising,M,Action
+Dead Rising 3: Fallen Angel,M,Action
+Dead Rising 3: Operation Broken Eagle,M,Action
+Dead Rising 3: The Last Agent,M,Action
+Dead Rising Triple Pack,,Action Adventure
+Deadlight: Director's Cut,M,Action
+Deadpool,M,Action
+Dear Esther,T,Adventure
+Destiny,T,Action
+Destiny: House of Wolves,T,Action
+Destiny: Rise of Iron,,Action
+Destiny: The Dark Below,T,Action
+Destiny: The Taken King,T,Action
+Deus Ex: Mankind Divided,M,Action Adventure
+Devil May Cry 4: Special Edition,M,Fantasy
+Dex (Enhanced Version),M,Role-Playing
+DG2: Defense Grid 2,E10+,Strategy
+Diablo III: Ultimate Evil Edition,M,Role-Playing
+DiRT Rally,E,Sports
+Dishonored: Definitive Edition,M,Action Adventure
+Disney Infinity 2.0 Edition,E10+,Action Adventure
+Disney Infinity 3.0 Edition,E10+,Action Adventure
+Divinity: Original Sin Enhanced Edition,M,Role-Playing
+DmC: Devil May Cry Definitive Edition,M,Fantasy
+Dogos,E10+,Action
+Don Bradman Cricket,E,Sports
+DOOM,M,Sci-Fi
+Dragon Age: Inquisition,M,Role-Playing
+Dragon Age: Inquisition - Jaws Of Hakkon,,Role-Playing
+Dragon Age: Inquisition - The Descent,,Role-Playing
+Dragon Age: Inquisition - Trespasser,,Role-Playing
+Dragon Ball: Xenoverse,T,Action
+Dragon Ball: Xenoverse 2,T,Action
+Drawful 2,T,Miscellaneous
+Duck Dynasty,T,Sports
+Dungeon of the Endless,T,Strategy
+Dungeon Punks,E10+,Action
+Dying Light,M,Action Adventure
+Dying Light: The Following,,Action Adventure
+Dying Light: The Following - Enhanced Edition,M,Action Adventure
+Dynasty Warriors 8 Empires,T,Action
+EA Sports UFC,T,Sports
+EA Sports UFC 2,T,Sports
+Earthlock: Festival of Magic,E10+,Role-Playing
+Electronic Super Joy,M,Action
+Elite Dangerous: Horizons,T,Simulation
+Elite: Dangerous,T,Simulation
+Enigmatis: The Ghosts of Maple Creek,T,Puzzle
+Ethan: Meteor Hunter,E10+,Action
+Eventide: Slavic Fable,T,Adventure
+Evolve,M,Action
+Extreme Exorcism,E10+,Action
+F1 2015,E,Sports
+F1 2016,E,Sports
+Factotum 90,E,Puzzle
+Fallout 4,M,General
+Fallout 4: Automatron,M,Role-Playing
+Fallout 4: Contraptions Workshop,,Role-Playing
+Fallout 4: Far Harbor,M,Role-Playing
+Fallout 4: Nuka-World,,Role-Playing
+Fallout 4: Vault-Tec Workshop,,Role-Playing
+Fallout 4: Wasteland Workshop,M,Role-Playing
+Fantasia: Music Evolved,E10+,Miscellaneous
+Far Cry 4,M,Action
+Far Cry 4: Valley of the Yetis,M,Action
+Far Cry Primal,M,Action
+Farming Simulator 15,E,Simulation
+Fenix Furia,E,Action
+Fibbage: The Hilarious Bluffing Party Game,T,Miscellaneous
+FIFA 14,E,Sports
+FIFA 15,E,Sports
+FIFA 16,E,Sports
+FIFA 17,E,Sports
+Fighter Within,T,Sports
+Final Fantasy Type-0 HD,M,Role-Playing
+Firewatch,M,Adventure
+Flockers,T,Puzzle
+FORCED,T,Role-Playing
+Fortified,T,Action
+Forza Horizon 2,E10+,Sports
+Forza Horizon 2 Presents Fast & Furious,E10+,Sports
+Forza Horizon 2: Storm Island,E10+,Sports
+Forza Horizon 3,E,Sports
+Forza Motorsport 5,E,Sports
+Forza Motorsport 6,E,Sports
+Forza Motorsport 6 NASCAR Expansion,,Sports
+Fragments of Him,M,Adventure
+FRU,E,Miscellaneous
+Fruit Ninja Kinect 2,E,General
+Full Mojo Rampage,T,Role-Playing
+Funk of Titans,T,Action
+Game of Thrones: A Telltale Games Series,M,Action
+Game of Thrones: Episode Five - A Nest of Vipers,M,Action
+Game of Thrones: Episode Four - Sons of Winter,M,Action
+Game of Thrones: Episode One - Iron From Ice,M,Action
+Game of Thrones: Episode Six - The Ice Dragon,M,Action
+Game of Thrones: Episode Three - The Sword in the Darkness,M,Action
+Game of Thrones: Episode Two - The Lost Lords,M,Action
+Gear Gauntlet,E,Action
+Gears of War 4,M,Sci-Fi
+Gears of War: Ultimate Edition,M,Action
+Gemini: Heroes Reborn,T,Action Adventure
+Gems of War,T,Puzzle
+Geometry Wars 3: Dimensions,E,Action
+Ghostbusters,E10+,Action
+Giana Sisters: Dream Runners,E,Action
+Giana Sisters: Twisted Dreams - Director's Cut,E,Action
+Goat Simulator,T,Simulation
+Goat Simulator: Mmore Goatz Edition,T,Simulation
+Gone Home: Console Edition,M,Adventure
+Grand Theft Auto Online,,Action Adventure
+Grand Theft Auto V,M,Action Adventure
+Grim Legends: The Forsaken Bride,T,Puzzle
+Grow Up,E,Action Adventure
+Gryphon Knight Epic,E10+,Action
+Guacamelee! Super Turbo Championship Edition,E10+,Action
+Guitar Hero Live,T,Action
+Gunscape,T,Action
+GunWorld 2,E10+,Action
+Halo 5: Guardians,T,Action
+Halo: Spartan Assault,T,Action
+Just Dance 2014,E10+,Miscellaneous
+Just Dance 2015,E10+,Action
+Just Dance 2016,E10+,Action
+Kaiju Panic,E10+,Strategy
+Kalimba,E,Action
+Kerbal Space Program,E,Simulation
+Kick & Fennick,E10+,Action
+Killer Instinct,T,Action
+Killer Instinct Season 2,T,Action
+Killer Instinct Season 3,,Action
+Killer Instinct: Definitive Edition,M,Action
+Kinect Sports Rivals,E10+,Sports
+King Oddball,E10+,Puzzle
+King's Quest Chapter 1: A Knight to Remember,E10+,Adventure
+King's Quest Chapter 2: Rubble Without a Cause,E10+,Adventure
+King's Quest Chapter 3: Once Upon a Climb,,Adventure
+Kingdom: New Lands,E10+,Strategy
+Knight Squad,T,Action
+Kung Fu Panda: Showdown of Legendary Legends,E10+,Action
+Kung-Fu for Kinect,E10+,Miscellaneous
+LA Cops,M,Action
+Land It!,,Simulation
+Lara Croft and the Temple of Osiris,T,Action
+Laserlife,E,Action
+Layers of Fear,M,Adventure
+Layers of Fear: Inheritance,M,Adventure
+LEGO Batman 3: Beyond Gotham,E10+,Action Adventure
+LEGO Dimensions,E10+,Action Adventure
+LEGO Jurassic World,E10+,Action Adventure
+LEGO Marvel Super Heroes,E10+,Action Adventure
+LEGO Marvel's Avengers,E10+,Action Adventure
+LEGO Star Wars: The Force Awakens,E10+,Action Adventure
+LEGO The Hobbit,E10+,Historic
+Leo's Fortune,,Action
+Letter Quest: Grimm's Journey Remastered,E,Puzzle
+Lichdom: Battlemage,M,Role-Playing
+Life is Strange,M,Sci-Fi
+Life is Strange: Episode 1 - Chrysalis,M,Action Adventure
+Life is Strange: Episode 2 - Out of Time,M,Action Adventure
+Life is Strange: Episode 3 - Chaos Theory,M,Action Adventure
+Life is Strange: Episode 4 - Dark Room,M,Action Adventure
+Life is Strange: Episode 5 - Polarized,M,Action Adventure
+Lifeless Planet: Premier Edition,T,Action Adventure
+LIMBO,T,Action
+LocoCycle,T,Sports
+Lords of the Fallen,M,Role-Playing
+Lost Sea,E10+,Strategy
+Lovely Planet,,Action
+Lovers in a Dangerous Spacetime,E10+,Miscellaneous
+Lumo,E10+,Action
+Mad Max,M,Action
+Madden NFL 15,E,Sports
+Madden NFL 16,E,Sports
+Madden NFL 17,E,Sports
+Madden NFL 25,E,Sports
+Mafia III,M,Action Adventure
+Magic Duels: Origins,T,Strategy
+Magic: Duels of the Planeswalkers 2015,T,Strategy
+Magnetic: Cage Closed,T,Adventure
+MagNets: Fully Charged,E10+,Action
+Maldita Castilla EX: Cursed Castilla,T,Action
+Mantis Burn Racing,,Sports
+Manual Samuel,T,Role-Playing
+Mark McMorris Infinite Air,T,Sports
+Marvel: Ultimate Alliance,T,Role-Playing
+Marvel: Ultimate Alliance 2,T,Role-Playing
+Masquerade: The Baubles of Doom,T,Action
+Massive Chalice,T,Strategy
+Max: The Curse of Brotherhood,E10+,Action Adventure
+McDROID,E,Strategy
+Mega Coin Squad,T,Action
+Mega Man Legacy Collection,E,Miscellaneous
+Metal Gear Solid V: Ground Zeroes,M,Action Adventure
+Metal Gear Solid V: Metal Gear Online,,Action Adventure
+Metal Gear Solid V: The Phantom Pain,M,Action Adventure
+Metro Redux,M,Action
+Metro: 2033 Redux,M,Action
+Metro: Last Light Redux,M,Action
+Middle-earth: Shadow of Mordor,M,Action Adventure
+Middle-earth: Shadow of Mordor - The Bright Lord,M,Action Adventure
+Mighty No. 9,E10+,Action
+Minecraft: Story Mode - Episode 1: The Order of the Stone,E10+,Action Adventure
+Minecraft: Story Mode - Episode 2: Assembly Required,E10+,Action Adventure
+Minecraft: Story Mode - Episode 3: The Last Place You Look,E10+,Action Adventure
+Minecraft: Story Mode - Episode 4: A Block and a Hard Place,E10+,Action Adventure
+Minecraft: Story Mode - Episode 5: Order Up!,E10+,Action Adventure
+Minecraft: Story Mode - Episode 6: A Portal to Mystery,E10+,Action Adventure
+Minecraft: Story Mode - Episode 7: Access Denied,E10+,Action Adventure
+Minecraft: Xbox One Edition,E10+,Action Adventure
+Mirror's Edge Catalyst,T,Action
+Mitsurugi Kamui Hikae,T,Action
+Monochroma,T,Action
+Monopoly Plus,E,Miscellaneous
+Monopoly: Family Fun Pack,E,Miscellaneous
+Mortal Kombat X,M,Action
+Mortal Kombat XL,M,Action
+Mount & Blade: Warband,T,Role-Playing
+Murdered: Soul Suspect,M,Action
+MX vs. ATV Supercross Encore,,Sports
+MXGP2: The Official Motocross Videogame,E,Sports
+Mystery Castle,E,Puzzle
+N.E.R.O.: Nothing Ever Remains Obscure,E,Miscellaneous
+Naruto Shippuden: Ultimate Ninja Storm 4,T,Action
+NASCAR Heat Evolution,E,Sports
+NBA 2K14,E,Sports
+NBA 2K15,E,Sports
+NBA 2K16,E10+,Action
+NBA 2K17,E,Sports
+NBA Live 14,E,Sports
+NBA Live 15,E,Sports
+NBA Live 16,E,Sports
+Necropolis,,Action Adventure
+Need for Speed,T,Sports
+Need for Speed: Rivals,E10+,Sports
+Neon Chrome,T,Action
+Never Alone,E10+,Action
+Neverwinter,T,Role-Playing
+NHL 15,E10+,Sports
+NHL 16,E10+,Sports
+NHL 17,E10+,Sports
+Nightmares from the Deep 2: The Siren's Call,E10+,General
+Ninja Pizza Girl,E10+,Action
+No Time to Explain,T,Action
+Not A Hero: Super Snazzy Edition,M,Action
+Nutjitsu,E,Action
+Oceanhorn: Monster of Uncharted Seas,E10+,Action Adventure
+Octodad: Dadliest Catch,E10+,Adventure
+Oddworld: Abe's Oddysee - New 'n' Tasty,T,Action
+OlliOlli,E,Sports
+OlliOlli2: XL Edition,T,Sports
+One Piece: Burning Blood,T,Action
+Organic Panic,,Puzzle
+Ori and the Blind Forest,E,Action
+Ori and the Blind Forest: Definitive Edition,E,Action
+Outlast,M,Action Adventure
+Overcooked,E,Action
+Overlord: Fellowship of Evil,T,Role-Playing
+Overwatch,T,Action
+Oxenfree,,Action Adventure
+Pac-Man 256,E,Action
+Pac-Man Championship Edition 2,E,Action
+Paranautical Activity,T,Action
+Party Hard,M,Action
+Payday 2: Crimewave Edition,M,Action
+Peggle 2,E,Miscellaneous
+Penarium,T,Action
+Pharaonic,M,Role-Playing
+Pier Solar and the Great Architects,T,Role-Playing
+Pinball FX 2,E10+,Action
+Pinball FX 2: Guardians of the Galaxy,E10+,Action
+Pinball FX 2: Iron and Steel Pack,,Action
+Pixel Piracy,T,Strategy
+Plague Inc: Evolved,E10+,Strategy
+Plants vs Zombies: Garden Warfare,E10+,Action
+Plants vs Zombies: Garden Warfare 2,E10+,Action
+Pneuma: Breath of Life,E,Sci-Fi
+Pool Nation FX,E,Sports
+Powerstar Golf,E,Sports
+Prison Architect,M,Strategy
+Pro Evolution Soccer 2015,E,Action
+Pro Evolution Soccer 2016,E,Sports
+Pro Evolution Soccer 2017,E,Sports
+Professional Farmer 2017,E,Simulation
+Project CARS,E,Sports
+Project CARS: Game of the Year Edition,,Sports
+Project Root,T,Action
+Project Spark,E10+,Action
+Prototype,M,Action Adventure
+Prototype 2,M,Action Adventure
+Prototype Biohazard Bundle,M,Miscellaneous
+Pumped BMX +,E,Sports
+Pure Hold 'Em,T,Miscellaneous
+Pure Pool,E,Alternative
+Q.U.B.E. Director's Cut,T,Miscellaneous
+Quantum Break,M,Action
+Quantum Rush Champions,E,Sports
+Quest of Dungeons,E10+,Role-Playing
+Quiplash,T,Miscellaneous
+R.B.I. Baseball 14,E,Sports
+R.B.I. Baseball 15,E,Sports
+R.B.I. Baseball 16,E,Sports
+Rabbids Invasion,E10+,Action
+Raiden V,E,Action
+Rare Replay,M,Miscellaneous
+Rayman Legends,E10+,Action
+Reagan Gorbachev,M,Puzzle
+Rebel Galaxy,T,Action
+ReCore,T,Action Adventure
+Resident Evil 0: HD Remaster,M,Action Adventure
+Resident Evil 4,M,Action Adventure
+Resident Evil 5,M,Action Adventure
+Resident Evil 6,M,Action Adventure
+Resident Evil HD Remaster,M,Horror
+Resident Evil: Origins Collection,M,Miscellaneous
+Resident Evil: Revelations 2,M,Horror
+Resident Evil: Revelations 2 - Episode 1: Penal Colony,M,Action Adventure
+Resident Evil: Revelations 2 - Episode 2: Contemplation,M,Action Adventure
+Resident Evil: Revelations 2 - Episode 3: Judgment,M,Action Adventure
+Resident Evil: Revelations 2 - Episode 4: Metamorphosis,M,Action Adventure
+Reus,,Strategy
+RIDE,E,Sports
+Ride 2,E,Sports
+Riptide GP2,E,Sports
+Rise of the Tomb Raider,M,Fantasy
+Rise of the Tomb Raider: Baba Yaga - The Temple of the Witch,M,Action Adventure
+Rise of the Tomb Raider: Cold Darkness Awakened,,Action Adventure
+RISK,E10+,Miscellaneous
+Risk: Urban Assault,E10+,Strategy
+Rock 'N Racing Grand Prix,E,Sports
+Rock 'N Racing Off Road DX,E,Sports
+Rock Band 4,T,Action
+Rock Band Rivals,,Action
+Rock Zombie,T,Action
+Rocket League,E,Sports
+Rocksmith 2014 Edition,T,Action
+Rogue Legacy,E10+,Action
+Rory McIlroy PGA Tour,E,Traditional
+Roundabout,M,Sports
+Rugby 15,E,Alternative
+Rugby Challenge 3,E,Sports
+Rugby League Live 3,E,Sports
+Rugby World Cup 2015,E,Sports
+Ryse: Son of Rome,M,Action Adventure
+Saints Row IV: Re-Elected,M,Action Adventure
+Saints Row: Gat Out of Hell,M,Action Adventure
+Saturday Morning RPG,E10+,Role-Playing
+Schrodinger's Cat and the Raiders of the Lost Quark,E,Action
+ScreamRide,E10+,Simulation
+Screencheat,E10+,Action
+Sebastien Loeb Rally Evo,E,Sports
+Shadow Complex Remastered,T,Action
+Shadow Warrior,M,Action
+Shantae and the Pirate's Curse,E10+,Action
+Shape Up,E,Miscellaneous
+Sheltered,T,Strategy
+Sherlock Holmes: Crimes & Punishments,M,Adventure
+Sherlock Holmes: The Devil's Daughter,T,Adventure
+Shiftlings,T,Action
+Shovel Knight,E,Action
+Shovel Knight: Plague of Shadows,E,Action
+Shred It!,E,Action
+Sixty Second Shooter Prime,E,Action
+Skylanders Imaginators,E10+,Action
+Skylanders SuperChargers,E10+,Action
+Skylanders Swap Force,E10+,Action
+Skylanders Trap Team,E10+,Action
+Sleeping Dogs: Definitive Edition,M,Action Adventure
+Slender: The Arrival,T,Adventure
+SMITE,T,Strategy
+Sniper Elite III,M,Action
+So Many Me,E,Puzzle
+Solar Shifter EX,E,Action
+Song of the Deep,E,Action Adventure
+Soul Axiom,T,Adventure
+Sparkle 2,E,Puzzle
+Sparkle Unleashed,E,Puzzle
+Spectra: 8bit Racing,E,Sports
+Spy Chameleon,E,Puzzle
+Star Trek Online,T,Role-Playing
+Star Wars Battlefront,T,Action
+Star Wars Battlefront: Outer Rim,T,Action
+Stardust Galaxy Warriors: Stellar Climax,E,Action
+Starpoint Gemini 2,T,Strategy
+Starwhal,E10+,Action
+State of Decay: Year One Survival Edition,M,Horror
+Stealth Inc 2: A Game of Clones,T,Action
+SteamWorld Dig,E10+,Action
+Steredenn,E10+,Action
+Stick it to the Man!,T,Action
+Stikbold! A Dodgeball Adventure,E,Action
+Stories of Bethem: Full Moon,,Role-Playing
+Stranger of Sword City,T,Role-Playing
+Strider,E10+,Action Adventure
+Strike Suit Zero: Director's Cut,T,Action
+Styx: Master of Shadows,M,Action Adventure
+Submerged,E10+,Action Adventure
+Sunset Overdrive,M,Action
+Sunset Overdrive and the Mystery of the Mooil Rig!,M,Action
+Sunset Overdrive: Dawn of the Rise of the Fallen Machines,,Action
+Super Mega Baseball: Extra Innings,E,Sports
+Super Mutant Alien Assault,T,Action
+Super Night Riders,E,Sports
+Super Time Force,T,Action
+Super Toy Cars,E,Sports
+Super Ultra Dead Rising 3' Arcade Remix Hyper Edition EX Plus Alpha,M,Action
+SUPERHOT,T,Modern
+Sword Coast Legends,T,Role-Playing
+Tachyon Project,E,Action
+Tales from the Borderlands: A Telltale Game Series,M,Adventure
+Tales From The Borderlands: Episode 1 - Zer0 Sum,M,Miscellaneous
+Tales From The Borderlands: Episode 2 - Atlas Mugged,M,Adventure
+Tales From The Borderlands: Episode 3 - Catch A Ride,M,Adventure
+Tales From The Borderlands: Episode 4 - Escape Plan Bravo,M,Adventure
+Tales From The Borderlands: Episode 5 - The Vault of the Traveler,M,Adventure
+Teenage Mutant Ninja Turtles: Mutants in Manhattan,T,Action
+Tembo the Badass Elephant,E10+,Action Adventure
+Terraria,T,Action
+Teslagrad,E,Action
+Teslapunk,E,Action
+Tetris Ultimate,E,Miscellaneous
+Tetrobot and Co.,E,Puzzle
+The Amazing Spider-Man 2,T,Action
+The Banner Saga,T,Role-Playing
+The Banner Saga 2,T,Strategy
+The Binding of Isaac: Rebirth,M,Action
+The Book of Unwritten Tales 2,T,Adventure
+The Bridge,E,Puzzle
+The Bunker,T,Adventure
+The Crew,T,Sports
+The Crew: Wild Run,T,Sports
+The Crew: Wild Run Edition,T,Sports
+The Deer God,T,Action
+The Elder Scrolls Online: Tamriel Unlimited,M,First-Person
+The Elder Scrolls Online: Tamriel Unlimited - Orsinium,M,Role-Playing
+The Elder Scrolls Online: Tamriel Unlimited - The Imperial City,M,Role-Playing
+The Elder Scrolls V: Skyrim Special Edition,M,Role-Playing
+The Escapists,T,Action
+The Escapists: The Walking Dead,T,Action
+The Evil Within,M,Action Adventure
+The Evil Within: The Assignment,M,Action Adventure
+The Evil Within: The Consequence,,Action Adventure
+The Evil Within: The Executioner,,Action Adventure
+The Fall,T,Action Adventure
+The Final Station,M,Action Adventure
+The Flame in the Flood,T,Action Adventure
+The Golf Club,E,Traditional
+The Incredible Adventures of Van Helsing,T,Role-Playing
+The Incredible Adventures of Van Helsing II,T,Role-Playing
+The Jackbox Party Pack,T,Miscellaneous
+The Jackbox Party Pack 2,T,Miscellaneous
+The Legend of Korra,T,Action Adventure
+The LEGO Movie Videogame,E10+,Action Adventure
+The Living Dungeon,T,Miscellaneous
+The Magic Circle: Gold Edition,M,Adventure
+The Park,M,Action Adventure
+The Peanuts Movie: Snoopy's Grand Adventure,E,Action
+The Pinball Arcade,E10+,Action
+The Solus Project,T,Action
+The Swapper,E10+,Action
+The Technomancer,M,Role-Playing
+The Turing Test,T,Action
+The Walking Dead: A Telltale Games Series - The Complete First Season,M,Miscellaneous
+The Walking Dead: Michonne - Episode 1: In Too Deep,M,Adventure
+The Walking Dead: Michonne - Episode 2: Give No Shelter,M,Adventure
+The Walking Dead: Michonne - Episode 3: What We Deserve,M,Adventure
+The Walking Dead: Season Two - A Telltale Games Series,M,Action
+The Witcher 3: Wild Hunt,M,Role-Playing
+The Witcher 3: Wild Hunt - Blood and Wine,M,Role-Playing
+The Witcher 3: Wild Hunt - Hearts of Stone,M,Role-Playing
+The Witness,E,Adventure
+The Wolf Among Us,M,Action Adventure
+Thief,M,Action Adventure
+This War of Mine: The Little Ones,M,Strategy
+Thomas Was Alone,E,Action
+Three Fourths Home: Extended Edition,M,Adventure
+Threes!,E,Miscellaneous
+Tiny Troopers: Joint Ops,T,Action
+Titanfall,M,Action
+Titanfall 2,M,Action
+Titanfall: Expedition,M,Action
+Titanfall: Frontier's Edge,,Action
+Ultratron,E,Action
+Unepic,T,Action
+Unmechanical: Extended Edition,E,Action
+Uno,E,Miscellaneous
+Unravel,E,Action
+Valentino Rossi The Game,E,Sports
+Valiant Hearts: The Great War,T,Action
+Valley,T,Action Adventure
+Velocity 2X,E10+,Action
+Virginia,M,Adventure
+Volgarr the Viking,T,Action
+Warframe,M,Action
+Warhammer: End Times - Vermintide,M,Action
+Warriors Orochi 3 Ultimate,T,Action
+Wasteland 2: Director's Cut,M,Role-Playing
+Watch Dogs,M,Action Adventure
+Watch Dogs: Bad Blood,M,Action Adventure
+WE ARE DOOMED,E,Action
+Whispering Willows,T,Adventure
+White Night,M,Action
+Wolfenstein: The New Order,M,Action
+Wolfenstein: The Old Blood,,Action
+Wondershot,E10+,Action
+World of Tanks,T,Action
+Worms Battlegrounds,E10+,Strategy
+Worms W.M.D,E10+,Strategy
+WRC 5,E,Sports
+WRC 6: FIA World Rally Championship,E,Sports
+WWE 2K15,T,Action
+WWE 2K16,T,Action
+WWE 2K17,T,Sports
+Xbox Fitness,E,Miscellaneous
+100ft Robot Golf,E10+,Sports
+140,E,Action
+Abyss Odyssey: Extended Dream Edition,T,Action Adventure
+ABZU,E,Fantasy
+Ace Banana,E,Action
+ADR1FT,T,Action
+Adventures of Pip,E10+,Action
+Aegis of Earth: Protonovus Assault,T,Strategy
+Afro Samurai 2: Revenge of Kuma Volume One,M,Action
+Air Conflicts: Pacific Carriers,T,Simulation
+Air Conflicts: Vietnam Ultimate Edition,T,Action
+Akiba's Trip: Undead & Undressed,M,Action Adventure
+Alienation,M,Sci-Fi
+Alone With You,T,Adventure
+Amazing Discoveries In Outer Space,E,Action
+Amplitude,E,Miscellaneous
+Anomaly 2,T,Strategy
+Apotheon,T,Action
+Aqua Kitty: Milk Mine Defender DX,E10+,Action
+Aragami,M,Action Adventure
+Arc the Lad: Twilight of the Spirits,T,Strategy
+Back to Bed,E10+,Action
+Backgammon Blitz,E,Miscellaneous
+Basement Crawl,T,Action
+Bastion,E10+,Role-Playing
+Batman: Arkham VR,M,Action
+Battle Trivia Knockout,E,Miscellaneous
+Battlezone,T,Action
+Beyond: Two Souls,M,Adventure
+Binaries,E,Action
+Blacklight: Retribution,T,Action
+BlazeRush,E10+,Sports
+Bloodborne,M,Fantasy
+Bloodborne: The Old Hunters,M,Role-Playing
+Boggle,E,Miscellaneous
+Bounce Rescue!,E10+,Action
+Bound,E10+,Action
+Bound by Flame,M,Role-Playing
+BRAWL,M,Action
+BROFORCE,M,Action
+Broken Age,E10+,Third-Person
+Brut@l,T,Action Adventure
+Bully,T,Action Adventure
+Cabela's African Adventures,T,Sports
+Call of Duty: Black Ops III - Awakening,,Action
+Call of Duty: Black Ops III - Descent,M,Action
+Call of Duty: Black Ops III - Eclipse,,Action
+Call of Duty: Black Ops III - Salvation,,Action
+Calvino Noir,T,Action Adventure
+Capsule Force,T,Action
+Catlateral Damage,E,Action
+Chambara,E10+,Action
+Chronicles of Teddy: Harmony of Exidus,E,Role-Playing
+Citizens of Earth,E10+,Role-Playing
+Color Guardians,E,Action
+Commander Cherry's Puzzled Journey,E,Puzzle
+CounterSpy,T,Action
+Croixleur Sigma,E10+,Action
+Crypt of the NecroDancer,T,Role-Playing
+Curses 'N Chaos,E10+,Action
+Dariusburst: Chronicle Saviours,E,Action
+Dark Cloud,T,Role-Playing
+Dark Cloud 2,T,Role-Playing
+Darkest Dungeon,T,Role-Playing
+Day of the Tentacle Remastered,T,Adventure
+Daydreamer: Awakened Edition,T,Action
+Daylight,M,Action Adventure
+Dead Island: Retro Revenge,M,Action
+Dead Nation: Apocalypse Edition,M,Action
+Dead or Alive Xtreme 3: Fortune,,Sports
+Dead Rising 2,M,Action Adventure
+Dead Star,E,Action
+Dead Synchronicity: Tomorrow Comes Today,M,Adventure
+Dear Esther: Landmark Edition,T,Adventure
+Deception IV: The Nightmare Princess,M,Strategy
+Deus Ex: Mankind Divided - System Rift,,Action Adventure
+Digimon Story Cyber Sleuth,T,Role-Playing
+Dino Dini's Kick Off Revival,,Sports
+Disgaea 5: Alliance of Vengeance,T,Fantasy
+Divekick: Addition Edition +,T,Action
+Doki-Doki Universe,E10+,Miscellaneous
+Don't Starve Together: Console Edition,T,Action Adventure
+Don't Starve: Console Edition,T,Action Adventure
+Don't Starve: Reign of Giants,T,Action Adventure
+DOOM: Unto The Evil,,Action
+Downwell,E,Action
+Dragon Fantasy: The Black Tome of Ice,E10+,Role-Playing
+Dragon Fin Soup,T,General
+Dragon Quest Builders,E10+,Action Adventure
+Dragon Quest Heroes: The World Tree's Woe and the Blight Below,T,2D
+Dreii,E,Puzzle
+Driveclub,E,Sports
+Driveclub Bikes,E,Sports
+Driveclub VR,,Sports
+Duke Nukem 3D: 20th Anniversary World Tour,M,Action
+Dungeons 2,T,Strategy
+Dust: An Elysian Tail,E10+,Role-Playing
+Earth Defense Force 4.1: The Shadow of New Despair,M,Action
+Emily Wants To Play,T,Adventure
+Energy Hook,E,Sports
+Enter the Gungeon,E10+,Action
+Entwined,E,Action
+Escape Plan,T,Miscellaneous
+ETHER One,E10+,General
+EVE: Gunjack,T,Simulation
+EVE: Valkyrie,T,Action
+Everybody's Gone to the Rapture,M,Action
+Exist Archive: The Other Side of the Sky,T,Role-Playing
+Fairy Fencer F: Advent Dark Force,T,Role-Playing
+Far Cry 4: Escape from Durgesh Prison,M,Action
+Farming Simulator 17,,Simulation
+Fat Princess Adventures,T,Action
+Fez,E,Action
+Filthy Lucre,M,Action
+Final Fantasy VII,T,Role-Playing
+Final Fantasy X / X-2 HD Remaster,T,Miscellaneous
+Final Fantasy XIV Online: A Realm Reborn,T,Massively Multiplayer
+Final Fantasy XIV: Heavensward,T,Massively Multiplayer
+Final Horizon,E10+,Strategy
+Flame Over,E,Simulation
+flOw,E,Miscellaneous
+flower,E,Miscellaneous
+Fluster Cluck,E,Action
+Forced: Slightly Better Edition,T,Role-Playing
+Foul Play,E10+,Action
+Furi,M,Action
+Futuridium EP Deluxe,E,Action
+Gal*Gun: Double Peace,,Action
+Galak-Z: The Dimensional,E10+,Action
+Gauntlet: Slayer Edition,M,Role-Playing
+Geometry Wars 3: Dimensions Evolved,E,Action
+God Eater 2: Rage Burst,T,Role-Playing
+God Eater Resurrection,T,Role-Playing
+God of War III Remastered,M,Action Adventure
+Godzilla,T,Action
+Goosebumps: The Game,E10+,Adventure
+Grand Ages: Medieval,T,Strategy
+Grand Kingdom,T,Strategy
+Grand Theft Auto III,M,Action Adventure
+Grand Theft Auto: San Andreas,M,Action Adventure
+Grand Theft Auto: Vice City,M,Action Adventure
+Gravity Rush Remastered,T,Action
+Grim Fandango Remastered,T,General
+Grow Home,E,Action Adventure
+Guilty Gear Xrd -REVELATOR-,T,Action
+Guilty Gear Xrd -SIGN-,T,Action
+GUNS UP!,T,Action
+Hand of Fate,T,Role-Playing
+Handball 16,E,Sports
+Hard Reset Redux,M,Action
+Hardware: Rivals,E10+,Simulation
+Harmonix Music VR,E,Action
+Hatoful Boyfriend,E10+,General
+Hatoful Boyfriend: Holiday Star,E10+,Adventure
+Hatsune Miku VR: Future Live,T,Action
+Hatsune Miku: Project Diva X,T,Action
+HAWKEN,T,Action
+Headlander,T,Action
+Headmaster,E10+,Sports
+Heart&Slash,E10+,Action
+Heavy Rain,M,Adventure
+Heavy Rain & Beyond: Two Souls Collection,,Miscellaneous
+Helldivers,T,Action
+Here They Lie,M,Adventure
+Hitman - Episode 2: Sapienza,,Action Adventure
+Hitman - Episode 3: Marrakesh,,Action Adventure
+Hitman - Episode 4: Bangkok,,Action Adventure
+Hitman - Episode 5: Colorado,,Action Adventure
+Hitman - Intro Pack,,Action Adventure
+Hitman GO: Definitive Edition,E10+,Strategy
+Hohokum,E10+,Adventure Games
+Home: A Unique Horror Adventure,M,Action Adventure
+Homefront: The Revolution,M,Modern
+Hotline Miami,M,Action
+Hotline Miami 2: Wrong Number,M,Action
+How to Survive: Storm Warning Edition,M,Action Adventure
+Hue,E,Puzzle
+Hustle Kings,E,Sports
+Hyper Light Drifter,T,Role-Playing
+Hyper Void,E10+,Action
+I Am Bread,E10+,Miscellaneous
+I Am Setsuna,E10+,Role-Playing
+In Space We Brawl,E,Action
+Indigo Prophecy,M,Adventure
+inFamous: First Light,T,Action Adventure
+inFamous: Second Son,T,Action Adventure
+Infinifactory,T,Puzzle
+Infinity Runner,T,Action
+Injustice: Gods Among Us - Ultimate Edition,T,Action
+INSIDE,M,Action
+Ironcast,E10+,Puzzle
+Ironclad Tactics,T,Strategy
+J-Stars Victory Vs+,T,Action
+Jamestown+,E10+,Scrolling
+Jazzpunk: Director's Cut,T,Adventure
+Job Simulator,E10+,Action
+Joe Dever's Lone Wolf Console Edition,T,Adventure
+JoJo's Bizarre Adventure: Eyes of Heaven,T,Action
+Jotun: Valhalla Edition,T,Action
+Journey,E,Action
+Journey Collector's Edition,E,Miscellaneous
+Just Cause 3,M,Sci-Fi
+Just Cause 3: Mech Land Assault,,Action Adventure
+Just Cause 3: Sky Fortress,,Action Adventure
+Just Sing,E10+,Action
+Keep Talking and Nobody Explodes,E10+,First-Person
+Kholat,T,Adventure
+KickBeat: Special Edition,T,Action
+Kill Strain,T,Action
+Killzone: Shadow Fall,M,Action
+Killzone: Shadow Fall - Intercept,M,Action
+King's Quest Chapter 4: Snow Place Like Home,E10+,Adventure
+Klaus,E10+,Action
+Knack,E10+,Action
+Knock-knock,E,Miscellaneous
+Koi,E,Action Adventure
+Krinkle Krusher,E10+,Action
+Kromaia Omega,E10+,Action
+Kung Fury: Street Rage,T,Action
+Legend of Kay Anniversary,E10+,Action Adventure
+LEGO Harry Potter Collection,E10+,Miscellaneous
+Lichtspeer,T,Action Adventure
+Life Goes On: Done to Death,E10+,Action
+LittleBigPlanet 3,E,Action
+Livelock,T,Action
+Loading Human: Chapter 1,T,Adventure
+Loadout,M,Action
+Lone Survivor: The Director's Cut,T,Action Adventure
+Lords of the Fallen - Ancient Labyrinth,,Role-Playing
+Lost Orbit,T,Action
+LOUD on Planet X,T,Action
+Magicka 2,T,Fantasy
+Manhunt,M,Action Adventure
+Marvel: Ultimate Alliance Bundle,,Miscellaneous
+Megadimension Neptunia VII,T,Role-Playing
+Mercenary Kings,T,Action
+Metal Gear Solid V: The Definitive Experience,M,Miscellaneous
+Metal Slug 3,T,Action
+Metrico+,E,Puzzle
+Might & Magic: Duel of Champions - Forgotten Wars,T,Strategy
+MilitAnt,E10+,Action
+Minecraft: PlayStation 4 Edition,E10+,Action Adventure
+Minecraft: Story Mode - Episode 8: A Journey's End?,E10+,Action Adventure
+Minutes,E,Action
+MLB 14: The Show,E,Sports
+MLB 15: The Show,E,Traditional
+MLB The Show 16,E,Sports
+Moon Hunters,E10+,Role-Playing
+Mordheim: City of the Damned,M,Strategy
+MotoGP 14,E,Sports
+Motorcycle Club,E,Sports
+MouseCraft,E,Miscellaneous
+Mutant Mudds: Super Challenge,E,Action
+MXGP: The Official Motocross Videogame,E,Sports
+My Night Job,T,Action
+N++,E10+,Action
+Nano Assault NEO-X,E,Action
+Natural Doctrine,M,Strategy
+Never Alone: Foxtales,E10+,Action
+Neverending Nightmares,M,Action Adventure
+Nidhogg,T,Action
+Nightmares from the Deep: The Cursed Heart,T,Puzzle
+Nights of Azure,T,Role-Playing
+Ninja Senki DX,E10+,Action
+Nitroplus Blasterz: Heroines Infinite Duel,T,Action
+No Man's Sky,T,Action
+Nobunaga's Ambition: Sphere of Influence,T,Strategy
+Nom Nom Galaxy,E,Action
+Not a Hero,M,General
+NOVA-111,E,Sci-Fi
+Now That's What I Call Sing,,Action
+Nuclear Throne,E10+,Action
+Obliteracers,E,Sports
+Odin Sphere Leifthrasir,T,Role-Playing
+Okage: Shadow King,T,Role-Playing
+OlliOlli2: Welcome to Olliwood,T,Sports
+Omega Quintet,T,Role-Playing
+One Piece: Pirate Warriors 3,T,Action
+One Upon Light,E10+,Puzzle
+One Way Trip,M,Action
+Onechanbara Z2: Chaos,M,Action Adventure
+Organ Trail: Complete Edition,T,Action
+Outlast: Whistleblower,M,Action Adventure
+Pang Adventures,E,Action
+Paperbound,E10+,Action
+PaRappa the Rapper 2,E,Action
+Perfect Universe,E10+,Action
+Phantom Breaker: Battle Grounds Overdrive,E10+,Action
+Pillar,T,Puzzle
+Pix the Cat,E,Action
+Pixel Gear,E10+,Action
+PixelJunk Shooter Ultimate,E,Action
+PlanetSide 2,T,Action
+PlayStation VR WORLDS,,Miscellaneous
+PONCHO,E,Action
+Primal Carnage: Extinction,T,Action
+Prominence Poker,T,Miscellaneous
+Psycho-Pass: Mandatory Happiness,T,Adventure
+Puddle,T,Miscellaneous
+Pure Chess,E,Miscellaneous
+Push Me Pull You,E,Sports
+Putty Squad,E10+,Action
+Q*bert: Rebooted,E,Action
+Race the Sun,E,Action
+Rack N Ruin,T,Action Adventure
+Rainbow Moon,E10+,Strategy
+Ratchet & Clank,E10+,Action
+Red Goddess: Inner World,E10+,Action
+Republique,M,Action Adventure
+Resogun,E10+,Action
+Resogun: Defenders,,Action
+Resogun: Heroes,E10+,Action
+Rez Infinite,E10+,Action
+RIGS: Mechanized Combat League,T,Simulation
+Riptide GP: Renegade,E10+,General
+Rise of the Tomb Raider: 20 Year Celebration,M,Action Adventure
+Risen 3: Titan Lords - Enhanced Edition,M,Role-Playing
+Risk of Rain,T,Action
+RIVE,E10+,Action
+Road Not Taken,E,Miscellaneous
+Rock Boshers DX: Director's Cut,E10+,Action
+Rocketbirds 2: Evolution,T,Action
+Rogue Galaxy,T,Role-Playing
+Rollers of the Realm,T,Action
+Romance of the Three Kingdoms XIII,E10+,Strategy
+Saint Seiya: Soldiers' Soul,T,Action
+Saints Row IV: Re-Elected & Gat Out of Hell,M,Action Adventure
+Salt and Sanctuary,M,Action
+Samurai Warriors 4,T,Action
+Samurai Warriors 4 Empires,T,Action
+Samurai Warriors 4-II,T,Action
+Score Rush Extended,E,Action
+Scrabble,E,Miscellaneous
+Scram Kitty DX,E,Action
+Secret Ponchos,T,Action
+Senran Kagura: Estival Versus,M,Action
+Shadow Blade: Reload,T,Action
+Shadow of the Beast,M,Action Adventure
+Shadwen,M,Action Adventure
+Shantae: Risky's Revenge - Director's Cut,,Action
+Shu,E,Action
+Shutshimi,E10+,Action
+SingStar,E,Action
+SingStar: Ultimate Party,,Miscellaneous
+Skullgirls: 2nd Encore,T,Action
+Skulls of the Shogun: Bone-a-Fide Edition,T,Fantasy
+Slain: Back From Hell,M,Action
+Sniper Elite III: Ultimate Edition,M,Action
+Soft Body,E,Puzzle
+SOMA,M,Action Adventure
+Sound Shapes,E,Action
+South Park: The Stick of Truth,M,Role-Playing
+Speakeasy,T,Action
+Spelunker World,E,Action
+Spelunky,T,Action
+Splice,E,Puzzle
+SportsBarVR,E,Sports
+Sportsfriends,E10+,Sports
+Star Ocean: Integrity and Faithlessness,T,Role-Playing
+Star Wars Battlefront: Bespin,,Action
+Star Wars Battlefront: Death Star,,Action
+Star Wars Pinball: Heroes Within,E10+,Action
+Star Wars Pinball: The Force Awakens,,Action
+Star Wars: Jedi Starfighter,T,Simulation
+Table Top Racing: World Tour,E,Sports
+Tales of Zestiria,T,Role-Playing
+Tearaway Unfolded,E,Action Adventure
+Tennis in the Face,T,Puzzle
+Tethered,E10+,Action
+Tharsis,M,Miscellaneous
+That Trivia Game,E,Miscellaneous
+The Assembly,T,Miscellaneous
+The Binding of Isaac: Afterbirth,,Action
+THE BIT.TRIP,E,Miscellaneous
+The Castle Game,E10+,Strategy
+The Deadly Tower of Monsters,T,General
+The Elder Scrolls Online: Tamriel Unlimited - Thieves Guild,,Role-Playing
+The Huntsman: Winter's Curse,T,Role-Playing
+The King of Fighters XIV,T,Action
+The Last of Us Remastered,M,Action Adventure
+The Last of Us: Left Behind,M,Action Adventure
+The Last Tinker: City of Colors,E10+,Action
+The Order: 1886,M,Action
+The Playroom VR,E,Miscellaneous
+The Sun and Moon,E,Action
+The Swindle,E10+,Action
+The Talos Principle,E10+,Adventure
+The Tomorrow Children,T,Sci-Fi
+The Unfinished Swan,E10+,Action
+The Vanishing of Ethan Carter,M,Miscellaneous
+The Walking Dead: Michonne - A Telltale Miniseries,,Adventure
+UEFA EURO 2016,E,Sports
+Ultra Street Fighter IV,T,Action
+Umbrella Corps,M,Action
+Uncharted 4: A Thief's End,T,General
+Uncharted: The Nathan Drake Collection,T,Action Adventure
+Until Dawn,M,Action Adventure
+Until Dawn: Rush of Blood,M,Action
+Valkyria Chronicles Remastered,T,Strategy
+Velocibox,E,Action
+Verdun,M,Action
+VVVVVV,E10+,Action
+Wander,E,Simulation
+War Thunder,T,Action
+Wayward Sky,T,Action
+Wild Arms 3,T,Role-Playing
+Windlands VR,E,Adventure
+Woah Dave!,E,Action
+World of Final Fantasy,E10+,Role-Playing
+XCOM 2,T,Strategy
+Xeodrifter,E,Action
+007 Legends,T,Action
+007: NightFire,T,Action
+007: Quantum of Solace,T,Action
+0RBITALIS,,Miscellaneous
+10 Second Ninja,,Action
+1000 Amps,,Miscellaneous
+12 is Better Than 6,,Action
+15 Days,,Adventure
+1503 A.D. - The New World,T,Strategy
+1701 A.D.,E10+,Strategy
+18 Wheels of Steel: American Long Haul,E,Simulation
+18 Wheels of Steel: Extreme Trucker,E,Sports
+1849,,Strategy
+1954: Alcatraz,,Puzzle
+1979 Revolution: Black Friday,,Adventure
+1nsane,E,Sports
+2002 FIFA World Cup,E,Sports
+25 to Life,M,Action
+A Bird Story,,Action
+A City Sleeps,,Action
+A Druid's Duel,,Strategy
+A Fistful of Gun,,Action
+A Game of Dwarves,,Strategy
+A Game of Thrones: Genesis,,Strategy
+A Golden Wake,,Miscellaneous
+A Kingdom for Keflings,E,Strategy
+A New Beginning: Final Cut,,Adventure
+A Pixel Story,,Action
+A Quiet Weekend in Capri,E,Adventure
+A Story About My Uncle,,Action
+A Stroke of Fate: Operation Valkyrie,,Adventure
+A Tale in the Desert,,Role-Playing
+A Valley Without Wind,T,Action Adventure
+A Valley Without Wind 2,,Action
+A Vampyre Story,T,Adventure
+A Virus Named TOM,,Miscellaneous
+A Walk in the Dark,,Action
+A.R.E.S. Extinction Agenda,,Action
+AaaaaAAaaaAAAaaAAAAaAAAAA!!! for the Awesome,,Action
+B-17 Flying Fortress: The Mighty 8th,M,Simulation
+B-17 Gunner: Air War Over Germany,T,Simulation
+Babel Rising,E10+,Strategy
+Back in 1995,,Action Adventure
+Back to the Future: The Game - Episode I: It's About Time,,Action Adventure
+Back to the Future: The Game - Episode II: Get Tannen!,RP,Action Adventure
+Back to the Future: The Game - Episode III: Citizen Brown,E,Action Adventure
+Back to the Future: The Game - Episode IV: Double Visions,RP,Action Adventure
+Back to the Future: The Game - Episode V: OUTATIME,RP,Action Adventure
+Backyard Skateboarding (2004),E,Sports
+Bad Bots,,Action
+Bad Hotel,,Miscellaneous
+Bad Mojo,T,Action Adventure
+Bad Mojo: Redux,T,Action Adventure
+Bad Piggies,E,Puzzle
+Baldur's Gate,T,Role-Playing
+Baldur's Gate II: Enhanced Edition,,Role-Playing
+Baldur's Gate II: Shadows of Amn,T,Role-Playing
+Baldur's Gate: Enhanced Edition,T,Role-Playing
+Baldur's Gate: Siege of Dragonspear,,Role-Playing
+Ballistics,E,Sports
+Cabela's Big Game Hunter 2005 Adventures,T,Sports
+Cabela's Big Game Hunter: Pro Hunts,T,Sports
+Cabela's Dangerous Hunts,T,Sports
+Cabela's Dangerous Hunts 2,T,Sports
+Cabela's Dangerous Hunts 2013,T,Sports
+Caesar IV,E10+,Strategy
+CALENDULA,,Adventure
+Californium,,First-Person
+Call of Cthulhu: Dark Corners of the Earth,M,Action Adventure
+Call of Cthulhu: The Wasted Land,,Strategy
+Call of Duty,T,Action
+Call of Duty 2,T,Action
+Call of Duty 4: Modern Warfare,M,Action
+Call of Duty: Black Ops,M,Action
+Call of Duty: Black Ops - Annihilation,M,Action
+Call of Duty: Black Ops - Escalation,M,Action
+Call of Duty: Black Ops - First Strike,M,Action
+Call of Duty: Black Ops - Rezurrection,M,Action
+Call of Duty: Black Ops II,M,Action
+Call of Duty: Black Ops II - Apocalypse,M,Action
+Call of Duty: Black Ops II - Revolution,M,Action
+Call of Duty: Black Ops II - Uprising,M,Action
+Call of Duty: Black Ops II - Vengeance,M,Action
+Call of Duty: Modern Warfare 2,M,Action
+Call of Duty: Modern Warfare 2 - Stimulus Package,M,Action
+Call of Duty: United Offensive,T,Action
+D-Day,T,Strategy
+D.i.R.T. - Origin of the Species,M,Action
+Danganronpa 2: Goodbye Despair,,Adventure
+Danganronpa: Trigger Happy Havoc,,Adventure
+Dangerous High School Girls in Trouble,,Role-Playing
+Dangerous Waters,E,Simulation
+DARK,M,Action Adventure
+Dark Age of Camelot,T,Role-Playing
+Dark Age of Camelot: Catacombs,T,Role-Playing
+Dark Age of Camelot: Darkness Rising,T,Role-Playing
+Dark Age of Camelot: Shrouded Isles,T,Role-Playing
+Dark Age of Camelot: Trials of Atlantis,T,Role-Playing
+Dark Fall 3: Lost Souls,,Adventure
+Dark Fall: Lights Out,T,Adventure
+Dark Fall: The Journal,T,Adventure
+Dark Fear,,Role-Playing
+Dark Horizon,E10+,Simulation
+Dark Matter (2013),,Action Adventure
+Dark Messiah of Might and Magic,M,Action
+E.T. Armies,,Action
+E.Y.E: Divine Cybermancy,RP,Role-Playing
+Eador: Genesis,,Strategy
+Eador: Masters of the Broken World,,Strategy
+Eagle Flight,E10+,Action
+Earth & Beyond,T,Role-Playing
+Earth 2150,T,Strategy
+Earth 2150: Lost Souls,T,Strategy
+Earth 2150: The Moon Project,T,Strategy
+Earth 2160,T,Strategy
+Earth Defense Force: Insect Armageddon,T,Action
+Earthrise,RP,Role-Playing
+Earthworm Jim 2,K-A,Action
+East India Company,T,Action Adventure
+East India Company: Privateer,,Action Adventure
+East Side Story - A Carol Reed Mystery,,Adventure
+Echelon,E,Simulation
+Echelon: Wind Warriors,T,Simulation
+Echo Of Soul,,Role-Playing
+Echo Prime,,Action
+Echo: Secrets of the Lost Cavern,E,Adventure
+Eden*,M,Adventure
+Edge,,Action
+F.E.A.R.,M,Action
+F.E.A.R. 2: Project Origin,M,Action
+F.E.A.R. 3,M,First-Person Shooters
+F.E.A.R. Combat,M,Action
+F.E.A.R. Extraction Point,M,Action
+F.E.A.R. Perseus Mandate,M,Action
+F1 2001,E,Sports
+F1 2002,E,Sports
+F1 2010,E,Sports
+F1 2011,E,Sports
+F1 2012,E,Sports
+F1 2013,E,Sports
+F1 2014,E,Sports
+F1 Challenge '99-'02,E,Sports
+F1 Championship Season 2000,E,Sports
+F1 Race Stars,E,Sports
+F1 World Grand Prix,E,Sports
+Fable Anniversary,M,Role-Playing
+Fable III,M,Role-Playing
+Face Noir,,Adventure
+Faces of War,M,Strategy
+Faery: Legends of Avalon,E10+,Role-Playing
+Fahrenheit: Indigo Prophecy Remastered,M,Action
+Fair Strike,T,Simulation
+Fairy Fencer F,T,Role-Playing
+Falcon 4.0,T,Simulation
+Falcon 4.0: Allied Force,T,Simulation
+Fallen Earth: Welcome to the Apocalypse,M,Role-Playing
+Fallen Enchantress: Legendary Heroes,,Strategy
+G-Force,E10+,Action
+G.I. Combat,T,Strategy
+Gabriel Knight: Sins of the Fathers 20th Anniversary Edition,,Adventure
+Galacide,,Action
+Galactic Assault: Prisoner of Power,T,Strategy
+Galactic Civilizations,E,Strategy
+Galactic Civilizations II: Dark Avatar,,Strategy
+Galactic Civilizations II: Dread Lords,E10+,Strategy
+Galactic Civilizations II: Twilight of the Arnor,,Strategy
+Galactic Civilizations III,,Strategy
+Galactic Civilizations III: Mercenaries,,General
+Galactic Civilizations: Altarian Prophecy,E,Strategy
+Galactic Command: Echo Squad,,Simulation
+Galaga: Destination Earth,E,Action
+Galaxy On Fire 2 Full HD,,Simulation
+Galcon Fusion,,Strategy
+Galcon Legends,,Strategy
+Game Dev Tycoon,,Strategy
+Game of Thrones,M,Role-Playing
+Game Tycoon,E10+,Strategy
+Hack 'n' Slash,,Action
+Hacker Evolution Duality,,Strategy
+Hacknet,,Miscellaneous
+Halcyon 6: Starbase Commander,,Strategy
+Half Minute Hero: The Second Coming,,Role-Playing
+Half-Life,M,Action
+Half-Life 2,M,Action
+Half-Life 2: Episode One,M,Action
+Half-Life 2: Episode Two,M,Action
+Half-Life: Blue Shift,M,Action
+Half-Minute Hero: Super Mega Neo Climax Ultimate Boy,,Role-Playing
+Halfway,,Strategy
+Halo 2,M,Action
+Halo: Combat Evolved,M,Action
+Halo: Spartan Strike,T,Scrolling
+Hamilton's Great Adventure,E,Adventure
+Hammer & Sickle,T,Strategy
+Hammerwatch,,Action
+Hannah Montana: The Movie,E,Action
+Hans Christian Andersen: The Ugly Prince Duckling,E,Adventure
+Happy Feet,E,Adventure
+Happy Tree Friends: False Alarm,M,Action
+Happy Wars,T,Action
+Harbinger,T,Role-Playing
+Hard Reset,M,Action
+I Am Alive,M,Action Adventure
+I Can't Escape: Darkness,,Adventure
+I Get This Call Every Day,,Simulation
+I of the Dragon,M,Role-Playing
+I Want To Be Human,,Action
+I Was an Atomic Mutant!,T,Action
+I'm not Alone,,Action Adventure
+I-Fluid,,Adventure
+Ian's Eyes,,Action Adventure
+Ibb & Obb,E,General
+iBomber Attack,,Adventure
+iBomber Defense,,Action
+iBomber Defense Pacific,,Strategy
+Ice Age 2: The Meltdown,E10+,Action
+Ice Age: Dawn of the Dinosaurs,E10+,Action
+Icewind Dale,T,Role-Playing
+Icewind Dale II,T,Role-Playing
+Icewind Dale: Enhanced Edition,,Role-Playing
+Icewind Dale: Heart of Winter,T,Role-Playing
+ICY,,Role-Playing
+Iesabel,,Action
+If My Heart Had Wings,T,Adventure
+IGI 2: Covert Strike,M,Action Adventure
+Ignite,,Sports
+Ikaruga,,Action
+IL-2 Sturmovik,T,Simulation
+IL-2 Sturmovik: 1946,T,Simulation
+J.U.L.I.A.,,Strategy
+J.U.L.I.A.: Among the Stars,,Strategy
+Jack Keane,T,Adventure
+Jack Keane 2: The Fire Within,T,Adventure
+Jack Lumber,,Action
+Jack the Ripper,T,Adventure
+Jade Empire: Special Edition,M,Role-Playing
+Jagged Alliance 2: Unfinished Business,T,Strategy
+Jagged Alliance 2: Wildfire,T,Strategy
+Jagged Alliance: Back in Action,M,Strategy
+Jagged Alliance: Crossfire,T,Strategy
+Jagged Alliance: Flashback,,Strategy
+James Bond 007: Blood Stone,T,Action
+James Cameron's Avatar: The Game,T,Action
+Jamestown: Legend of the Lost Colony,,Action
+Jane's Attack Squadron,E,Simulation
+JASF: Jane's Advanced Strike Fighters,T,Action
+Jaws Unleashed,M,Action
+Jazz and Faust,T,Adventure
+Jazzpunk,,Adventure Games
+Jekyll & Hyde (2001),T,Action
+Jerry McPartlin - Rebel with a Cause,,Adventure
+Jet Car Stunts,E,Action
+Jet Set Radio,T,Action
+Jetfighter 2015,T,Simulation
+JetFighter IV: Fortress America,E,Simulation
+JetFighter V: Homeland Protector,T,Simulation
+K-Hawk: Survival Instinct,T,Action Adventure
+KAIRO,,Adventure
+KAMI,,Miscellaneous
+Kane & Lynch 2: Dog Days,M,Action
+Kane & Lynch: Dead Men,M,Action
+KAO the Kangaroo,E,Action
+Kao the Kangaroo Round 2,E,Action
+Kaptain Brawe: A Brawe New World,T,Adventure
+Karate Master 2 Knock Down Blow,,Sports
+Karateka,T,Action
+Karma. Incarnation 1,,Action
+Karmaflow: The Rock Opera Videogame,,Action
+Katawa Shoujo,,Adventure
+Kathy Rain,,Adventure
+Keepsake,E,Adventure
+Kelly Slater's Pro Surfer,T,Sports
+Kelvin and the Infamous Machine,,Adventure
+Kentucky Route Zero - Act I,,Adventure
+Kentucky Route Zero - Act II,,Adventure
+Kentucky Route Zero - Act III,,Adventure
+Kentucky Route Zero - Act IV,,Adventure
+Kero Blaster,,General
+Kick-Ass 2,,Action
+KickBeat: Steam Edition,T,Action
+Kill the Bad Guy,,Miscellaneous
+kill.switch,T,Action
+L.A. Noire: The Complete Edition,M,Adventure
+La Grande Armee at Austerlitz,,Strategy
+La-Mulana (Remake),,Action
+Land of Legends,,Strategy
+Land of the Dead: Road to Fiddler's Green,M,Action
+Lantern Forge,,Action
+Lara Croft and the Guardian of Light,T,Action Adventure
+Lara Croft Tomb Raider: The Angel of Darkness,T,Action Adventure
+Larry Ragland 4x4 Challenge,E,Sports
+Larva Mortus,,Action
+Laser Squad Nemesis,T,Strategy
+Last Knight,,Action
+Last Word,,Role-Playing
+Law & Order II: Double or Nothing,T,Adventure
+Law & Order: Criminal Intent,M,Adventure
+Law & Order: Dead on the Money,T,Adventure
+Law & Order: Justice Is Served,T,Adventure
+Law & Order: Legacies,,Miscellaneous
+Laxius Force - Heroes Never Die,,Role-Playing
+Laxius Force III - The Last Stand,,Role-Playing
+Le Mans 24 Hours,E,Sports
+Lead and Gold: Gangs of the Wild West,M,Action
+Leadfoot,E,Sports
+M.U.D. TV,T,Strategy
+MacGuffin's Curse,,Adventure
+Machinarium,,Adventure
+Mad Riders,E,Sports
+Madagascar,E10+,Action
+Madagascar: Escape 2 Africa,E10+,Action
+Madballs in Babo: Invasion,,Action
+Madden NFL 06,E,Sports
+Madden NFL 07,E,Sports
+Madden NFL 08,E,Sports
+Madden NFL 2001,E,Sports
+Madden NFL 2002,E,Sports
+Madden NFL 2003,E,Sports
+Madden NFL 2004,E,Sports
+Madden NFL 2005,E,Sports
+Made Man: Confessions of the Family Blood,M,Action Adventure
+Maelstrom,T,Strategy
+Mafia,M,Action Adventure
+Mafia II,M,Action Adventure
+Mafia II: Jimmy's Vendetta,M,Action Adventure
+Mafia II: Joe's Adventures,M,Action Adventure
+Mage Knight: Apocalypse,T,Role-Playing
+Magic & Mayhem: The Art of Magic,T,Strategy
+nail'd,E10+,Sports
+NaissanceE,,Adventure Games
+Naked War,,Strategy
+Namco Museum 50th Anniversary,E10+,Miscellaneous
+Nancy Drew Dossier: Resorting to Danger,E10+,Miscellaneous
+Nancy Drew: Curse of Blackmoor Manor,E,Adventure
+Nancy Drew: Danger By Design,E,Adventure
+Nancy Drew: Danger on Deception Island,E,Adventure
+Nancy Drew: Ghost of Thornton Hall,E,Action
+Nancy Drew: Last Train to Blue Moon Canyon,E,Adventure
+Nancy Drew: Legend of the Crystal Skull,E,Adventure
+Narco Terror,M,Action
+Naruto Shippuden: Ultimate Ninja Storm 3 Full Burst,T,Action
+Naruto Shippuden: Ultimate Ninja Storm Revolution,T,Action
+NASCAR '14,E,Sports
+NASCAR Heat,E,Sports
+NASCAR Racing 2002 Season,E,Sports
+O.R.B.,T,Strategy
+Obduction,,Adventure
+Oblitus,,Action
+Obscure,M,Action Adventure
+Obscure: The Aftermath,M,Action Adventure
+Obscuritas,,Adventure
+Obsidian,K-A,Adventure
+Ocean City Racing,,Sports
+Odallus: The Dark Call,,Action Adventure
+Oddworld: Abe's Exoddus,T,Action
+Oddworld: Abe's Oddysee,T,Action
+Oddworld: Munch's Oddysee,T,Action
+Odyssey: The Search for Ulysses,E,Adventure
+Of Light and Darkness: The Prophecy,,Adventure
+Of Orcs and Men,RP,Role-Playing
+Off-Road Drive,,Sports
+Off-Road Redneck Racing,E,Sports
+Officers,E10+,Strategy
+Offspring Fling,,Miscellaneous
+Offworld Trading Company,,Strategy
+QuestRun,,Role-Playing
+Qvadriga,,Strategy
+R.I.P.D. The Game,T,Action
+R.U.S.E.,T,Strategy
+Rabi-Ribi,,Action
+RACE 07: Official WTCC Game,E,Sports
+Race Injection,,Sports
+RACE On,E,Sports
+RACE: The WTCC Game,E,Sports
+Rag Doll Kung Fu,T,Action
+Rage,M,Action
+RAGE: The Scorchers,,Action
+Raging Tiger: The Second Korean War,,Strategy
+Ragnarok Online,T,Role-Playing
+Ragnarok Online 2: Legend of the Second,,Role-Playing
+RaiderZ,,Role-Playing
+Rail Simulator,E,Simulation
+Railroad Pioneer,E,Strategy
+Railroad Tycoon 3,E,Strategy
+Railroad Tycoon II,E,Strategy
+Rails Across America,E,Strategy
+RailWorks,E,Simulation
+Railworks 3: Train Simulator 2012,E,Simulation
+Rain Blood Chronicles: Mirage,,Action
+RalliSport Challenge,E,Sports
+Rally Trophy,E,Sports
+S.T.A.L.K.E.R.: Call of Pripyat,M,Action
+S.T.A.L.K.E.R.: Clear Sky,M,Action
+S.T.A.L.K.E.R.: Shadow of Chernobyl,M,Action
+S.W.I.N.E.,T,Strategy
+Sacred,T,Role-Playing
+Sacred 2: Fallen Angel,M,Role-Playing
+Sacred 3,M,Role-Playing
+Sacred Citadel,T,Action
+Sacred Underworld,T,Role-Playing
+Sacrifice,M,Strategy
+Safecracker: The Ultimate Puzzle Adventure,E,Miscellaneous
+Saga,,Role-Playing
+Saints Row 2,M,Action Adventure
+Saints Row IV,M,Action Adventure
+Saints Row IV: Enter the Dominatrix,,Action Adventure
+Saints Row: The Third,M,Action Adventure
+Saints Row: The Third - Gangstas in Space,M,Action Adventure
+Saints Row: The Third - Genki Bowl VII,M,Action
+Saints Row: The Third - The Trouble with Clones,M,Action Adventure
+Saira,,Action
+Sakura Angels,,Adventure
+Sakura Clicker,,Action
+Sakura Fantasy,,Adventure
+Sakura Spirit,,Miscellaneous
+Salammbo: Battle of Carthage,T,Adventure
+Salt Lake 2002,E,Sports
+Salvation Prophecy,,Simulation
+Salvo!,,Action Adventure
+Sam & Max Episode 101: Culture Shock,T,Adventure
+Sam & Max Episode 102: Situation: Comedy,T,Adventure
+Sam & Max Episode 104: Abe Lincoln Must Die!,,Adventure
+Sam & Max Episode 105: Reality 2.0,,Adventure
+Sam & Max Episode 106: Bright Side of the Moon,T,Adventure
+Sam & Max Episode 201: Ice Station Santa,T,Adventure
+Sam & Max Episode 202: Moai Better Blues,T,Adventure
+Sam & Max Episode 203: Night of the Raving Dead,T,Adventure
+Sam & Max Episode 204: Chariots of the Dogs,T,Adventure
+Sam & Max: Season One,T,Miscellaneous
+UberSoldier,M,Action
+UberSoldier II,M,Action
+UEFA Euro 2004: Portugal,E,Sports
+UEFA Euro 2012,E,Sports
+UFO: Afterlight,T,Strategy
+UFO: Aftermath,T,Strategy
+UFO: Aftershock,T,Strategy
+UFO: Extraterrestrials,E10+,Strategy
+Ultima Online,M,Role-Playing
+Ultima Online: Age of Shadows,T,Role-Playing
+Ultima Online: Lord Blackthorn's Revenge,T,Role-Playing
+Ultima Online: Samurai Empire,T,Role-Playing
+Ultima Online: Third Dawn,T,Role-Playing
+Ultimate General: Gettysburg,,Strategy
+Ultimate Ride,E,Action
+Ultimate Ride Coaster Deluxe,E,Strategy
+Ultimate Ride: Disney Coaster,E,Strategy
+Ultimate Spider-Man,T,Action
+Unbox,,Action
+Uncanny Valley,,Action Adventure
+Uncommon Valor: Campaign for the South Pacific,E,Strategy
+VA-11 Hall-A: Cyberpunk Bartender Action,,Simulation
+Valdis Story: Abyssal City,,Action
+Valhalla Chronicles,T,Role-Playing
+Valhalla Hills,,Strategy
+Valkyria Chronicles,T,General
+Vampire: The Masquerade - Bloodlines,M,Role-Playing
+Vampire: The Masquerade - Redemption,M,Role-Playing
+Van Helsing I: Complete Pack,,Role-Playing
+Vancouver 2010 - The Official Video Game of the Olympic Winter Games,E,Sports
+Vanguard: Saga of Heroes,T,Role-Playing
+Vector,,Action
+Vector Thrust,,Miscellaneous
+Vegas Tycoon,T,Strategy
+Velvet Assassin,M,Action
+Vendetta Online,T,Role-Playing
+Vendetta: Curse of Raven's Cry,,Strategy
+Venetica,T,Role-Playing
+Wailing Heights,,Adventure
+WAKFU,,Role-Playing
+Waking Mars,,Action
+WALL-E,E,Action
+Wanda - A Beautiful Apocalypse,,Role-Playing
+Wanderlust: Rebirth,,Role-Playing
+Wanted: A Wild Western Adventure,E,Action Adventure
+Wanted: Weapons of Fate,M,Action
+War for the Overworld,,Strategy
+War Front: Turning Point,T,Strategy
+War Inc. Battle Zone,,Action
+War Leaders: Clash of Nations,T,Strategy
+War of the Immortals,,Role-Playing
+War of the Roses,RP,Action
+War of the Vikings,RP,Action
+War Rock,T,Action
+War Times,T,Strategy
+War World: Tactical Combat,,Action
+WarBirds III,,Simulation
+X Rebirth,T,Simulation
+X-Blades,M,Action
+X-COM: Enforcer,T,Action
+X-Men Legends II: Rise of Apocalypse,T,Role-

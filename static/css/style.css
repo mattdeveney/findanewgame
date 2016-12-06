@@ -1,0 +1,110 @@
+body {
+    background-color: black;
+    font-family: "Arial";
+}
+
+.header {
+    font-weight: lighter;
+    color:white;
+}
+
+
+#made-by {
+    color: #c9302c;
+    font-size: 14px
+}
+
+#site-title {
+    color: #c9302c;
+}
+
+#content {
+    text-align:center;
+}
+
+#platform-select {
+    margin: auto;
+    width: 30%
+}
+
+.btn {
+    border:none;
+    background-color: #c9302c;
+    margin: 25px;
+}
+
+#showMoreButton {
+    background-color: rgb(125,125,125);
+}
+
+.page-text {
+    color: white;
+    text-align: center;
+}
+
+.title {
+    margin-bottom:15px;
+}
+
+.game-image {
+    margin-bottom:15px;
+}
+
+.default {
+    width:100px;
+}
+
+.gamesShowed {
+    text-align: center;
+    padding-top:20px;
+}
+
+.cell {
+    text-align: center;
+    color: rgb(175,175,175);
+}
+
+.rating {
+    color: rgb(175,175,175);
+    width: 75%;
+    border:none;
+    background-color: rgb(50,50,50);
+}
+
+#how-work-button {
+    background-color: black;
+    color: #c9302c;
+    border: 1px solid #c9302c;
+    font-weight: bolder;
+    position: relative;
+    bottom:10px;
+}
+
+#how-it-works {
+    height: 50vh;
+    background-color:rgb(30,30,30);
+    display: none;
+}
+
+#how-it-works h3 {
+    color:#c9302c;
+    padding-top:15px;
+    text-align: center;
+}
+.step {
+    color: rgb(180,180,180);
+    font-weight: 100;
+    text-align: center;
+}
+
+.desc {
+    color: rgb(150,150,150);
+    padding-top: 20px;
+    padding-left: 35px;
+    text-align: left;
+}
+
+#main-nav {
+    border: none;
+    background-color: black;
+}

@@ -1,0 +1,2427 @@
+title,platform,genre,metascore,userscore,rating,developer
+#IDARB,Xbox One,Action,77,7.2,E,Other Ocean Interactive
+#KILLALLZOMBIES,Xbox One,Action,53,tbd,T,Beatshapers
+10 Second Ninja X,Xbox One,Action,82,5.1,T,GameDesignDan
+1001 Spikes,Xbox One,Action,No score yet,4.9,T,Nicalis
+101 Ways to Die,Xbox One,Action,71,tbd,T,4 Door Lemon
+6180 the Moon,Xbox One,Action,No score yet,7.5,E,Turtle Cream
+7 Days to Die,Xbox One,Action,35,5.4,M,The Fun Pimps Entertainment LLC
+A Boy and His Blob,Xbox One,Action,66,tbd,E,Abstraction Games
+Aaru's Awakening,Xbox One,Action,No score yet,0.4,E,Lumenox ehf
+Action Henk,Xbox One,Action,72,tbd,E,RageSquid
+Action News Heroes,Xbox One,Action,49,8.1,T,Krewe Studios
+Active Soccer 2 DX,Xbox One,Action,53,6.9,E,The Fox Software
+Adam's Venture: Origins,Xbox One,Adventure,48,6.2,E10+,Vertigo Games
+Adventure Time: Finn and Jake Investigations,Xbox One,Adventure,66,5.3,E10+,Vicious Cycle
+Agatha Christie's The ABC Murders,Xbox One,Adventure,66,7.3,,Microids
+AIPD - Artificial Intelligence Police Department,Xbox One,Action,70,tbd,E10+,Blazing Badger
+AirMech Arena,Xbox One,Simulation,No score yet,4.4,E10+,Carbon Games
+Albedo: Eyes from Outer Space,Xbox One,Action Adventure,55,tbd,T,Z4g0 and Ivan Venturi Productions
+Alekhine's Gun,Xbox One,Action Adventure,33,2.5,M,Maximum Games
+Alien: Isolation,Xbox One,Action Adventure,78,7.8,M,Creative Assembly
+Amazing Princess Sarah,Xbox One,Action,72,tbd,T,Haruneko
+Among the Sleep,Xbox One,Adventure,62,tbd,T,Krillbite Studio
+Anarcute,Xbox One,Action,74,tbd,E10+,Anarteam
+Angry Birds Star Wars,Xbox One,Strategy,53,6.9,E,Exient Entertainment
+Anima: Gate of Memories,Xbox One,Role-Playing,72,8.1,T,Anima Project
+Anode,Xbox One,Puzzle,73,tbd,E,Kittehface Software
+Another World: 20th Anniversary Edition,Xbox One,Action,65,4.0,T,The Digital Lounge
+APB: Reloaded,Xbox One,Massively Multiplayer Online,No score yet,4.6,M,The Workshop
+Armello,Xbox One,Miscellaneous,80,8.5,E10+,League of Geeks
+Armikrog,Xbox One,Adventure,61,tbd,E10+,Versus Evil
+Arslan: The Warriors of Legend,Xbox One,General,No score yet,5.8,T,Omega Force
+"Assassin's Creed Triple Pack: Black Flag, Unity, Syndicate",Xbox One,Miscellaneous,No score yet,9.8,,
+Assassin's Creed Chronicles,Xbox One,Miscellaneous,No score yet,6.8,T,Climax Studios
+Assassin's Creed Chronicles: China,Xbox One,Historic,67,5.7,T,Ubisoft
+Assassin's Creed Chronicles: India,Xbox One,Action Adventure,64,5.4,T,Ubisoft
+Assassin's Creed Chronicles: Russia,Xbox One,Action Adventure,62,4.2,T,Ubisoft
+Assassin's Creed IV: Black Flag,Xbox One,Action Adventure,No score yet,7.4,M,Ubisoft
+Assassin's Creed IV: Black Flag - Freedom Cry,Xbox One,Action Adventure,76,7.0,M,Ubisoft Montreal
+Assassin's Creed Syndicate,Xbox One,Historic,78,6.1,M,Ubisoft Quebec
+Assassin's Creed Syndicate: Jack the Ripper,Xbox One,Action Adventure,77,6.5,M,Ubisoft Quebec
+Assassin's Creed Syndicate: The Last Maharaja,Xbox One,Action Adventure,No score yet,7.3,,Ubisoft Quebec
+Assassin's Creed Unity,Xbox One,Action Adventure,72,4.0,M,Ubisoft
+Assassin's Creed Unity: Dead Kings,Xbox One,Action Adventure,64,5.3,M,Ubisoft
+Assetto Corsa,Xbox One,Racing,64,6.7,E,Kunos Simulazioni
+Attack on Titan,Xbox One,Action,77,6.3,M,Omega Force
+Awesomenauts Assemble!,Xbox One,Strategy,81,tbd,T,DTP Entertainment
+Axiom Verge,Xbox One,Action Adventure,85,tbd,T,Tom Happ
+Azkend 2: The World Beneath,Xbox One,Puzzle,67,tbd,E,10tons Ltd
+Back to the Future: The Game,Xbox One,Adventure,No score yet,7.3,T,Telltale Games
+BADLAND: Game of the Year Edition,Xbox One,Action,69,5.5,E,Frogmind
+Bard's Gold,Xbox One,Action,63,tbd,E,Erdem Sen
+Baseball Riot,Xbox One,Puzzle,62,tbd,E10+,10tons Ltd
+Batman: Arkham Knight,Xbox One,General,85,6.6,M,Rocksteady Studios
+Batman: Arkham Knight - A Flip of a Coin,Xbox One,Action Adventure,No score yet,5.5,M,Rocksteady Studios
+Batman: Arkham Knight - A Matter of Family,Xbox One,Action Adventure,62,5.2,M,WB Games Montreal
+Batman: Arkham Knight - Catwoman's Revenge,Xbox One,Action Adventure,No score yet,6.2,M,Rocksteady Studios
+Batman: Arkham Knight - GCPD Lockdown,Xbox One,Action Adventure,No score yet,4.4,M,WB Games Montreal
+Batman: Arkham Knight - Harley Quinn Story Pack,Xbox One,Action Adventure,No score yet,6.0,M,Rocksteady Studios
+Batman: Arkham Knight - Red Hood Story Pack,Xbox One,Action Adventure,No score yet,6.0,M,Rocksteady Studios
+Batman: Arkham Knight - Season of Infamy: Most Wanted,Xbox One,Action Adventure,No score yet,7.5,M,Rocksteady Studios
+Batman: Return to Arkham,Xbox One,Miscellaneous,78,7.3,T,Rocksteady Studios
+Batman: The Telltale Series,Xbox One,Action,No score yet,4.5,M,Telltale Games
+Batman: The Telltale Series - Episode 1: Realm of Shadows,Xbox One,Adventure,65,6.8,M,Telltale Games
+Batman: The Telltale Series - Episode 2: Children of Arkham,Xbox One,Adventure,83,7.9,M,Telltale Games
+Batman: The Telltale Series - Episode 3: New World Order,Xbox One,Adventure,72,8.4,,Telltale Games
+Battle Ages,Xbox One,Strategy,No score yet,3.2,E10+,DR Studios
+Battle Worlds: Kronos,Xbox One,Strategy,65,tbd,E10+,KING Art
+Battleborn,Xbox One,Sci-Fi,71,7.2,T,Gearbox Software
+Battlefield 1,Xbox One,Action,88,8.2,M,EA DICE
+Battlefield 4,Xbox One,Action,81,6.6,M,EA DICE
+Battlefield 4: China Rising,Xbox One,Action,No score yet,5.8,,
+Battlefield 4: Dragon's Teeth,Xbox One,Action,No score yet,5.8,M,EA DICE
+Battlefield 4: Naval Strike,Xbox One,Action,61,6.2,M,EA DICE
+Battlefield 4: Premium Edition,Xbox One,Action,No score yet,7.4,M,EA DICE
+Battlefield 4: Second Assault,Xbox One,Action,No score yet,5.2,M,Dice
+Battlefield Hardline,Xbox One,Modern,71,5.1,M,Visceral Games
+Battleship,Xbox One,Miscellaneous,65,7.6,E10+,Frima Studio
+Beach Buggy Racing,Xbox One,Action,65,6.7,E,Vector Unit
+Beatbuddy: Tale of the Guardians,Xbox One,Action,67,tbd,E,Threaks
+Bedlam,Xbox One,Action,59,tbd,M,RedBedlam
+Ben-Hur,Xbox One,Racing,No score yet,1.0,T,Krome Studios
+Beyond Eyes,Xbox One,Action Adventure,60,5.7,E,tiger & squid
+Bike Mayhem 2,Xbox One,Sports,61,tbd,E,Goldmark Studios
+BioShock: The Collection,Xbox One,Action,85,8.4,M,2K Games
+Bladestorm: Nightmare,Xbox One,Action,48,7.1,T,Omega Force
+BlazBlue: Chrono Phantasma Extend,Xbox One,Action,No score yet,6.3,T,Arc System Works
+Blood Bowl 2,Xbox One,Sports,70,8.1,T,Cyanide
+Blue Estate,Xbox One,Action,51,7.5,M,HeSaw
+Blues and Bullets - Episode 1: The End of Peace,Xbox One,Action Adventure,70,5.4,M,A Crowd of Monsters
+Blues and Bullets - Episode 2: Shaking The Hive,Xbox One,Action Adventure,74,4.5,,A Crowd of Monsters
+Boom Ball for Kinect,Xbox One,Action,No score yet,7.5,E,Virtual Air Guitar Company
+Borderlands 2,Xbox One,Action,No score yet,7.3,M,Gearbox Software
+Borderlands: The Handsome Collection,Xbox One,Miscellaneous,80,7.8,M,Gearbox Software
+Bridge Constructor,Xbox One,Simulation,58,tbd,E,ClockStone Software
+Broken Sword 5: The Serpent's Curse,Xbox One,Adventure,77,7.2,T,Revolution Software
+Brothers: A Tale of Two Sons,Xbox One,Action Adventure,81,8.9,T,Starbreeze
+Call of Duty: Advanced Warfare,Xbox One,Action,81,5.5,M,Sledgehammer Games
+Call of Duty: Advanced Warfare - Ascendance,Xbox One,Action,75,7.2,M,Sledgehammer Games
+Call of Duty: Advanced Warfare - Havoc,Xbox One,Action,72,6.7,M,Sledgehammer Games
+Call of Duty: Advanced Warfare - Reckoning,Xbox One,Action,75,6.3,,Sledgehammer Games
+Call of Duty: Advanced Warfare - Supremacy,Xbox One,Action,71,6.9,,
+Call of Duty: Black Ops III,Xbox One,Action,81,4.4,M,Treyarch
+Call of Duty: Ghosts,Xbox One,Action,78,4.3,M,Infinity Ward
+Call of Duty: Ghosts - Devastation,Xbox One,Action,70,5.6,M,Infinity Ward
+Call of Duty: Ghosts - Invasion,Xbox One,Action,73,6.5,M,Infinity Ward
+Call of Duty: Ghosts - Onslaught,Xbox One,Action,65,4.2,M,Infinity Ward
+Carmageddon: Max Damage,Xbox One,Racing,52,7.1,M,Stainless Games
+Casey Powell Lacrosse 16,Xbox One,Sports,60,8.6,E,Big Ant Studios
+Cast of the Seven Godsends: Redux,Xbox One,Action,61,tbd,T,Raven Travel Studios
+Castle Crashers Remastered,Xbox One,Action,83,7.0,T,The Behemoth
+CastleStorm: Definitive Edition,Xbox One,Strategy,69,7.0,T,Zen Studios
+Cel Damage HD,Xbox One,Simulation,57,tbd,,Finish Line Games
+Chariot,Xbox One,Action,73,7.6,E,Frima Studio
+Child of Light,Xbox One,Action,82,7.6,E10+,Ubisoft Montreal
+Chivalry: Medieval Warfare,Xbox One,Action,51,4.7,M,Torn Banner Studios
+Claire: Extended Cut,Xbox One,Adventure,67,tbd,M,Hailstorm Games Inc
+Clash,Xbox One,Action,No score yet,4.2,E,FennecFox Entertainment
+Clockwork Tales: Of Glass and Ink,Xbox One,Puzzle,70,tbd,T,Artifex Mundi
+Cobalt,Xbox One,Action,66,7.6,E10+,Oxeye
+Coffin Dodgers,Xbox One,Racing,46,3.4,T,Milky Tea Studios
+Contrast,Xbox One,Miscellaneous,No score yet,6.3,T,Compulsion Games
+Costume Quest 2,Xbox One,Role-Playing,65,6.8,E10+,Double Fine Productions
+Crimson Dragon,Xbox One,Action,55,6.5,T,Grounding Inc.
+Crimsonland,Xbox One,Action,69,6.8,T,10tons Entertainment
+Cubikolor,Xbox One,Puzzle,No score yet,6.0,E,Moving Player
+Cubot - The Complexity of Simplicity,Xbox One,Puzzle,68,7.3,E,NicoplvGames
+D/Generation HD,Xbox One,Puzzle,64,tbd,E10+,West Coast Software
+D4: Dark Dreams Don't Die,Xbox One,Action,76,7.3,M,Access Games
+Dance Central Spotlight,Xbox One,Action,74,7.0,T,Harmonix Music Systems
+Dangerous Golf,Xbox One,Sports,63,4.9,E,Three Fields Entertainment
+Dark Souls II: Scholar of the First Sin,Xbox One,Role-Playing,89,7.7,T,From Software
+Dark Souls III,Xbox One,Role-Playing,87,8.5,,From Software
+Dark Souls III: Ashes of Ariandel,Xbox One,Role-Playing,No score yet,6.1,M,From Software
+Darksiders II: Deathinitive Edition,Xbox One,Action Adventure,75,6.9,M,Gunfire Games
+DC Universe Online,Xbox One,Role-Playing,No score yet,6.2,T,WBIE
+Dead Island: Definitive Collection,Xbox One,Miscellaneous,67,4.9,M,Techland
+Dead or Alive 5: Last Round,Xbox One,Action,69,6.4,M,Team Ninja
+Dead Rising,Xbox One,Action Adventure,No score yet,9.5,M,Capcom
+Dead Rising 3,Xbox One,Action,78,6.8,M,Capcom Vancouver
+Dead Rising 3: Apocalypse Edition,Xbox One,Action,No score yet,6.3,M,Capcom Vancouver
+Dead Rising 3: Chaos Rising,Xbox One,Action,50,3.8,M,Capcom Vancouver
+Dead Rising 3: Fallen Angel,Xbox One,Action,56,4.6,M,Capcom Vancouver
+Dead Rising 3: Operation Broken Eagle,Xbox One,Action,52,4.2,M,
+Dead Rising 3: The Last Agent,Xbox One,Action,51,4.0,M,Capcom Vancouver
+Dead Rising Triple Pack,Xbox One,Action Adventure,72,tbd,,Capcom
+Deadlight: Director's Cut,Xbox One,Action,69,7.3,M,Tequila Works
+Deadpool,Xbox One,Action,No score yet,6.1,M,High Moon Studios
+Dear Esther,Xbox One,Adventure,66,7.3,T,The Chinese Room
+Destiny,Xbox One,Action,75,5.5,T,Bungie Software
+Destiny: House of Wolves,Xbox One,Action,71,4.0,T,Bungie
+Destiny: Rise of Iron,Xbox One,Action,72,3.2,,Bungie
+Destiny: The Dark Below,Xbox One,Action,59,2.9,T,Bungie
+Destiny: The Taken King,Xbox One,Action,89,5.2,T,Bungie Software
+Destiny: The Taken King - Legendary Edition,Xbox One,Action,No score yet,5.6,T,Activision
+Deus Ex: Mankind Divided,Xbox One,Action Adventure,83,7.1,M,Eidos Montreal
+Devil May Cry 4: Special Edition,Xbox One,Fantasy,76,8.3,M,Capcom
+Dex (Enhanced Version),Xbox One,Role-Playing,69,9.0,M,Dreadlocks Ltd
+DG2: Defense Grid 2,Xbox One,Strategy,78,7.0,E10+,Hidden Path Entertainment
+Diablo III: Ultimate Evil Edition,Xbox One,Role-Playing,86,7.8,M,Blizzard Entertainment
+DiRT Rally,Xbox One,Racing,86,8.2,E,Codemasters
+Dishonored: Definitive Edition,Xbox One,Action Adventure,76,7.1,M,Arkane Studios
+Disney Infinity 2.0 Edition,Xbox One,Action Adventure,73,5.2,E10+,Avalanche Software
+Disney Infinity 3.0 Edition,Xbox One,Action Adventure,78,5.2,E10+,Avalanche Software
+Divinity: Original Sin Enhanced Edition,Xbox One,Role-Playing,88,7.4,M,Larian Studios
+DmC: Devil May Cry Definitive Edition,Xbox One,Fantasy,86,7.6,M,Ninja Theory
+Dogos,Xbox One,Action,63,tbd,E10+,INTERNET URL S.A.
+Don Bradman Cricket,Xbox One,Sports,No score yet,6.6,E,Big Ant Studios
+DOOM,Xbox One,Sci-Fi,87,8.1,M,id Software
+Dovetail Games Euro Fishing,Xbox One,Sports,No score yet,7.4,,Dovetail Games
+Dragon Age: Inquisition,Xbox One,Role-Playing,85,7.0,M,BioWare
+Dragon Age: Inquisition - Game of the Year Edition,Xbox One,Role-Playing,No score yet,8.1,,BioWare
+Dragon Age: Inquisition - Jaws Of Hakkon,Xbox One,Role-Playing,70,5.8,,BioWare
+Dragon Age: Inquisition - The Descent,Xbox One,Role-Playing,No score yet,5.4,,BioWare
+Dragon Age: Inquisition - Trespasser,Xbox One,Role-Playing,No score yet,7.4,,BioWare
+Dragon Ball: Xenoverse,Xbox One,Action,67,7.2,T,Dimps Corporation
+Dragon Ball: Xenoverse 2,Xbox One,Action,No score yet,8.0,T,Dimps Corporation
+Draw a Stickman: EPIC,Xbox One,Adventure,No score yet,6.0,E10+,Hitcents
+Drawful 2,Xbox One,Miscellaneous,75,tbd,T,Jackbox Games
+Duck Dynasty,Xbox One,Sports,No score yet,3.5,T,FUN Labs
+Dungeon of the Endless,Xbox One,Strategy,78,6.2,T,Amplitude Studios
+Dungeon Punks,Xbox One,Action,71,8.5,E10+,Hyper Awesome Entertainment
+Dying Light,Xbox One,Action Adventure,74,7.8,M,Techland
+Dying Light: The Following,Xbox One,Action Adventure,86,8.0,,Techland
+Dying Light: The Following - Enhanced Edition,Xbox One,Action Adventure,No score yet,7.9,M,Techland
+Dynasty Warriors 8 Empires,Xbox One,Action,58,6.6,T,Koei Tecmo Games
+EA Sports UFC,Xbox One,Other Sports Games,70,6.3,T,EA Sports
+EA Sports UFC 2,Xbox One,Sports,76,6.0,T,EA Sports
+Earthlock: Festival of Magic,Xbox One,Role-Playing,66,7.7,E10+,Snow Castle Games
+Electronic Super Joy,Xbox One,Action,77,tbd,M,Michael Todd Games
+Elite Dangerous: Horizons,Xbox One,Simulation,75,6.4,T,Frontier Developments
+Elite: Dangerous,Xbox One,Simulation,80,7.2,T,Frontier Developments
+Enigmatis: The Ghosts of Maple Creek,Xbox One,Puzzle,66,7.4,T,Artifex Mundi
+Ethan: Meteor Hunter,Xbox One,Action,44,tbd,E10+,Seaven Studio
+Eventide: Slavic Fable,Xbox One,Adventure,73,tbd,T,The House Of Fables
+Evolve,Xbox One,Action,74,5.1,M,Turtle Rock Studios
+Evolve: Ultimate Edition,Xbox One,Action,No score yet,6.8,M,Turtle Rock Studios
+Extreme Exorcism,Xbox One,Action,64,tbd,E10+,Golden Ruby Games
+F1 2015,Xbox One,Racing,64,5.3,E,Codemasters
+F1 2016,Xbox One,Racing,85,7.7,E,Codemasters
+Factotum 90,Xbox One,Puzzle,71,5.9,E,TACS Games
+Fallout 4,Xbox One,General,88,6.2,M,Bethesda Game Studios
+Fallout 4: Automatron,Xbox One,Role-Playing,74,5.7,M,Bethesda Game Studios
+Fallout 4: Contraptions Workshop,Xbox One,Role-Playing,No score yet,3.3,,Bethesda Game Studios
+Fallout 4: Far Harbor,Xbox One,Role-Playing,78,6.3,M,Bethesda Game Studios
+Fallout 4: Nuka-World,Xbox One,Role-Playing,75,6.0,,Bethesda Game Studios
+Fallout 4: Vault-Tec Workshop,Xbox One,Role-Playing,No score yet,2.7,,Bethesda Game Studios
+Fallout 4: Wasteland Workshop,Xbox One,Role-Playing,59,2.2,M,Bethesda Game Studios
+Fantasia: Music Evolved,Xbox One,Rhythm Games,77,7.5,E10+,Harmonix Music Systems
+Far Cry 4,Xbox One,Action,82,7.5,M,Ubisoft Montreal
+Far Cry 4: Valley of the Yetis,Xbox One,Action,76,7.6,M,Ubisoft Montreal
+Far Cry Primal,Xbox One,Action,77,6.3,M,Ubisoft Montreal
+Farming Simulator 15,Xbox One,Simulation,54,7.2,E,Giants Software
+Fenix Furia,Xbox One,Action,72,tbd,E,Green Lava Studios
+Fibbage: The Hilarious Bluffing Party Game,Xbox One,Miscellaneous,No score yet,7.6,T,Jackbox Games
+FIFA 14,Xbox One,Soccer,88,5.8,E,EA Canada
+FIFA 15,Xbox One,Sports,82,5.4,E,EA Sports
+FIFA 16,Xbox One,Sports,84,4.4,E,EA Sports
+FIFA 17,Xbox One,Sports,85,5.6,E,EA Sports
+Fighter Within,Xbox One,Sports,23,3.0,T,Ubisoft
+Final Fantasy Type-0 HD,Xbox One,Role-Playing,72,5.8,M,HexaDrive
+Firewatch,Xbox One,Adventure,86,7.0,M,Campo Santo
+Flockers,Xbox One,Puzzle,65,4.9,T,Team 17
+FORCED,Xbox One,Role-Playing,54,tbd,T,BetaDwarf
+Fortified,Xbox One,Action,69,6.7,T,Clapfoot Inc.
+Forza Horizon 2,Xbox One,Driving,86,8.2,E10+,Playground Games
+Forza Horizon 2 Presents Fast & Furious,Xbox One,Racing,61,8.1,E10+,Playground Games
+Forza Horizon 2: Storm Island,Xbox One,Driving,82,7.4,E10+,Playground Games
+Forza Horizon 3,Xbox One,Racing,91,8.3,E,Playground Games
+Forza Motorsport 5,Xbox One,Racing,79,5.9,E,Turn 10
+Forza Motorsport 6,Xbox One,Driving,87,7.9,E,Turn 10
+Forza Motorsport 6 NASCAR Expansion,Xbox One,Racing,No score yet,5.5,,Turn 10
+Fragments of Him,Xbox One,Adventure,71,tbd,M,Sassybot
+Frozen Free Fall: Snowball Fight,Xbox One,Puzzle,No score yet,2.8,E,SuperVillain Studios
+FRU,Xbox One,Miscellaneous,84,6.9,E,Through Games
+Fruit Ninja Kinect 2,Xbox One,General,69,8.7,E,Halfbrick Studios
+Full Mojo Rampage,Xbox One,Role-Playing,79,tbd,T,Over the Top Games
+Funk of Titans,Xbox One,Action,43,4.2,T,A Crowd of Monsters
+Game of Thrones: A Telltale Games Series,Xbox One,Action,No score yet,7.3,M,Telltale Games
+Game of Thrones: Episode Five - A Nest of Vipers,Xbox One,Action,72,6.9,M,Telltale Games
+Game of Thrones: Episode Four - Sons of Winter,Xbox One,Action,80,7.1,M,Telltale Games
+Game of Thrones: Episode One - Iron From Ice,Xbox One,Action,80,8.0,M,Telltale Games
+Game of Thrones: Episode Six - The Ice Dragon,Xbox One,Action,80,8.0,M,Telltale Games
+Game of Thrones: Episode Three - The Sword in the Darkness,Xbox One,Action,80,7.8,M,Telltale Games
+Game of Thrones: Episode Two - The Lost Lords,Xbox One,Action,76,7.7,M,Telltale Games
+Gear Gauntlet,Xbox One,Action,69,6.8,E,Drop Dead Interactive
+Gears of War 4,Xbox One,Sci-Fi,85,6.6,M,The Coalition
+Gears of War: Ultimate Edition,Xbox One,Action,82,7.5,M,Splash Damage
+Gemini: Heroes Reborn,Xbox One,Action Adventure,63,6.2,T,Phosphor Games
+Gems of War,Xbox One,Puzzle,No score yet,4.8,T,Pipeworks Software
+Geometry Wars 3: Dimensions,Xbox One,Action,82,7.7,E,Lucid Games
+Ghostbusters,Xbox One,Action,32,0.3,E10+,Activision
+Giana Sisters: Dream Runners,Xbox One,Action,32,4.7,E,Black Forest Games
+Giana Sisters: Twisted Dreams - Director's Cut,Xbox One,Action,No score yet,7.9,E,Black Forest Games
+Goat Simulator,Xbox One,Simulation,53,6.3,T,Coffee Stain Studios
+Goat Simulator: Mmore Goatz Edition,Xbox One,Simulation,62,tbd,T,Coffee Stain Studios
+Gone Home: Console Edition,Xbox One,Adventure,No score yet,4.0,M,The Fullbright Company
+Grand Theft Auto Online,Xbox One,Action Adventure,No score yet,6.4,,Rockstar North
+Grand Theft Auto V,Xbox One,Action Adventure,97,7.9,M,Rockstar North
+Grim Legends: The Forsaken Bride,Xbox One,Puzzle,74,tbd,T,Artifex Mundi
+Grow Up,Xbox One,Action Adventure,74,7.8,E,Ubisoft Reflections
+Gryphon Knight Epic,Xbox One,Action,61,tbd,E10+,Cyber Rhino Studios
+Guacamelee! Super Turbo Championship Edition,Xbox One,Action,88,7.0,E10+,DrinkBox Studios
+Guitar Hero Live,Xbox One,Action,81,5.1,T,FreeStyleGames
+"Guns, Gore & Cannoli",Xbox One,Action,69,7.8,T,
+Gunscape,Xbox One,Action,60,tbd,T,Blowfish Studios
+GunWorld 2,Xbox One,Action,59,4.5,E10+,M07 Games
+Halo 5: Guardians,Xbox One,Action,84,6.5,T,343 Industries
+Halo: Spartan Assault,Xbox One,Action,53,4.4,T,Vanguard
+Just Dance 2014,Xbox One,Rhythm Games,71,7.0,E10+,Ubisoft
+Just Dance 2015,Xbox One,Action,70,7.5,E10+,Ubisoft
+Just Dance 2016,Xbox One,Action,66,6.1,E10+,Ubisoft
+Kaiju Panic,Xbox One,Strategy,64,tbd,E10+,Mechabit Ltd
+Kalimba,Xbox One,Action,81,7.5,E,Press Play
+Kerbal Space Program,Xbox One,Simulation,74,7.5,E,SQUADTeam
+Kick & Fennick,Xbox One,Action,61,tbd,E10+,Jaywalkers Interactive
+Killer Instinct,Xbox One,Action,73,6.2,T,Double Helix Games
+Killer Instinct 2 Classic,Xbox One,Action,No score yet,7.1,M,Code Mystics Inc.
+Killer Instinct Season 2,Xbox One,Action,85,7.3,T,Iron Galaxy Studios
+Killer Instinct Season 3,Xbox One,Action,86,6.6,,Iron Galaxy Studios
+Killer Instinct: Complete Collection,Xbox One,Action,No score yet,7.4,,Iron Galaxy Studios
+Killer Instinct: Definitive Edition,Xbox One,Action,No score yet,6.3,M,Microsoft Game Studios
+Kinect Sports Rivals,Xbox One,Other Sports Games,60,5.1,E10+,Microsoft Game Studios
+King Oddball,Xbox One,Puzzle,66,tbd,E10+,10tons Ltd
+King's Quest Chapter 1: A Knight to Remember,Xbox One,Adventure,80,7.6,E10+,The Odd Gentlemen
+King's Quest Chapter 2: Rubble Without a Cause,Xbox One,Adventure,71,5.7,E10+,The Odd Gentlemen
+King's Quest Chapter 3: Once Upon a Climb,Xbox One,Adventure,80,5.2,,The Odd Gentlemen
+Kingdom: New Lands,Xbox One,Strategy,87,6.4,E10+,Noio
+Knight Squad,Xbox One,Action,71,6.8,T,Chainsawesome Games
+Kung Fu Panda: Showdown of Legendary Legends,Xbox One,Action,68,5.4,E10+,Vicious Cycle
+Kung-Fu for Kinect,Xbox One,Miscellaneous,60,7.5,E10+,Virtual Air Guitar Company
+LA Cops,Xbox One,Action,49,6.4,M,Modern Dream
+Land It!,Xbox One,Simulation,65,tbd,,Nemesys
+Lara Croft and the Temple of Osiris,Xbox One,Action,72,5.9,T,Crystal Dynamics
+Laserlife,Xbox One,Action,64,tbd,E,Choice Provisions
+Layers of Fear,Xbox One,Adventure,78,8.3,M,Bloober Team
+Layers of Fear: Inheritance,Xbox One,Adventure,72,7.8,M,Bloober Team
+Layers of Fear: Masterpiece Edition,Xbox One,Adventure,No score yet,9.4,M,Bloober Team
+LEGO Batman 3: Beyond Gotham,Xbox One,Action Adventure,74,7.1,E10+,TT Games
+LEGO Dimensions,Xbox One,Action Adventure,80,6.9,E10+,Traveller's Tales
+LEGO Jurassic World,Xbox One,Action Adventure,70,6.7,E10+,TT Games
+LEGO Marvel Super Heroes,Xbox One,Action Adventure,No score yet,6.8,E10+,TT Games
+LEGO Marvel's Avengers,Xbox One,Action Adventure,71,4.9,E10+,TT Games
+LEGO Star Wars: The Force Awakens,Xbox One,Action Adventure,76,6.7,E10+,TT Games
+LEGO The Hobbit,Xbox One,Historic,69,6.8,E10+,TT Games
+Leo's Fortune,Xbox One,Action,72,6.4,,1337 & Senri LLC
+Letter Quest: Grimm's Journey Remastered,Xbox One,Puzzle,77,6.8,E,Bacon Bandit Games
+"LEVEL 22, Gary's Misadventures",Xbox One,Action,68,8.1,E10+,
+Lichdom: Battlemage,Xbox One,Role-Playing,No score yet,2.2,M,Xaviant Games
+Lies Of Astaroth,Xbox One,Miscellaneous,No score yet,8.0,T,iFree Studio
+Life is Strange,Xbox One,Sci-Fi,85,8.6,M,DONTNOD Entertainment
+Life is Strange: Episode 1 - Chrysalis,Xbox One,Action Adventure,77,8.4,M,DONTNOD Entertainment
+Life is Strange: Episode 2 - Out of Time,Xbox One,Action Adventure,73,8.8,M,DONTNOD Entertainment
+Life is Strange: Episode 3 - Chaos Theory,Xbox One,Action Adventure,80,8.6,M,DONTNOD Entertainment
+Life is Strange: Episode 4 - Dark Room,Xbox One,Action Adventure,74,8.7,M,DONTNOD Entertainment
+Life is Strange: Episode 5 - Polarized,Xbox One,Action Adventure,80,8.5,M,DONTNOD Entertainment
+Lifeless Planet: Premier Edition,Xbox One,Action Adventure,57,7.6,T,Stage 2 Studios
+LIMBO,Xbox One,Action,85,8.1,T,PLAYDEAD
+LocoCycle,Xbox One,Driving,48,3.9,T,Twisted Pixel Games
+Lords of the Fallen,Xbox One,Role-Playing,71,6.7,M,City Interactive
+Lords of the Fallen: Complete Edition,Xbox One,Role-Playing,No score yet,6.2,,Deck 13
+Lost Sea,Xbox One,Strategy,59,7.3,E10+,EastAsiaSoft
+Lovely Planet,Xbox One,Action,65,6.0,,QUICKTEQUILA
+Lovers in a Dangerous Spacetime,Xbox One,Platformer,82,7.6,E10+,Asteroid Base
+Lumo,Xbox One,Action,73,tbd,E10+,Triple Eh? Ltd
+Mad Max,Xbox One,Action,72,7.7,M,Avalanche Studios
+Madden NFL 15,Xbox One,Sports,80,6.4,E,EA Sports
+Madden NFL 16,Xbox One,Sports,84,6.1,E,EA Sports
+Madden NFL 17,Xbox One,Sports,83,5.8,E,EA Sports
+Madden NFL 25,Xbox One,Sports,73,5.9,E,EA Sports
+Mafia III,Xbox One,Action Adventure,67,4.7,M,Hangar 13
+Magic Duels: Origins,Xbox One,Strategy,No score yet,5.2,T,Stainless Games
+Magic: Duels of the Planeswalkers 2015,Xbox One,Strategy,59,5.3,T,Wizards of the Coast
+Magnetic: Cage Closed,Xbox One,Adventure,55,tbd,T,Guru Games
+MagNets: Fully Charged,Xbox One,Action,49,4.1,E10+,Total Monkery
+Maldita Castilla EX: Cursed Castilla,Xbox One,Action,81,7.4,T,Locomalito
+Mantis Burn Racing,Xbox One,Racing,78,8.9,,VooFoo Studios
+Manual Samuel,Xbox One,Role-Playing,69,tbd,T,Perfectly Paranormal
+Mark McMorris Infinite Air,Xbox One,Sports,No score yet,7.4,T,HB Studios Multimedia
+Marvel: Ultimate Alliance,Xbox One,Role-Playing,No score yet,5.6,T,Raven Software
+Marvel: Ultimate Alliance 2,Xbox One,Role-Playing,No score yet,8.7,T,Vicarious Visions
+Masquerade: The Baubles of Doom,Xbox One,Action,No score yet,8.4,T,Big Ant Studios
+Massive Chalice,Xbox One,Strategy,72,6.7,T,Double Fine Productions
+Max: The Curse of Brotherhood,Xbox One,Action Adventure,72,7.3,E10+,Press Play
+McDROID,Xbox One,Strategy,63,tbd,E,Elefantopia LLC
+Mega Coin Squad,Xbox One,Action,74,6.4,T,Big Pixel Studios
+Mega Man Legacy Collection,Xbox One,Miscellaneous,80,7.1,E,Digital Eclipse
+Metal Gear Solid V: Ground Zeroes,Xbox One,Action Adventure,76,5.4,M,Kojima Productions
+Metal Gear Solid V: Metal Gear Online,Xbox One,Action Adventure,No score yet,8.5,,Kojima Productions
+Metal Gear Solid V: The Phantom Pain,Xbox One,Action Adventure,95,7.3,M,Kojima Productions
+Metro Redux,Xbox One,Action,84,8.2,M,4A Games
+Metro: 2033 Redux,Xbox One,Action,No score yet,7.9,M,4A Games
+Metro: Last Light Redux,Xbox One,Action,No score yet,7.5,M,4A Games
+Middle-earth: Shadow of Mordor,Xbox One,Action Adventure,87,8.0,M,Monolith Productions
+Middle-earth: Shadow of Mordor - Game of the Year Edition,Xbox One,Action Adventure,No score yet,7.2,M,Monolith Productions
+Middle-earth: Shadow of Mordor - Lord of the Hunt,Xbox One,Action Adventure,No score yet,6.0,M,Monolith Productions
+Middle-earth: Shadow of Mordor - The Bright Lord,Xbox One,Action Adventure,61,7.1,M,Monolith Productions
+Mighty No. 9,Xbox One,Action,55,4.2,E10+,Inti Creates
+Minecraft: Story Mode - A Telltale Games Series,Xbox One,Fantasy,No score yet,5.1,E10+,Telltale Games
+Minecraft: Story Mode - Episode 1: The Order of the Stone,Xbox One,Action Adventure,77,4.1,E10+,Telltale Games
+Minecraft: Story Mode - Episode 2: Assembly Required,Xbox One,Action Adventure,61,3.7,E10+,Telltale Games
+Minecraft: Story Mode - Episode 3: The Last Place You Look,Xbox One,Action Adventure,75,5.6,E10+,Telltale Games
+Minecraft: Story Mode - Episode 4: A Block and a Hard Place,Xbox One,Action Adventure,71,5.1,E10+,Telltale Games
+Minecraft: Story Mode - Episode 5: Order Up!,Xbox One,Action Adventure,69,5.2,E10+,Telltale Games
+Minecraft: Story Mode - Episode 6: A Portal to Mystery,Xbox One,Action Adventure,71,6.2,E10+,Telltale Games
+Minecraft: Story Mode - Episode 7: Access Denied,Xbox One,Action Adventure,71,tbd,E10+,Telltale Games
+Minecraft: Xbox One Edition,Xbox One,Action Adventure,88,6.8,E10+,4J Studios
+Mirror's Edge Catalyst,Xbox One,Action,72,4.4,T,EA DICE
+Mitsurugi Kamui Hikae,Xbox One,Action,No score yet,8.3,T,Zenith Blue
+Monochroma,Xbox One,Action,66,tbd,T,Nowhere Studios
+Monopoly Plus,Xbox One,Miscellaneous,No score yet,6.6,E,Asobo Studio
+Monopoly: Family Fun Pack,Xbox One,Miscellaneous,No score yet,6.7,E,Ubisoft
+Mortal Kombat X,Xbox One,Action,86,7.3,M,Warner Bros. Interactive Entertainment
+Mortal Kombat XL,Xbox One,Action,No score yet,6.4,M,NetherRealm Studios
+Mount & Blade: Warband,Xbox One,Role-Playing,57,8.6,T,Taleworlds
+Murdered: Soul Suspect,Xbox One,Action,51,7.0,M,Airtight Games
+MX vs. ATV Supercross Encore,Xbox One,Racing,45,tbd,,Rainbow Studios
+MXGP2: The Official Motocross Videogame,Xbox One,Racing,59,7.2,E,Milestone S.r.l
+Mystery Castle,Xbox One,Puzzle,73,tbd,E,Runestone Games Limited
+N.E.R.O.: Nothing Ever Remains Obscure,Xbox One,Miscellaneous,64,7.9,E,Storm in a Teacup
+Naruto Shippuden: Ultimate Ninja Storm 4,Xbox One,Action,81,8.4,T,CyberConnect2
+NASCAR Heat Evolution,Xbox One,Racing,No score yet,1.6,E,Dusenberry Martin Racing
+NBA 2K14,Xbox One,Basketball,86,5.7,E,Visual Concepts
+NBA 2K15,Xbox One,Sports,82,6.3,E,Visual Concepts
+NBA 2K16,Xbox One,Action,86,6.2,E10+,Visual Concepts
+NBA 2K17,Xbox One,Sports,92,6.9,E,Visual Concepts
+NBA Live 14,Xbox One,Basketball,36,3.1,E,EA Sports
+NBA Live 15,Xbox One,Sports,53,6.8,E,EA Sports
+NBA Live 16,Xbox One,Sports,60,5.6,E,EA Sports
+Necropolis,Xbox One,Action Adventure,64,tbd,,Harebrained Schemes LLC
+Need for Speed,Xbox One,Racing,65,7.8,T,Ghost Games
+Need for Speed: Rivals,Xbox One,Driving,75,5.8,E10+,Ghost Games
+Neon Chrome,Xbox One,Action,72,tbd,T,10tons Entertainment
+Never Alone,Xbox One,Action,66,7.0,E10+,Upper One Games
+Neverwinter,Xbox One,Role-Playing,66,4.9,T,Cryptic Studios
+NHL 15,Xbox One,Sports,59,3.2,E10+,EA Sports
+NHL 16,Xbox One,Sports,80,6.0,E10+,EA Sports
+NHL 17,Xbox One,Sports,77,4.1,E10+,EA Canada
+Nightmares from the Deep 2: The Siren's Call,Xbox One,General,69,tbd,E10+,Artifex Mundi
+Ninja Pizza Girl,Xbox One,Action,63,tbd,E10+,Disparity Games
+No Time to Explain,Xbox One,Action,52,5.2,T,tiny Build GAMES
+Not A Hero: Super Snazzy Edition,Xbox One,Action,75,tbd,M,roll7
+Nutjitsu,Xbox One,Action,50,4.4,E,NinjaBee
+Oceanhorn: Monster of Uncharted Seas,Xbox One,Action Adventure,72,8.2,E10+,Cornfox & Bros.
+Octodad: Dadliest Catch,Xbox One,Adventure,No score yet,7.8,E10+,Young Horses
+Oddworld: Abe's Oddysee - New 'n' Tasty,Xbox One,Action,86,8.4,T,Just Add Water
+OlliOlli,Xbox One,Sports,78,6.8,E,Tom Hegarty
+OlliOlli2: XL Edition,Xbox One,Sports,83,6.0,T,roll7
+One Piece: Burning Blood,Xbox One,Action,60,6.4,T,Spike Chunsoft
+Onigiri,Xbox One,Role-Playing,No score yet,8.5,,Cyberstep
+Organic Panic,Xbox One,Puzzle,66,tbd,,Last Limb Games
+Ori and the Blind Forest,Xbox One,Action,88,8.5,E,Moon Studios
+Ori and the Blind Forest: Definitive Edition,Xbox One,Action,88,7.3,E,Moon Studios
+Outlast,Xbox One,Action Adventure,80,7.9,M,Red Barrels
+Overcooked,Xbox One,Action,78,5.8,E,Ghost Town Games Ltd.
+Overlord: Fellowship of Evil,Xbox One,Role-Playing,36,3.6,T,Codemasters
+Overwatch,Xbox One,Action,91,5.6,T,Blizzard Entertainment
+Oxenfree,Xbox One,Action Adventure,78,7.0,,Night School Studio
+Pac-Man 256,Xbox One,Action,80,6.3,E,HIPSTER WHALE
+Pac-Man Championship Edition 2,Xbox One,Action,76,8.4,E,Bandai Namco Games
+Paranautical Activity,Xbox One,Action,48,4.3,T,Code Avarice
+Party Hard,Xbox One,Action,51,6.4,M,Pinokl Games
+Payday 2: Crimewave Edition,Xbox One,Action,65,3.2,M,Overkill Software
+Peggle 2,Xbox One,Miscellaneous,77,7.2,E,PopCap
+Peggle 2: Jimmy Lightning DLC Pack,Xbox One,Miscellaneous,No score yet,6.8,E,
+Peggle 2: The Windy's Master Pack,Xbox One,Miscellaneous,No score yet,5.1,E,
+Penarium,Xbox One,Action,72,tbd,T,Self Made Miracle
+Pharaonic,Xbox One,Role-Playing,71,tbd,M,Milkstone Studios
+Pier Solar and the Great Architects,Xbox One,Role-Playing,No score yet,5.5,T,Watermelon Development
+Pinball FX 2,Xbox One,Action,85,7.0,E10+,Zen Studios
+Pinball FX 2: Guardians of the Galaxy,Xbox One,Action,No score yet,7.8,E10+,Zen Studios
+Pinball FX 2: Iron and Steel Pack,Xbox One,Action,74,tbd,,Zen Studios
+Pixel Piracy,Xbox One,Strategy,53,3.1,T,Abstraction Games
+Plague Inc: Evolved,Xbox One,Strategy,80,7.5,E10+,Ndemic Creations
+Plants vs Zombies: Garden Warfare,Xbox One,Action,76,7.4,E10+,PopCap
+Plants vs Zombies: Garden Warfare 2,Xbox One,Action,80,8.1,E10+,PopCap
+Platinum Demo: Final Fantasy XV,Xbox One,Role-Playing,No score yet,5.8,,Square Enix
+Pneuma: Breath of Life,Xbox One,Sci-Fi,63,6.8,E,Deco Digital
+Pool Nation FX,Xbox One,Sports,No score yet,5.4,E,Cherry Pop Games
+Powerstar Golf,Xbox One,Golf,65,5.7,E,Zoe Mode
+Prison Architect,Xbox One,Strategy,74,6.7,M,Introversion
+Pro Evolution Soccer 2015,Xbox One,Action,79,7.3,E,Konami
+Pro Evolution Soccer 2016,Xbox One,Sports,85,6.3,E,Konami
+Pro Evolution Soccer 2017,Xbox One,Sports,88,6.3,E,Konami
+Professional Farmer 2017,Xbox One,Simulation,33,tbd,E,Visual Imagination Software
+Project CARS,Xbox One,Driving,81,5.8,E,Slightly Mad Studios
+Project CARS: Game of the Year Edition,Xbox One,Racing,80,tbd,,Slightly Mad Studios
+Project Root,Xbox One,Action,38,5.0,T,Pablo Testa
+Project Spark,Xbox One,Action,73,6.9,E10+,Microsoft Game Studios
+Prototype,Xbox One,Action Adventure,No score yet,4.2,M,Radical Entertainment
+Prototype 2,Xbox One,Action Adventure,No score yet,5.5,M,Radical Entertainment
+Prototype Biohazard Bundle,Xbox One,Miscellaneous,56,3.1,M,Radical Entertainment
+Pumped BMX +,Xbox One,Racing,56,tbd,E,Yeah Us!
+Pure Hold 'Em,Xbox One,Miscellaneous,No score yet,4.3,T,VooFoo Studios
+Pure Pool,Xbox One,Alternative,68,7.9,E,VooFoo Studios
+Q*bert: Rebooted: The XBOX One @!#?@! Edition,Xbox One,Action,56,4.8,E10+,GPC Games
+Q.U.B.E. Director's Cut,Xbox One,Miscellaneous,76,6.9,T,Toxic Games
+Quantum Break,Xbox One,Action,77,6.8,M,Remedy Entertainment
+Quantum Rush Champions,Xbox One,Racing,54,tbd,E,GameArt Studio GmbH
+Quest of Dungeons,Xbox One,Role-Playing,76,tbd,E10+,Upfall Studios
+Quiplash,Xbox One,Miscellaneous,83,8.5,T,Jackbox Games
+R.B.I. Baseball 14,Xbox One,Sports,No score yet,5.1,E,MLB.com
+R.B.I. Baseball 15,Xbox One,Sports,46,4.8,E,MLB.com
+R.B.I. Baseball 16,Xbox One,Sports,34,4.8,E,MLB AM
+Rabbids Invasion,Xbox One,Action,53,5.8,E10+,Ubisoft
+Raiden V,Xbox One,Action,75,7.4,E,Moss
+Rare Replay,Xbox One,Miscellaneous,84,7.7,M,Rare Ltd.
+Rayman Legends,Xbox One,Action,91,7.9,E10+,Ubisoft Montpellier
+Reagan Gorbachev,Xbox One,Puzzle,59,tbd,M,Team2Bit
+Rebel Galaxy,Xbox One,Action,76,7.1,T,Double Damage Games
+ReCore,Xbox One,Action Adventure,63,6.6,T,Armature Studio
+Resident Evil 0: HD Remaster,Xbox One,Action Adventure,69,7.3,M,Capcom
+Resident Evil 4,Xbox One,Action Adventure,76,7.3,M,Capcom
+Resident Evil 5,Xbox One,Action Adventure,75,8.1,M,Capcom
+Resident Evil 6,Xbox One,Action Adventure,63,6.2,M,Capcom
+Resident Evil HD Remaster,Xbox One,Horror,82,7.9,M,Capcom
+Resident Evil: Origins Collection,Xbox One,Miscellaneous,No score yet,6.5,M,Capcom
+Resident Evil: Revelations 2,Xbox One,Horror,75,7.5,M,Capcom
+Resident Evil: Revelations 2 - Episode 1: Penal Colony,Xbox One,Action Adventure,73,7.5,M,Capcom
+Resident Evil: Revelations 2 - Episode 2: Contemplation,Xbox One,Action Adventure,74,8.0,M,Capcom
+Resident Evil: Revelations 2 - Episode 3: Judgment,Xbox One,Action Adventure,73,7.8,M,Capcom
+Resident Evil: Revelations 2 - Episode 4: Metamorphosis,Xbox One,Action Adventure,74,8.1,M,Capcom
+Reus,Xbox One,Strategy,62,tbd,,Soedesco
+RIDE,Xbox One,Racing,54,5.3,E,Milestone S.r.l
+Ride 2,Xbox One,Racing,No score yet,9.6,E,Milestone S.r.l
+Riptide GP2,Xbox One,Driving,65,7.7,E,Vector Unit Inc.
+Rise of the Tomb Raider,Xbox One,Fantasy,86,8.0,M,Crystal Dynamics
+Rise of the Tomb Raider: Baba Yaga - The Temple of the Witch,Xbox One,Action Adventure,73,7.8,M,Crystal Dynamics
+Rise of the Tomb Raider: Blood Ties,Xbox One,Action Adventure,No score yet,8.8,,Crystal Dynamics
+Rise of the Tomb Raider: Cold Darkness Awakened,Xbox One,Action Adventure,68,5.8,,Nixxes Software
+RISK,Xbox One,Miscellaneous,No score yet,6.4,E10+,Zoe Mode
+Risk: Urban Assault,Xbox One,Strategy,No score yet,5.4,E10+,Zoe Mode
+ROBLOX,Xbox One,Action Adventure,No score yet,4.1,E10+,ROBLOX
+Rock 'N Racing Grand Prix,Xbox One,Racing,37,5.0,E,EnjoyUp Games
+Rock 'N Racing Off Road DX,Xbox One,Racing,29,tbd,E,EnjoyUp Games
+Rock Band 4,Xbox One,Action,79,6.4,T,Harmonix Music Systems
+Rock Band Rivals,Xbox One,Action,81,tbd,,Harmonix Music Systems
+Rock Zombie,Xbox One,Action,42,4.5,T,Quaternion Studio
+Rocket League,Xbox One,Sports,87,8.3,E,Psyonix
+Rocksmith 2014 Edition,Xbox One,Action,72,7.9,T,Ubisoft
+Rogue Legacy,Xbox One,Action,84,7.2,E10+,Cellar Door Games
+Rory McIlroy PGA Tour,Xbox One,Traditional,60,4.3,E,EA Tiburon
+Roundabout,Xbox One,Driving,74,4.6,M,No Goblin
+Rugby 15,Xbox One,Alternative,20,3.1,E,HB Studios Multimedia
+Rugby Challenge 3,Xbox One,Sports,No score yet,6.6,E,Wicked Witch Software
+Rugby League Live 3,Xbox One,Sports,No score yet,7.1,E,Big Ant Studios
+Rugby World Cup 2015,Xbox One,Sports,No score yet,4.3,E,HB Studios Multimedia
+Ryse: Son of Rome,Xbox One,Action Adventure,60,6.1,M,Crytek
+Saints Row IV: Re-Elected,Xbox One,Action Adventure,73,7.0,M,Volition Inc.
+Saints Row: Gat Out of Hell,Xbox One,Action Adventure,65,6.0,M,Volition Inc.
+Saturday Morning RPG,Xbox One,Role-Playing,No score yet,8.7,E10+,Mighty Rabbit Studios
+Schrodinger's Cat and the Raiders of the Lost Quark,Xbox One,Action,67,tbd,E,Italic Pig
+ScreamRide,Xbox One,Simulation,71,4.8,E10+,Frontier Developments
+Screencheat,Xbox One,Action,72,tbd,E10+,Samurai Punk
+Sebastien Loeb Rally Evo,Xbox One,Racing,63,8.2,E,Milestone S.r.l
+Shadow Complex Remastered,Xbox One,Action,74,6.9,T,Chair Entertainment
+Shadow Warrior,Xbox One,Action,74,7.9,M,Flying Wild Hog
+Shantae and the Pirate's Curse,Xbox One,Action,79,7.8,E10+,WayForward
+Shape Up,Xbox One,Miscellaneous,58,8.3,E,Ubisoft Montreal
+Sheltered,Xbox One,Strategy,69,tbd,T,Unicube
+Sherlock Holmes: Crimes & Punishments,Xbox One,Adventure,72,6.8,M,Frogwares
+Sherlock Holmes: The Devil's Daughter,Xbox One,Adventure,66,7.7,T,Frogwares
+Shiftlings,Xbox One,Action,63,5.8,T,Rock Pocket Games
+Shovel Knight,Xbox One,Action,86,7.5,E,Yacht Club Games
+Shovel Knight: Plague of Shadows,Xbox One,Action,No score yet,8.1,E,Yacht Club Games
+Shred It!,Xbox One,Action,53,tbd,E,EM Studios Ltd
+Sixty Second Shooter Prime,Xbox One,Action,61,7.2,E,Happion Laboratories
+Skylanders Imaginators,Xbox One,Action,77,8.0,E10+,Toys for Bob
+Skylanders SuperChargers,Xbox One,Action,76,5.5,E10+,Vicarious Visions
+Skylanders Swap Force,Xbox One,Action,No score yet,5.5,E10+,Vicarious Visions
+Skylanders Trap Team,Xbox One,Action,78,7.1,E10+,Toys for Bob
+Skyling: Garden Defense,Xbox One,Action,50,tbd,E,Mighty Studios LLC
+Sleeping Dogs: Definitive Edition,Xbox One,Action Adventure,75,7.4,M,United Front Games
+Slender: The Arrival,Xbox One,Adventure,59,7.1,T,Blue Isle Studios
+Slice Zombies for Kinect,Xbox One,Action,No score yet,6.2,T,MADE GmbH
+SMITE,Xbox One,Strategy,80,7.7,T,Hi-Rez Studios
+Sniper Elite III,Xbox One,Action,63,6.6,M,Rebellion
+So Many Me,Xbox One,Puzzle,82,6.2,E,Extend Studio
+Soda Drinker Pro,Xbox One,Miscellaneous,31,4.4,E,Snowrunner Games
+Solar Shifter EX,Xbox One,Action,53,tbd,E,Elder Games
+Song of the Deep,Xbox One,Action Adventure,66,6.7,E,Insomniac Games
+Soul Axiom,Xbox One,Adventure,54,tbd,T,Wales Interactive Ltd.
+Spareware,Xbox One,Action,No score yet,5.8,T,Rusto
+Sparkle 2,Xbox One,Puzzle,63,tbd,E,10tons Entertainment
+Sparkle Unleashed,Xbox One,Puzzle,62,7.0,E,10tons Entertainment
+Spectra: 8bit Racing,Xbox One,Driving,52,6.5,E,Gateway Interactive
+Spy Chameleon,Xbox One,Puzzle,71,6.4,E,Unfinished Pixel
+Star Trek Online,Xbox One,Role-Playing,No score yet,5.7,T,Cryptic Studios
+Star Wars Battlefront,Xbox One,Action,75,4.5,T,EA DICE
+Star Wars Battlefront: Outer Rim,Xbox One,Action,No score yet,3.0,T,EA DICE
+Stardust Galaxy Warriors: Stellar Climax,Xbox One,Action,85,8.9,E,Dreamloop Games
+Starpoint Gemini 2,Xbox One,Strategy,71,7.8,T,Little Green Men
+Starwhal,Xbox One,Action,69,tbd,E10+,Breakfall
+State of Decay: Year One Survival Edition,Xbox One,Horror,72,7.1,M,Undead Labs
+Stealth Inc 2: A Game of Clones,Xbox One,Action,82,6.9,T,Curve Digital
+SteamWorld Dig,Xbox One,Action,83,7.1,E10+,Image & Form
+Steredenn,Xbox One,Action,79,7.0,E10+,Pixelnest Studio
+Stick it to the Man!,Xbox One,Action,76,7.1,T,Zoink!
+Stikbold! A Dodgeball Adventure,Xbox One,Action,72,8.8,E,Reign Bros
+Stories of Bethem: Full Moon,Xbox One,Role-Playing,75,tbd,,GuGames DEV
+Stranger of Sword City,Xbox One,Role-Playing,70,7.4,T,Experience Inc.
+Strider,Xbox One,Action Adventure,76,6.9,E10+,Double Helix Games
+Strike Suit Zero: Director's Cut,Xbox One,Action,67,5.7,T,Born Ready Games
+Styx: Master of Shadows,Xbox One,Action Adventure,69,7.1,M,Cyanide
+Submerged,Xbox One,Action Adventure,57,6.6,E10+,Uppercut Games Pty Ltd
+Sunset Overdrive,Xbox One,Action,81,7.7,M,Insomniac Games
+Sunset Overdrive and the Mystery of the Mooil Rig!,Xbox One,Action,65,7.5,M,Insomniac Games
+Sunset Overdrive: Dawn of the Rise of the Fallen Machines,Xbox One,Action,No score yet,5.8,,Insomniac Games
+Super Mega Baseball: Extra Innings,Xbox One,Sports,80,7.6,E,Metalhead Software
+Super Mutant Alien Assault,Xbox One,Action,62,tbd,T,Cybernate
+Super Night Riders,Xbox One,Racing,36,tbd,E,neko.works
+Super Time Force,Xbox One,Action,80,6.6,T,Capy Games
+Super Toy Cars,Xbox One,Racing,47,5.4,E,Eclipse Games
+Super Ultra Dead Rising 3' Arcade Remix Hyper Edition EX Plus Alpha,Xbox One,Action,75,6.0,M,Capcom Vancouver
+SUPERHOT,Xbox One,Modern,83,7.8,T,SUPERHOT
+Sword Coast Legends,Xbox One,Role-Playing,58,6.8,T,n-Space
+Tachyon Project,Xbox One,Action,74,7.8,E,Eclipse Games
+Tales from the Borderlands: A Telltale Game Series,Xbox One,Adventure,88,7.6,M,Telltale Games
+Tales From The Borderlands: Episode 1 - Zer0 Sum,Xbox One,Miscellaneous,82,8.3,M,Telltale Games
+Tales From The Borderlands: Episode 2 - Atlas Mugged,Xbox One,Adventure,78,8.0,M,Telltale Games
+Tales From The Borderlands: Episode 3 - Catch A Ride,Xbox One,Adventure,65,7.1,M,Telltale Games
+Tales From The Borderlands: Episode 4 - Escape Plan Bravo,Xbox One,Adventure,No score yet,8.4,M,Telltale Games
+Tales From The Borderlands: Episode 5 - The Vault of the Traveler,Xbox One,Adventure,No score yet,8.2,M,Telltale Games
+Teenage Mutant Ninja Turtles: Mutants in Manhattan,Xbox One,Action,55,6.0,T,PlatinumGames
+Tembo the Badass Elephant,Xbox One,Action Adventure,70,7.3,E10+,Game Freak
+Terraria,Xbox One,Action,84,7.7,T,Engine Software
+Teslagrad,Xbox One,Action,76,tbd,E,Rain Games
+Teslapunk,Xbox One,Action,70,7.7,E,klutzGames
+Tetraminos,Xbox One,Puzzle,No score yet,7.0,E,Sanuk Games
+Tetris Ultimate,Xbox One,Miscellaneous,59,4.3,E,Ubisoft
+Tetrobot and Co.,Xbox One,Puzzle,71,tbd,E,Swing Swing Submarine
+The Amazing Spider-Man 2,Xbox One,Action,46,5.2,T,Beenox
+The Banner Saga,Xbox One,Role-Playing,76,7.9,T,Stoic
+The Banner Saga 2,Xbox One,Strategy,84,8.1,T,Stoic Jester Studios
+The Binding of Isaac: Rebirth,Xbox One,Action,No score yet,7.7,M,Nicalis
+The Book of Unwritten Tales 2,Xbox One,Adventure,79,8.3,T,KING Art
+The Bridge,Xbox One,Puzzle,70,8.3,E,Ty Taylor and Mario Castaneda
+The Bunker,Xbox One,Adventure,66,6.1,T,Splendy Games
+The Crew,Xbox One,Racing,64,5.9,T,Ubisoft Reflections
+The Crew: Wild Run,Xbox One,Racing,65,6.9,T,Ivory Tower
+The Crew: Wild Run Edition,Xbox One,Racing,No score yet,7.5,T,Ivory Tower
+The Deer God,Xbox One,Action,59,4.1,T,Cinopt Studios LLC
+The Elder Scrolls Online: Tamriel Unlimited,Xbox One,First-Person,77,8.4,M,ZeniMax Media
+The Elder Scrolls Online: Tamriel Unlimited - Orsinium,Xbox One,Role-Playing,No score yet,3.6,M,ZeniMax Media
+The Elder Scrolls Online: Tamriel Unlimited - The Imperial City,Xbox One,Role-Playing,No score yet,9.0,M,ZeniMax Media
+The Elder Scrolls V: Skyrim Special Edition,Xbox One,Role-Playing,No score yet,6.4,M,Bethesda Game Studios
+The Escapists,Xbox One,Action,74,7.0,T,Mouldy Toof Studios
+The Escapists: The Walking Dead,Xbox One,Action,65,7.4,T,Team 17
+The Evil Within,Xbox One,Action Adventure,79,7.3,M,Tango Gameworks
+The Evil Within: The Assignment,Xbox One,Action Adventure,80,8.8,M,Tango Gameworks
+The Evil Within: The Consequence,Xbox One,Action Adventure,76,8.5,,Tango Gameworks
+The Evil Within: The Executioner,Xbox One,Action Adventure,No score yet,7.0,,Tango Gameworks
+The Fall,Xbox One,Action Adventure,No score yet,6.8,T,Over The Moon
+The Final Station,Xbox One,Action Adventure,70,tbd,M,tinyBuild
+The Flame in the Flood,Xbox One,Action Adventure,74,5.1,T,The Molasses Flood
+The Golf Club,Xbox One,Traditional,64,5.3,E,HB Studios Multimedia
+The Incredible Adventures of Van Helsing,Xbox One,Role-Playing,59,7.5,T,NeocoreGames
+The Incredible Adventures of Van Helsing II,Xbox One,Role-Playing,66,tbd,T,NeocoreGames
+The Jackbox Party Pack,Xbox One,Miscellaneous,78,8.0,T,Jackbox Games
+The Jackbox Party Pack 2,Xbox One,Miscellaneous,80,tbd,T,Jackbox Games
+The Legend of Korra,Xbox One,Action Adventure,49,6.2,T,PlatinumGames
+The LEGO Movie Videogame,Xbox One,Action Adventure,69,6.9,E10+,TT Games
+The Living Dungeon,Xbox One,Miscellaneous,63,tbd,T,RadiationBurn
+The Magic Circle: Gold Edition,Xbox One,Adventure,78,tbd,M,Question
+The Park,Xbox One,Action Adventure,61,6.7,M,Funcom
+The Peanuts Movie: Snoopy's Grand Adventure,Xbox One,Action,60,tbd,E,Activision
+The Pinball Arcade,Xbox One,Action,No score yet,7.9,E10+,Farsight Studios
+The Solus Project,Xbox One,Action,69,5.8,T,Grip Games
+The Swapper,Xbox One,Action,92,7.4,E10+,Facepalm Games
+The Technomancer,Xbox One,Role-Playing,68,7.4,M,Spiders
+The Turing Test,Xbox One,Action,80,7.9,T,Bulkhead Interactive
+The Walking Dead: A Telltale Games Series - The Complete First Season,Xbox One,Miscellaneous,No score yet,8.3,M,Telltale Games
+The Walking Dead: Michonne - Episode 1: In Too Deep,Xbox One,Adventure,65,7.2,M,Skybound LLC
+The Walking Dead: Michonne - Episode 2: Give No Shelter,Xbox One,Adventure,78,6.3,M,Telltale Games
+The Walking Dead: Michonne - Episode 3: What We Deserve,Xbox One,Adventure,73,7.5,M,Telltale Games
+The Walking Dead: Season Two - A Telltale Games Series,Xbox One,Action,No score yet,7.9,M,Telltale Games
+The Witcher 3: Wild Hunt,Xbox One,Role-Playing,91,9.2,M,CD Projekt Red Studio
+The Witcher 3: Wild Hunt - Blood and Wine,Xbox One,Role-Playing,94,8.5,M,CD Projekt Red Studio
+The Witcher 3: Wild Hunt - Complete Edition,Xbox One,Role-Playing,No score yet,8.7,M,CD Projekt Red Studio
+The Witcher 3: Wild Hunt - Hearts of Stone,Xbox One,Role-Playing,90,9.1,M,CD Projekt Red Studio
+The Witness,Xbox One,Adventure,86,7.3,E,Thekla
+The Wolf Among Us,Xbox One,Action Adventure,No score yet,8.5,M,Telltale Games
+Thief,Xbox One,Action Adventure,69,5.9,M,Eidos Montreal
+This War of Mine: The Little Ones,Xbox One,Strategy,78,7.2,M,11 bit studios
+Thomas Was Alone,Xbox One,Action,No score yet,6.6,E,Mike Bithell
+Three Fourths Home: Extended Edition,Xbox One,Adventure,64,3.3,M,[bracket]games
+Threes!,Xbox One,Miscellaneous,No score yet,6.8,E,Hidden Variable Studios
+Tiny Troopers: Joint Ops,Xbox One,Action,62,5.0,T,Kukouri Mobile Entertainment
+Titanfall,Xbox One,Action,86,6.4,M,Respawn Entertainment
+Titanfall 2,Xbox One,Action,91,7.3,M,Respawn Entertainment
+Titanfall: Expedition,Xbox One,Action,73,4.7,M,Respawn Entertainment
+Titanfall: Frontier's Edge,Xbox One,Action,75,5.9,,Respawn Entertainment
+Ultratron,Xbox One,Action,74,6.3,E,Puppy Games
+Unepic,Xbox One,Action,75,6.3,T,EnjoyUp Games
+Unmechanical: Extended Edition,Xbox One,Action,66,7.8,E,Grip Games
+Uno,Xbox One,Miscellaneous,57,6.7,E,Ubisoft Chengdu
+Unravel,Xbox One,Action,75,8.4,E,Coldwood Interactive
+Valentino Rossi The Game,Xbox One,Racing,74,8.1,E,Milestone S.r.l
+Valiant Hearts: The Great War,Xbox One,Action,81,8.0,T,Ubisoft Montpellier
+Valley,Xbox One,Action Adventure,68,7.9,T,Blue Isle Studios
+Velocity 2X,Xbox One,Action,84,7.3,E10+,FuturLab
+Virginia,Xbox One,Adventure,80,7.0,M,505 Games
+Volgarr the Viking,Xbox One,Action,77,6.2,T,Crazy Viking Studios
+Warframe,Xbox One,Action,62,6.3,M,Digital Extremes
+Warhammer: End Times - Vermintide,Xbox One,Action,78,8.7,M,Fatshark AB
+Warriors Orochi 3 Ultimate,Xbox One,Action,73,7.2,T,Omega Force
+Wasteland 2: Director's Cut,Xbox One,Role-Playing,77,7.1,M,InXile Entertainment
+Watch Dogs,Xbox One,Action Adventure,78,5.8,M,Ubisoft Montreal
+Watch Dogs: Bad Blood,Xbox One,Action Adventure,77,5.6,M,Ubisoft Montreal
+Watch Dogs: Complete Edition,Xbox One,Action Adventure,No score yet,6.6,,Ubisoft
+WE ARE DOOMED,Xbox One,Action,58,tbd,E,Vertex Pop
+Whispering Willows,Xbox One,Adventure,57,6.6,T,Abstraction Games
+White Night,Xbox One,Action,61,7.7,M,OSome Studio
+Wolfenstein: The New Order,Xbox One,Action,79,7.8,M,MachineGames
+Wolfenstein: The Old Blood,Xbox One,Action,75,8.0,,MachineGames
+Wondershot,Xbox One,Action,65,tbd,E10+,Leikir Studio
+World of Tanks,Xbox One,Action,76,6.1,T,Wargaming.net
+Worms Battlegrounds,Xbox One,Strategy,70,6.4,E10+,Team 17
+Worms W.M.D,Xbox One,Strategy,75,8.1,E10+,Team 17
+WRC 5,Xbox One,Racing,70,6.0,E,Kylotonn
+WRC 6: FIA World Rally Championship,Xbox One,Racing,68,tbd,E,Kylotonn
+WWE 2K15,Xbox One,Action,56,5.7,T,Yuke's
+WWE 2K16,Xbox One,Action,72,5.7,T,Yuke's
+WWE 2K17,Xbox One,Sports,72,6.2,T,Yuke's
+Xbox Fitness,Xbox One,Miscellaneous,71,6.0,E,Sumo Digital
+Xbox One,Xbox One,Hardware,No score yet,6.5,,Microsoft Game S
+#KILLALLZOMBIES,PlayStation 4,Action,63,6.5,T,Beatshapers
+10 Second Ninja X,PlayStation 4,Action,76,7.0,T,GameDesignDan
+1001 Spikes,PlayStation 4,Action,78,6.7,T,Nicalis
+100ft Robot Golf,PlayStation 4,Sports,54,6.4,E10+,No Goblin
+101 Ways to Die,PlayStation 4,Action,60,5.0,T,4 Door Lemon
+140,PlayStation 4,Action,72,tbd,E,Jeppe Carlsen
+5 Star Wrestling: ReGenesis,PlayStation 4,Sports,No score yet,1.4,T,Serious Parody
+7 Days to Die,PlayStation 4,Action,45,5.9,M,The Fun Pimps Entertainment LLC
+A Bastard's Tale,PlayStation 4,Action,48,6.0,T,No Pest Productions
+A Boy and His Blob,PlayStation 4,Action,66,7.3,E,Abstraction Games
+Aaru's Awakening,PlayStation 4,Action,59,1.8,E,Lumenox ehf
+Absolute Drift: Zen Edition,PlayStation 4,Racing,78,6.8,E,Flippfly
+Abyss Odyssey: Extended Dream Edition,PlayStation 4,Action Adventure,65,6.0,T,ACE Team
+ABZU,PlayStation 4,Fantasy,77,7.6,E,Giant Squid
+Ace Banana,PlayStation 4,Action,38,4.5,E,TVR
+Aces of the Luftwaffe,PlayStation 4,General,No score yet,4.1,E10+,HandyGames
+Action Henk,PlayStation 4,Action,73,4.6,E,RageSquid
+Adam's Venture: Origins,PlayStation 4,Adventure,53,5.6,,Vertigo Games
+ADR1FT,PlayStation 4,Action,56,5.6,T,Three One Zero
+Adventure Time: Finn and Jake Investigations,PlayStation 4,Adventure,No score yet,6.7,E10+,Vicious Cycle
+Adventures of Pip,PlayStation 4,Action,74,8.5,E10+,TicToc Games
+Aegis of Earth: Protonovus Assault,PlayStation 4,Strategy,57,7.8,T,Acquire
+Afro Samurai 2: Revenge of Kuma Volume One,PlayStation 4,Action,21,2.8,M,Versus Evil
+Agatha Christie's The ABC Murders,PlayStation 4,Adventure,67,5.9,T,Microids
+AIPD - Artificial Intelligence Police Department,PlayStation 4,Action,62,tbd,E10+,Blazing Badger
+Air Conflicts: Pacific Carriers,PlayStation 4,Simulation,No score yet,4.9,T,Games Farm
+Air Conflicts: Vietnam Ultimate Edition,PlayStation 4,Action,30,2.2,T,bitComposer Entertainment AG
+AirMech Arena,PlayStation 4,Simulation,No score yet,6.2,E10+,Carbon Games
+Akiba's Trip: Undead & Undressed,PlayStation 4,Action Adventure,57,7.0,M,Acquire
+Albedo: Eyes from Outer Space,PlayStation 4,Action Adventure,55,tbd,T,Z4g0 and Ivan Venturi Productions
+Alekhine's Gun,PlayStation 4,Action Adventure,36,3.8,M,Maximum Games
+Alien: Isolation,PlayStation 4,Action Adventure,79,8.1,M,Creative Assembly
+Alien: Isolation - Safe Haven,PlayStation 4,Action Adventure,No score yet,7.4,M,Creative Assembly
+Alienation,PlayStation 4,Sci-Fi,79,8.0,M,Housemarque
+Alone With You,PlayStation 4,Adventure,72,7.4,T,Benjamin Rivers
+Amazing Discoveries In Outer Space,PlayStation 4,Action,71,5.5,E,Cosmic Picnic
+Among the Sleep,PlayStation 4,Adventure,65,6.7,T,Krillbite Studio
+Amplitude,PlayStation 4,Miscellaneous,74,7.9,E,Harmonix Music Systems
+Angry Birds Star Wars,PlayStation 4,Strategy,47,2.0,E,Exient Entertainment
+Anima: Gate of Memories,PlayStation 4,Role-Playing,52,7.9,T,Edge Entertainment
+Anomaly 2,PlayStation 4,Strategy,74,5.5,T,11 bit studios
+Another World: 20th Anniversary Edition,PlayStation 4,Action,53,6.0,T,The Digital Lounge
+Apotheon,PlayStation 4,Action,76,7.3,T,Alientrap
+Aqua Kitty: Milk Mine Defender DX,PlayStation 4,Action,74,5.4,E10+,Tikipod Limited
+Aragami,PlayStation 4,Action Adventure,71,7.1,M,Lince Works
+Arc the Lad: Twilight of the Spirits,PlayStation 4,Strategy,No score yet,8.5,T,Cattle Call
+The 'Arcade Archives' series has faithfully reproduced the masterpieces of classic arcade games on the PS4 system while taking advantage of the additional features the PS4 system offers.  Players can share play screens and video with the SHARE feature, and can also compete with other players online to improve your standing on the online score ranking leaderboard.,,,,,
+Arcade Archives: Rygar,PlayStation 4,Action,No score yet,4.5,E10+,Koei Tecmo Games
+Back to Bed,PlayStation 4,Action,62,5.0,E10+,Bedtime Digital Games
+Back to the Future: The Game,PlayStation 4,Adventure,No score yet,7.2,T,Telltale Games
+Backgammon Blitz,PlayStation 4,Miscellaneous,No score yet,5.9,E,VooFoo Studios
+BADLAND: Game of the Year Edition,PlayStation 4,Action,76,6.2,E,Frogmind
+Bard's Gold,PlayStation 4,Action,64,tbd,E,Erdem Sen
+Basement Crawl,PlayStation 4,Action,27,2.6,T,Bloober Team
+Bastion,PlayStation 4,Role-Playing,89,7.9,E10+,Supergiant Games
+Batman: Arkham Knight,PlayStation 4,General,87,7.6,M,Rocksteady Studios
+Batman: Arkham Knight - A Matter of Family,PlayStation 4,Action Adventure,61,6.5,M,Rocksteady Studios
+Batman: Arkham Knight - Catwoman's Revenge,PlayStation 4,Action Adventure,No score yet,6.0,M,Rocksteady Studios
+Batman: Arkham Knight - GCPD Lockdown,PlayStation 4,Action Adventure,No score yet,5.8,M,Rocksteady Studios
+Batman: Arkham Knight - Season of Infamy: Most Wanted,PlayStation 4,Action Adventure,79,7.9,M,Rocksteady Studios
+Batman: Arkham VR,PlayStation 4,Action,75,7.6,M,Rocksteady Studios
+Batman: Return to Arkham,PlayStation 4,Miscellaneous,72,8.5,T,Rocksteady Studios
+Batman: The Telltale Series,PlayStation 4,Action,No score yet,7.7,M,Telltale Games
+Batman: The Telltale Series - Episode 1: Realm of Shadows,PlayStation 4,Adventure,70,6.5,M,Telltale Games
+Batman: The Telltale Series - Episode 2: Children of Arkham,PlayStation 4,Adventure,66,7.5,M,Telltale Games
+Batman: The Telltale Series - Episode 3: New World Order,PlayStation 4,Adventure,80,8.1,M,Telltale Games
+Battle Ages,PlayStation 4,Strategy,No score yet,3.0,E10+,DR Studios
+Battle Islands,PlayStation 4,Action,No score yet,1.4,T,505 Games
+Battle Trivia Knockout,PlayStation 4,Miscellaneous,51,tbd,E,Happy Dance Games
+Battle Worlds: Kronos,PlayStation 4,Strategy,62,tbd,,KING Art
+Battleborn,PlayStation 4,Sci-Fi,68,6.8,T,Gearbox Software
+Battlefield 1,PlayStation 4,Action,88,8.6,M,EA DICE
+Battlefield 4,PlayStation 4,Action,85,6.9,M,EA DICE
+Battlefield 4: China Rising,PlayStation 4,Action,No score yet,5.9,M,
+Battlefield 4: Dragon's Teeth,PlayStation 4,Action,No score yet,5.9,M,EA DICE
+Battlefield 4: Final Stand,PlayStation 4,Action,No score yet,6.9,M,EA DICE
+Battlefield 4: Naval Strike,PlayStation 4,Action,No score yet,6.4,M,EA DICE
+Battlefield 4: Premium Edition,PlayStation 4,Action,No score yet,6.7,M,EA DICE
+Battlefield 4: Second Assault,PlayStation 4,Action,No score yet,6.6,M,Dice
+Battlefield Hardline,PlayStation 4,Modern,73,5.0,M,Visceral Games
+Battlezone,PlayStation 4,Action,63,6.9,T,Rebellion
+Beach Buggy Racing,PlayStation 4,Action,No score yet,6.8,E,Vector Unit
+Bears Can't Drift!?,PlayStation 4,Racing,53,tbd,E10+,Strangely Named Studio
+Bedlam,PlayStation 4,Action,53,6.2,M,Standfast Interactive
+Beyond Eyes,PlayStation 4,Action Adventure,52,3.6,E,tiger & squid
+Beyond: Two Souls,PlayStation 4,Adventure,72,7.8,M,Quantic Dream
+Big City Stories,PlayStation 4,Strategy,No score yet,6.3,T,Hellfire Games
+Binaries,PlayStation 4,Action,71,tbd,E,Ant Workshop Ltd
+BioShock: The Collection,PlayStation 4,Action,84,8.6,M,2K Games
+Blacklight: Retribution,PlayStation 4,Action,58,6.2,T,Zombie Studios
+Bladestorm: Nightmare,PlayStation 4,Action,58,6.5,T,Omega Force
+BlazBlue: Chrono Phantasma Extend,PlayStation 4,Action,80,7.6,T,Arc System Works
+BlazeRush,PlayStation 4,Racing,No score yet,7.4,E10+,Targem Games
+Blood Bowl 2,PlayStation 4,Sports,72,7.5,T,Cyanide
+Bloodborne,PlayStation 4,Fantasy,92,8.6,M,From Software
+Bloodborne: Complete Edition,PlayStation 4,Role-Playing,No score yet,9.4,M,From Software
+Bloodborne: The Old Hunters,PlayStation 4,Role-Playing,87,9.0,M,From Software
+Blue Estate,PlayStation 4,Action,49,5.8,M,HeSaw
+Blues and Bullets - Episode 1: The End of Peace,PlayStation 4,Action Adventure,86,5.1,,A Crowd of Monsters
+Blues and Bullets - Episode 2: Shaking The Hive,PlayStation 4,Action Adventure,No score yet,4.8,,A Crowd of Monsters
+Boggle,PlayStation 4,Miscellaneous,No score yet,7.2,E,Frima Studio
+Borderlands: The Handsome Collection,PlayStation 4,Miscellaneous,82,7.8,M,Gearbox Software
+Bounce Rescue!,PlayStation 4,Action,56,tbd,E10+,Bitecore
+Bound,PlayStation 4,Action,72,7.4,E10+,SCE Santa Monica
+Bound by Flame,PlayStation 4,Role-Playing,53,6.0,M,Spiders
+BRAWL,PlayStation 4,Action,62,6.3,M,Bloober Team
+BROFORCE,PlayStation 4,Action,68,6.3,M,Free Lives
+Broken Age,PlayStation 4,Third-Person,81,7.4,E10+,Double Fine Productions
+Broken Sword 5: The Serpent's Curse,PlayStation 4,Adventure,72,7.2,T,Revolution Software
+Brothers: A Tale of Two Sons,PlayStation 4,Action Adventure,81,8.6,T,Starbreeze
+Brut@l,PlayStation 4,Action Adventure,68,6.1,T,Stormcloud Games Limited
+Bully,PlayStation 4,Action Adventure,No score yet,8.0,T,Rockstar Vancouver
+Cabela's African Adventures,PlayStation 4,Sports,No score yet,4.6,T,FUN Labs
+Call of Duty: Advanced Warfare,PlayStation 4,Action,83,5.7,M,Sledgehammer Games
+Call of Duty: Advanced Warfare - Ascendance,PlayStation 4,Action,No score yet,6.2,M,Sledgehammer Games
+Call of Duty: Advanced Warfare - Havoc,PlayStation 4,Action,No score yet,6.1,M,Sledgehammer Games
+Call of Duty: Black Ops III,PlayStation 4,Action,81,4.6,M,Treyarch
+Call of Duty: Black Ops III - Awakening,PlayStation 4,Action,74,5.3,,Treyarch
+Call of Duty: Black Ops III - Descent,PlayStation 4,Action,68,tbd,M,Treyarch
+Call of Duty: Black Ops III - Eclipse,PlayStation 4,Action,74,4.0,,Treyarch
+Call of Duty: Black Ops III - Salvation,PlayStation 4,Action,74,tbd,,Treyarch
+Call of Duty: Ghosts,PlayStation 4,Action,78,3.6,M,Infinity Ward
+Call of Duty: Ghosts - Devastation,PlayStation 4,Action,No score yet,5.1,M,Infinity Ward
+Call of Duty: Ghosts - Gold Edition,PlayStation 4,Action,No score yet,3.9,M,Infinity Ward
+Call of Duty: Ghosts - Invasion,PlayStation 4,Action,No score yet,4.6,M,Infinity Ward
+Calvino Noir,PlayStation 4,Action Adventure,44,6.5,T,Calvino Noir Ltd.
+Candlelight,PlayStation 4,Action,69,tbd,E,Pixel Maverick Games
+Capsule Force,PlayStation 4,Action,No score yet,5.8,T,klobit
+Carmageddon: Max Damage,PlayStation 4,Racing,51,5.5,M,Stainless Games
+Casey Powell Lacrosse 16,PlayStation 4,Sports,69,8.0,E,Crosse Studios
+CastleStorm: Definitive Edition,PlayStation 4,Strategy,74,6.1,T,Zen Studios
+Catlateral Damage,PlayStation 4,Action,57,4.8,E,Manekoware
+Cel Damage HD,PlayStation 4,Simulation,58,6.1,T,Finish Line Games
+Chambara,PlayStation 4,Action,71,tbd,E10+,team ok
+Chariot,PlayStation 4,Action,76,7.1,E,Frima Studio
+Child of Light,PlayStation 4,Action,82,8.0,E10+,Ubisoft Montreal
+Chivalry: Medieval Warfare,PlayStation 4,Action,58,5.4,M,Torn Banner Studios
+Chronicles of Teddy: Harmony of Exidus,PlayStation 4,Role-Playing,79,8.3,E,Aksys Games
+Citizens of Earth,PlayStation 4,Role-Playing,70,7.1,E10+,Eden Industries
+Coffin Dodgers,PlayStation 4,Racing,36,4.1,T,Milky Tea Studios
+Color Guardians,PlayStation 4,Action,62,6.2,E,Fair Play Labs
+Commander Cherry's Puzzled Journey,PlayStation 4,Puzzle,53,tbd,E,Grande Games
+Contrast,PlayStation 4,Action,59,6.4,T,Compulsion Games
+Costume Quest 2,PlayStation 4,Role-Playing,74,6.9,E10+,Double Fine Productions
+CounterSpy,PlayStation 4,Action,67,6.7,T,Dynamighty
+Crazy Strike Bowling EX,PlayStation 4,Sports,48,tbd,E10+,Corecell Technology
+Crimsonland,PlayStation 4,Action,64,6.0,T,10tons Entertainment
+Croixleur Sigma,PlayStation 4,Action,71,6.3,E10+,souvenir circ.
+Crypt of the NecroDancer,PlayStation 4,Role-Playing,85,6.6,T,Brace Yourself Games
+Curses 'N Chaos,PlayStation 4,Action,70,8.4,E10+,Tribute Games
+Dangerous Golf,PlayStation 4,Sports,56,5.1,E,Three Fields Entertainment
+Dariusburst: Chronicle Saviours,PlayStation 4,Action,80,8.0,E,Pyramid
+Dark Cloud,PlayStation 4,Role-Playing,No score yet,7.7,T,Level 5
+Dark Cloud 2,PlayStation 4,Role-Playing,No score yet,8.2,T,Level 5
+Dark Souls II: Scholar of the First Sin,PlayStation 4,Role-Playing,87,7.9,T,From Software
+Dark Souls III,PlayStation 4,Role-Playing,89,8.7,M,From Software
+Dark Souls III: Ashes of Ariandel,PlayStation 4,Role-Playing,74,6.9,M,From Software
+Darkest Dungeon,PlayStation 4,Role-Playing,84,8.1,T,Red Hook Studios
+Darksiders II: Deathinitive Edition,PlayStation 4,Action Adventure,72,7.1,M,Gunfire Games
+Day of the Tentacle Remastered,PlayStation 4,Adventure,84,7.2,T,Double Fine Productions
+Daydreamer: Awakened Edition,PlayStation 4,Action,68,tbd,T,Roland Studios
+Daylight,PlayStation 4,Action Adventure,48,4.7,M,Zombie Studios
+DC Universe Online,PlayStation 4,Role-Playing,75,6.5,T,WBIE
+DC Universe Online: War of the Light Part I,PlayStation 4,Role-Playing,No score yet,5.9,T,WBIE
+Dead Island: Definitive Collection,PlayStation 4,Miscellaneous,63,6.4,M,Techland
+Dead Island: Retro Revenge,PlayStation 4,Action,65,6.5,M,Techland
+Dead Island: Riptide - Definitive Edition,PlayStation 4,Action,No score yet,6.2,M,Techland
+Dead Nation: Apocalypse Edition,PlayStation 4,Action,74,7.0,M,Housemarque
+Dead or Alive 5: Last Round,PlayStation 4,Action,74,7.1,M,Team Ninja
+Dead or Alive Xtreme 3: Fortune,PlayStation 4,Sports,43,7.7,,Team Ninja
+Dead Rising,PlayStation 4,Action Adventure,84,7.1,M,Capcom
+Dead Rising 2,PlayStation 4,Action Adventure,82,7.2,M,Blue Castle Games
+Dead Rising Triple Pack,PlayStation 4,Action Adventure,71,tbd,,Capcom
+Dead Star,PlayStation 4,Action,70,6.1,E,Armature Studio
+Dead Synchronicity: Tomorrow Comes Today,PlayStation 4,Adventure,76,tbd,M,Fictiorama Studios
+Deadlight: Director's Cut,PlayStation 4,Action,70,7.1,M,Tequila Works
+Deadpool,PlayStation 4,Action,60,5.7,M,High Moon Studios
+Dear Esther: Landmark Edition,PlayStation 4,Adventure,68,6.9,T,The Chinese Room
+Deception IV: The Nightmare Princess,PlayStation 4,Strategy,69,7.0,M,Koei Tecmo Games
+Destiny,PlayStation 4,Action,76,6.1,T,Bungie Software
+Destiny: House of Wolves,PlayStation 4,Action,72,4.1,T,Bungie
+Destiny: Rise of Iron,PlayStation 4,Action,71,4.7,,Bungie
+Destiny: The Collection,PlayStation 4,Action,No score yet,7.6,T,Bungie
+Destiny: The Dark Below,PlayStation 4,Sci-Fi,63,3.0,T,Bungie
+Destiny: The Taken King,PlayStation 4,Action,86,6.0,T,Bungie
+Destiny: The Taken King - Legendary Edition,PlayStation 4,Action,No score yet,4.3,T,Bungie
+Deus Ex: Mankind Divided,PlayStation 4,Action Adventure,84,7.7,M,Eidos Montreal
+Deus Ex: Mankind Divided - System Rift,PlayStation 4,Action Adventure,75,tbd,,Eidos Montreal
+Devil May Cry 4: Special Edition,PlayStation 4,Fantasy,75,8.1,M,Capcom
+Dex (Enhanced Version),PlayStation 4,Role-Playing,67,7.5,M,Dreadlocks Ltd
+DG2: Defense Grid 2,PlayStation 4,Strategy,77,7.1,E10+,Hidden Path Entertainment
+Diablo III: Ultimate Evil Edition,PlayStation 4,Role-Playing,90,8.0,M,Blizzard Entertainment
+Digimon Story Cyber Sleuth,PlayStation 4,Role-Playing,75,8.5,T,Media Vision
+Dino Dini's Kick Off Revival,PlayStation 4,Sports,31,5.5,,The Digital Lounge
+DiRT Rally,PlayStation 4,Racing,85,8.1,E,Codemasters
+Disgaea 5: Alliance of Vengeance,PlayStation 4,Fantasy,80,8.0,T,Nippon Ichi Software
+Dishonored: Definitive Edition,PlayStation 4,Action Adventure,80,7.0,M,Arkane Studios
+Disney Infinity 2.0 Edition,PlayStation 4,Action Adventure,71,5.8,E10+,Avalanche Software
+Disney Infinity 3.0 Edition,PlayStation 4,Action Adventure,80,6.0,E10+,Avalanche Software
+Divekick: Addition Edition +,PlayStation 4,Action,No score yet,5.4,T,Iron Galaxy Studios
+Divinity: Original Sin Enhanced Edition,PlayStation 4,Role-Playing,88,8.0,M,Larian Studios
+DmC: Devil May Cry Definitive Edition,PlayStation 4,Fantasy,83,7.3,M,Ninja Theory
+Dogchild,PlayStation 4,Action Adventure,71,6.2,E10+,Animatoon Studio
+Dogos,PlayStation 4,Action,53,tbd,E10+,Pablo Testa
+Doki-Doki Universe,PlayStation 4,Miscellaneous,71,6.2,E10+,SCEA
+Don Bradman Cricket,PlayStation 4,Sports,76,7.3,E,Big Ant Studios
+Don't Starve Together: Console Edition,PlayStation 4,Action Adventure,No score yet,6.7,T,Klei Entertainment
+Don't Starve: Console Edition,PlayStation 4,Action Adventure,78,7.0,T,Klei Entertainment
+Don't Starve: Reign of Giants,PlayStation 4,Action Adventure,No score yet,5.5,T,Klei Entertainment
+DOOM,PlayStation 4,Sci-Fi,85,8.2,M,id Software
+DOOM: Unto The Evil,PlayStation 4,Action,75,tbd,,id Software
+Downwell,PlayStation 4,Action,80,7.9,E,Moppin
+Dragon Age: Inquisition,PlayStation 4,Role-Playing,89,7.4,M,BioWare
+Dragon Age: Inquisition - Game of the Year Edition,PlayStation 4,Role-Playing,No score yet,8.2,,Electronic Arts
+Dragon Age: Inquisition - Jaws Of Hakkon,PlayStation 4,Role-Playing,No score yet,6.5,,BioWare
+Dragon Age: Inquisition - The Descent,PlayStation 4,Role-Playing,63,5.4,,BioWare
+Dragon Age: Inquisition - Trespasser,PlayStation 4,Role-Playing,No score yet,7.4,,BioWare
+Dragon Ball: Xenoverse,PlayStation 4,Action,69,7.7,T,Dimps Corporation
+Dragon Ball: Xenoverse 2,PlayStation 4,Action,74,8.1,T,Dimps Corporation
+Dragon Fantasy: The Black Tome of Ice,PlayStation 4,Role-Playing,No score yet,6.9,E10+,The Muteki Corporation
+Dragon Fin Soup,PlayStation 4,General,No score yet,4.8,T,Grimm Bros.
+Dragon Quest Builders,PlayStation 4,Action Adventure,83,8.2,E10+,Square Enix
+Dragon Quest Heroes: The World Tree's Woe and the Blight Below,PlayStation 4,2D,77,7.7,T,Omega Force
+Dreii,PlayStation 4,Puzzle,75,tbd,E,Etter Studio GmbH
+Driveclub,PlayStation 4,Racing,71,6.1,E,Evolution Studios
+Driveclub Bikes,PlayStation 4,Racing,79,7.6,E,Evolution Studios
+Driveclub VR,PlayStation 4,Racing,66,5.8,,Evolution Studios
+Duck Dynasty,PlayStation 4,Sports,No score yet,2.0,T,FUN Labs
+Duke Nukem 3D: 20th Anniversary World Tour,PlayStation 4,Action,77,6.1,M,Gearbox Software
+Dungeon Defenders II,PlayStation 4,Strategy,No score yet,6.3,E10+,Trendy Entertainment
+Dungeon Punks,PlayStation 4,Action,No score yet,6.8,E10+,Hyper Awesome Entertainment
+Dungeons 2,PlayStation 4,Strategy,61,7.9,T,Kalypso
+Dust: An Elysian Tail,PlayStation 4,Role-Playing,79,7.6,E10+,Humble Hearts
+Dying Light,PlayStation 4,Action Adventure,74,7.9,M,Techland
+EA Sports UFC,PlayStation 4,Other Sports Games,70,6.1,T,EA Sports
+EA Sports UFC 2,PlayStation 4,Sports,79,6.2,T,EA Sports
+Earth Defense Force 4.1: The Shadow of New Despair,PlayStation 4,Action,64,7.8,M,Sandlot
+Emily Wants To Play,PlayStation 4,Adventure,75,tbd,T,SKH Apps
+Ender of Fire,PlayStation 4,Role-Playing,No score yet,3.9,T,Xiness
+Energy Hook,PlayStation 4,Driving,22,3.0,E,Happion Laboratories
+Enter the Gungeon,PlayStation 4,Action,82,7.4,E10+,Dodge Roll
+Entwined,PlayStation 4,Action,59,6.7,E,Pixel Opus
+Escape Plan,PlayStation 4,Miscellaneous,73,6.8,T,Fun Bits
+ETHER One,PlayStation 4,General,75,4.7,E10+,White Paper Games
+EVE: Gunjack,PlayStation 4,Simulation,No score yet,6.2,T,CCP
+EVE: Valkyrie,PlayStation 4,Action,75,6.5,T,CCP
+Everybody's Gone to the Rapture,PlayStation 4,Action,78,6.5,M,The Chinese Room
+Evolve,PlayStation 4,Sci-Fi,76,4.3,M,Turtle Rock Studios
+Evolve: Ultimate Edition,PlayStation 4,Action,No score yet,6.7,M,Turtle Rock Studios
+Exist Archive: The Other Side of the Sky,PlayStation 4,Role-Playing,67,7.7,T,Tri-Ace
+Extreme Exorcism,PlayStation 4,Action,74,tbd,E10+,Golden Ruby Games
+F1 2015,PlayStation 4,Racing,65,6.3,E,Codemasters
+F1 2016,PlayStation 4,Racing,82,8.4,E,Codemasters
+Fairy Fencer F: Advent Dark Force,PlayStation 4,Role-Playing,71,6.4,T,Compile Heart
+Fallout 4,PlayStation 4,General,87,6.4,M,Bethesda Game Studios
+Fallout 4: Automatron,PlayStation 4,Role-Playing,69,6.2,M,Bethesda Game Studios
+Fallout 4: Contraptions Workshop,PlayStation 4,Role-Playing,No score yet,3.3,,Bethesda Game Studios
+Fallout 4: Far Harbor,PlayStation 4,Role-Playing,75,6.1,M,Bethesda Game Studios
+Fallout 4: Nuka-World,PlayStation 4,Role-Playing,64,5.9,,Bethesda Game Studios
+Fallout 4: Vault-Tec Workshop,PlayStation 4,Role-Playing,60,4.0,,Bethesda Game Studios
+Fallout 4: Wasteland Workshop,PlayStation 4,Role-Playing,50,3.4,M,Bethesda Game Studios
+Far Cry 4,PlayStation 4,Action,85,7.7,M,Ubisoft Montreal
+Far Cry 4: Escape from Durgesh Prison,PlayStation 4,Action,56,5.4,M,Ubisoft Montreal
+Far Cry 4: Valley of the Yetis,PlayStation 4,Action,74,7.6,M,Ubisoft Montreal
+Far Cry Primal,PlayStation 4,Action,76,6.2,M,Ubisoft Montreal
+Farming Simulator 15,PlayStation 4,Simulation,54,5.8,E,Giants Software
+Farming Simulator 17,PlayStation 4,Simulation,66,tbd,,Maximum Games
+Fat Princess Adventures,PlayStation 4,Action,63,7.9,T,SCE Santa Monica
+Fenix Furia,PlayStation 4,Action,71,tbd,E,Green Lava Studios
+Fez,PlayStation 4,Action,90,6.3,E,Polytron Corp.
+Fibbage: The Hilarious Bluffing Party Game,PlayStation 4,Miscellaneous,No score yet,7.5,T,Jackbox Games
+FIFA 14,PlayStation 4,Sports,87,6.3,E,EA Canada
+FIFA 15,PlayStation 4,Sports,82,5.7,E,EA Sports
+FIFA 16,PlayStation 4,Sports,82,4.3,E,EA Sports
+FIFA 17,PlayStation 4,Sports,84,5.0,E,EA Sports
+Filthy Lucre,PlayStation 4,Action,61,7.3,M,Fabrik Games
+Final Fantasy Type-0 HD,PlayStation 4,Role-Playing,72,6.6,M,HexaDrive
+Final Fantasy VII,PlayStation 4,Role-Playing,No score yet,8.4,T,Square Enix
+Final Fantasy X / X-2 HD Remaster,PlayStation 4,Miscellaneous,84,8.1,T,Virtuos
+Final Fantasy XIV Online: A Realm Reborn,PlayStation 4,Massively Multiplayer,86,6.6,T,Square Enix
+Final Fantasy XIV: Heavensward,PlayStation 4,Massively Multiplayer Online,86,7.6,T,Square Enix
+Final Horizon,PlayStation 4,Strategy,No score yet,5.5,E10+,Eiconic Games
+Firewatch,PlayStation 4,Adventure,76,7.1,M,Campo Santo
+Flame Over,PlayStation 4,Simulation,No score yet,2.5,E,Laughing Jackal
+Flockers,PlayStation 4,Puzzle,61,4.8,T,Team 17
+flOw,PlayStation 4,Miscellaneous,71,6.5,E,SuperVillain Studios
+flower,PlayStation 4,Miscellaneous,91,7.2,E,Bluepoint Games
+Fluster Cluck,PlayStation 4,Action,37,4.0,E,LOOT Entertainment
+Forced: Slightly Better Edition,PlayStation 4,Role-Playing,60,tbd,T,BetaDwarf
+Foul Play,PlayStation 4,Action,66,tbd,E10+,Mediatonic
+Frozen Free Fall: Snowball Fight,PlayStation 4,Puzzle,No score yet,2.4,E,SuperVillain Studios
+Full Mojo Rampage,PlayStation 4,Role-Playing,66,tbd,T,Over the Top Games
+Furi,PlayStation 4,Action,77,7.5,M,The Game Bakers
+Futuridium EP Deluxe,PlayStation 4,Action,73,5.7,E,MixedBag Srl
+Gal*Gun: Double Peace,PlayStation 4,Action,64,7.2,,Alchemist
+Galak-Z: The Dimensional,PlayStation 4,Action,82,7.2,E10+,17-Bit
+Game of Thrones: A Telltale Games Series,PlayStation 4,Action,69,6.7,M,Telltale Games
+Game of Thrones: Episode Five - A Nest of Vipers,PlayStation 4,Action,77,6.8,M,Telltale Games
+Game of Thrones: Episode Four - Sons of Winter,PlayStation 4,Action,73,7.3,M,Telltale Games
+Game of Thrones: Episode One - Iron From Ice,PlayStation 4,Action,77,7.6,M,Telltale Games
+Game of Thrones: Episode Six - The Ice Dragon,PlayStation 4,Action,75,6.9,M,Telltale Games
+Game of Thrones: Episode Three - The Sword in the Darkness,PlayStation 4,Action,70,7.1,M,Telltale Games
+Game of Thrones: Episode Two - The Lost Lords,PlayStation 4,Action,69,7.1,M,Telltale Games
+Gauntlet: Slayer Edition,PlayStation 4,Role-Playing,71,7.0,M,Arrowhead Game Studios
+Gemini: Heroes Reborn,PlayStation 4,Action Adventure,57,6.6,T,Phosphor Games
+Gems of War,PlayStation 4,Puzzle,No score yet,5.5,T,Ininity Plus 2
+Geometry Wars 3: Dimensions,PlayStation 4,Action,85,7.9,E,Lucid Games
+Geometry Wars 3: Dimensions Evolved,PlayStation 4,Action,No score yet,6.8,E,Lucid Games
+Ghostbusters,PlayStation 4,Action,30,0.6,E10+,Activision
+Giana Sisters: Dream Runners,PlayStation 4,Action,37,4.8,E,Black Forest Games
+Giana Sisters: Twisted Dreams - Director's Cut,PlayStation 4,Action,80,7.5,E,Black Forest Games
+Goat Simulator,PlayStation 4,Simulation,58,6.0,T,Coffee Stain Studios
+God Eater 2: Rage Burst,PlayStation 4,Role-Playing,70,8.0,T,Shift
+God Eater Resurrection,PlayStation 4,Role-Playing,70,8.0,T,Shift
+God of War III Remastered,PlayStation 4,Action Adventure,81,7.8,M,Wholesale Algorithms
+Godzilla,PlayStation 4,Action,38,3.1,T,NATSUME ATARI Inc.
+Gone Home: Console Edition,PlayStation 4,Adventure,85,4.2,M,The Fullbright Company
+Goosebumps: The Game,PlayStation 4,Adventure,No score yet,5.5,E10+,WayForward
+Grand Ages: Medieval,PlayStation 4,Strategy,64,7.1,T,Gaming Minds Studios
+Grand Kingdom,PlayStation 4,Strategy,78,8.1,T,Spike Chunsoft
+Grand Theft Auto III,PlayStation 4,Action Adventure,No score yet,7.5,M,DMA Design
+Grand Theft Auto Online,PlayStation 4,Action Adventure,No score yet,7.8,,Rockstar North
+Grand Theft Auto V,PlayStation 4,Action Adventure,97,8.3,M,Rockstar North
+Grand Theft Auto: San Andreas,PlayStation 4,Action Adventure,No score yet,7.9,M,Rockstar North
+Grand Theft Auto: Vice City,PlayStation 4,Action Adventure,No score yet,7.0,M,Rockstar North
+Gravity Rush Remastered,PlayStation 4,Action,80,8.2,T,Bluepoint Games
+Grim Fandango Remastered,PlayStation 4,General,80,7.8,T,Double Fine Productions
+Grow Home,PlayStation 4,Action Adventure,74,6.1,E,Ubisoft Reflections
+Grow Up,PlayStation 4,Action Adventure,70,6.4,E,Ubisoft Reflections
+Gryphon Knight Epic,PlayStation 4,Action,No score yet,8.3,E10+,Cyber Rhino Studios
+Guacamelee! Super Turbo Championship Edition,PlayStation 4,Action,87,7.6,E10+,DrinkBox Studios
+Guilty Gear Xrd -REVELATOR-,PlayStation 4,Action,86,8.4,T,Arc System Works
+Guilty Gear Xrd -SIGN-,PlayStation 4,Action,84,8.0,T,Arc System Works
+Guitar Hero Live,PlayStation 4,Action,80,6.1,T,FreeStyleGames
+GUNS UP!,PlayStation 4,Action,54,6.4,T,Valkyrie Entertainment
+"Guns, Gore & Cannoli",PlayStation 4,Action,No score yet,8.5,T,
+Gunscape,PlayStation 4,Action,61,tbd,T,Blowfish Studios
+Hand of Fate,PlayStation 4,Role-Playing,79,7.8,T,Defiant Development
+Handball 16,PlayStation 4,Sports,No score yet,3.0,E,EKO Software
+Hard Reset Redux,PlayStation 4,Action,69,7.7,M,Flying Wild Hog
+Hardware: Rivals,PlayStation 4,Simulation,56,5.5,E10+,SCEA
+Harmonix Music VR,PlayStation 4,Action,43,5.3,E,Harmonix Music Systems
+Hatoful Boyfriend,PlayStation 4,General,72,6.6,E10+,Mediatonic
+Hatoful Boyfriend: Holiday Star,PlayStation 4,Adventure,58,2.8,E10+,Mediatonic
+Hatsune Miku VR: Future Live,PlayStation 4,Action,60,5.5,T,SegaSoft
+Hatsune Miku: Project Diva X,PlayStation 4,Action,78,7.5,T,Sega
+HAWKEN,PlayStation 4,Action,56,5.5,T,Reloaded Games Inc.
+Headlander,PlayStation 4,Action,77,8.1,T,Double Fine Productions
+Headmaster,PlayStation 4,Sports,74,7.5,E10+,Frame Interactive
+Heart&Slash,PlayStation 4,Action,76,8.4,E10+,AHEARTFULOFGAMES
+Heavy Rain,PlayStation 4,Adventure,78,7.7,M,Quantic Dream
+Heavy Rain & Beyond: Two Souls Collection,PlayStation 4,Miscellaneous,78,8.2,,Quantic Dream
+Helldivers,PlayStation 4,Action,81,8.1,T,Arrowhead Game Studios
+Here They Lie,PlayStation 4,Adventure,61,6.7,M,The Tangentlemen
+Hitman - Episode 2: Sapienza,PlayStation 4,Action Adventure,84,6.9,,Io Interactive
+Hitman - Episode 3: Marrakesh,PlayStation 4,Action Adventure,75,7.2,,Io Interactive
+Hitman - Episode 4: Bangkok,PlayStation 4,Action Adventure,71,7.8,,Io Interactive
+Hitman - Episode 5: Colorado,PlayStation 4,Action Adventure,70,7.6,,Io Interactive
+Hitman - Intro Pack,PlayStation 4,Action Adventure,77,5.0,,Io Interactive
+Hitman GO: Definitive Edition,PlayStation 4,Strategy,77,6.1,E10+,Square Enix Montreal
+Hitman: Summer Bonus Episode,PlayStation 4,Action Adventure,79,8.0,,Io Interactive
+Hohokum,PlayStation 4,Adventure Games,75,6.3,E10+,Honeyslug Ltd
+Home: A Unique Horror Adventure,PlayStation 4,Action Adventure,No score yet,6.6,M,Benjamin Rivers
+Homefront: The Revolution,PlayStation 4,Modern,48,3.7,M,Deep Silver Dambuster Studios
+Hotline Miami,PlayStation 4,Action,No score yet,8.4,M,Dennaton
+Hotline Miami 2: Wrong Number,PlayStation 4,Action,75,7.8,M,Dennaton
+How to Survive: Storm Warning Edition,PlayStation 4,Action Adventure,65,6.1,M,EKO Software
+Hue,PlayStation 4,Puzzle,77,8.2,E,Fiddlesticks Games
+Hustle Kings,PlayStation 4,Sports,No score yet,6.9,E,VooFoo Studios
+Hustle Kings VR,PlayStation 4,Miscellaneous,51,5.7,E,Sony Interactive Entertainment
+Hyper Light Drifter,PlayStation 4,Role-Playing,79,7.8,T,Heart Machine
+Hyper Void,PlayStation 4,Action,70,7.5,E10+,IN|FRAMEZ TECHNOLOGY CORP.
+I Am Bread,PlayStation 4,Miscellaneous,51,4.9,E10+,Just Add Water
+I Am Setsuna,PlayStation 4,Role-Playing,74,7.5,E10+,Tokyo RPG Factory
+In Space We Brawl,PlayStation 4,Action,54,4.4,E,Forge Reply
+Indigo Prophecy,PlayStation 4,Adventure,No score yet,7.0,M,Quantic Dream
+inFamous: First Light,PlayStation 4,Action Adventure,73,7.5,T,Sucker Punch
+inFamous: Second Son,PlayStation 4,Action Adventure,80,7.9,T,Sucker Punch
+Infinifactory,PlayStation 4,Puzzle,70,tbd,T,Zachtronics Industries
+Infinity Runner,PlayStation 4,Action,45,5.5,T,Wales Interactive Ltd.
+Injustice: Gods Among Us - Ultimate Edition,PlayStation 4,Action,80,7.2,T,NetherRealm Studios
+INSIDE,PlayStation 4,Action,91,7.9,M,PLAYDEAD
+Inversus,PlayStation 4,Action,79,5.6,E,Hypersect
+"Invisible Inc., Console Edition",PlayStation 4,General,82,7.5,T,
+Invokers Tournament,PlayStation 4,Strategy,No score yet,2.5,T,StormBASIC Games
+Ironcast,PlayStation 4,Puzzle,70,tbd,E10+,Dreadbit
+Ironclad Tactics,PlayStation 4,Strategy,66,5.6,T,Zachtronics Industries
+J-Stars Victory Vs+,PlayStation 4,Action,61,6.4,T,Bandai Namco Games
+Jamestown+,PlayStation 4,Scrolling,83,7.6,E10+,Final Form Games
+Jazzpunk: Director's Cut,PlayStation 4,Adventure,80,tbd,T,Necrophone
+Job Simulator,PlayStation 4,Action,77,7.0,E10+,Owlchemy Labs
+Joe Dever's Lone Wolf Console Edition,PlayStation 4,Adventure,79,7.5,T,Forge Reply
+JoJo's Bizarre Adventure: Eyes of Heaven,PlayStation 4,Action,61,7.4,T,CyberConnect2
+Jotun: Valhalla Edition,PlayStation 4,Action,72,tbd,T,Thunder Lotus Games
+Journey,PlayStation 4,Action,92,8.3,E,Tricky Pixels
+Journey Collector's Edition,PlayStation 4,Miscellaneous,No score yet,8.4,E,SCE Australia
+Just Cause 3,PlayStation 4,Sci-Fi,73,6.5,M,Avalanche Studios
+Just Cause 3: Bavarium Sea Heist,PlayStation 4,Action Adventure,No score yet,2.4,,Avalanche Studios
+Just Cause 3: Mech Land Assault,PlayStation 4,Action Adventure,No score yet,3.8,,Avalanche Studios
+Just Cause 3: Sky Fortress,PlayStation 4,Action Adventure,72,7.6,,Avalanche Studios
+Just Dance 2014,PlayStation 4,Action,75,5.5,E10+,Ubisoft
+Just Dance 2015,PlayStation 4,Action,72,5.8,E10+,Ubisoft
+Just Dance 2016,PlayStation 4,Action,73,6.8,E10+,Ubisoft
+Just Sing,PlayStation 4,Action,60,7.0,E10+,Ubisoft
+Keep Talking and Nobody Explodes,PlayStation 4,First-Person,89,7.1,E10+,Steel Crate Games
+Kerbal Space Program,PlayStation 4,Simulation,77,6.0,E,Flying Tiger Development
+Kholat,PlayStation 4,Adventure,64,5.8,T,IMGN.PRO
+Kick & Fennick,PlayStation 4,Action,73,tbd,E10+,Jaywalkers Interactive
+KickBeat: Special Edition,PlayStation 4,Action,60,4.0,T,Zen Studios
+Kill Strain,PlayStation 4,Action,53,7.4,T,SCEA San Diego Studios
+Killzone: Shadow Fall,PlayStation 4,Action,73,6.8,M,Guerrilla
+Killzone: Shadow Fall - Intercept,PlayStation 4,Action,72,6.9,M,Guerrilla
+King Oddball,PlayStation 4,Miscellaneous,64,4.6,E10+,10tons Ltd
+King's Quest Chapter 1: A Knight to Remember,PlayStation 4,Adventure,77,7.3,E10+,The Odd Gentlemen
+King's Quest Chapter 2: Rubble Without a Cause,PlayStation 4,Adventure,68,4.6,E10+,The Odd Gentlemen
+King's Quest Chapter 3: Once Upon a Climb,PlayStation 4,Adventure,79,6.1,E10+,The Odd Gentlemen
+King's Quest Chapter 4: Snow Place Like Home,PlayStation 4,Adventure,67,6.3,E10+,The Odd Gentlemen
+Kitten Squad,PlayStation 4,Action,No score yet,4.0,T,Nine Tales Digital
+Klaus,PlayStation 4,Action,76,7.6,E10+,La Cosa Entertainment
+Knack,PlayStation 4,Action,54,6.5,E10+,SCE Japan Studio
+Knock-knock,PlayStation 4,Miscellaneous,51,7.7,E,Ice-Pick Lodge
+Koi,PlayStation 4,Action Adventure,51,6.5,E,Oasis Games
+Krinkle Krusher,PlayStation 4,Action,52,6.4,E10+,Ilusis Interactive Graphics
+Kromaia Omega,PlayStation 4,Action,68,7.5,E10+,Kraken Empire
+Kung Fu Panda: Showdown of Legendary Legends,PlayStation 4,Action,63,6.8,E10+,Vicious Cycle
+Kung Fury: Street Rage,PlayStation 4,Action,No score yet,6.8,T,Hello There
+LA Cops,PlayStation 4,Action,No score yet,5.2,M,Modern Dream
+Lara Croft and the Temple of Osiris,PlayStation 4,Action,74,6.7,T,Nixxes Software
+Laserlife,PlayStation 4,Action,65,tbd,E,Choice Provisions
+Layers of Fear,PlayStation 4,Adventure,75,8.2,M,Bloober Team
+Layers of Fear: Inheritance,PlayStation 4,Adventure,61,8.0,M,Bloober Team
+Legend of Kay Anniversary,PlayStation 4,Action Adventure,62,6.4,E10+,Neon Studios
+LEGO Batman 3: Beyond Gotham,PlayStation 4,Action Adventure,73,7.1,E10+,TT Games
+LEGO Dimensions,PlayStation 4,Action Adventure,80,7.3,E10+,Traveller's Tales
+LEGO Harry Potter Collection,PlayStation 4,Miscellaneous,73,tbd,E10+,Warner Bros. Interactive Entertainment
+LEGO Jurassic World,PlayStation 4,Action Adventure,70,7.0,E10+,TT Games
+LEGO Marvel Super Heroes,PlayStation 4,Action Adventure,83,7.7,E10+,TT Games
+LEGO Marvel's Avengers,PlayStation 4,Action Adventure,71,7.0,E10+,TT Games
+LEGO Star Wars: The Force Awakens,PlayStation 4,Action Adventure,78,7.4,E10+,TT Games
+LEGO The Hobbit,PlayStation 4,Historic,72,6.6,E10+,TT Games
+Leo's Fortune,PlayStation 4,Action,66,6.1,E,1337 & Senri LLC
+Letter Quest: Grimm's Journey Remastered,PlayStation 4,Puzzle,73,6.8,E,Bacon Bandit Games
+Lichdom: Battlemage,PlayStation 4,Role-Playing,No score yet,1.2,M,Xaviant Games
+Lichtspeer,PlayStation 4,Action Adventure,64,6.6,T,Lichthund
+Life Goes On: Done to Death,PlayStation 4,Action,77,7.2,E10+,Infinite Monkeys
+Life is Strange,PlayStation 4,Sci-Fi,85,8.6,M,DONTNOD Entertainment
+Life is Strange: Episode 1 - Chrysalis,PlayStation 4,Action Adventure,75,8.2,M,DONTNOD Entertainment
+Life is Strange: Episode 2 - Out of Time,PlayStation 4,Action Adventure,78,8.4,M,DONTNOD Entertainment
+Life is Strange: Episode 3 - Chaos Theory,PlayStation 4,Action Adventure,81,8.4,M,DONTNOD Entertainment
+Life is Strange: Episode 4 - Dark Room,PlayStation 4,Action Adventure,81,8.6,M,DONTNOD Entertainment
+Life is Strange: Episode 5 - Polarized,PlayStation 4,Action Adventure,81,8.4,M,DONTNOD Entertainment
+Lifeless Planet: Premier Edition,PlayStation 4,Action Adventure,60,5.5,T,Stage 2 Studios
+LIMBO,PlayStation 4,Action,No score yet,7.8,T,PLAYDEAD
+LittleBigPlanet 3,PlayStation 4,Action,79,7.1,E,Sumo Digital
+Livelock,PlayStation 4,Action,68,8.2,T,Tuque Games
+Loading Human: Chapter 1,PlayStation 4,Adventure,53,8.1,T,Untold Games
+Loadout,PlayStation 4,Action,59,5.9,M,Edge of Reality
+Lone Survivor: The Director's Cut,PlayStation 4,Action Adventure,No score yet,7.0,T,Curve Studios
+Lords of the Fallen,PlayStation 4,Role-Playing,68,6.6,M,City Interactive
+Lords of the Fallen - Ancient Labyrinth,PlayStation 4,Role-Playing,No score yet,5.1,,City Interactive
+Lords of the Fallen: Complete Edition,PlayStation 4,Role-Playing,No score yet,6.7,,Deck 13
+Lost Orbit,PlayStation 4,Action,77,7.5,T,PixelNAUTS
+Lost Sea,PlayStation 4,Strategy,59,7.8,E10+,EastAsiaSoft
+LOUD on Planet X,PlayStation 4,Action,72,tbd,T,Pop Sandbox
+Lovers in a Dangerous Spacetime,PlayStation 4,Action,82,6.8,E10+,Asteroid Base
+Lumo,PlayStation 4,Action,73,6.5,E10+,Triple Eh? Ltd
+Mad Max,PlayStation 4,Action,69,7.8,M,Avalanche Studios
+Madden NFL 15,PlayStation 4,Sports,81,6.1,E,EA Sports
+Madden NFL 16,PlayStation 4,Sports,83,5.9,E,EA Sports
+Madden NFL 17,PlayStation 4,Sports,82,5.0,E,EA Sports
+Madden NFL 25,PlayStation 4,Sports,74,5.2,E,EA Sports
+Mafia III,PlayStation 4,Action Adventure,69,5.2,M,Hangar 13
+Magicka 2,PlayStation 4,Fantasy,72,6.1,T,Pieces Interactive
+Manhunt,PlayStation 4,Action Adventure,No score yet,7.8,M,Rockstar North
+Mantis Burn Racing,PlayStation 4,Racing,71,8.3,E,VooFoo Studios
+Manual Samuel,PlayStation 4,Adventure,49,6.1,T,Perfectly Paranormal
+Mark McMorris Infinite Air,PlayStation 4,Sports,46,6.8,T,HB Studios Multimedia
+Marvel: Ultimate Alliance,PlayStation 4,Role-Playing,No score yet,3.0,T,Raven Software
+Marvel: Ultimate Alliance 2,PlayStation 4,Role-Playing,No score yet,4.8,T,Vicarious Visions
+Marvel: Ultimate Alliance Bundle,PlayStation 4,Miscellaneous,61,tbd,,Raven Software
+Masquerade: The Baubles of Doom,PlayStation 4,Action,No score yet,7.9,T,Big Ant Studios
+MasterCube,PlayStation 4,Action,No score yet,1.3,E,Ertem Yazilim
+McDROID,PlayStation 4,Strategy,57,tbd,E,Elefantopia LLC
+Mega Man Legacy Collection,PlayStation 4,Miscellaneous,77,6.2,E,Digital Eclipse
+Megadimension Neptunia VII,PlayStation 4,Role-Playing,71,6.8,T,Idea Factory
+Mercenary Kings,PlayStation 4,Action,70,5.9,T,Tribute Games
+Metal Gear Solid V: Ground Zeroes,PlayStation 4,Action Adventure,75,6.2,M,Kojima Productions
+Metal Gear Solid V: Metal Gear Online,PlayStation 4,Action Adventure,72,7.2,,Kojima Productions
+Metal Gear Solid V: The Definitive Experience,PlayStation 4,Miscellaneous,No score yet,8.3,M,Kojima Productions
+Metal Gear Solid V: The Phantom Pain,PlayStation 4,Action Adventure,93,8.2,M,Kojima Productions
+Metal Slug 3,PlayStation 4,Action,No score yet,6.8,T,Code Mystics Inc.
+Metrico+,PlayStation 4,Puzzle,81,6.3,E,Digital Dreams
+Metro Redux,PlayStation 4,Action,83,8.1,M,4A Games
+Metro: 2033 Redux,PlayStation 4,Action,No score yet,7.9,M,4A Games
+Metro: Last Light Redux,PlayStation 4,Action,No score yet,7.6,M,4A Games
+Middle-earth: Shadow of Mordor,PlayStation 4,Action Adventure,84,8.1,M,Monolith Productions
+Middle-earth: Shadow of Mordor - Game of the Year Edition,PlayStation 4,Action Adventure,No score yet,8.2,M,Monolith Productions
+Middle-earth: Shadow of Mordor - Lord of the Hunt,PlayStation 4,Action Adventure,61,6.1,M,Monolith Productions
+Middle-earth: Shadow of Mordor - The Bright Lord,PlayStation 4,Action Adventure,68,6.5,M,Monolith Productions
+Might & Magic: Duel of Champions - Forgotten Wars,PlayStation 4,Strategy,No score yet,4.2,T,Ubisoft
+Mighty No. 9,PlayStation 4,Action,52,3.5,E10+,Inti Creates
+Miko Mole,PlayStation 4,Puzzle,No score yet,7.3,E,EnsenaSoft
+MilitAnt,PlayStation 4,Action,44,5.3,E10+,Xibalba Studios
+Minecraft: PlayStation 4 Edition,PlayStation 4,Action Adventure,89,6.4,E10+,4J Studios
+Minecraft: Story Mode - A Telltale Games Series,PlayStation 4,Fantasy,No score yet,5.4,E10+,Telltale Games
+Minecraft: Story Mode - Episode 1: The Order of the Stone,PlayStation 4,Action Adventure,71,3.4,E10+,Telltale Games
+Minecraft: Story Mode - Episode 2: Assembly Required,PlayStation 4,Action Adventure,53,3.6,E10+,Telltale Games
+Minecraft: Story Mode - Episode 3: The Last Place You Look,PlayStation 4,Action Adventure,73,4.0,E10+,Telltale Games
+Minecraft: Story Mode - Episode 4: A Block and a Hard Place,PlayStation 4,Action Adventure,72,5.1,E10+,Telltale Games
+Minecraft: Story Mode - Episode 5: Order Up!,PlayStation 4,Action Adventure,72,6.2,E10+,Telltale Games
+Minecraft: Story Mode - Episode 6: A Portal to Mystery,PlayStation 4,Action Adventure,69,tbd,E10+,Telltale Games
+Minecraft: Story Mode - Episode 7: Access Denied,PlayStation 4,Action Adventure,68,tbd,E10+,Telltale Games
+Minecraft: Story Mode - Episode 8: A Journey's End?,PlayStation 4,Action Adventure,69,7.0,E10+,Telltale Games
+Minutes,PlayStation 4,Action,76,7.2,E,Red Phantom Games
+Mirror's Edge Catalyst,PlayStation 4,Action,69,4.6,T,EA DICE
+Mitsurugi Kamui Hikae,PlayStation 4,Action,58,3.6,T,Zenith Blue
+MLB 14: The Show,PlayStation 4,Sports,83,7.7,E,SCEA San Diego Studios
+MLB 15: The Show,PlayStation 4,Traditional,80,7.8,E,SCEA San Diego Studios
+MLB The Show 16,PlayStation 4,Sports,85,7.4,E,SCEA San Diego Studios
+Monopoly Deal,PlayStation 4,Miscellaneous,No score yet,4.8,E,Asobo Studio
+Monopoly Plus,PlayStation 4,Miscellaneous,No score yet,5.1,E,Asobo Studio
+Monopoly: Family Fun Pack,PlayStation 4,Miscellaneous,No score yet,4.5,E,Ubisoft
+Moon Hunters,PlayStation 4,Role-Playing,63,5.3,E10+,Kitfox Games
+Mordheim: City of the Damned,PlayStation 4,Strategy,74,tbd,M,Rogue Factor
+Mortal Kombat X,PlayStation 4,Action,83,7.7,M,Warner Bros. Interactive Entertainment
+Mortal Kombat XL,PlayStation 4,Action,85,7.3,M,NetherRealm Studios
+MotoGP 14,PlayStation 4,Driving,73,6.4,E,Milestone S.r.l
+Motorcycle Club,PlayStation 4,Driving,26,1.8,E,Bigben Interactive
+Mount & Blade: Warband,PlayStation 4,Role-Playing,67,6.3,T,Koch Media
+MouseCraft,PlayStation 4,Miscellaneous,72,5.6,E,Crunching Koalas
+Murdered: Soul Suspect,PlayStation 4,Action,59,6.9,M,Airtight Games
+Mutant Mudds: Super Challenge,PlayStation 4,Action,78,tbd,E,Renegade Kid
+MX vs. ATV Supercross Encore,PlayStation 4,Racing,42,4.1,E,Rainbow Studios
+MXGP2: The Official Motocross Videogame,PlayStation 4,Racing,65,7.2,E,Milestone S.r.l
+MXGP: The Official Motocross Videogame,PlayStation 4,Driving,66,6.2,E,Milestone S.r.l
+My Night Job,PlayStation 4,Action,60,7.4,T,Webcore Games
+N++,PlayStation 4,Action,82,6.6,E10+,Metanet Software Inc.
+N.E.R.O.: Nothing Ever Remains Obscure,PlayStation 4,Adventure,59,6.3,E,Storm in a Teacup
+Nano Assault NEO-X,PlayStation 4,Action,66,6.0,E,Shin'en
+Naruto Shippuden: Ultimate Ninja Storm 4,PlayStation 4,Action,79,8.2,T,CyberConnect2
+NASCAR Heat Evolution,PlayStation 4,Racing,66,3.8,E,Dusenberry Martin Racing
+Natural Doctrine,PlayStation 4,Strategy,53,6.0,M,Kadokawa
+NBA 2K14,PlayStation 4,Sports,85,6.5,E,Visual Concepts
+NBA 2K15,PlayStation 4,Sports,83,7.0,E,Visual Concepts
+NBA 2K16,PlayStation 4,Action,87,6.7,E10+,Visual Concepts
+NBA 2K17,PlayStation 4,Sports,89,6.8,E,Visual Concepts
+NBA Live 14,PlayStation 4,Basketball,43,2.7,E,EA Sports
+NBA Live 15,PlayStation 4,Sports,59,5.6,E,EA Sports
+NBA Live 16,PlayStation 4,Sports,59,6.1,E,EA Sports
+Necropolis,PlayStation 4,Action Adventure,49,tbd,,Harebrained Schemes LLC
+Need for Speed,PlayStation 4,Racing,66,7.2,T,Ghost Games
+Need for Speed: Rivals,PlayStation 4,Driving,80,6.2,E10+,Ghost Games
+Need for Speed: Rivals - Complete Edition,PlayStation 4,Driving,No score yet,6.5,E10+,Ghost Games
+Neon Chrome,PlayStation 4,Action,64,8.2,T,10tons Entertainment
+Never Alone,PlayStation 4,Action,73,6.6,E10+,Upper One Games
+Never Alone: Foxtales,PlayStation 4,Action,No score yet,6.3,E10+,Upper One Games
+Neverending Nightmares,PlayStation 4,Action Adventure,74,8.1,M,Infinitap Games
+Neverwinter,PlayStation 4,Role-Playing,74,7.1,T,Cryptic Studios
+NHL 15,PlayStation 4,Sports,60,3.6,E10+,EA Sports
+NHL 16,PlayStation 4,Sports,78,5.6,E10+,EA Sports
+NHL 17,PlayStation 4,Sports,79,5.8,E10+,EA Canada
+Nidhogg,PlayStation 4,Action,No score yet,6.3,T,Code Mystics Inc.
+Nightmares from the Deep: The Cursed Heart,PlayStation 4,Puzzle,58,tbd,T,Artifex Mundi
+Nights of Azure,PlayStation 4,Role-Playing,67,7.5,T,Gust
+Ninja Senki DX,PlayStation 4,Action,64,5.7,E10+,Jonathan Lavigne
+Nitroplus Blasterz: Heroines Infinite Duel,PlayStation 4,Action,70,6.8,T,Examu
+No Man's Sky,PlayStation 4,Action,71,4.5,T,Hello Games
+Nobunaga's Ambition: Sphere of Influence,PlayStation 4,Strategy,80,8.1,T,Koei Tecmo Games
+Nobunaga's Ambition: Sphere of Influence - Ascension,PlayStation 4,Strategy,81,tbd,T,Koei Tecmo Games
+Nom Nom Galaxy,PlayStation 4,Action,70,7.1,E,Q-Games
+Not a Hero,PlayStation 4,General,74,6.6,M,roll7
+NOVA-111,PlayStation 4,Sci-Fi,73,5.8,E,Funktronic Labs
+Now That's What I Call Sing,PlayStation 4,Action,55,tbd,,Ravenscourt
+Nuclear Throne,PlayStation 4,Action,82,6.3,E10+,Vlambeer
+Obliteracers,PlayStation 4,Racing,70,tbd,E,Varkian Empire
+Oceanhorn: Monster of Uncharted Seas,PlayStation 4,Action Adventure,67,8.1,E10+,Cornfox & Bros.
+Octodad: Dadliest Catch,PlayStation 4,Adventure Games,69,7.0,E10+,Kevin Zuhn
+Oddworld: Abe's Oddysee - New 'n' Tasty,PlayStation 4,Action,84,8.0,T,Just Add Water
+Odin Sphere Leifthrasir,PlayStation 4,Role-Playing,87,8.2,T,Vanillaware
+Okage: Shadow King,PlayStation 4,Role-Playing,No score yet,9.8,T,Zener Works
+OlliOlli,PlayStation 4,Sports,No score yet,7.0,E,Tom Hegarty
+OlliOlli2: Welcome to Olliwood,PlayStation 4,Sports,86,6.5,T,roll7
+Omega Quintet,PlayStation 4,Console-style RPG,58,7.2,T,Compile Heart
+One Piece: Burning Blood,PlayStation 4,Action,66,7.9,T,Spike Chunsoft
+One Piece: Pirate Warriors 3,PlayStation 4,Action,74,7.4,T,Omega Force
+One Upon Light,PlayStation 4,Puzzle,59,tbd,E10+,Singapore University of Technology and Design
+One Way Trip,PlayStation 4,Action,41,tbd,M,Beret Applications LLC
+Onechanbara Z2: Chaos,PlayStation 4,Action Adventure,57,6.6,M,Tamsoft
+Onigiri,PlayStation 4,Role-Playing,No score yet,7.6,M,Cyberstep
+Orc Slayer,PlayStation 4,Action,15,1.4,T,Cooply Solutions
+Organ Trail: Complete Edition,PlayStation 4,Action,No score yet,8.5,T,The Men Who Wear Many Hats LLC
+Organic Panic,PlayStation 4,Puzzle,75,tbd,E10+,Last Limb Games
+Outlast,PlayStation 4,Action Adventure,78,7.8,M,Red Barrels
+Outlast: Whistleblower,PlayStation 4,Action Adventure,74,7.8,M,
+Overcooked,PlayStation 4,Action,78,7.4,E,Ghost Town Games Ltd.
+Overlord: Fellowship of Evil,PlayStation 4,Role-Playing,33,2.3,T,Codemasters
+Overwatch,PlayStation 4,Action,90,6.1,T,Blizzard Entertainment
+Oxenfree,PlayStation 4,Action Adventure,79,8.1,T,Night School Studio
+P.T.,PlayStation 4,Action Adventure,No score yet,8.7,M,7780s Studio
+Pac-Man 256,PlayStation 4,Action,79,7.7,E,HIPSTER WHALE
+Pac-Man Championship Edition 2,PlayStation 4,Action,80,8.3,E,Bandai Namco Games
+Pang Adventures,PlayStation 4,Action,63,7.0,E,Pasta Games
+Paperbound,PlayStation 4,Action,69,7.3,E10+,Dissident Logic
+Paragon,PlayStation 4,Strategy,No score yet,6.0,,Epic Games
+PaRappa the Rapper 2,PlayStation 4,Action,No score yet,7.1,E,NanaOn-Sha
+Party Hard,PlayStation 4,Action,65,7.1,M,Pinokl Games
+Payday 2: Crimewave Edition,PlayStation 4,Action,71,3.9,M,Overkill Software
+Peggle 2,PlayStation 4,Miscellaneous,72,7.3,E,PopCap
+Penarium,PlayStation 4,Action,71,7.0,T,Self Made Miracle
+Perfect Universe,PlayStation 4,Action,60,tbd,E10+,Will Sykes Games
+Phantom Breaker: Battle Grounds Overdrive,PlayStation 4,Action,72,7.0,E10+,5pb
+Pier Solar and the Great Architects,PlayStation 4,Role-Playing,69,7.0,T,Watermelon Development
+Pillar,PlayStation 4,Puzzle,59,6.6,T,MichaelArts
+Pirates: Treasure Hunters,PlayStation 4,Strategy,No score yet,7.0,T,Virtual Toys
+Pix the Cat,PlayStation 4,Action,80,6.1,E,Pasta Games
+Pixel Gear,PlayStation 4,Action,51,4.4,E10+,Geronimo Interactive
+Pixel Piracy,PlayStation 4,Strategy,50,tbd,T,Abstraction Games
+PixelJunk Shooter Ultimate,PlayStation 4,Action,82,7.2,E,Double Eleven
+PlanetSide 2,PlayStation 4,Action,78,7.1,T,Sony Online Entertainment
+Plants vs Zombies: Garden Warfare,PlayStation 4,Action,75,7.6,E10+,PopCap
+Plants vs Zombies: Garden Warfare 2,PlayStation 4,General,81,7.7,E10+,PopCap
+Platinum Demo: Final Fantasy XV,PlayStation 4,Role-Playing,No score yet,7.7,,Square Enix
+PlayStation VR Demo Disc,PlayStation 4,Miscellaneous,No score yet,7.3,,Sony Interactive Entertainment
+PlayStation VR WORLDS,PlayStation 4,Miscellaneous,57,5.9,,Sony Interactive Entertainment
+Pneuma: Breath of Life,PlayStation 4,Adventure,69,7.0,E,Deco Digital
+PONCHO,PlayStation 4,Action,63,4.6,E,Delve Interactive
+Primal Carnage: Extinction,PlayStation 4,Action,46,5.8,T,Lukewarm Media
+Prison Architect,PlayStation 4,Strategy,80,8.0,M,Introversion
+Pro Evolution Soccer 2015,PlayStation 4,Action,82,7.2,E,Konami
+Pro Evolution Soccer 2016,PlayStation 4,Sports,87,7.1,E,Konami
+Pro Evolution Soccer 2017,PlayStation 4,Sports,85,7.6,E,Konami
+Project CARS,PlayStation 4,Driving,83,6.6,E,Slightly Mad Studios
+Project Root,PlayStation 4,Action,45,5.6,T,Pablo Testa
+Prominence Poker,PlayStation 4,Miscellaneous,No score yet,7.5,T,Pipeworks Software
+Prototype,PlayStation 4,Action Adventure,No score yet,5.4,M,Radical Entertainment
+Prototype 2,PlayStation 4,Action Adventure,No score yet,5.0,M,Radical Entertainment
+Prototype Biohazard Bundle,PlayStation 4,Miscellaneous,48,2.0,M,Radical Entertainment
+Psycho-Pass: Mandatory Happiness,PlayStation 4,Adventure,74,8.1,T,5pb
+Puddle,PlayStation 4,Miscellaneous,No score yet,5.5,T,Neko Entertainment
+Pure Chess,PlayStation 4,Miscellaneous,No score yet,5.7,E,VooFoo Studios
+Pure Hold 'Em,PlayStation 4,Miscellaneous,73,4.6,T,VooFoo Studios
+Pure Pool,PlayStation 4,Alternative,75,7.1,E,VooFoo Studios
+Push Me Pull You,PlayStation 4,Sports,75,8.8,E,House House
+Putty Squad,PlayStation 4,Action,38,2.9,E10+,System 3
+Q*bert: Rebooted,PlayStation 4,Action,44,5.2,E,LOOT Entertainment
+Q.U.B.E. Director's Cut,PlayStation 4,Puzzle,76,8.0,T,Toxic Games
+Quiplash,PlayStation 4,Miscellaneous,No score yet,7.7,T,Jackbox Games
+Qurare: Magic Library,PlayStation 4,Strategy,No score yet,4.8,T,palmple
+R.B.I. Baseball 14,PlayStation 4,Sports,No score yet,2.2,E,MLB.com
+R.B.I. Baseball 15,PlayStation 4,Sports,No score yet,4.5,E,MLB.com
+R.B.I. Baseball 16,PlayStation 4,Sports,52,2.4,E,MLB AM
+Rabbids Invasion,PlayStation 4,Action,No score yet,4.4,E10+,Ubisoft
+Race the Sun,PlayStation 4,Action,76,6.0,E,Flippfly
+Rack N Ruin,PlayStation 4,Action Adventure,59,6.6,T,LifeSpark Entertainment
+Rainbow Moon,PlayStation 4,Strategy,70,6.0,E10+,SideQuest Studios
+Ratchet & Clank,PlayStation 4,Action,85,8.6,E10+,Insomniac Games
+Rayman Legends,PlayStation 4,Action,90,8.5,E10+,Ubisoft Montpellier
+Rebel Galaxy,PlayStation 4,Action,64,6.8,T,Double Damage Games
+Red Goddess: Inner World,PlayStation 4,Action,49,7.1,E10+,Yanim Studio
+Republique,PlayStation 4,Action Adventure,72,5.7,M,Camouflaj
+Resident Evil 0: HD Remaster,PlayStation 4,Action Adventure,70,7.8,M,Capcom
+Resident Evil 4,PlayStation 4,Action Adventure,82,7.9,M,Capcom
+Resident Evil 5,PlayStation 4,Action Adventure,69,7.4,M,Capcom
+Resident Evil 6,PlayStation 4,Action Adventure,60,6.9,M,Capcom
+Resident Evil HD Remaster,PlayStation 4,Horror,83,8.3,M,Capcom
+Resident Evil: Origins Collection,PlayStation 4,Miscellaneous,No score yet,7.6,M,Capcom
+Resident Evil: Revelations 2,PlayStation 4,Horror,75,7.7,M,Capcom
+Resident Evil: Revelations 2 - Episode 1: Penal Colony,PlayStation 4,Action Adventure,75,7.1,M,Capcom
+Resident Evil: Revelations 2 - Episode 2: Contemplation,PlayStation 4,Action Adventure,75,6.6,M,Capcom
+Resident Evil: Revelations 2 - Episode 3: Judgment,PlayStation 4,Action Adventure,77,6.8,M,Capcom
+Resident Evil: Revelations 2 - Episode 4: Metamorphosis,PlayStation 4,Action Adventure,75,7.1,M,Capcom
+Resogun,PlayStation 4,Action,84,7.7,E10+,Housemarque
+Resogun: Defenders,PlayStation 4,Action,85,7.2,,XDEV
+Resogun: Heroes,PlayStation 4,Action,86,7.4,E10+,XDEV
+RETSNOM,PlayStation 4,Action,60,tbd,T,SOMI
+Reus,PlayStation 4,Strategy,74,tbd,E10+,Soedesco
+Rez Infinite,PlayStation 4,Action,90,7.4,E10+,Q Entertainment
+RIDE,PlayStation 4,Racing,66,7.0,E,Milestone S.r.l
+Ride 2,PlayStation 4,Racing,72,7.9,E,Milestone S.r.l
+RIGS: Mechanized Combat League,PlayStation 4,Simulation,77,8.4,T,Guerilla Cambridge
+Riptide GP2,PlayStation 4,Driving,No score yet,7.3,E,Vector Unit Inc.
+Riptide GP: Renegade,PlayStation 4,General,71,6.5,E10+,Vector Unit
+Rise of the Tomb Raider: 20 Year Celebration,PlayStation 4,Action Adventure,88,8.3,M,Crystal Dynamics
+Risen 3: Titan Lords - Enhanced Edition,PlayStation 4,Role-Playing,51,4.5,M,Piranha Bytes
+RISK,PlayStation 4,Miscellaneous,58,6.1,E10+,Zoe Mode
+Risk of Rain,PlayStation 4,Action,81,7.7,T,Hopoo Games
+Risk: Urban Assault,PlayStation 4,Strategy,61,8.3,E10+,Zoe Mode
+RIVE,PlayStation 4,Action,74,8.5,E10+,Two Tribes
+Road Not Taken,PlayStation 4,Miscellaneous,70,5.5,E,Spry Fox
+Rock Band 4,PlayStation 4,Action,78,6.4,T,Harmonix Music Systems
+Rock Boshers DX: Director's Cut,PlayStation 4,Action,74,6.5,E10+,Tikipod Limited
+Rocket League,PlayStation 4,Racing,85,8.7,E,Psyonix
+Rocketbirds 2: Evolution,PlayStation 4,Action,67,7.0,T,Ratloop Asia Pte Ltd
+Rocksmith 2014 Edition,PlayStation 4,Action,82,7.5,T,Ubisoft
+Rogue Galaxy,PlayStation 4,Role-Playing,No score yet,8.2,T,Level 5
+Rogue Legacy,PlayStation 4,Action,85,7.8,E10+,Cellar Door Games
+Rollers of the Realm,PlayStation 4,Action,75,7.1,T,Phantom Compass
+Romance of the Three Kingdoms XIII,PlayStation 4,Strategy,67,7.1,E10+,Koei Tecmo Games
+Rory McIlroy PGA Tour,PlayStation 4,Traditional,61,3.7,E,EA Tiburon
+Rugby 15,PlayStation 4,Alternative,19,3.4,E,HB Studios Multimedia
+Rugby Challenge 3,PlayStation 4,Sports,64,7.1,E,Wicked Witch Software
+Rugby League Live 3,PlayStation 4,Sports,No score yet,7.6,E,Big Ant Studios
+Rugby World Cup 2015,PlayStation 4,Sports,25,1.8,E,HB Studios Multimedia
+Saint Seiya: Soldiers' Soul,PlayStation 4,Action,59,7.7,T,Dimps Corporation
+Saints Row IV: Re-Elected,PlayStation 4,Action Adventure,75,7.2,M,Volition Inc.
+Saints Row IV: Re-Elected & Gat Out of Hell,PlayStation 4,Action Adventure,66,7.5,M,Volition Inc.
+Saints Row: Gat Out of Hell,PlayStation 4,Action Adventure,64,5.7,M,Volition Inc.
+Salt and Sanctuary,PlayStation 4,Action,84,8.1,M,Ska Studios
+Samurai Warriors 4,PlayStation 4,Action,76,8.1,T,Omega Force
+Samurai Warriors 4 Empires,PlayStation 4,Action,71,6.5,T,Omega Force
+Samurai Warriors 4-II,PlayStation 4,Action,73,7.2,T,Omega Force
+Saturday Morning RPG,PlayStation 4,Role-Playing,No score yet,7.5,E10+,Mighty Rabbit Studios
+Schrodinger's Cat and the Raiders of the Lost Quark,PlayStation 4,Action,61,tbd,E,Italic Pig
+Score Rush Extended,PlayStation 4,Action,80,8.2,E,Xona Games
+Scrabble,PlayStation 4,Miscellaneous,No score yet,7.3,E,Ubisoft Chengdu
+Scram Kitty DX,PlayStation 4,Action,74,7.3,E,Dakko Dakko
+Screencheat,PlayStation 4,Action,69,tbd,E10+,Samurai Punk
+Sebastien Loeb Rally Evo,PlayStation 4,Racing,71,8.1,E,Milestone S.r.l
+Secret Ponchos,PlayStation 4,Action,64,6.6,T,Switchblade Monkeys
+Senran Kagura: Estival Versus,PlayStation 4,Action,67,8.0,M,Marvelous Inc.
+Shadow Blade: Reload,PlayStation 4,Action,63,7.3,T,Dead Mage
+Shadow Complex Remastered,PlayStation 4,Action,80,7.4,T,Chair Entertainment
+Shadow of the Beast,PlayStation 4,Action Adventure,64,7.6,M,Heavy Spectrum
+Shadow Warrior,PlayStation 4,Action,70,7.7,M,Flying Wild Hog
+Shadwen,PlayStation 4,Action Adventure,51,7.5,M,Frozenbyte
+Shantae and the Pirate's Curse,PlayStation 4,Action,75,7.9,E10+,WayForward
+Shantae: Risky's Revenge - Director's Cut,PlayStation 4,Action,74,7.4,,WayForward
+Sheltered,PlayStation 4,Strategy,70,6.1,T,Unicube
+Sherlock Holmes: Crimes & Punishments,PlayStation 4,Adventure,73,7.3,M,Frogwares
+Sherlock Holmes: The Devil's Daughter,PlayStation 4,Adventure,70,6.8,T,Frogwares
+Shiftlings,PlayStation 4,Action,63,6.4,T,Rock Pocket Games
+Shovel Knight,PlayStation 4,Action,90,7.6,E,Yacht Club Games
+Shovel Knight: Plague of Shadows,PlayStation 4,Action,No score yet,6.6,E,Yacht Club Games
+Shu,PlayStation 4,Action,80,8.5,E,Coatsink Software
+Shutshimi,PlayStation 4,Action,No score yet,6.3,E10+,Neon Deity Games
+SingStar,PlayStation 4,Action,No score yet,5.3,E,SCEE London Studio
+SingStar: Ultimate Party,PlayStation 4,Miscellaneous,47,4.2,,SCEE
+Skullgirls: 2nd Encore,PlayStation 4,Action,82,7.5,T,Lab Zero Games
+Skulls of the Shogun: Bone-a-Fide Edition,PlayStation 4,Fantasy,80,6.4,T,17-Bit
+Skylanders Imaginators,PlayStation 4,Action,81,6.2,E10+,Toys for Bob
+Skylanders SuperChargers,PlayStation 4,Action,81,3.4,E10+,Vicarious Visions
+Skylanders Swap Force,PlayStation 4,Action,79,5.2,E10+,Vicarious Visions
+Skylanders Trap Team,PlayStation 4,Action,78,5.8,E10+,Toys for Bob
+Slain: Back From Hell,PlayStation 4,Action,66,8.2,M,Wolf Brew Games
+Sleeping Dogs: Definitive Edition,PlayStation 4,Action Adventure,77,7.2,M,United Front Games
+Slender: The Arrival,PlayStation 4,Adventure,60,6.7,T,Blue Isle Studios
+SMITE,PlayStation 4,Strategy,79,7.3,T,Hi-Rez Studios
+Sniper Elite III,PlayStation 4,Action,67,7.1,M,Rebellion
+Sniper Elite III: Target Hitler - Hunt the Grey Wolf,PlayStation 4,Action,No score yet,5.9,,Rebellion
+Sniper Elite III: Ultimate Edition,PlayStation 4,Action,74,7.3,M,Rebellion
+Soft Body,PlayStation 4,Puzzle,69,tbd,E,Bodysoft
+Solbrain: Knight of Darkness,PlayStation 4,Action,No score yet,7.5,T,Lightning Game Studios
+SOMA,PlayStation 4,Action Adventure,79,8.3,M,Frictional Games
+Song of the Deep,PlayStation 4,Action Adventure,69,7.3,E,Insomniac Games
+Soul Axiom,PlayStation 4,Adventure,47,4.8,T,Wales Interactive Ltd.
+Sound Shapes,PlayStation 4,Action,84,7.1,E,SCEA
+South Park: The Stick of Truth,PlayStation 4,Role-Playing,No score yet,8.5,M,Obsidian Entertainment
+Sparkle 2,PlayStation 4,Action,66,5.7,E,10tons Ltd
+Speakeasy,PlayStation 4,Action,No score yet,2.0,T,Super Soul
+Spelunker World,PlayStation 4,Action,No score yet,4.9,E,Tozai Games
+Spelunky,PlayStation 4,Action,No score yet,6.7,T,Mossmouth
+Splice,PlayStation 4,Puzzle,74,5.0,E,Cipher Prime Studios
+SportsBarVR,PlayStation 4,Sports,62,5.9,E,Cherry Pop Games
+Sportsfriends,PlayStation 4,Sports,82,6.3,E10+,Die Gute Fabrik
+Star Ocean: Integrity and Faithlessness,PlayStation 4,Role-Playing,59,5.9,T,Tri-Ace
+Star Trek Online,PlayStation 4,Role-Playing,No score yet,5.1,T,Cryptic Studios
+Star Wars Battlefront,PlayStation 4,Action,73,5.0,T,EA DICE
+Star Wars Battlefront: Bespin,PlayStation 4,Action,No score yet,8.0,,EA DICE
+Star Wars Battlefront: Death Star,PlayStation 4,Action,70,6.0,,EA DICE
+Star Wars Battlefront: Outer Rim,PlayStation 4,Action,70,5.8,T,EA DICE
+Star Wars Pinball: Heroes Within,PlayStation 4,Action,80,5.2,E10+,Zen Studios
+Star Wars Pinball: The Force Awakens,PlayStation 4,Action,81,4.9,,Zen Studios
+Star Wars: Jedi Starfighter,PlayStation 4,Simulation,No score yet,8.0,T,LucasArts
+Table Top Racing: World Tour,PlayStation 4,Racing,55,6.5,E,Playrise Edge Ltd.
+Tachyon Project,PlayStation 4,Action,71,6.4,E,Eclipse Games
+Tales from the Borderlands: A Telltale Game Series,PlayStation 4,Adventure,86,8.1,M,Telltale Games
+Tales From The Borderlands: Episode 1 - Zer0 Sum,PlayStation 4,Miscellaneous,80,8.1,M,Telltale Games
+Tales From The Borderlands: Episode 2 - Atlas Mugged,PlayStation 4,Adventure,81,7.8,M,Telltale Games
+Tales From The Borderlands: Episode 3 - Catch A Ride,PlayStation 4,Adventure,83,7.8,M,Telltale Games
+Tales From The Borderlands: Episode 4 - Escape Plan Bravo,PlayStation 4,Adventure,78,8.3,M,Telltale Games
+Tales From The Borderlands: Episode 5 - The Vault of the Traveler,PlayStation 4,Adventure,90,8.2,M,Telltale Games
+Tales of Zestiria,PlayStation 4,Role-Playing,72,7.0,T,Bandai Namco Games
+Tearaway Unfolded,PlayStation 4,Action Adventure,81,8.1,E,Media Molecule
+Teenage Mutant Ninja Turtles: Mutants in Manhattan,PlayStation 4,Action,44,5.4,T,PlatinumGames
+Tembo the Badass Elephant,PlayStation 4,Action Adventure,72,7.0,E10+,Game Freak
+Tennis in the Face,PlayStation 4,Puzzle,68,5.1,T,10tons Ltd
+Terraria,PlayStation 4,Action,83,7.8,T,Engine Software
+Teslagrad,PlayStation 4,Action,78,6.6,E,Rain Games
+Tethered,PlayStation 4,Action,78,8.0,E10+,SECRET SORCERY LIMITED
+Tetris Ultimate,PlayStation 4,Miscellaneous,63,3.6,E,Ubisoft
+Tharsis,PlayStation 4,Miscellaneous,65,5.9,M,Choice Provisions
+That Trivia Game,PlayStation 4,Miscellaneous,37,3.2,E,The Game Room
+The Amazing Spider-Man 2,PlayStation 4,Action,49,5.4,T,Beenox
+The Assembly,PlayStation 4,Miscellaneous,53,tbd,T,nDreams
+The Banner Saga,PlayStation 4,Role-Playing,79,8.5,T,Stoic
+The Banner Saga 2,PlayStation 4,Role-Playing,78,8.1,T,Stoic
+The Binding of Isaac: Afterbirth,PlayStation 4,Action,No score yet,8.5,,Nicalis
+The Binding of Isaac: Rebirth,PlayStation 4,Horror,88,7.7,M,Nicalis
+THE BIT.TRIP,PlayStation 4,Miscellaneous,80,5.0,E,Choice Provisions
+The Book of Unwritten Tales 2,PlayStation 4,Adventure,63,8.5,,KING Art
+The Bread Pub Brawlers,PlayStation 4,Action,No score yet,6.8,E10+,NiKo MaKi
+The Bunker,PlayStation 4,Adventure,70,6.4,T,Splendy Games
+The Castle Game,PlayStation 4,Strategy,68,7.0,E10+,Neptune Interactive Inc.
+The Crew,PlayStation 4,Racing,61,5.4,T,Ubisoft Reflections
+The Crew: Wild Run,PlayStation 4,Racing,73,6.8,T,Ivory Tower
+The Crew: Wild Run Edition,PlayStation 4,Racing,No score yet,8.1,,Ivory Tower
+The Deadly Tower of Monsters,PlayStation 4,General,72,7.9,T,ACE Team
+The Elder Scrolls Online: Gold Edition,PlayStation 4,Role-Playing,No score yet,9.0,M,ZeniMax Media
+The Elder Scrolls Online: Tamriel Unlimited,PlayStation 4,First-Person,74,7.6,M,ZeniMax Media
+The Elder Scrolls Online: Tamriel Unlimited - Orsinium,PlayStation 4,Role-Playing,72,5.5,M,ZeniMax Media
+The Elder Scrolls Online: Tamriel Unlimited - The Imperial City,PlayStation 4,Role-Playing,No score yet,8.7,M,ZeniMax Media
+The Elder Scrolls Online: Tamriel Unlimited - Thieves Guild,PlayStation 4,Role-Playing,75,tbd,,ZeniMax Media
+The Elder Scrolls V: Skyrim Special Edition,PlayStation 4,Role-Playing,No score yet,6.6,M,Bethesda Game Studios
+The Escapists,PlayStation 4,Action,71,6.2,T,Mouldy Toof Studios
+The Escapists: The Walking Dead,PlayStation 4,Action,63,tbd,T,Team 17
+The Evil Within,PlayStation 4,Action Adventure,75,7.3,M,Tango Gameworks
+The Evil Within: The Assignment,PlayStation 4,Action Adventure,80,8.2,M,Tango Gameworks
+The Evil Within: The Consequence,PlayStation 4,Action Adventure,75,8.0,,Tango Gameworks
+The Evil Within: The Executioner,PlayStation 4,Action Adventure,59,6.2,,Tango Gameworks
+The Fall,PlayStation 4,Action Adventure,79,6.5,T,Over The Moon
+The Final Station,PlayStation 4,Action Adventure,68,tbd,M,tinyBuild
+The Four Kings Casino and Slots,PlayStation 4,Miscellaneous,No score yet,4.6,T,Digital Leisure Inc.
+The Golf Club,PlayStation 4,Traditional,66,6.3,E,HB Studios Multimedia
+The Huntsman: Winter's Curse,PlayStation 4,Role-Playing,45,tbd,T,Desert Owl Games LLC
+The Jackbox Party Pack,PlayStation 4,Miscellaneous,No score yet,8.1,T,Jackbox Games
+The Jackbox Party Pack 2,PlayStation 4,Miscellaneous,71,8.0,T,Jackbox Games
+The King of Fighters XIV,PlayStation 4,Action,79,8.6,T,SNK Playmore
+The Last Blade 2,PlayStation 4,Action,No score yet,6.8,T,SNK Playmore
+The Last of Us Remastered,PlayStation 4,Action Adventure,95,9.0,M,Naughty Dog
+The Last of Us: Left Behind,PlayStation 4,Action Adventure,No score yet,8.6,M,Naughty Dog
+The Last Tinker: City of Colors,PlayStation 4,Action,66,6.1,E10+,LOOT Entertainment
+The Legend of Korra,PlayStation 4,Action Adventure,54,6.5,T,PlatinumGames
+The LEGO Movie Videogame,PlayStation 4,Action Adventure,71,7.1,E10+,TT Games
+The Magic Circle: Gold Edition,PlayStation 4,Adventure,76,7.8,M,Question
+The Order: 1886,PlayStation 4,Action,63,6.6,M,Ready at Dawn
+The Park,PlayStation 4,Action Adventure,55,6.0,M,Funcom
+The Peanuts Movie: Snoopy's Grand Adventure,PlayStation 4,Action,59,6.6,E,Activision
+The Pinball Arcade,PlayStation 4,Action,82,6.9,E10+,Farsight Studios
+The Playroom,PlayStation 4,Miscellaneous,No score yet,6.9,E,SCEI
+The Playroom VR,PlayStation 4,Miscellaneous,74,7.6,E,Sony Interactive Entertainment
+The Sun and Moon,PlayStation 4,Action,64,tbd,E,Daniel Linssen
+The Swapper,PlayStation 4,Action,83,7.7,E10+,Facepalm Games
+The Swindle,PlayStation 4,Action,73,6.1,E10+,Size Five Games
+The Talos Principle,PlayStation 4,Adventure,88,8.4,E10+,Croteam
+The Technomancer,PlayStation 4,Role-Playing,60,6.8,M,Spiders
+The Tomorrow Children,PlayStation 4,Sci-Fi,54,5.7,T,Q-Games
+The Unfinished Swan,PlayStation 4,Action,83,7.5,E10+,Armature Studio
+The Vanishing of Ethan Carter,PlayStation 4,Miscellaneous,81,7.8,M,The Astronauts
+The Walking Dead: A Telltale Games Series - The Complete First Season,PlayStation 4,Miscellaneous,No score yet,8.4,M,Telltale Games
+The Walking Dead: Michonne - A Telltale Miniseries,PlayStation 4,Adventure,64,6.3,,Skybound LLC
+The Walking Dead: Michonne - Episode 1: In Too Deep,PlayStation 4,Adventure,70,7.0,M,Skybound LLC
+The Walking Dead: Michonne - Episode 2: Give No Shelter,PlayStation 4,Adventure,82,7.1,M,Telltale Games
+The Walking Dead: Michonne - Episode 3: What We Deserve,PlayStation 4,Adventure,76,7.9,M,Telltale Games
+UEFA EURO 2016,PlayStation 4,Sports,72,6.6,E,Konami
+Ultra Street Fighter IV,PlayStation 4,Action,71,5.8,T,Other Ocean Interactive
+Ultratron,PlayStation 4,Action,No score yet,5.8,E,Puppy Games
+Umbrella Corps,PlayStation 4,Action,39,2.5,M,Capcom
+Uncharted 4: A Thief's End,PlayStation 4,General,93,7.9,T,Naughty Dog
+Uncharted: The Nathan Drake Collection,PlayStation 4,Action Adventure,86,8.1,T,Bluepoint Games
+Unepic,PlayStation 4,Action,66,6.0,T,A Crowd of Monsters
+Unmechanical: Extended Edition,PlayStation 4,Action,75,6.2,E,Grip Games
+Uno,PlayStation 4,Miscellaneous,71,6.0,E,Ubisoft Chengdu
+Unravel,PlayStation 4,Action,78,8.4,E,Coldwood Interactive
+Until Dawn,PlayStation 4,Action Adventure,79,8.2,M,SuperMassive Games
+Until Dawn: Rush of Blood,PlayStation 4,Action,72,7.6,M,SuperMassive Games
+Valentino Rossi The Game,PlayStation 4,Racing,75,8.0,E,Milestone
+Valiant Hearts: The Great War,PlayStation 4,Action,77,8.4,T,Ubisoft Montpellier
+Valkyria Chronicles Remastered,PlayStation 4,Strategy,84,8.3,T,Sega
+Valley,PlayStation 4,Action Adventure,72,7.6,T,Blue Isle Studios
+Velocibox,PlayStation 4,Action,62,7.0,E,Shawn Beck
+Velocity 2X,PlayStation 4,Action,86,6.9,E10+,FuturLab
+Verdun,PlayStation 4,Action,55,7.6,M,Blackmill Games
+VEV: Viva Ex Vivo,PlayStation 4,Action Adventure,48,6.3,E,Truant Pixel
+VVVVVV,PlayStation 4,Action,No score yet,7.3,E10+,Terry Cavanagh
+Wander,PlayStation 4,Simulation,28,1.9,E,Wander
+War Thunder,PlayStation 4,Action,76,6.0,T,Gaijin Entertainment
+Warframe,PlayStation 4,Action,64,6.9,M,Digital Extremes
+Warhammer: End Times - Vermintide,PlayStation 4,Action,73,6.7,M,Fatshark AB
+Warriors Orochi 3 Ultimate,PlayStation 4,Action,77,6.5,T,Omega Force
+Wasteland 2: Director's Cut,PlayStation 4,Role-Playing,80,7.6,M,InXile Entertainment
+Watch Dogs,PlayStation 4,Action Adventure,80,6.3,M,Ubisoft Montreal
+Watch Dogs: Bad Blood,PlayStation 4,Action Adventure,76,7.2,M,Ubisoft Montreal
+Wayward Sky,PlayStation 4,Action,72,7.0,T,Uber Entertainment
+WE ARE DOOMED,PlayStation 4,Action,61,6.7,E,Vertex Pop
+Whispering Willows,PlayStation 4,Adventure,63,5.9,T,LOOT Interactive
+White Night,PlayStation 4,Action Adventure,67,6.8,M,OSome Studio
+Wild Arms 3,PlayStation 4,Role-Playing,No score yet,9.3,T,Media Vision
+Windlands VR,PlayStation 4,Adventure,No score yet,6.4,E,Psytec Games Ltd
+Woah Dave!,PlayStation 4,Action,No score yet,5.7,E,Choice Provisions
+Wolfenstein: The New Order,PlayStation 4,Action,79,8.1,M,MachineGames
+Wolfenstein: The Old Blood,PlayStation 4,Action,76,8.0,,MachineGames
+World of Final Fantasy,PlayStation 4,Role-Playing,78,8.3,E10+,Square Enix
+World of Tanks,PlayStation 4,Action,80,6.2,T,Wargaming.net
+Worms Battlegrounds,PlayStation 4,Strategy,62,6.2,E10+,Team 17
+Worms W.M.D,PlayStation 4,Strategy,78,7.6,E10+,Team 17
+WRC 5,PlayStation 4,Racing,62,6.0,E,Kylotonn
+WRC 6: FIA World Rally Championship,PlayStation 4,Racing,68,5.7,E,Kylotonn
+WWE 2K15,PlayStation 4,Action,62,5.1,T,Yuke's
+WWE 2K16,PlayStation 4,Action,73,7.4,T,Yuke's
+WWE 2K17,PlayStation 4,Sports,68,6.9,T,Yuke's
+XCOM 2,PlayStation 4,Strategy,87,8.0,T,Firaxis Games
+Xeodrifter,PlayStation 4,Action,77,5.5,E,Renegade Kid
+'dillos,PC,Action,No score yet,3.8,,Wreck Center Games LLC
+//N.P.P.D. RUSH//- The milk of Ultraviolet,PC,Scrolling,No score yet,4.4,,Rail Slave Games
+007 Legends,PC,Action,26,2.4,T,Eurocom Entertainment Software
+007: NightFire,PC,Action,59,6.3,T,Gearbox Software
+007: Quantum of Solace,PC,Action,70,6.3,T,Treyarch
+0RBITALIS,PC,Miscellaneous,73,7.3,,Alan Zucconi
+1... 2... 3... KICK IT! Drop That Beat Like an Ugly Baby,PC,Action,No score yet,2.6,,Dejobaan Games
+10 Second Ninja,PC,Action,72,7.9,,GameDesignDan
+10 Second Ninja X,PC,Action,No score yet,4.8,,Four Circle Interactive
+"10,000,000",PC,Role-Playing,67,7.3,,
+100% Orange Juice,PC,Other Strategy Games,No score yet,8.1,T,ORANGE_JUICE
+1000 Amps,PC,Miscellaneous,No score yet,7.4,,Brandon Brizzi
+1001 Spikes,PC,Action,80,6.7,T,Nicalis
+12 is Better Than 6,PC,Action,74,7.5,,Ink Stains Games
+12 Labours of Hercules,PC,Strategy,No score yet,8.6,,Zoom Out Games
+140,PC,Action,80,7.4,,Jeppe Carlsen
+15 Days,PC,Adventure,63,5.8,,DTP Entertainment
+1503 A.D. - The New World,PC,Strategy,74,7.5,T,Sunflowers Interactive
+1701 A.D.,PC,Strategy,79,8.3,E10+,Related Designs
+18 Wheels of Steel: American Long Haul,PC,Simulation,No score yet,6.9,E,SCS Software
+18 Wheels of Steel: Big City Rigs,PC,Driving,No score yet,2.8,E,
+18 Wheels of Steel: Extreme Trucker,PC,Driving,No score yet,8.0,E,
+18 Wheels of Steel: Extreme Trucker 2,PC,Driving,No score yet,8.3,E,ValuSoft
+18 Wheels of Steel: Pedal to the Metal,PC,Driving,No score yet,9.1,E,SCS Software
+1849,PC,Strategy,60,tbd,,SomaSim
+1953 - KGB Unleashed,PC,Action Adventure,No score yet,6.5,,Phantomery Interactive
+1954: Alcatraz,PC,Puzzle,58,6.4,,Daedalic Entertainment
+1979 Revolution: Black Friday,PC,Adventure,80,7.8,,N-Fusion Interactive Entertainment Corp.
+199X,PC,Action,No score yet,6.5,,Evan Tognotti
+1nsane,PC,Driving,69,8.5,E,Invictus
+2002 FIFA World Cup,PC,Sports,80,7.8,E,EA Sports
+25 to Life,PC,Action,39,5.1,M,Ritual Entertainment
+A Bird Story,PC,Action,66,7.3,,Freebird Games
+A City Sleeps,PC,Action,61,6.3,,Harmonix Music Systems
+A Druid's Duel,PC,Strategy,70,tbd,,Thoughtshelter Games
+A Farewell To Dragons,PC,Role-Playing,No score yet,7.6,,KranX Productions
+A Fistful of Gun,PC,Action,60,7.9,,FarmerGnome
+A Game of Dwarves,PC,Strategy,60,6.6,,Zeal Game Studios
+A Game of Thrones: Genesis,PC,Strategy,53,4.0,,Cyanide
+A Golden Wake,PC,Miscellaneous,68,6.0,,Grundislav Games
+A Kingdom for Keflings,PC,Strategy,No score yet,7.5,E,NinjaBee
+A Lenda do Heroi,PC,Action,No score yet,7.3,,Dumativa Creative Studio
+A New Beginning: Final Cut,PC,Adventure,72,6.7,,Daedalic Entertainment
+A Pixel Story,PC,Action,74,5.8,,Lamplight Studios
+A Quiet Weekend in Capri,PC,Adventure,63,7.4,E,Silvio & Gey Savarese
+A Story About My Uncle,PC,Action,73,7.5,,Gone North Games
+A Stroke of Fate: Operation Valkyrie,PC,Adventure,58,5.2,,Spline
+A Tale in the Desert,PC,Role-Playing,79,8.3,,eGenesis
+A Valley Without Wind,PC,Action Adventure,54,6.8,T,Arcen Games
+A Valley Without Wind 2,PC,Action,68,7.2,,Arcen Games
+A Vampyre Story,PC,Adventure,75,8.5,T,Autumn Moon
+A Virus Named TOM,PC,Miscellaneous,65,6.3,,Misfits Attic
+A Walk in the Dark,PC,Action,67,5.7,,Flying Turtle Software
+A Wizard's Lizard,PC,Role-Playing,No score yet,7.1,,Lost Decade Games
+A.R.E.S. Extinction Agenda,PC,Action,68,6.2,,EXTEND Interactive
+AaaaaAAaaaAAAaaAAAAaAAAAA!!! for the Awesome,PC,Action,No score yet,6.8,,Dejobaan Games
+B-17 Flying Fortress: The Mighty 8th,PC,Simulation,82,7.3,M,Wayward Simulations
+B-17 Gunner: Air War Over Germany,PC,Simulation,46,tbd,T,Sunstorm Interactive
+Babel Rising,PC,Strategy,No score yet,2.9,E10+,Mondo Productions
+Back in 1995,PC,Action Adventure,52,5.0,,Throw the Warped Code Out
+Back to Bed,PC,Action,57,6.3,,Bedtime Digital Games
+Back to the Future: The Game,PC,Miscellaneous,No score yet,7.3,T,Telltale Games
+Back to the Future: The Game - Episode I: It's About Time,PC,Action Adventure,74,7.1,,Telltale Games
+Back to the Future: The Game - Episode II: Get Tannen!,PC,Action Adventure,74,7.3,RP,Telltale Games
+Back to the Future: The Game - Episode III: Citizen Brown,PC,Action Adventure,71,5.8,E,Telltale Games
+Back to the Future: The Game - Episode IV: Double Visions,PC,Action Adventure,71,6.0,RP,Telltale Games
+Back to the Future: The Game - Episode V: OUTATIME,PC,Action Adventure,75,7.2,RP,Telltale Games
+Backyard Skateboarding (2004),PC,Sports,No score yet,7.6,E,Humongous Entertainment
+Bad Bots,PC,Action,49,4.8,,Point 5 Projects
+Bad Hotel,PC,Miscellaneous,No score yet,3.6,,Lucky Frame
+Bad Mojo,PC,Action Adventure,74,6.9,T,Pulse Entertainment
+Bad Mojo: Redux,PC,Action Adventure,74,7.0,T,Pulse Entertainment
+Bad Piggies,PC,Puzzle,No score yet,6.8,E,Rovio Mobile
+Bad Rats: The Rats Revenge,PC,Miscellaneous,No score yet,7.5,,Invent4 Entertainment
+BADLAND: Game of the Year Edition,PC,Action,79,7.7,E,Frogmind
+Baldur's Gate,PC,Role-Playing,91,9.0,T,BioWare
+Baldur's Gate II: Enhanced Edition,PC,Role-Playing,78,7.5,,Overhaul Games
+Baldur's Gate II: Shadows of Amn,PC,Role-Playing,95,9.2,T,BioWare
+Baldur's Gate: Enhanced Edition,PC,Role-Playing,78,7.0,T,Overhaul Games
+Baldur's Gate: Siege of Dragonspear,PC,Role-Playing,77,3.6,,Overhaul Games
+Baldur's Gate: Tales of the Sword Coast,PC,Role-Playing,No score yet,8.2,T,BioWare
+Ballance,PC,Miscellaneous,No score yet,8.7,E,Cyparade
+Ballistics,PC,Driving,71,7.8,E,GRIN
+Ballpoint Universe,PC,Action,No score yet,4.6,,ArachnidGames
+CABAL Online,PC,Role-Playing,No score yet,7.1,T,ESTsoft
+Cabela's African Adventures,PC,Sports,No score yet,4.8,T,Activision
+Cabela's Big Game Hunter 2004 Season,PC,Sports,No score yet,7.0,T,FUN Labs
+Cabela's Big Game Hunter 2005 Adventures,PC,Sports,No score yet,7.4,T,FUN Labs
+Cabela's Big Game Hunter: Pro Hunts,PC,Sports,No score yet,7.6,T,Cauldron Ltd.
+Cabela's Dangerous Hunts,PC,Sports,68,7.4,T,FUN Labs
+Cabela's Dangerous Hunts 2,PC,Sports,No score yet,5.5,T,FUN Labs
+Cabela's Dangerous Hunts 2013,PC,Sports,No score yet,4.4,T,Activision
+Cabela's Hunting Expeditions,PC,Sports,No score yet,6.0,T,Activision
+Cabela's Outdoor Adventures (2009),PC,Sports,No score yet,8.0,T,Activision
+Caesar III,PC,Strategy,No score yet,8.7,E,Impressions Games
+Caesar IV,PC,Strategy,74,7.6,E10+,Tilted Mill
+CALENDULA,PC,Adventure,67,8.1,,Blooming Buds Studio
+Californium,PC,First-Person,64,5.9,,Nova Production
+Call for Heroes: Pompolic Wars,PC,Role-Playing,25,3.2,T,Quotix Software
+Call of Cthulhu: Dark Corners of the Earth,PC,Action Adventure,76,7.6,M,Headfirst Productions
+Call of Cthulhu: The Wasted Land,PC,Strategy,No score yet,7.4,,Red Wasp Design
+Call of Duty,PC,Action,91,8.5,T,Infinity Ward
+Call of Duty 2,PC,Action,86,8.4,T,Infinity Ward
+Call of Duty 4: Modern Warfare,PC,Action,92,8.5,M,Infinity Ward
+Call of Duty Deluxe Edition Box Set,PC,Miscellaneous,No score yet,7.2,T,Activision
+Call of Duty: Advanced Warfare,PC,Action,78,4.5,M,Sledgehammer Games
+Call of Duty: Black Ops,PC,Action,81,5.2,M,Treyarch
+Call of Duty: Black Ops - Annihilation,PC,Action,No score yet,5.3,M,Treyarch
+Call of Duty: Black Ops - Escalation,PC,Action,No score yet,5.4,M,Treyarch
+Call of Duty: Black Ops - First Strike,PC,Action,No score yet,5.3,M,Treyarch
+Call of Duty: Black Ops - Rezurrection,PC,Action,No score yet,2.5,M,Treyarch
+Call of Duty: Black Ops II,PC,Action,74,4.1,M,Treyarch
+Call of Duty: Black Ops II - Apocalypse,PC,Action,No score yet,3.0,M,Treyarch
+Call of Duty: Black Ops II - Revolution,PC,Action,No score yet,3.8,M,Treyarch
+Call of Duty: Black Ops II - Uprising,PC,Action,No score yet,5.0,M,Treyarch
+Call of Duty: Black Ops II - Vengeance,PC,Action,No score yet,4.4,M,Treyarch
+Call of Duty: Ghosts - Invasion,PC,Action,No score yet,6.6,M,Infinity Ward
+Call of Duty: Modern Warfare 2,PC,Action,86,4.2,M,Infinity Ward
+Call of Duty: Modern Warfare 2 - Resurgence Pack,PC,Action,No score yet,1.8,M,Infinity Ward
+Call of Duty: Modern Warfare 2 - Stimulus Package,PC,Action,No score yet,1.9,M,Infinity Ward
+Call of Duty: United Offensive,PC,Action,87,8.3,T,Gray Matter
+Call of Duty: War Chest,PC,Miscellaneous,No score yet,7.0,T,Infinity Ward
+D-Day,PC,Strategy,56,8.2,T,Digital Reality
+D.i.R.T. - Origin of the Species,PC,Action,No score yet,3.8,M,Nu Generation Games
+Damned,PC,Adventure,No score yet,8.5,,9heads Game Studios
+Danganronpa 2: Goodbye Despair,PC,Adventure,84,8.3,,Spike Chunsoft
+Danganronpa: Trigger Happy Havoc,PC,Adventure,83,7.9,,Spike Chunsoft
+Dangerous Golf,PC,Sports,54,3.2,,Three Fields Entertainment
+Dangerous High School Girls in Trouble,PC,Role-Playing,81,5.9,,Mousechief
+Dangerous Waters,PC,Simulation,82,8.8,E,Sonalysts
+Dariusburst: Chronicle Saviours,PC,Action,80,8.4,,Pyramid
+DARK,PC,Action Adventure,41,4.2,M,Kalypso
+Dark Age of Camelot,PC,Role-Playing,88,8.9,T,Mythic Entertainment
+Dark Age of Camelot: Catacombs,PC,Role-Playing,83,8.8,T,Mythic Entertainment
+Dark Age of Camelot: Darkness Rising,PC,Role-Playing,76,8.0,T,Mythic Entertainment
+Dark Age of Camelot: Shrouded Isles,PC,Role-Playing,85,8.8,T,Mythic Entertainment
+Dark Age of Camelot: Trials of Atlantis,PC,Role-Playing,75,7.6,T,Mythic Entertainment
+Dark and Light (2006),PC,Role-Playing,No score yet,2.6,,NP Cube
+Dark Arcana: The Carnival,PC,Miscellaneous,No score yet,6.3,T,G5 Entertainment
+Dark Colony,PC,Strategy,No score yet,8.5,M,GameTek
+Dark Fall 3: Lost Souls,PC,Adventure,75,7.2,,Darkling Room
+Dark Fall: Lights Out,PC,Adventure,66,7.1,T,XXV Productions
+Dark Fall: The Journal,PC,Adventure,68,7.4,T,XXV Productions
+Dark Fear,PC,Role-Playing,66,tbd,,Arif Games
+Dark Horizon,PC,Simulation,55,5.4,E10+,Paradox Interactive
+Dark Matter (2013),PC,Action Adventure,No score yet,1.4,,Interwave Studios
+Dark Messiah of Might and Magic,PC,Action,72,8.7,M,Arkane Studios
+E.T. Armies,PC,Action,54,6.5,,Raspina Studio
+E.Y.E: Divine Cybermancy,PC,Role-Playing,61,6.9,RP,Streum On Studio
+EA Sports GameShow,PC,Miscellaneous,No score yet,6.7,,EA Games
+Eador: Genesis,PC,Strategy,No score yet,8.8,,Snowbird Game Studios
+Eador: Masters of the Broken World,PC,Strategy,74,7.3,,Snowbird Game Studios
+Eagle Flight,PC,Action,74,tbd,E10+,FunHouse
+Earth & Beyond,PC,Role-Playing,82,7.1,T,Westwood Studios
+Earth 2140,PC,Strategy,No score yet,6.0,E,TopWare Interactive
+Earth 2150,PC,Strategy,78,8.5,T,TopWare Interactive
+Earth 2150 Trilogy,PC,Strategy,No score yet,8.1,T,Various
+Earth 2150: Lost Souls,PC,Strategy,67,7.8,T,Zuxxez
+Earth 2150: The Moon Project,PC,Strategy,75,7.9,T,TopWare Interactive
+Earth 2160,PC,Strategy,73,7.5,T,Reality Pump
+Earth Defense Force 4.1: The Shadow of New Despair,PC,Action,79,8.6,,Sandlot
+Earth Defense Force: Insect Armageddon,PC,Action,69,7.0,T,Vicious Cycle
+Earthrise,PC,Role-Playing,No score yet,2.8,RP,Masthead Studios
+Earthworm Jim 2,PC,Action,No score yet,7.8,K-A,Rainbow Arts
+Earthworm Jim 3D,PC,Action,No score yet,5.2,E,VIS Entertainment
+East India Company,PC,Action Adventure,67,5.7,T,Nitro Games
+East India Company: Privateer,PC,Action Adventure,63,5.6,,Nitro Games
+East Side Story - A Carol Reed Mystery,PC,Adventure,73,tbd,,MDNA Games
+Eastside Hockey Manager,PC,Sports,No score yet,8.0,,Sports Interactive
+Echelon,PC,Simulation,70,6.5,E,Buka Entertainment
+Echelon: Wind Warriors,PC,Simulation,63,7.8,T,Buka Entertainment
+Echo Of Soul,PC,Role-Playing,No score yet,6.6,,Aeria Games & Entertainment
+Echo Prime,PC,Action,50,tbd,,Robot Entertainment
+Echo: Secrets of the Lost Cavern,PC,Adventure,71,7.9,E,Kheops Studio
+Echoes Of Aetheria,PC,Role-Playing,77,8.0,,Dancing Dragon games
+ecotone,PC,Action,No score yet,6.8,,Sundae Factory
+Ecstatica II,PC,Action,No score yet,7.0,M,Andrew Spencer
+"Ed, Edd n Eddy: The Mis-Edventures",PC,Action,35,7.1,E,
+Eden Eternal,PC,Role-Playing,No score yet,6.8,RP,X-Legend
+Eden*,PC,Adventure,No score yet,7.0,M,Minor I
+Edge,PC,Action,74,7.6,,Two Tribes
+F.E.A.R.,PC,Action,88,8.3,M,Monolith Productions
+F.E.A.R. 2: Project Origin,PC,Action,79,7.8,M,Monolith Productions
+F.E.A.R. 3,PC,First-Person Shooters,74,5.9,M,Day 1 Studios
+F.E.A.R. Combat,PC,Action,90,7.7,M,Monolith Productions
+F.E.A.R. Extraction Point,PC,Action,75,7.5,M,Monolith Productions
+F.E.A.R. Gold Edition,PC,Action,No score yet,8.0,M,Monolith Productions
+F.E.A.R. Online,PC,Action Adventure,No score yet,4.0,M,Inplay Interactive
+F.E.A.R. Perseus Mandate,PC,Action,61,7.3,M,TimeGate Studios
+F/A-18 Hornet 3.0,PC,Simulation,No score yet,8.1,,Graphic Simulations
+F1 2001,PC,Driving,79,7.5,E,EA Sports
+F1 2002,PC,Driving,88,7.4,E,EA Sports
+F1 2010,PC,Driving,84,6.6,E,Codemasters Birmingham
+F1 2011,PC,Driving,83,7.2,E,Codemasters
+F1 2012,PC,Driving,80,6.9,E,Codemasters
+F1 2013,PC,Driving,77,6.3,E,Codemasters
+F1 2014,PC,Driving,61,4.7,E,Codemasters Birmingham
+F1 2015,PC,Racing,61,3.6,E,Codemasters
+F1 2016,PC,Racing,86,8.2,E,Codemasters
+F1 Challenge '99-'02,PC,Driving,91,8.2,E,Electronic Arts
+F1 Championship Season 2000,PC,Driving,70,7.5,E,Image Space Incorporated
+F1 Race Stars,PC,Racing,62,5.4,E,Codemasters
+F1 World Grand Prix,PC,Driving,71,3.8,E,Video System
+Fable Anniversary,PC,Role-Playing,No score yet,4.6,M,Lionhead Studios
+Fable III,PC,Role-Playing,75,5.4,M,Lionhead Studios
+Facade,PC,Adventure,No score yet,7.2,,InteractiveStory.net
+Face Noir,PC,Adventure,59,6.3,,Mad Orange
+Face of Mankind,PC,Role-Playing,No score yet,5.0,,DuPlex
+Faces of War,PC,Strategy,67,8.6,M,Best Way
+Fading Hearts,PC,Adventure,No score yet,3.6,,Sakura River Interactive
+Faerie Solitaire,PC,Miscellaneous,No score yet,6.7,,Subsoap
+Faery: Legends of Avalon,PC,Role-Playing,59,6.6,E10+,Spiders
+Fahrenheit: Indigo Prophecy Remastered,PC,Action,61,7.4,M,Aspyr
+Fair Strike,PC,Simulation,56,tbd,T,G5 Software
+Fairy Bloom Freesia,PC,Action,No score yet,6.1,T,Edelweiss
+Fairy Fencer F,PC,Role-Playing,66,8.0,T,Idea Factory
+Falcon 4.0,PC,Simulation,85,8.0,T,Atari
+Falcon 4.0: Allied Force,PC,Simulation,90,8.6,T,Lead Pursuit
+Fallen Earth: Welcome to the Apocalypse,PC,Role-Playing,71,6.9,M,Fallen Earth
+Fallen Enchantress: Legendary Heroes,PC,Strategy,80,7.7,,Stardock
+G-Force,PC,Action,61,8.5,E10+,Eurocom Entertainment Software
+G-Police,PC,Action,No score yet,8.8,E,Psygnosis
+G-senjou no Maou - The Devil on G-String,PC,Adventure,No score yet,7.6,,Akabee Soft 2
+G.I. Combat,PC,Strategy,38,3.6,T,Freedom Games
+GabeN: The Final Decision,PC,Role-Playing,No score yet,5.8,,Alex Zhang
+"Gabriel Knight 3: Blood of the Sacred, Blood of the Damned",PC,Adventure,80,8.8,M,
+Gabriel Knight: Sins of the Fathers 20th Anniversary Edition,PC,Adventure,74,8.1,,Pinkerton Road Studio
+Galacide,PC,Action,76,tbd,,Puny Human Games
+Galactic Arms Race,PC,Action,No score yet,6.0,,Evolutionary Games
+Galactic Assault: Prisoner of Power,PC,Strategy,68,8.0,T,Wargaming.net
+Galactic Civilizations,PC,Strategy,83,8.1,E,Stardock
+Galactic Civilizations II: Dark Avatar,PC,Strategy,91,8.3,,Stardock
+Galactic Civilizations II: Dread Lords,PC,Strategy,86,8.0,E10+,Stardock
+Galactic Civilizations II: Twilight of the Arnor,PC,Strategy,92,8.4,,Stardock
+Galactic Civilizations II: Ultimate Edition,PC,Miscellaneous,No score yet,8.0,E10+,Stardock
+Galactic Civilizations III,PC,Strategy,81,6.5,,Stardock
+Galactic Civilizations III: Mercenaries,PC,General,66,tbd,,Stardock
+Galactic Civilizations: Altarian Prophecy,PC,Strategy,77,7.8,E,Stardock
+Galactic Command: Echo Squad,PC,Simulation,No score yet,1.2,,3000AD
+Galaga: Destination Earth,PC,Action,59,6.4,E,King of the Jungle
+Galak-Z: The Dimensional,PC,Action,78,6.5,,17-Bit
+Galaxy On Fire 2 Full HD,PC,Simulation,63,6.5,,Fishlabs
+Galcon Fusion,PC,Strategy,68,6.4,,Phil Hassey
+Galcon Legends,PC,Strategy,No score yet,5.7,,Hassey Enterprises
+Game Dev Tycoon,PC,Strategy,68,8.0,,Greenheart Games
+Game of Thrones,PC,Role-Playing,58,6.5,M,Cyanide
+Game of Thrones: A Telltale Games Series,PC,Action,64,6.5,M,Telltale Games
+Game of Thrones: Episode Five - A Nest of Vipers,PC,Action,74,6.7,M,Telltale Games
+Game of Thrones: Episode Four - Sons of Winter,PC,Action,77,7.9,M,Telltale Games
+Game of Thrones: Episode One - Iron From Ice,PC,Action,75,7.3,M,Telltale Games
+Game of Thrones: Episode Six - The Ice Dragon,PC,Action,70,6.5,,Telltale Games
+Game of Thrones: Episode Three - The Sword in the Darkness,PC,Action,77,7.8,M,Telltale Games
+Game of Thrones: Episode Two - The Lost Lords,PC,Action,73,7.8,M,Telltale Games
+Game Tycoon,PC,Strategy,42,3.4,E10+,Tri Synergy
+Game Tycoon 1.5,PC,Strategy,No score yet,3.8,,Sunlight Games
+Game Tycoon 2,PC,Strategy,No score yet,4.0,,Sunlight Games
+Hack 'n' Slash,PC,Action,73,5.2,,Double Fine Productions
+"Hack, Slash, Loot",PC,Action,No score yet,4.4,,
+Hacker Evolution,PC,Strategy,No score yet,6.2,,exoSyphen Studios
+Hacker Evolution Duality,PC,Strategy,No score yet,2.3,,exoSyphen Studios
+Hacker Evolution: Untold,PC,Strategy,No score yet,4.6,,exoSyphen Studios
+hackmud,PC,Simulation,No score yet,7.6,,Drizzly Bear
+Hacknet,PC,Miscellaneous,82,7.5,,Orann
+Halcyon 6: Starbase Commander,PC,Strategy,73,7.8,,Massive Damage
+Half Life 1: Anthology,PC,Action,No score yet,8.9,M,Valve Software
+Half Minute Hero: The Second Coming,PC,Role-Playing,79,7.0,,Opus
+Half-Life,PC,Action,96,9.1,M,Valve Software
+Half-Life 2,PC,Action,96,9.1,M,Valve Software
+Half-Life 2: Deathmatch,PC,Action,No score yet,7.3,M,Valve Software
+Half-Life 2: Episode One,PC,Action,87,8.6,M,Valve Software
+Half-Life 2: Episode Pack,PC,Action,No score yet,8.6,M,Valve Software
+Half-Life 2: Episode Two,PC,Action,90,9.2,M,Valve Software
+Half-Life 2: Lost Coast,PC,Action,No score yet,7.7,M,Valve Software
+Half-Life Deathmatch: Source,PC,Action,No score yet,4.1,,Valve Software
+Half-Life: Blue Shift,PC,Action,71,8.3,M,Gearbox Software
+Half-Life: Opposing Force,PC,Action,No score yet,8.8,M,Gearbox Software
+Half-Life: Source,PC,Action,No score yet,8.5,M,Valve Software
+Half-Minute Hero: Super Mega Neo Climax Ultimate Boy,PC,Role-Playing,75,7.6,,Opus
+Halfway,PC,Strategy,69,6.1,,Robotality
+Halo 2,PC,Action,72,5.5,M,Microsoft Game Studios
+Halo: Combat Evolved,PC,Action,83,7.4,M,Gearbox Software
+Halo: Spartan Assault,PC,Action,70,6.1,T,Vanguard
+Halo: Spartan Strike,PC,Scrolling,66,6.1,T,343 Industries
+Hamilton's Great Adventure,PC,Adventure,77,7.5,E,Fatshark AB
+"Hamlet, or the last game without MMORPG features, shaders and product placement",PC,Adventure,No score yet,6.2,,
+Hammer & Sickle,PC,Strategy,52,8.6,T,Nival Interactive
+Hammerfight,PC,Action,No score yet,4.9,E10+,Konstantin Koshutin
+Hammerwatch,PC,Action,72,7.5,,Crackshell
+Hand of Fate,PC,Role-Playing,78,8.0,T,Defiant Development
+Hannah Montana: The Movie,PC,Action,No score yet,1.4,E,n-Space
+Hannibal: Terror of Rome,PC,Strategy,No score yet,2.6,,Slitherine
+Hans Christian Andersen: The Ugly Prince Duckling,PC,Adventure,63,tbd,E,Guppyworks
+Happy Feet,PC,Adventure,42,4.0,E,Artificial Mind and Movement
+Happy Tree Friends: False Alarm,PC,Action,No score yet,4.3,M,Stainless Games
+Happy Wars,PC,Action,No score yet,4.8,T,Toylogic Inc.
+Harbinger,PC,Role-Playing,57,6.6,T,Silverback Entertainment
+Hard Reset,PC,Action,73,7.3,M,Flying Wild Hog
+Hard Reset Redux,PC,Action,73,6.4,,Flying Wild Hog
+Hard Reset: Exile,PC,Action,No score yet,7.5,,Flying Wild Hog
+Hard Time,PC,Adventure,No score yet,7.5,,MDickie
+I Am Alive,PC,Action Adventure,66,6.0,M,Ubisoft Shanghai
+I Am Bread,PC,Miscellaneous,60,4.6,E10+,Bossa Studios
+I Am Setsuna,PC,Role-Playing,70,7.1,E10+,Tokyo RPG Factory
+I Can't Escape: Darkness,PC,Adventure,40,tbd,,Fancy Fish Games
+I Get This Call Every Day,PC,Simulation,No score yet,3.1,,David S Gallant
+"I Have No Mouth, and I Must Scream",PC,Adventure,No score yet,8.7,,
+I of the Dragon,PC,Role-Playing,55,8.4,M,Primal Software
+I Wanna be the Boshy,PC,Action,No score yet,7.8,,
+I Want To Be Human,PC,Action,53,tbd,,Sinclair Strange
+I Was an Atomic Mutant!,PC,Action,64,4.5,T,Canopy Games
+I'm not Alone,PC,Action Adventure,44,3.6,,TGC
+"I, Zombie",PC,Action,65,5.5,,
+I-Fluid,PC,Adventure,69,5.9,,Exkee
+Ian's Eyes,PC,Action Adventure,36,tbd,,Sindie Games
+Ib,PC,Action Adventure,No score yet,8.7,,Kouri
+Ibb & Obb,PC,General,83,8.2,E,Sparpweed
+iBomber Attack,PC,Adventure,No score yet,6.0,,Chillingo Ltd
+iBomber Defense,PC,Action,No score yet,7.2,,Cobra Mobile
+iBomber Defense Pacific,PC,Strategy,No score yet,5.8,,Cobra Mobile
+Ice Age 2: The Meltdown,PC,Action,No score yet,6.4,E10+,Vivendi Games
+Ice Age: Dawn of the Dinosaurs,PC,Action,67,tbd,E10+,Activision
+Icewind Dale,PC,Role-Playing,87,8.3,T,Black Isle Studios
+Icewind Dale II,PC,Role-Playing,83,8.3,T,Black Isle Studios
+Icewind Dale: Enhanced Edition,PC,Role-Playing,80,7.4,,Black Isle Studios
+Icewind Dale: Heart of Winter,PC,Role-Playing,74,7.9,T,Black Isle Studios
+Icewind Dale: The Ultimate Collection,PC,Role-Playing,No score yet,8.5,T,Black Isle Studios
+ICY,PC,Role-Playing,56,6.5,,Inner Void
+Iesabel,PC,Action,No score yet,5.5,,Madman Theory Games
+If My Heart Had Wings,PC,Adventure,No score yet,8.5,T,Pulltop
+IGI 2: Covert Strike,PC,Action Adventure,64,8.5,M,Innerloop
+Ignite,PC,Driving,59,6.2,,Nemesys
+Iji,PC,Action,No score yet,8.2,,Daniel Remar
+Ikaruga,PC,Action,84,7.9,,Treasure
+IKEA VR Experience,PC,Miscellaneous,No score yet,2.0,,IKEA Communications AB
+IL-2 Sturmovik,PC,Simulation,91,8.8,T,1C
+IL-2 Sturmovik: 1946,PC,Simulation,86,8.8,T,1C: Maddox Games
+J.U.L.I.A.,PC,Other Strategy Games,64,tbd,,Cardboard Box Entertainment
+J.U.L.I.A.: Among the Stars,PC,Strategy,71,7.6,,Cardboard Box Entertainment
+Jack Keane,PC,Adventure,69,7.0,T,Legacy Interactive
+Jack Keane 2: The Fire Within,PC,Adventure,52,6.5,T,Deck 13
+Jack Lumber,PC,Action,No score yet,6.0,,Owlchemy Labs
+Jack Orlando: A Cinematic Adventure,PC,Adventure,No score yet,6.9,T,TopWare Interactive
+Jack the Ripper,PC,Adventure,58,6.4,T,Galilea Multimedia
+Jade Empire: Special Edition,PC,Role-Playing,81,8.2,M,BioWare
+Jagged Alliance 2,PC,Strategy,No score yet,9.0,M,Sir-Tech Software Inc.
+Jagged Alliance 2 Gold Pack,PC,Miscellaneous,No score yet,8.2,T,Sir-Tech Software Inc.
+Jagged Alliance 2: Unfinished Business,PC,Strategy,64,8.1,T,Sir-Tech Software Inc.
+Jagged Alliance 2: Wildfire,PC,Strategy,No score yet,8.5,T,I-Deal Games Studios
+Jagged Alliance Online,PC,Strategy,No score yet,6.0,,Cliffhanger Productions
+Jagged Alliance: Back in Action,PC,Strategy,62,5.5,M,Kalypso
+Jagged Alliance: Crossfire,PC,Strategy,63,4.1,T,Kalypso
+Jagged Alliance: Flashback,PC,Strategy,52,4.3,,Full Control ApS
+James Bond 007: Blood Stone,PC,Action,63,7.1,T,Bizarre Creations
+James Cameron's Avatar: The Game,PC,Action,59,7.3,T,Ubisoft
+Jamestown: Legend of the Lost Colony,PC,Action,81,7.5,,Final Form Games
+JamG,PC,Puzzle,No score yet,7.8,,Erno Kiraly
+JamParty: Be the Music,PC,Action,No score yet,8.0,,Zivix
+Jane's Attack Squadron,PC,Simulation,58,tbd,E,Mad Doc Software
+JASF: Jane's Advanced Strike Fighters,PC,Action,48,3.1,T,Trickstar Games
+Jaws Unleashed,PC,Action,55,7.5,M,Appaloosa Interactive
+Jazz and Faust,PC,Adventure,42,tbd,T,Saturn+
+Jazz Jackrabbit 2,PC,Action,No score yet,8.8,E,Epic Games
+Jazzpunk,PC,Adventure Games,75,7.7,,Necrophone
+Jekyll & Hyde (2001),PC,Action,34,7.0,T,In Utero
+Jerry McPartlin - Rebel with a Cause,PC,Adventure,No score yet,4.7,,bluebox interactive
+Jet Car Stunts,PC,Action,57,6.8,E,True Axis
+Jet Gunner,PC,Action,No score yet,6.7,,Sinclair Strange
+Jet Set Radio,PC,Action,No score yet,7.5,T,Sega
+Jetfighter 2015,PC,Simulation,63,tbd,T,
+JetFighter IV: Fortress America,PC,Simulation,60,7.5,E,Mission Studios
+JetFighter V: Homeland Protector,PC,Simulation,56,4.0,T,InterActive Vision Games
+K-Hawk: Survival Instinct,PC,Action Adventure,59,tbd,T,Similis
+KAIRO,PC,Adventure,76,8.0,,Perrin
+Kalimba,PC,Action,81,tbd,,Press Play
+KAMI,PC,Miscellaneous,No score yet,7.7,,State of Play Games
+Kane & Lynch 2: Dog Days,PC,Action,66,5.7,M,Nixxes Software
+Kane & Lynch: Dead Men,PC,Action,67,5.9,M,Io Interactive
+KAO the Kangaroo,PC,Action,60,7.8,E,Titus Software
+Kao the Kangaroo Round 2,PC,Action,No score yet,7.9,E,Tate Interactive
+Kaptain Brawe: A Brawe New World,PC,Adventure,69,tbd,T,Cateia Games
+Kara no Shoujo,PC,Adventure,No score yet,8.9,,Innocent Grey
+Karate Master 2 Knock Down Blow,PC,Sports,No score yet,7.8,,Crian Soft
+Karateka,PC,Action,48,4.8,T,Liquid Entertainment
+Karma. Incarnation 1,PC,Action,No score yet,6.5,,AuraLab
+Karmaflow: The Rock Opera Videogame,PC,Action,47,tbd,,Basecamp Games
+Katawa Shoujo,PC,Adventure,No score yet,8.7,,Four Leaf Studios
+Kathy Rain,PC,Adventure,77,6.7,,Clifftop Games
+Keep Talking and Nobody Explodes,PC,Adventure,67,8.5,,Steel Crate Games
+Keepsake,PC,Adventure,68,6.9,E,Wicked Studios
+Kelly Slater's Pro Surfer,PC,Sports,82,7.8,T,Beenox
+Kelvin and the Infamous Machine,PC,Adventure,79,7.5,,Blyts
+Kenshi,PC,Role-Playing,No score yet,7.7,,Lo-Fi Games
+Kentucky Route Zero,PC,Adventure,No score yet,8.2,,Cardboard Computer
+Kentucky Route Zero - Act I,PC,Adventure,81,7.6,,Cardboard Computer
+Kentucky Route Zero - Act II,PC,Adventure,82,8.1,,Cardboard Computer
+Kentucky Route Zero - Act III,PC,Adventure,91,6.6,,Cardboard Computer
+Kentucky Route Zero - Act IV,PC,Adventure,90,6.5,,Cardboard Computer
+Kerbal Space Program,PC,Sci-Fi,88,8.2,,SQUADTeam
+Kero Blaster,PC,General,82,7.0,,Studio Pixel
+Kholat,PC,Fantasy,64,7.4,,IMGN.PRO
+Kick-Ass 2,PC,Action,No score yet,2.1,,Freedom Factory Studios
+KickBeat: Steam Edition,PC,Action,66,7.4,T,Zen Studios
+Kidnapped,PC,Action Adventure,No score yet,5.0,,Deceptive Games
+Kill the Bad Guy,PC,Miscellaneous,62,6.1,,Exkee
+Kill to Collect,PC,Action,57,5.2,,Pieces Interactive
+kill.switch,PC,Action,66,7.8,T,Namco
+L.A. Noire: The Complete Edition,PC,Adventure,83,7.9,M,Rockstar Leeds
+LA Cops,PC,Action,45,6.1,,Modern Dream
+La Grande Armee at Austerlitz,PC,Strategy,67,5.3,,HistWar
+La-Mulana (Remake),PC,Action,80,7.1,,Nigoro
+Labyrinthine Dreams,PC,Adventure,No score yet,6.6,,Solest Games
+Labyronia RPG,PC,Role-Playing,No score yet,6.5,,Labyrinthine
+Labyronia RPG 2,PC,Role-Playing,No score yet,7.4,,Labyrinthine
+Lakeview Cabin Collection,PC,Action,70,tbd,,Roope Tamminen
+Land of Legends,PC,Strategy,70,tbd,,Tiny Hero Game Studios
+Land of the Dead: Road to Fiddler's Green,PC,Action,36,6.6,M,Brainbox Games
+Lands of Lore III,PC,Role-Playing,No score yet,8.3,T,Westwood Studios
+Lands of Lore: Guardians of Destiny,PC,Role-Playing,No score yet,7.1,,Westwood Studios
+Lantern Forge,PC,Action,No score yet,6.9,,Hearthfire Studios
+Lara Croft and the Guardian of Light,PC,Action Adventure,82,8.1,T,Crystal Dynamics
+Lara Croft and the Temple of Osiris,PC,Action,73,5.4,T,Nixxes Software
+Lara Croft Tomb Raider: The Angel of Darkness,PC,Action Adventure,49,6.4,T,Core Design Ltd.
+Larry Ragland 4x4 Challenge,PC,Driving,51,tbd,E,Xpiral
+Larva Mortus,PC,Action,64,7.4,,Rake in Grass
+Laser Squad Nemesis,PC,Strategy,73,7.3,T,Codo Games
+Last Chaos,PC,Role-Playing,No score yet,7.6,,T-Entertainment
+Last Dream,PC,Role-Playing,No score yet,8.3,,White Giant RPG Studios
+Last Knight,PC,Action,No score yet,7.9,,Davision
+Last Word,PC,Role-Playing,67,8.4,,Twelve Tiles
+LaTale,PC,Role-Playing,No score yet,4.8,,Actoz Soft
+Law & Order II: Double or Nothing,PC,Adventure,74,6.0,T,Legacy Interactive
+Law & Order: Criminal Intent,PC,Adventure,56,6.3,M,Legacy Interactive
+Law & Order: Dead on the Money,PC,Adventure,70,8.7,T,Legacy Interactive
+Law & Order: Justice Is Served,PC,Adventure,77,7.5,T,Legacy Interactive
+Law & Order: Legacies,PC,Miscellaneous,53,7.5,,Telltale Games
+Lawnmower Racing Mania 2007,PC,Driving,No score yet,8.6,E,eV Interactive
+Laxius Force - Heroes Never Die,PC,Role-Playing,No score yet,8.9,,Aldorlea Games
+Laxius Force II - The Queen of Adretana,PC,Role-Playing,No score yet,8.9,,Aldorlea Games
+Laxius Force III - The Last Stand,PC,Role-Playing,No score yet,9.0,,Aldorlea Games
+Layers of Fear,PC,Adventure,72,7.9,,Bloober Team
+Layers of Fear: Inheritance,PC,Adventure,70,8.2,M,Bloober Team
+Le Mans 24 Hours,PC,Driving,60,tbd,E,Atari
+Lead and Gold: Gangs of the Wild West,PC,Action,70,8.4,M,Fatshark AB
+Leadfoot,PC,Driving,69,7.6,E,Ratbag
+League of Angels,PC,Role-Playing,No score yet,2.1,,GTArcade
+M.A.X.: Mechanized Assault & Exploration,PC,Strategy,No score yet,8.8,,Interplay
+M.U.D. TV,PC,Strategy,53,4.3,T,Realmforge Studios
+Mabinogi,PC,Role-Playing,No score yet,7.4,,devCAT
+MacGuffin's Curse,PC,Adventure,73,7.8,,Brawsome
+Machinarium,PC,Adventure,85,8.8,,Amanita Design
+Mad Max,PC,Action,73,7.8,M,Avalanche Studios
+Mad Riders,PC,Driving,No score yet,7.0,E,Techland
+Madagascar,PC,Action,73,7.7,E10+,Beenox
+Madagascar: Escape 2 Africa,PC,Action,58,8.0,E10+,Aspyr
+Madballs in Babo: Invasion,PC,Action,79,8.8,,Playbrains
+Madden NFL 06,PC,Sports,78,6.8,E,BudCat
+Madden NFL 07,PC,Sports,80,7.3,E,EA Tiburon
+Madden NFL 08,PC,Sports,75,6.2,E,EA Tiburon
+Madden NFL 2001,PC,Sports,78,5.8,E,EA Sports
+Madden NFL 2002,PC,Sports,71,7.9,E,EA Sports
+Madden NFL 2003,PC,Sports,89,7.7,E,EA Sports
+Madden NFL 2004,PC,Sports,91,7.7,E,EA Tiburon
+Madden NFL 2005,PC,Sports,85,6.4,E,BudCat
+Made Man: Confessions of the Family Blood,PC,Action Adventure,40,5.7,M,Silverback Studios
+Maelstrom,PC,Strategy,58,6.4,T,KDV Games
+Mafia,PC,Action Adventure,88,9.1,M,Illusion Softworks
+Mafia II,PC,Action Adventure,77,7.9,M,2K Czech
+Mafia II: Jimmy's Vendetta,PC,Action Adventure,67,4.0,M,2K Czech
+Mafia II: Joe's Adventures,PC,Action Adventure,No score yet,5.6,M,2K Czech
+Mafia III,PC,Action Adventure,62,3.2,M,Hangar 13
+Magdalena,PC,Adventure,No score yet,6.0,,Yellow Bun
+Mage Knight: Apocalypse,PC,Role-Playing,47,5.8,T,InterServ International
+Magic & Mayhem,PC,Strategy,No score yet,8.8,T,Mythos Games
+Magic & Mayhem: The Art of Magic,PC,Strategy,71,7.0,T,Charybdis
+Magic Carpet 2: The Netherworlds,PC,Action,No score yet,6.8,,Take-Two Interactive
+Magic Duels: Origins,PC,Strategy,77,5.9,,Stainless Games
+N++,PC,Action,90,6.6,,Metanet Software Inc.
+N++,PC,Action,90,6.6,,Metanet Software Inc.
+N.E.R.O.: Nothing Ever Remains Obscure,PC,Adventure,59,5.4,E,Storm in a Teacup
+nail'd,PC,Driving,69,7.7,E10+,Techland
+NaissanceE,PC,Adventure Games,66,7.1,,Limasse Five
+Naked War,PC,Strategy,83,tbd,,The Pickford Brothers
+Namco Museum 50th Anniversary,PC,Miscellaneous,52,tbd,E10+,Namco
+Land of Legends,PC,Strategy,70,tbd,,Tiny Hero Game Studios
+Land of the Dead: Road to Fiddler's Green,PC,Action,36,6.6,M,Brainbox Games
+Lands of Lore III,PC,Role-Playing,No score yet,8.3,T,Westwood Studios
+Lands of Lore: Guardians of Destiny,PC,Role-Playing,No score yet,7.1,,Westwood Studios
+Lantern Forge,PC,Action,No score yet,6.9,,Hearthfire Studios
+Lara Croft and the Guardian of Light,PC,Action Adventure,82,8.1,T,Crystal Dynamics
+Lara Croft and the Temple of Osiris,PC,Action,73,5.4,T,Nixxes Software
+Lara Croft Tomb Raider: The Angel of Darkness,PC,Action Adventure,49,6.4,T,Core Design Ltd.
+Larry Ragland 4x4 Challenge,PC,Driving,51,tbd,E,Xpiral
+Larva Mortus,PC,Action,64,7.4,,Rake in Grass
+Laser Squad Nemesis,PC,Strategy,73,7.3,T,Codo Games
+Last Chaos,PC,Role-Playing,No score yet,7.6,,T-Entertainment
+Last Dream,PC,Role-Playing,No score yet,8.3,,White Giant RPG Studios
+Last Knight,PC,Action,No score yet,7.9,,Davision
+Last Word,PC,Role-Playing,67,8.4,,Twelve Tiles
+LaTale,PC,Role-Playing,No score yet,4.8,,Actoz Soft
+Law & Order II: Double or Nothing,PC,Adventure,74,6.0,T,Legacy Interactive
+Law & Order: Criminal Intent,PC,Adventure,56,6.3,M,Legacy Interactive
+Law & Order: Dead on the Money,PC,Adventure,70,8.7,T,Legacy Interactive
+Law & Order: Justice Is Served,PC,Adventure,77,7.5,T,Legacy Interactive
+Law & Order: Legacies,PC,Miscellaneous,53,7.5,,Telltale Games
+Lawnmower Racing Mania 2007,PC,Driving,No score yet,8.6,E,eV Interactive
+Laxius Force - Heroes Never Die,PC,Role-Playing,No score yet,8.9,,Aldorlea Games
+Laxius Force II - The Queen of Adretana,PC,Role-Playing,No score yet,8.9,,Aldorlea Games
+Laxius Force III - The Last Stand,PC,Role-Playing,No score yet,9.0,,Aldorlea Games
+Layers of Fear,PC,Adventure,72,7.9,,Bloober Team
+Layers of Fear: Inheritance,PC,Adventure,70,8.2,M,Bloober Team
+Le Mans 24 Hours,PC,Driving,60,tbd,E,Atari
+Lead and Gold: Gangs of the Wild West,PC,Action,70,8.4,M,Fatshark AB
+Leadfoot,PC,Driving,69,7.6,E,Ratbag
+League of Angels,PC,Role-Playing,No score yet,2.1,,GTArcade
+M.A.X.: Mechanized Assault & Exploration,PC,Strategy,No score yet,8.8,,Interplay
+M.U.D. TV,PC,Strategy,53,4.3,T,Realmforge Studios
+Mabinogi,PC,Role-Playing,No score yet,7.4,,devCAT
+MacGuffin's Curse,PC,Adventure,73,7.8,,Brawsome
+Machinarium,PC,Adventure,85,8.8,,Amanita Design
+Mad Max,PC,Action,73,7.8,M,Avalanche Studios
+Mad Riders,PC,Driving,No score yet,7.0,E,Techland
+Madagascar,PC,Action,73,7.7,E10+,Beenox
+Madagascar: Escape 2 Africa,PC,Action,58,8.0,E10+,Aspyr
+Madballs in Babo: Invasion,PC,Action,79,8.8,,Playbrains
+Madden NFL 06,PC,Sports,78,6.8,E,BudCat
+Madden NFL 07,PC,Sports,80,7.3,E,EA Tiburon
+Madden NFL 08,PC,Sports,75,6.2,E,EA Tiburon
+Madden NFL 2001,PC,Sports,78,5.8,E,EA Sports
+Madden NFL 2002,PC,Sports,71,7.9,E,EA Sports
+Madden NFL 2003,PC,Sports,89,7.7,E,EA Sports
+Madden NFL 2004,PC,Sports,91,7.7,E,EA Tiburon
+Madden NFL 2005,PC,Sports,85,6.4,E,BudCat
+Made Man: Confessions of the Family Blood,PC,Action Adventure,40,5.7,M,Silverback Studios
+Maelstrom,PC,Strategy,58,6.4,T,KDV Games
+Mafia,PC,Action Adventure,88,9.1,M,Illusion Softworks
+Mafia II,PC,Action Adventure,77,7.9,M,2K Czech
+Mafia II: Jimmy's Vendetta,PC,Action Adventure,67,4.0,M,2K Czech
+Mafia II: Joe's Adventures,PC,Action Adventure,No score yet,5.6,M,2K Czech
+Mafia III,PC,Action Adventure,62,3.2,M,Hangar 13
+Magdalena,PC,Adventure,No score yet,6.0,,Yellow Bun
+Mage Knight: Apocalypse,PC,Role-Playing,47,5.8,T,InterServ International
+Magic & Mayhem,PC,Strategy,No score yet,8.8,T,Mythos Games
+Magic & Mayhem: The Art of Magic,PC,Strategy,71,7.0,T,Charybdis
+Magic Carpet 2: The Netherworlds,PC,Action,No score yet,6.8,,Take-Two Interactive
+Magic Duels: Origins,PC,Strategy,77,5.9,,Stainless Games
+N++,PC,Action,90,6.6,,Metanet Software Inc.
+N++,PC,Action,90,6.6,,Metanet Software Inc.
+N.E.R.O.: Nothing Ever Remains Obscure,PC,Adventure,59,5.4,E,Storm in a Teacup
+nail'd,PC,Driving,69,7.7,E10+,Techland
+NaissanceE,PC,Adventure Games,66,7.1,,Limasse Five
+Naked War,PC,Strategy,83,tbd,,The Pickford Brothers
+Namco Museum 50th Anniversary,PC,Miscellaneous,52,tbd,E10+,Namco
+Nancy Drew Dossier: Resorting to Danger,PC,Miscellaneous,77,8.0,E10+,Her Interactive
+Nancy Drew: Curse of Blackmoor Manor,PC,Adventure,81,8.7,E,Her Interactive
+Nancy Drew: Danger By Design,PC,Adventure,70,5.7,E,Her Interactive
+Nancy Drew: Danger on Deception Island,PC,Adventure,81,7.7,E,Her Interactive
+Nancy Drew: Ghost of Thornton Hall,PC,Action,No score yet,8.2,E,Her Interactive
+Nancy Drew: Last Train to Blue Moon Canyon,PC,Adventure,77,7.8,E,Her Interactive
+Nancy Drew: Legend of the Crystal Skull,PC,Adventure,79,8.5,E,Her Interactive
+Narco Terror,PC,Action,No score yet,4.6,M,Koch Media
+Naruto Shippuden: Ultimate Ninja Storm 3 Full Burst,PC,Action,80,7.9,T,CyberConnect2
+Naruto Shippuden: Ultimate Ninja Storm 4,PC,Action,No score yet,7.4,T,CyberConnect2
+Naruto Shippuden: Ultimate Ninja Storm Revolution,PC,Action,61,6.4,T,CyberConnect2
+NASCAR '14,PC,Driving,No score yet,5.1,E,Eutechnyx
+NASCAR Heat,PC,Driving,81,8.6,E,Monster Games Inc.
+NASCAR Heat Evolution,PC,Racing,No score yet,4.6,E,Dusenberry Martin Racing
+NASCAR Racing 2002 Season,PC,Driving,89,5.8,E,Papyrus
+O.R.B.,PC,Strategy,68,tbd,T,Strategy First
+Obduction,PC,Adventure,77,8.0,,Cyan Worlds
+OBEY,PC,Strategy,No score yet,7.9,,Dan Dez
+Obliteracers,PC,Racing,78,7.4,E,Space Dust Studios
+Oblitus,PC,Action,69,7.0,,Connor Ullmann
+Obscure,PC,Action Adventure,63,8.0,M,Hydravision
+Obscure: The Aftermath,PC,Action Adventure,59,7.3,M,Hydravision
+Obscuritas,PC,Adventure,63,3.3,,Visual Imagination Software
+Obsidian,PC,Adventure,85,8.3,K-A,Rocket Science Games
+Obulis,PC,Miscellaneous,No score yet,7.1,,IonFX
+Ocean City Racing,PC,Driving,No score yet,6.4,,Ocean City Racing Dev Team
+Oceanhorn: Monster of Uncharted Seas,PC,Action Adventure,74,6.9,,Cornfox & Bros.
+Octodad: Dadliest Catch,PC,Adventure Games,69,7.6,E10+,Young Horses
+Odallus: The Dark Call,PC,Action Adventure,80,9.0,,JoyMasher
+Oddworld: Abe's Exoddus,PC,Action,No score yet,8.6,T,Digital Dialect
+Oddworld: Abe's Oddysee,PC,Action,No score yet,8.6,T,Digital Dialect
+Oddworld: Abe's Oddysee - New 'n' Tasty,PC,Action,87,7.8,T,Just Add Water
+Oddworld: Munch's Oddysee,PC,Action,No score yet,6.9,T,Oddworld Inhabitants
+Odium,PC,Strategy,No score yet,8.6,M,Metropolis Software
+Odyssey: The Search for Ulysses,PC,Adventure,58,tbd,E,In Utero
+Of Light and Darkness: The Prophecy,PC,Adventure,58,tbd,,Tribal Dreams
+Of Orcs and Men,PC,Role-Playing,69,6.8,RP,Cyanide
+Off-Road Drive,PC,Driving,60,6.4,,Avalon Style
+Off-Road Redneck Racing,PC,Driving,65,tbd,E,Rage Software
+Officers,PC,Strategy,64,7.2,E10+,3A Games
+Offspring Fling,PC,Miscellaneous,79,6.9,,Kyle Pulver
+Offworld Trading Company,PC,Strategy,79,7.5,,Mohawk Games
+QuestRun,PC,Role-Playing,No score yet,6.5,,Cuve
+Quintessence: The Blighted Venom,PC,Role-Playing,No score yet,8.1,,Freebird Games
+Quiplash,PC,Miscellaneous,No score yet,8.4,,Jackbox Games
+Qvadriga,PC,Strategy,72,4.7,,Turnopia
+R.B.I. Baseball 15,PC,Sports,No score yet,2.3,E,MLB.com
+R.I.P.D. The Game,PC,Action,26,1.6,T,Old School Games
+R.U.S.E.,PC,Strategy,76,8.1,T,Eugen Systems
+Rabi-Ribi,PC,Action,No score yet,7.9,,CreSpirit
+RACE 07: Official WTCC Game,PC,Driving,83,9.0,E,SimBin
+Race Injection,PC,Driving,72,8.6,,SimBin
+RACE On,PC,Driving,73,8.2,E,SimBin
+Race the Sun,PC,Action,79,7.4,,Flippfly
+RACE: The WTCC Game,PC,Driving,81,7.5,E,SimBin
+Racer 8,PC,Miscellaneous,No score yet,7.5,,30-06 Studios Ltd
+Racing Manager 2014,PC,Driving,No score yet,4.6,,Comport Interactive
+RADical ROACH,PC,Action,No score yet,7.1,,Decaying Logic
+Rag Doll Kung Fu,PC,Action,69,4.9,T,Mark Healey
+Rage,PC,Action,79,5.2,M,id Software
+Rage of Mages,PC,Role-Playing,No score yet,8.7,E,Nival Interactive
+Rage of Mages II: Necromancer,PC,Role-Playing,No score yet,8.4,E,Nival Interactive
+RAGE: The Scorchers,PC,Action,No score yet,6.8,,id Software
+Raging Tiger: The Second Korean War,PC,Strategy,54,tbd,,ProSim
+Ragnarok Online,PC,Role-Playing,79,8.3,T,Gravity Corporation
+Ragnarok Online 2: Legend of the Second,PC,Role-Playing,No score yet,3.4,,Gravity Corporation
+RaiderZ,PC,Role-Playing,64,6.6,,Maiet Entertainment
+Rail Simulator,PC,Simulation,72,6.9,E,Kuju Entertainment
+Railroad Pioneer,PC,Strategy,50,7.3,E,Kritzelkratz
+Railroad Tycoon 3,PC,Strategy,80,7.7,E,PopTop Software
+Railroad Tycoon II,PC,Strategy,89,8.5,E,PopTop Software
+Rails Across America,PC,Strategy,81,8.0,E,Flying Lab Software
+RailWorks,PC,Simulation,No score yet,6.9,E,RailSimulator.com
+RailWorks 2: Train Simulator,PC,Simulation,No score yet,7.2,E,RailSimulator.com
+Railworks 3: Train Simulator 2012,PC,Simulation,67,6.4,E,RailSimulator.com
+Rain Blood Chronicles: Mirage,PC,Action,68,7.1,,S-Game
+Rainblood: Town of Death,PC,Role-Playing,No score yet,3.0,,Soulframe
+RalliSport Challenge,PC,Driving,77,6.4,E,Digital Illusions
+Rally Trophy,PC,Driving,82,8.6,E,Bugbear
+S.T.A.L.K.E.R.: Call of Pripyat,PC,Action,80,8.7,M,GSC Game World
+S.T.A.L.K.E.R.: Clear Sky,PC,Action,75,7.7,M,GSC Game World
+S.T.A.L.K.E.R.: Shadow of Chernobyl,PC,Action,82,8.4,M,GSC Game World
+S.W.I.N.E.,PC,Strategy,65,8.7,T,Stormregion
+S4 League,PC,Action,No score yet,6.2,,Pentavision Entertainment
+Sacred,PC,Role-Playing,74,7.8,T,Ascaron Entertainment GmbH
+Sacred 2 - Fallen Angel: Ice and Blood,PC,Role-Playing,No score yet,6.8,,Deep Silver
+Sacred 2: Fallen Angel,PC,Role-Playing,71,6.9,M,Ascaron Entertainment GmbH
+Sacred 2: Gold Edition,PC,Miscellaneous,No score yet,7.7,,Ascaron Entertainment GmbH
+Sacred 3,PC,Role-Playing,57,1.4,M,Deep Silver
+Sacred Citadel,PC,Action,61,5.5,T,Southend Interactive
+Sacred Gold,PC,Role-Playing,No score yet,8.2,T,Ascaron Entertainment GmbH
+Sacred Underworld,PC,Role-Playing,73,7.7,T,Ascaron Entertainment GmbH
+Sacrifice,PC,Strategy,89,8.8,M,Shiny Entertainment
+Safecracker: The Ultimate Puzzle Adventure,PC,Miscellaneous,69,7.0,E,Kheops Studio
+Saga,PC,Role-Playing,61,8.0,,Wahoo Studios
+Saint Seiya: Soldiers' Soul,PC,Action,No score yet,6.3,T,Dimps Corporation
+Saints Row 2,PC,Action Adventure,72,6.8,M,Volition Inc.
+Saints Row IV,PC,Action Adventure,86,7.4,M,Volition Inc.
+Saints Row IV: Enter the Dominatrix,PC,Action Adventure,No score yet,7.3,,Volition Inc.
+Saints Row IV: Game of the Century Edition,PC,Action Adventure,No score yet,6.8,M,Volition Inc.
+Saints Row IV: How the Saints Save Christmas,PC,Action Adventure,No score yet,6.2,M,Volition Inc.
+Saints Row: Gat Out of Hell,PC,Action Adventure,66,6.2,M,Volition Inc.
+Saints Row: The Third,PC,Action Adventure,84,8.1,M,Volition Inc.
+Saints Row: The Third - Gangstas in Space,PC,Action Adventure,No score yet,5.8,M,Volition Inc.
+Saints Row: The Third - Genki Bowl VII,PC,Action,No score yet,4.8,M,Volition Inc.
+Saints Row: The Third - Penthouse Pack,PC,Action Adventure,No score yet,7.0,M,Volition Inc.
+Saints Row: The Third - The Trouble with Clones,PC,Action Adventure,No score yet,5.6,M,Volition Inc.
+Saira,PC,Action,No score yet,6.9,,nifflas
+Sakura Angels,PC,Adventure,No score yet,6.1,,Winged Cloud
+Sakura Beach,PC,Adventure,No score yet,3.6,,Winged Cloud
+Sakura Beach 2,PC,Adventure,No score yet,5.5,,Winged Cloud
+Sakura Clicker,PC,Action,No score yet,5.2,,Winged Cloud
+Sakura Dungeon,PC,Role-Playing,No score yet,8.0,,Winged Cloud
+Sakura Fantasy,PC,Adventure,No score yet,2.6,,Winged Cloud
+Sakura Spirit,PC,Miscellaneous,No score yet,5.6,,Winged Cloud
+Sakura Swim Club,PC,Adventure,No score yet,6.0,,Winged Cloud
+Salammbo: Battle of Carthage,PC,Adventure,77,7.6,T,Cryo Interactive
+Salt and Sanctuary,PC,Action,84,7.9,,Ska Studios
+Salt Lake 2002,PC,Sports,44,tbd,E,Attention To Detail
+Salvation Prophecy,PC,Simulation,No score yet,7.5,,Firedance Games
+Salvo!,PC,Action Adventure,58,tbd,,Spruegames
+Sam & Max Episode 101: Culture Shock,PC,Adventure,81,8.7,T,Telltale Games
+Sam & Max Episode 102: Situation: Comedy,PC,Adventure,79,7.9,T,Telltale Games
+"Sam & Max Episode 103: The Mole, the Mob and the Meatball",PC,Adventure,74,8.2,,
+Sam & Max Episode 104: Abe Lincoln Must Die!,PC,Adventure,80,7.8,,Telltale Games
+Sam & Max Episode 105: Reality 2.0,PC,Adventure,82,8.4,,Telltale Games
+Sam & Max Episode 106: Bright Side of the Moon,PC,Adventure,79,7.3,T,Telltale Games
+Sam & Max Episode 201: Ice Station Santa,PC,Adventure,82,8.5,T,Telltale Games
+Sam & Max Episode 202: Moai Better Blues,PC,Adventure,80,7.7,T,Telltale Games
+Sam & Max Episode 203: Night of the Raving Dead,PC,Adventure,79,8.2,T,Telltale Games
+Sam & Max Episode 204: Chariots of the Dogs,PC,Adventure,85,8.1,T,Telltale Games
+"Sam & Max Episode 205: What's New, Beelzebub?",PC,Adventure,85,8.5,T,
+Sam & Max: Season One,PC,Miscellaneous,No score yet,8.2,T,Telltale Games
+UberSoldier,PC,Action,57,6.5,M,Burut Software
+UberSoldier II,PC,Action,62,7.2,M,Burut Software
+UEFA Euro 2004: Portugal,PC,Sports,76,6.5,E,EA Canada
+UEFA Euro 2012,PC,Sports,64,2.9,E,EA Canada
+UFO: Afterlight,PC,Strategy,71,7.6,T,Altar Interactive
+UFO: Aftermath,PC,Strategy,67,5.9,T,Altar Interactive
+UFO: Aftershock,PC,Strategy,67,7.7,T,Altar Interactive
+UFO: Extraterrestrials,PC,Strategy,68,6.9,E10+,Chaos Concept
+Ultima IX: Ascension,PC,Role-Playing,No score yet,5.1,M,Electronic Arts
+Ultima Online,PC,Role-Playing,59,8.8,M,Origin
+Ultima Online: Age of Shadows,PC,Role-Playing,74,7.0,T,Electronic Arts
+Ultima Online: Kingdom Reborn,PC,Role-Playing,No score yet,4.5,T,Electronic Arts
+Ultima Online: Lord Blackthorn's Revenge,PC,Role-Playing,65,5.4,T,Electronic Arts
+Ultima Online: Samurai Empire,PC,Role-Playing,62,5.7,T,EA Games
+Ultima Online: The Eighth Age,PC,Role-Playing,No score yet,7.0,T,Electronic Arts
+Ultima Online: Third Dawn,PC,Role-Playing,69,tbd,T,Electronic Arts
+Ultimate Chicken Horse,PC,Action,No score yet,8.8,,Clever Endeavour Games
+Ultimate Demolition Derby,PC,Driving,27,8.3,E,3 Romans
+Ultimate General: Gettysburg,PC,Strategy,84,8.0,,Game-Labs
+Ultimate Ride,PC,Action,68,8.2,E,Gigawatt Studios
+Ultimate Ride Coaster Deluxe,PC,Strategy,77,5.9,E,Gigawatt Studios
+Ultimate Ride: Disney Coaster,PC,Strategy,72,7.0,E,Disney Interactive
+Ultimate Spider-Man,PC,Action,75,8.4,T,Beenox
+Ultionus: A Tale of Petty Revenge,PC,Action,No score yet,7.3,,Last Dimension
+Ultra Street Fighter IV,PC,Action,82,6.9,T,Capcom
+Ultratron,PC,Action,No score yet,7.9,E,Puppy Games
+Umbrella Corps,PC,Action,36,2.3,M,Capcom
+Unbox,PC,Action,68,tbd,,Prospect Games
+Uncanny Valley,PC,Action Adventure,67,7.4,,Cowardly Creations
+Uncharted Waters Online,PC,Role-Playing,No score yet,7.2,E10+,Koei
+Uncommon Valor: Campaign for the South Pacific,PC,Strategy,79,7.6,E,2By3 Games
+Uncrowded,PC,Action Adventure,No score yet,1.3,,Kotach
+VA-11 Hall-A: Cyberpunk Bartender Action,PC,Simulation,77,8.0,,Sukeban Games
+Valdis Story: Abyssal City,PC,Action,83,8.1,,Endless Fluff
+Valentino Rossi The Game,PC,Racing,72,6.2,E,Milestone
+Valhalla Chronicles,PC,Role-Playing,No score yet,6.0,T,Paradox Interactive
+Valhalla Hills,PC,Strategy,69,7.6,,Daedalic Entertainment
+Valiant Hearts: The Great War,PC,Action,79,8.6,T,Ubisoft Montpellier
+Valkyria Chronicles,PC,General,85,8.2,T,Sega
+Valley,PC,Action Adventure,No score yet,7.9,T,Blue Isle Studios
+Vampire: The Masquerade - Bloodlines,PC,Role-Playing,80,9.0,M,Troika Games
+Vampire: The Masquerade - Redemption,PC,Role-Playing,74,8.4,M,Nihilistic
+Van Helsing I: Complete Pack,PC,Role-Playing,85,8.2,,NeocoreGames
+Vancouver 2010 - The Official Video Game of the Olympic Winter Games,PC,Sports,57,3.7,E,Eurocom Entertainment Software
+Vangers: One for the Road,PC,Action Adventure,No score yet,8.4,,K-D Lab
+Vanguard Princess,PC,Action,No score yet,6.3,,Sugeno Tomoaki
+Vanguard: Saga of Heroes,PC,Role-Playing,68,7.1,T,Sigil Games Online
+Vector,PC,Action,No score yet,7.7,,Nekki
+Vector Thrust,PC,Simulations,57,5.0,,timesymmetry
+Vegas Tycoon,PC,Strategy,76,7.4,T,Deep Red
+Vegas: Make It Big,PC,Strategy,No score yet,5.0,T,Deep Red
+Velocibox,PC,Action,No score yet,6.8,,Shawn Beck
+Velocity 2X,PC,Action,No score yet,5.6,,FuturLab
+Velvet Assassin,PC,Action,61,6.2,M,Replay Studios
+Velvet Sundown,PC,Role-Playing,No score yet,6.9,,Tribe Studios
+Vendetta Online,PC,Role-Playing,62,7.3,T,Guild Software
+Vendetta: Curse of Raven's Cry,PC,Strategy,No score yet,3.7,,Reality Pump
+Venetica,PC,Role-Playing,61,6.9,T,Deck 13
+Verde Station,PC,Sci-Fi,No score yet,4.8,,Duelboot
+Verdun,PC,Action,70,7.8,,M2H
+Wailing Heights,PC,Adventure,70,6.9,,Outsider Games
+Wake,PC,Action,No score yet,2.8,,Boss Baddie
+WAKFU,PC,Role-Playing,76,5.5,,Ankama Games
+Waking Mars,PC,Action,79,7.7,,Tiger Style
+WALL-E,PC,Action,58,6.8,E,Heavy Iron Studios
+"Wallace & Gromit's Grand Adventures, Episode 1: Fright of the Bumblebees",PC,Miscellaneous,76,7.5,,
+"Wallace & Gromit's Grand Adventures, Episode 2: The Last Resort",PC,Miscellaneous,72,8.6,E,
+"Wallace & Gromit's Grand Adventures, Episode 3: Muzzled!",PC,Miscellaneous,75,7.5,,
+"Wallace & Gromit's Grand Adventures, Episode 4: The Bogey Man",PC,Miscellaneous,72,7.9,E,
+Wanda - A Beautiful Apocalypse,PC,Role-Playing,No score yet,6.8,,Kodots Games
+Wander,PC,Simulation,No score yet,4.3,,Wander
+Wanderlust Adventures,PC,Role-Playing,No score yet,5.2,,Yeti Trunk
+Wanderlust: Rebirth,PC,Role-Playing,No score yet,4.9,,Yeti Trunk
+Wanted: A Wild Western Adventure,PC,Action Adventure,66,8.4,E,Revistonic
+Wanted: Weapons of Fate,PC,Action,62,7.3,M,GRIN
+War for the Overworld,PC,Strategy,65,7.6,,Subterranean Games
+War Front: Turning Point,PC,Strategy,73,7.2,T,Digital Reality
+War in the Pacific: Admiral's Edition,PC,Strategy,No score yet,7.6,,Henderson Field Designs
+War Inc. Battle Zone,PC,Action,No score yet,4.5,,Online Warmongers LLC
+War Leaders: Clash of Nations,PC,Strategy,No score yet,6.4,T,Enigma Software Productions
+War of the Human Tanks,PC,Strategy,No score yet,6.0,T,Fruitbat Factory
+War of the Immortals,PC,Role-Playing,No score yet,4.7,,Perfect World Beijing
+War of the Roses,PC,Action,73,5.8,RP,Fatshark AB
+War of the Vikings,PC,Action,62,6.1,RP,Fatshark AB
+War Rock,PC,Action,53,5.5,T,Dream Execution
+War Thunder,PC,Action,82,6.6,T,Gaijin Entertainment
+War Thunder: Steam Pack,PC,Action,No score yet,3.7,,Gaijin Entertainment
+War Times,PC,Strategy,53,tbd,T,Legend Studios
+War World: Tactical Combat,PC,Action,74,7.7,,Third Wave Games
+"War, the Game",PC,Strategy,65,7.1,,
+WarBirds III,PC,Simulation,78,6.3,,iEntertainment Network
+Warcraft II: Battle.net Edition,PC,Strategy,No score yet,8.8,T,Blizzard Entertainment
+Warcraft II: Beyond the Dark Portal,PC,Strategy,No score yet,8.6,,Blizzard Entertainment
+Warcraft III: Battlechest,PC,Strategy,No score yet,8.0,T,Blizzard Entertainment
+X Rebirth,PC,Simulation,33,3.3,T,Egosoft
+X-Blades,PC,Action,54,6.6,M,Gaijin Entertainment
+X-COM: Apocalypse,PC,Strategy,No score yet,8.9,T,Culture Brain
+X-COM: Enforcer,PC,Action,65,7.2,T,MicroProse
+X-COM: Interceptor,PC,Simulation,No score yet,4.8,T,Atari
+X-COM: Terror From the Deep,PC,Strategy,No score yet,8.9,,Culture Brain
+X-COM: UFO Defense,PC,Strategy,No score yet,9.1,E,Culture Brain
+X-Men Legends II: Rise of Apocalypse,PC,Role-Playing,80,8.5,T,Raven Software
+X-Men Origins: Wolverine,PC,Action,77,8.1,M,Raven Software
+X-Men: The Official Game,PC,Action,52,6.8,T,Beenox
+X-Plane,PC,Simulation,69,5.8,E,Laminar Research
+X-Plane 8,PC,Simulation,82,7.9,E,Laminar Research
+X-Tension,PC,Simulation,No score yet,7.7,,Egosoft
+X-Wing vs. TIE Fighter: Balance of Power,PC,Simulation,No score yet,8.5,K-A,Totally Games
+X2: The Threat,PC,Simulation,72,7.2,T,Egosoft
+X2: Wolverine's Revenge,PC,Action Adventure,55,4.3,T,Livesay Technologies
+X3: Albion Prelude,PC,Action,75,8.4,,Egosoft
+X3: Reunion,PC,Simulation,71,6.9,T,Egosoft
+X3: Terran Conflict,PC,Simulation,73,7.9,T,Egosoft
+X: Beyond the Frontier,PC,Simulation,67,7.3,T,Egosoft
+XCOM 2,PC,Strategy,88,7.1,T,Firaxis Games
+XCOM 2 - Alien Hunters,PC,Strategy,No score yet,4.8,,Firaxis Games
+XCOM: Enemy Unknown,PC,Strategy,89,8.2,M,Firaxis Games
+XCOM: Enemy Unknown - Second Wave,PC,Strategy,No score yet,7.6,M,Firaxis Games
+XCOM: Enemy Unknown - Slingshot,PC,Strategy,No score yet,8.6,M,Firaxis Games
+XCOM: Enemy Within,PC,Turn-Based Strategy,86,8.0,M,Firaxis Games
+Xenonauts,PC,Other Strategy Games,77,8.0,,Gamethunks
+Xeodrifter,PC,Action,No score yet,6.0,E,Renegade Kid
+XIII,PC,Action,72,7.8,M,Ubisoft Paris
+Xonotic,PC,Action,No score yet,8.9,,Team Xonotic
+Xotic,PC,Action,67,7.6,,WXP
+Xpand Rally,PC,Driving,82,7.4,E,Techland
+Xpand Rally Xtreme,PC,Driving,No score yet,6.8,,Techland
+Xsyon,PC,Role-Playing,No score yet,9.0,,Notorious Games
+Xtreme Air Racing,PC,Simulation,83,5.9,E,eGames
+Yaiba: Ninja Gaiden Z,PC,Action Adventure,49,6.0,M,Spark Unlimited
+Yar's Revenge,PC,Action,56,tbd,E10+,Killspace Entertainment
+Yatagarasu: Attack on Cataclysm,PC,Action,73,5.0,,PDW: Hotapen
+Year Walk,PC,Miscellaneous,87,7.0,,Simogo
+Yesterday,PC,Adventure,65,6.6,,Pendulo Studios
+Yet Another Zombie Defense,PC,Action,No score yet,7.0,,AwesomeGamesStudio
+Yomawari: Night Alone,PC,Adventure,No score yet,8.4,,Nippon Ichi Software
+Yomi,PC,Strategy,No score yet,6.3,,Sirlin Games
+Yosumin!,PC,Miscellaneous,No score yet,7.0,E,Square Enix
+You Are Empty,PC,Action,34,5.4,M,Digital Spray Studios
+You Don't Know Jack (2011),PC,Miscellaneous,71,6.0,T,Jellyvision
+You Don't Know Jack 6: The Lost Gold,PC,Miscellaneous,67,6.1,,Jellyvision
+You Don't Know Jack: 5th Dementia,PC,Miscellaneous,77,8.0,T,Jellyvision
+You Have to Win the Game,PC,Action,No score yet,7.2,,Pirate Hearts
+You Must Build A Boat,PC,Action,71,7.7,,EightyEight Games
+Young Justice: Legacy,PC,Action,No score yet,4.7,T,Freedom Factory Studios
+Your Doodles Are Bugged!,PC,Miscellaneous,69,5.6,,Spyn Doctor
+Ys I & II Chronicles,PC,Role-Playing,No score yet,7.1,T,Falcom
+Ys Origin,PC,Role-Playing,76,8.7,,Falcom
+Ys VI: The Ark of Napishtim,PC,Role-Playing,76,7.8,,Falcom
+Ys: The Oath in Felghana,PC,Role-Playing,73,8.0,,Falcom
+Yu-Gi-Oh! Online,PC,Miscellaneous,60,5.8,E,Konami
+Yu-Gi-Oh! Power of Chaos: Joey the Passion,PC,Miscellaneous,No score yet,6.8,E,Konami
+Yu-Gi-Oh! Power of Chaos: Kaiba the Revenge,PC,Miscellaneous,No score yet,7.7,E,KCEJ
+Yu-Gi-Oh! Power of Chaos: Yugi the Destiny,PC,Strategy,52,5.9,E,Konami

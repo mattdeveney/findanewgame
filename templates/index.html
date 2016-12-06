@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>GaME: Smart Video Game Recommender</title>
+    <link rel="stylesheet" href="static/css/bootstrap.min.css">
+    <link rel="stylesheet" href="static/css/style.css">
+</head>
+<body>
+
+    <div class="container-fluid">
+
+        <nav class="navbar navbar-default" id="main-nav">
+            <div class="container-fluid">
+                <!-- Brand and toggle get grouped for better mobile display -->
+                <div class="navbar-header">
+                    <a class="navbar-brand" id="site-title">Smart Gamer: Find your next favorite game!</a>
+                    <button type="button" class="btn btn-default navbar-btn" id="how-work-button" onclick="toggleDisplay()">How it Works</button>
+                </div>
+
+                <!-- Collect the nav links, forms, and other content for toggling -->
+                <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                    <ul class="nav navbar-nav navbar-right">
+                        <a class="navbar-brand" id="made-by">Made by Dominick DeLucia, Matt Deveney and Jimmy Martter</a>
+                    </ul>
+                </div><!-- /.navbar-collapse -->
+            </div><!-- /.container-fluid -->
+        </nav>
+
+        <div id="how-it-works">
+            <h3>User-based Collaborative Filtering Model</h3>
+            <div class="row">
+                <div class="col-md-4 step">
+                    <h4>1. Aggregate Gaming Data</h4>
+                    <p class="desc">We scrape data from the rating aggregator Metacritic. In our model, videogames are our "items to be recommended" and critic publications (e.g. GameSpot, XGN, etc.) are our existing "users." Each publication's set of reviewed games serves as a proxy for that publication's consumption history.</p>
+                </div>
+                <div class="col-md-4 step">
+                    <h4>2. Create Your Preference Vector</h4>
+                    <p class="desc">Next, we figure out which games you've played and how much you like them. This constructs a "profile" of your preferences that we can compare to other users' consumption histories to generate suggestions.</p>
+                </div>
+                <div class="col-md-4 step">
+                    <h4>3. Suggest Games that Similar Users Like</h4>
+                    <p class="desc">Finally, we create a similarity matrix (using the cosine similarity function) between you and other users. Using the "similarity scores" we generate, we figure out which games users that are similar to you have rated highly. We suggest the games with the highest aggregate similarity scores.</p>
+                </div>
+            </div>
+        </div>
+
+        <div id="content"></div>
+    </div>
+
+    <script type=text/javascript>
+        $SCRIPT_ROOT = {{ request.script_root|tojson|safe }};
+    </script>
+    <script src="static/js/lib/jquery-3.1.0.min.js"></script>
+    <script src="static/js/lib/jquery.csv.min.js"></script>
+    <script src="static/js/lib/bootstrap.min.js"></script>
+    <script src="static/js/main-2.js"></script>
+</body>
+</html>

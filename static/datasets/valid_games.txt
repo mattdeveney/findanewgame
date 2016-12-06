@@ -1,0 +1,2155 @@
+title,platform,genre,metascore,userscore,rating,developer,weighted_score
+#IDARB,Xbox One,Action,77.0,7.2,E,Other Ocean Interactive,76.5757575758
+#KILLALLZOMBIES,Xbox One,Action,53.0,0.0,T,Beatshapers,51.1
+10 Second Ninja X,Xbox One,Action,82.0,5.1,T,GameDesignDan,62.380952381
+1001 Spikes,Xbox One,Action,0.0,4.9,T,Nicalis,63.4555555556
+101 Ways to Die,Xbox One,Action,71.0,0.0,T,4 Door Lemon,50.8888888889
+6180 the Moon,Xbox One,Action,0.0,7.5,E,Turtle Cream,53.3333333333
+7 Days to Die,Xbox One,Action,35.0,5.4,M,The Fun Pimps Entertainment LLC,46.6111111111
+A Boy and His Blob,Xbox One,Action,66.0,0.0,E,Abstraction Games,60.9920634921
+Aaru's Awakening,Xbox One,Action,0.0,0.4,E,Lumenox ehf,32.25
+Action Henk,Xbox One,Action,72.0,0.0,E,RageSquid,55.2037037037
+Action News Heroes,Xbox One,Action,49.0,8.1,T,Krewe Studios,58.3333333333
+Active Soccer 2 DX,Xbox One,Action,53.0,6.9,E,The Fox Software,63.5
+Adam's Venture: Origins,Xbox One,Adventure,48.0,6.2,E10+,Vertigo Games,60.3333333333
+Adventure Time: Finn and Jake Investigations,Xbox One,Adventure,66.0,5.3,E10+,Vicious Cycle,53.8571428571
+Agatha Christie's The ABC Murders,Xbox One,Adventure,66.0,7.3,,Microids,65.4166666667
+AIPD - Artificial Intelligence Police Department,Xbox One,Action,70.0,0.0,E10+,Blazing Badger,45.3333333333
+AirMech Arena,Xbox One,Simulation,0.0,4.4,E10+,Carbon Games,44.3333333333
+Albedo: Eyes from Outer Space,Xbox One,Action Adventure,55.0,0.0,T,Z4g0 and Ivan Venturi Productions,39.3888888889
+Alekhine's Gun,Xbox One,Action Adventure,33.0,2.5,M,Maximum Games,33.0952380952
+Alien: Isolation,Xbox One,Action Adventure,78.0,7.8,M,Creative Assembly,79.0243902439
+Amazing Princess Sarah,Xbox One,Action,72.0,0.0,T,Haruneko,50.0
+Among the Sleep,Xbox One,Adventure,62.0,0.0,T,Krillbite Studio,54.2352941176
+Anarcute,Xbox One,Action,74.0,0.0,E10+,Anarteam,48.9166666667
+Angry Birds Star Wars,Xbox One,Strategy,53.0,6.9,E,Exient Entertainment,53.1666666667
+Anima: Gate of Memories,Xbox One,Role-Playing,72.0,8.1,T,Anima Project,71.8888888889
+Anode,Xbox One,Puzzle,73.0,0.0,E,Kittehface Software,51.0
+Another World: 20th Anniversary Edition,Xbox One,Action,65.0,4.0,T,The Digital Lounge,59.4126984127
+APB: Reloaded,Xbox One,Massively Multiplayer,0.0,4.6,M,The Workshop,32.8333333333
+Armello,Xbox One,Miscellaneous,80.0,8.5,E10+,League of Geeks,79.0333333333
+Armikrog,Xbox One,Adventure,61.0,0.0,E10+,Versus Evil,40.350877193
+Arslan: The Warriors of Legend,Xbox One,General,0.0,5.8,T,Omega Force,41.7555555556
+Assassin's Creed Chronicles,Xbox One,Miscellaneous,0.0,6.8,T,Climax Studios,46.3333333333
+Assassin's Creed Chronicles: China,Xbox One,Historic,67.0,5.7,T,Ubisoft,64.0869565217
+Assassin's Creed Chronicles: India,Xbox One,Action Adventure,64.0,5.4,T,Ubisoft,60.9
+Assassin's Creed Chronicles: Russia,Xbox One,Action Adventure,62.0,4.2,T,Ubisoft,54.2222222222
+Assassin's Creed IV: Black Flag,Xbox One,Action Adventure,0.0,7.4,M,Ubisoft,53.4621212121
+Assassin's Creed IV: Black Flag - Freedom Cry,Xbox One,Action Adventure,76.0,7.0,M,Ubisoft Montreal,71.2857142857
+Assassin's Creed Syndicate,Xbox One,Historic,78.0,6.1,M,Ubisoft Quebec,71.8034188034
+Assassin's Creed Syndicate: Jack the Ripper,Xbox One,Action Adventure,77.0,6.5,M,Ubisoft Quebec,72.0
+Assassin's Creed Syndicate: The Last Maharaja,Xbox One,Action Adventure,0.0,7.3,,Ubisoft Quebec,44.3333333333
+Assassin's Creed Unity,Xbox One,Action Adventure,72.0,4.0,M,Ubisoft,61.8095238095
+Assassin's Creed Unity: Dead Kings,Xbox One,Action Adventure,64.0,5.3,M,Ubisoft,59.380952381
+Assetto Corsa,Xbox One,Sports,64.0,6.7,E,Kunos Simulazioni,69.3541666667
+Attack on Titan,Xbox One,Action,77.0,6.3,M,Omega Force,71.7592592593
+Awesomenauts Assemble!,Xbox One,Strategy,81.0,0.0,T,DTP Entertainment,52.6666666667
+Axiom Verge,Xbox One,Action Adventure,85.0,0.0,T,Tom Happ,56.5384615385
+Azkend 2: The World Beneath,Xbox One,Puzzle,67.0,0.0,E,10tons Ltd,44.3333333333
+Back to the Future: The Game,Xbox One,Adventure,0.0,7.3,T,Telltale Games,46.5555555556
+BADLAND: Game of the Year Edition,Xbox One,Action,69.0,5.5,E,Frogmind,70.4747474747
+Bard's Gold,Xbox One,Action,63.0,0.0,E,Erdem Sen,43.7380952381
+Baseball Riot,Xbox One,Puzzle,62.0,0.0,E10+,10tons Ltd,42.4761904762
+Batman: Arkham Knight,Xbox One,General,85.0,6.6,M,Rocksteady Studios,80.8558558559
+Batman: Arkham Knight - A Matter of Family,Xbox One,Action Adventure,62.0,5.2,M,WB Games Montreal,60.6666666667
+Batman: Return to Arkham,Xbox One,Miscellaneous,78.0,7.3,T,Rocksteady Studios,77.1851851852
+Batman: The Telltale Series,Xbox One,Action,0.0,4.5,M,Telltale Games,47.0
+Batman: The Telltale Series - Episode 1: Realm of Shadows,Xbox One,Adventure,65.0,6.8,M,Telltale Games,68.05
+Batman: The Telltale Series - Episode 2: Children of Arkham,Xbox One,Adventure,83.0,7.9,M,Telltale Games,74.8939393939
+Batman: The Telltale Series - Episode 3: New World Order,Xbox One,Adventure,72.0,8.4,,Telltale Games,76.5833333333
+Battle Worlds: Kronos,Xbox One,Strategy,65.0,0.0,E10+,KING Art,42.375
+Battleborn,Xbox One,Sci-Fi,71.0,7.2,T,Gearbox Software,70.3928571429
+Battlefield 1,Xbox One,Action,88.0,8.2,M,EA DICE,86.6666666667
+Battlefield 4,Xbox One,Action,81.0,6.6,M,EA DICE,77.9358974359
+Battlefield 4: China Rising,Xbox One,Action,0.0,5.8,,,36.1666666667
+Battlefield 4: Dragon's Teeth,Xbox One,Action,0.0,5.8,M,EA DICE,46.1666666667
+Battlefield 4: Naval Strike,Xbox One,Action,61.0,6.2,M,EA DICE,54.3333333333
+Battlefield 4: Second Assault,Xbox One,Action,0.0,5.2,M,Dice,45.6666666667
+Battlefield Hardline,Xbox One,Modern,71.0,5.1,M,Visceral Games,64.5666666667
+Battleship,Xbox One,Miscellaneous,65.0,7.6,E10+,Frima Studio,63.0434782609
+Beach Buggy Racing,Xbox One,Action,65.0,6.7,E,Vector Unit,56.5333333333
+Beatbuddy: Tale of the Guardians,Xbox One,Action,67.0,0.0,E,Threaks,45.6
+Bedlam,Xbox One,Action,59.0,0.0,M,RedBedlam,50.6666666667
+Beyond Eyes,Xbox One,Action Adventure,60.0,5.7,E,tiger & squid,53.4722222222
+Bike Mayhem 2,Xbox One,Sports,61.0,0.0,E,Goldmark Studios,46.3333333333
+BioShock: The Collection,Xbox One,Action,85.0,8.4,M,2K Games,84.5
+Bladestorm: Nightmare,Xbox One,Action,48.0,7.1,T,Omega Force,58.9824561404
+BlazBlue: Chrono Phantasma Extend,Xbox One,Action,0.0,6.3,T,Arc System Works,64.1060606061
+Blood Bowl 2,Xbox One,Sports,70.0,8.1,T,Cyanide,75.2307692308
+Blue Estate,Xbox One,Action,51.0,7.5,M,HeSaw,57.3611111111
+Blues and Bullets - Episode 1: The End of Peace,Xbox One,Action Adventure,70.0,5.4,M,A Crowd of Monsters,69.803030303
+Blues and Bullets - Episode 2: Shaking The Hive,Xbox One,Action Adventure,74.0,4.5,,A Crowd of Monsters,57.1666666667
+Boom Ball for Kinect,Xbox One,Action,0.0,7.5,E,Virtual Air Guitar Company,35.0
+Borderlands 2,Xbox One,Action,0.0,7.3,M,Gearbox Software,52.4166666667
+Borderlands: The Handsome Collection,Xbox One,Miscellaneous,80.0,7.8,M,Gearbox Software,80.5882352941
+Bridge Constructor,Xbox One,Simulation,58.0,0.0,E,ClockStone Software,41.6666666667
+Broken Sword 5: The Serpent's Curse,Xbox One,Adventure,77.0,7.2,T,Revolution Software,74.6111111111
+Brothers: A Tale of Two Sons,Xbox One,Action Adventure,81.0,8.9,T,Starbreeze,84.7162162162
+Call of Duty: Advanced Warfare,Xbox One,Action,81.0,5.5,M,Sledgehammer Games,71.188034188
+Call of Duty: Advanced Warfare - Ascendance,Xbox One,Action,75.0,7.2,M,Sledgehammer Games,59.0
+Call of Duty: Advanced Warfare - Havoc,Xbox One,Action,72.0,6.7,M,Sledgehammer Games,57.2777777778
+Call of Duty: Advanced Warfare - Reckoning,Xbox One,Action,75.0,6.3,,Sledgehammer Games,70.5833333333
+Call of Duty: Advanced Warfare - Supremacy,Xbox One,Action,71.0,6.9,,,70.5
+Call of Duty: Black Ops III,Xbox One,Action,81.0,4.4,M,Treyarch,68.6111111111
+Call of Duty: Ghosts,Xbox One,Action,78.0,4.3,M,Infinity Ward,63.8888888889
+Call of Duty: Ghosts - Devastation,Xbox One,Action,70.0,5.6,M,Infinity Ward,53.6666666667
+Call of Duty: Ghosts - Invasion,Xbox One,Action,73.0,6.5,M,Infinity Ward,52.0
+Call of Duty: Ghosts - Onslaught,Xbox One,Action,65.0,4.2,M,Infinity Ward,58.5555555556
+Carmageddon: Max Damage,Xbox One,Sports,52.0,7.1,M,Stainless Games,54.3333333333
+Casey Powell Lacrosse 16,Xbox One,Sports,60.0,8.6,E,Big Ant Studios,65.8333333333
+Cast of the Seven Godsends: Redux,Xbox One,Action,61.0,0.0,T,Raven Travel Studios,41.0
+Castle Crashers Remastered,Xbox One,Action,83.0,7.0,T,The Behemoth,78.3333333333
+CastleStorm: Definitive Edition,Xbox One,Strategy,69.0,7.0,T,Zen Studios,69.25
+Cel Damage HD,Xbox One,Simulation,57.0,0.0,,Finish Line Games,49.9047619048
+Chariot,Xbox One,Action,73.0,7.6,E,Frima Studio,73.9285714286
+Child of Light,Xbox One,Action,82.0,7.6,E10+,Ubisoft Montreal,81.2148148148
+Chivalry: Medieval Warfare,Xbox One,Action,51.0,4.7,M,Torn Banner Studios,58.3333333333
+Claire: Extended Cut,Xbox One,Adventure,67.0,0.0,M,Hailstorm Games Inc,45.25
+Clash,Xbox One,Action,0.0,4.2,E,FennecFox Entertainment,33.6666666667
+Clockwork Tales: Of Glass and Ink,Xbox One,Puzzle,70.0,0.0,T,Artifex Mundi,45.0
+Cobalt,Xbox One,Action,66.0,7.6,E10+,Oxeye,70.1666666667
+Coffin Dodgers,Xbox One,Sports,46.0,3.4,T,Milky Tea Studios,39.9285714286
+Contrast,Xbox One,Miscellaneous,0.0,6.3,T,Compulsion Games,51.5263157895
+Costume Quest 2,Xbox One,Role-Playing,65.0,6.8,E10+,Double Fine Productions,70.1282051282
+Crimson Dragon,Xbox One,Action,55.0,6.5,T,Grounding Inc.,57.5666666667
+Crimsonland,Xbox One,Action,69.0,6.8,T,10tons Entertainment,65.2380952381
+Cubot - The Complexity of Simplicity,Xbox One,Puzzle,68.0,7.3,E,NicoplvGames,69.0
+D/Generation HD,Xbox One,Puzzle,64.0,0.0,E10+,West Coast Software,38.0
+D4: Dark Dreams Don't Die,Xbox One,Action,76.0,7.3,M,Access Games,73.4888888889
+Dance Central Spotlight,Xbox One,Action,74.0,7.0,T,Harmonix Music Systems,72.3333333333
+Dangerous Golf,Xbox One,Sports,63.0,4.9,E,Three Fields Entertainment,53.1388888889
+Dark Souls II: Scholar of the First Sin,Xbox One,Role-Playing,89.0,7.7,T,From Software,84.6666666667
+Dark Souls III,Xbox One,Role-Playing,87.0,8.5,,From Software,87.7333333333
+Dark Souls III: Ashes of Ariandel,Xbox One,Role-Playing,0.0,6.1,M,From Software,57.9333333333
+Darksiders II: Deathinitive Edition,Xbox One,Action Adventure,75.0,6.9,M,Gunfire Games,72.3333333333
+DC Universe Online,Xbox One,Role-Playing,0.0,6.2,T,WBIE,56.3333333333
+Dead Island: Definitive Collection,Xbox One,Miscellaneous,67.0,4.9,M,Techland,61.4230769231
+Dead or Alive 5: Last Round,Xbox One,Action,69.0,6.4,M,Team Ninja,70.8181818182
+Dead Rising,Xbox One,Action Adventure,0.0,9.5,M,Capcom,69.6396396396
+Dead Rising 3,Xbox One,Action,78.0,6.8,M,Capcom Vancouver,73.9090909091
+Dead Rising 3: Apocalypse Edition,Xbox One,Action,0.0,6.3,M,Capcom Vancouver,43.462962963
+Dead Rising 3: Chaos Rising,Xbox One,Action,50.0,3.8,M,Capcom Vancouver,45.1666666667
+Dead Rising 3: Fallen Angel,Xbox One,Action,56.0,4.6,M,Capcom Vancouver,52.3333333333
+Dead Rising 3: Operation Broken Eagle,Xbox One,Action,52.0,4.2,M,,47.8
+Dead Rising 3: The Last Agent,Xbox One,Action,51.0,4.0,M,Capcom Vancouver,47.0
+Dead Rising Triple Pack,Xbox One,Action Adventure,72.0,0.0,,Capcom,48.196969697
+Deadlight: Director's Cut,Xbox One,Action,69.0,7.3,M,Tequila Works,70.5303030303
+Deadpool,Xbox One,Action,0.0,6.1,M,High Moon Studios,50.3245614035
+Dear Esther,Xbox One,Adventure,66.0,7.3,T,The Chinese Room,70.9444444444
+Destiny,Xbox One,Action,75.0,5.5,T,Bungie Software,70.5583333333
+Destiny: House of Wolves,Xbox One,Action,71.0,4.0,T,Bungie,60.8787878788
+Destiny: Rise of Iron,Xbox One,Action,72.0,3.2,,Bungie,61.2222222222
+Destiny: The Dark Below,Xbox One,Action,59.0,2.9,T,Bungie,50.2380952381
+Destiny: The Taken King,Xbox One,Action,89.0,5.2,T,Bungie Software,76.7380952381
+Deus Ex: Mankind Divided,Xbox One,Action Adventure,83.0,7.1,M,Eidos Montreal,79.9444444444
+Devil May Cry 4: Special Edition,Xbox One,Fantasy,76.0,8.3,M,Capcom,77.7638888889
+Dex (Enhanced Version),Xbox One,Role-Playing,69.0,9.0,M,Dreadlocks Ltd,66.6111111111
+DG2: Defense Grid 2,Xbox One,Strategy,78.0,7.0,E10+,Hidden Path Entertainment,76.2777777778
+Diablo III: Ultimate Evil Edition,Xbox One,Role-Playing,86.0,7.8,M,Blizzard Entertainment,85.8333333333
+DiRT Rally,Xbox One,Sports,86.0,8.2,E,Codemasters,84.0666666667
+Dishonored: Definitive Edition,Xbox One,Action Adventure,76.0,7.1,M,Arkane Studios,75.8111111111
+Disney Infinity 2.0 Edition,Xbox One,Action Adventure,73.0,5.2,E10+,Avalanche Software,66.2023809524
+Disney Infinity 3.0 Edition,Xbox One,Action Adventure,78.0,5.2,E10+,Avalanche Software,70.5138888889
+Divinity: Original Sin Enhanced Edition,Xbox One,Role-Playing,88.0,7.4,M,Larian Studios,84.7777777778
+DmC: Devil May Cry Definitive Edition,Xbox One,Fantasy,86.0,7.6,M,Ninja Theory,81.2698412698
+Dogos,Xbox One,Action,63.0,0.0,E10+,INTERNET URL S.A.,41.2222222222
+Don Bradman Cricket,Xbox One,Sports,0.0,6.6,E,Big Ant Studios,59.8333333333
+DOOM,Xbox One,Sci-Fi,87.0,8.1,M,id Software,84.4019607843
+Dragon Age: Inquisition,Xbox One,Role-Playing,85.0,7.0,M,BioWare,82.023255814
+Dragon Age: Inquisition - Jaws Of Hakkon,Xbox One,Role-Playing,70.0,5.8,,BioWare,53.8333333333
+Dragon Age: Inquisition - The Descent,Xbox One,Role-Playing,0.0,5.4,,BioWare,48.6666666667
+Dragon Age: Inquisition - Trespasser,Xbox One,Role-Playing,0.0,7.4,,BioWare,48.0
+Dragon Ball: Xenoverse,Xbox One,Action,67.0,7.2,T,Dimps Corporation,70.373015873
+Dragon Ball: Xenoverse 2,Xbox One,Action,0.0,8.0,T,Dimps Corporation,65.0
+Drawful 2,Xbox One,Miscellaneous,75.0,0.0,T,Jackbox Games,55.0
+Duck Dynasty,Xbox One,Sports,0.0,3.5,T,FUN Labs,19.1666666667
+Dungeon of the Endless,Xbox One,Strategy,78.0,6.2,T,Amplitude Studios,73.0888888889
+Dungeon Punks,Xbox One,Action,71.0,8.5,E10+,Hyper Awesome Entertainment,62.0
+Dying Light,Xbox One,Action Adventure,74.0,7.8,M,Techland,76.3699186992
+Dying Light: The Following,Xbox One,Action Adventure,86.0,8.0,,Techland,81.8771929825
+Dying Light: The Following - Enhanced Edition,Xbox One,Action Adventure,0.0,7.9,M,Techland,55.5
+Dynasty Warriors 8 Empires,Xbox One,Action,58.0,6.6,T,Koei Tecmo Games,63.5217391304
+EA Sports UFC,Xbox One,Sports,70.0,6.3,T,EA Sports,67.2643678161
+EA Sports UFC 2,Xbox One,Sports,76.0,6.0,T,EA Sports,71.9393939394
+Earthlock: Festival of Magic,Xbox One,Role-Playing,66.0,7.7,E10+,Snow Castle Games,72.1111111111
+Electronic Super Joy,Xbox One,Action,77.0,0.0,M,Michael Todd Games,50.6666666667
+Elite Dangerous: Horizons,Xbox One,Simulation,75.0,6.4,T,Frontier Developments,71.3333333333
+Elite: Dangerous,Xbox One,Simulation,80.0,7.2,T,Frontier Developments,77.9733333333
+Enigmatis: The Ghosts of Maple Creek,Xbox One,Puzzle,66.0,7.4,T,Artifex Mundi,71.6666666667
+Ethan: Meteor Hunter,Xbox One,Action,44.0,0.0,E10+,Seaven Studio,33.875
+Eventide: Slavic Fable,Xbox One,Adventure,73.0,0.0,T,The House Of Fables,50.3333333333
+Evolve,Xbox One,Action,74.0,5.1,M,Turtle Rock Studios,66.4814814815
+Extreme Exorcism,Xbox One,Action,64.0,0.0,E10+,Golden Ruby Games,46.5
+F1 2015,Xbox One,Sports,64.0,5.3,E,Codemasters,59.5
+F1 2016,Xbox One,Sports,85.0,7.7,E,Codemasters,83.0058479532
+Factotum 90,Xbox One,Puzzle,71.0,5.9,E,TACS Games,66.4444444444
+Fallout 4,Xbox One,General,88.0,6.2,M,Bethesda Game Studios,79.175
+Fallout 4: Automatron,Xbox One,Role-Playing,74.0,5.7,M,Bethesda Game Studios,68.3333333333
+Fallout 4: Contraptions Workshop,Xbox One,Role-Playing,0.0,3.3,,Bethesda Game Studios,29.3333333333
+Fallout 4: Far Harbor,Xbox One,Role-Playing,78.0,6.3,M,Bethesda Game Studios,70.6538461538
+Fallout 4: Nuka-World,Xbox One,Role-Playing,75.0,6.0,,Bethesda Game Studios,67.6666666667
+Fallout 4: Vault-Tec Workshop,Xbox One,Role-Playing,0.0,2.7,,Bethesda Game Studios,41.1666666667
+Fallout 4: Wasteland Workshop,Xbox One,Role-Playing,59.0,2.2,M,Bethesda Game Studios,47.8333333333
+Fantasia: Music Evolved,Xbox One,Miscellaneous,77.0,7.5,E10+,Harmonix Music Systems,76.4047619048
+Far Cry 4,Xbox One,Action,82.0,7.5,M,Ubisoft Montreal,81.0
+Far Cry 4: Valley of the Yetis,Xbox One,Action,76.0,7.6,M,Ubisoft Montreal,74.75
+Far Cry Primal,Xbox One,Action,77.0,6.3,M,Ubisoft Montreal,71.0
+Farming Simulator 15,Xbox One,Simulation,54.0,7.2,E,Giants Software,60.7166666667
+Fenix Furia,Xbox One,Action,72.0,0.0,E,Green Lava Studios,48.2777777778
+Fibbage: The Hilarious Bluffing Party Game,Xbox One,Miscellaneous,0.0,7.6,T,Jackbox Games,45.1666666667
+FIFA 14,Xbox One,Sports,88.0,5.8,E,EA Canada,77.6388888889
+FIFA 15,Xbox One,Sports,82.0,5.4,E,EA Sports,72.880952381
+FIFA 16,Xbox One,Sports,84.0,4.4,E,EA Sports,70.0925925926
+FIFA 17,Xbox One,Sports,85.0,5.6,E,EA Sports,74.2916666667
+Fighter Within,Xbox One,Sports,23.0,3.0,T,Ubisoft,26.1212121212
+Final Fantasy Type-0 HD,Xbox One,Role-Playing,72.0,5.8,M,HexaDrive,68.8
+Firewatch,Xbox One,Adventure,86.0,7.0,M,Campo Santo,76.3095238095
+Flockers,Xbox One,Puzzle,65.0,4.9,T,Team 17,58.2222222222
+FORCED,Xbox One,Role-Playing,54.0,0.0,T,BetaDwarf,40.6904761905
+Fortified,Xbox One,Action,69.0,6.7,T,Clapfoot Inc.,68.2222222222
+Forza Horizon 2,Xbox One,Sports,86.0,8.2,E10+,Playground Games,84.5376344086
+Forza Horizon 2 Presents Fast & Furious,Xbox One,Sports,61.0,8.1,E10+,Playground Games,66.5
+Forza Horizon 2: Storm Island,Xbox One,Sports,82.0,7.4,E10+,Playground Games,79.0
+Forza Horizon 3,Xbox One,Sports,91.0,8.3,E,Playground Games,88.7564102564
+Forza Motorsport 5,Xbox One,Sports,79.0,5.9,E,Turn 10,72.8888888889
+Forza Motorsport 6,Xbox One,Sports,87.0,7.9,E,Turn 10,84.3950617284
+Forza Motorsport 6 NASCAR Expansion,Xbox One,Sports,0.0,5.5,,Turn 10,44.3333333333
+Fragments of Him,Xbox One,Adventure,71.0,0.0,M,Sassybot,46.2083333333
+FRU,Xbox One,Miscellaneous,84.0,6.9,E,Through Games,78.1111111111
+Fruit Ninja Kinect 2,Xbox One,General,69.0,8.7,E,Halfbrick Studios,76.1666666667
+Full Mojo Rampage,Xbox One,Role-Playing,79.0,0.0,T,Over the Top Games,48.3666666667
+Funk of Titans,Xbox One,Action,43.0,4.2,T,A Crowd of Monsters,43.9583333333
+Game of Thrones: A Telltale Games Series,Xbox One,Action,0.0,7.3,M,Telltale Games,59.5858585859
+Game of Thrones: Episode Five - A Nest of Vipers,Xbox One,Action,72.0,6.9,M,Telltale Games,72.1503267974
+Game of Thrones: Episode Four - Sons of Winter,Xbox One,Action,80.0,7.1,M,Telltale Games,74.4509803922
+Game of Thrones: Episode One - Iron From Ice,Xbox One,Action,80.0,8.0,M,Telltale Games,76.7422222222
+Game of Thrones: Episode Six - The Ice Dragon,Xbox One,Action,80.0,8.0,M,Telltale Games,73.8333333333
+Game of Thrones: Episode Three - The Sword in the Darkness,Xbox One,Action,80.0,7.8,M,Telltale Games,75.3703703704
+Game of Thrones: Episode Two - The Lost Lords,Xbox One,Action,76.0,7.7,M,Telltale Games,74.2833333333
+Gear Gauntlet,Xbox One,Action,69.0,6.8,E,Drop Dead Interactive,69.0
+Gears of War 4,Xbox One,Sci-Fi,85.0,6.6,M,The Coalition,78.630952381
+Gears of War: Ultimate Edition,Xbox One,Action,82.0,7.5,M,Splash Damage,80.4637681159
+Gemini: Heroes Reborn,Xbox One,Action Adventure,63.0,6.2,T,Phosphor Games,61.2857142857
+Gems of War,Xbox One,Puzzle,0.0,4.8,T,Pipeworks Software,37.7222222222
+Geometry Wars 3: Dimensions,Xbox One,Action,82.0,7.7,E,Lucid Games,81.847826087
+Ghostbusters,Xbox One,Action,32.0,0.3,E10+,Activision,21.7727272727
+Giana Sisters: Dream Runners,Xbox One,Action,32.0,4.7,E,Black Forest Games,40.8095238095
+Giana Sisters: Twisted Dreams - Director's Cut,Xbox One,Action,0.0,7.9,E,Black Forest Games,66.0833333333
+Goat Simulator,Xbox One,Simulation,53.0,6.3,T,Coffee Stain Studios,60.4492753623
+Goat Simulator: Mmore Goatz Edition,Xbox One,Simulation,62.0,0.0,T,Coffee Stain Studios,39.0
+Gone Home: Console Edition,Xbox One,Adventure,0.0,4.0,M,The Fullbright Company,52.2777777778
+Grand Theft Auto Online,Xbox One,Action Adventure,0.0,6.4,,Rockstar North,49.6666666667
+Grand Theft Auto V,Xbox One,Action Adventure,97.0,7.9,M,Rockstar North,91.3039215686
+Grim Legends: The Forsaken Bride,Xbox One,Puzzle,74.0,0.0,T,Artifex Mundi,48.5555555556
+Grow Up,Xbox One,Action Adventure,74.0,7.8,E,Ubisoft Reflections,70.7179487179
+Gryphon Knight Epic,Xbox One,Action,61.0,0.0,E10+,Cyber Rhino Studios,47.6666666667
+Guacamelee! Super Turbo Championship Edition,Xbox One,Action,88.0,7.0,E10+,DrinkBox Studios,82.6428571429
+Guitar Hero Live,Xbox One,Action,81.0,5.1,T,FreeStyleGames,71.5520833333
+Gunscape,Xbox One,Action,60.0,0.0,T,Blowfish Studios,41.2777777778
+GunWorld 2,Xbox One,Action,59.0,4.5,E10+,M07 Games,57.6666666667
+Halo 5: Guardians,Xbox One,Action,84.0,6.5,T,343 Industries,77.8444444444
+Halo: Spartan Assault,Xbox One,Action,53.0,4.4,T,Vanguard,57.2280701754
+Just Dance 2014,Xbox One,Miscellaneous,71.0,7.0,E10+,Ubisoft,70.1444444444
+Just Dance 2015,Xbox One,Action,70.0,7.5,E10+,Ubisoft,70.2692307692
+Just Dance 2016,Xbox One,Action,66.0,6.1,E10+,Ubisoft,69.75
+Kaiju Panic,Xbox One,Strategy,64.0,0.0,E10+,Mechabit Ltd,43.0
+Kalimba,Xbox One,Action,81.0,7.5,E,Press Play,67.625
+Kerbal Space Program,Xbox One,Simulation,74.0,7.5,E,SQUADTeam,76.9
+Kick & Fennick,Xbox One,Action,61.0,0.0,E10+,Jaywalkers Interactive,45.1818181818
+Killer Instinct,Xbox One,Action,73.0,6.2,T,Double Helix Games,69.3571428571
+Killer Instinct Season 2,Xbox One,Action,85.0,7.3,T,Iron Galaxy Studios,81.3333333333
+Killer Instinct Season 3,Xbox One,Action,86.0,6.6,,Iron Galaxy Studios,80.0666666667
+Killer Instinct: Definitive Edition,Xbox One,Action,0.0,6.3,M,Microsoft Game Studios,49.3333333333
+Kinect Sports Rivals,Xbox One,Sports,60.0,5.1,E10+,Microsoft Game Studios,58.5925925926
+King Oddball,Xbox One,Puzzle,66.0,0.0,E10+,10tons Ltd,50.5333333333
+King's Quest Chapter 1: A Knight to Remember,Xbox One,Adventure,80.0,7.6,E10+,The Odd Gentlemen,77.8666666667
+King's Quest Chapter 2: Rubble Without a Cause,Xbox One,Adventure,71.0,5.7,E10+,The Odd Gentlemen,62.3703703704
+King's Quest Chapter 3: Once Upon a Climb,Xbox One,Adventure,80.0,5.2,,The Odd Gentlemen,71.3333333333
+Kingdom: New Lands,Xbox One,Strategy,87.0,6.4,E10+,Noio,75.6666666667
+Knight Squad,Xbox One,Action,71.0,6.8,T,Chainsawesome Games,69.5
+Kung Fu Panda: Showdown of Legendary Legends,Xbox One,Action,68.0,5.4,E10+,Vicious Cycle,62.6333333333
+Kung-Fu for Kinect,Xbox One,Miscellaneous,60.0,7.5,E10+,Virtual Air Guitar Company,68.3333333333
+LA Cops,Xbox One,Action,49.0,6.4,M,Modern Dream,45.5396825397
+Land It!,Xbox One,Simulation,65.0,0.0,,Nemesys,41.6666666667
+Lara Croft and the Temple of Osiris,Xbox One,Action,72.0,5.9,T,Crystal Dynamics,68.5595238095
+Laserlife,Xbox One,Action,64.0,0.0,E,Choice Provisions,46.1666666667
+Layers of Fear,Xbox One,Adventure,78.0,8.3,M,Bloober Team,75.5444444444
+Layers of Fear: Inheritance,Xbox One,Adventure,72.0,7.8,M,Bloober Team,70.1388888889
+LEGO Batman 3: Beyond Gotham,Xbox One,Action Adventure,74.0,7.1,E10+,TT Games,73.0632183908
+LEGO Dimensions,Xbox One,Action Adventure,80.0,6.9,E10+,Traveller's Tales,76.9833333333
+LEGO Jurassic World,Xbox One,Action Adventure,70.0,6.7,E10+,TT Games,70.4382716049
+LEGO Marvel Super Heroes,Xbox One,Action Adventure,0.0,6.8,E10+,TT Games,64.6380952381
+LEGO Marvel's Avengers,Xbox One,Action Adventure,71.0,4.9,E10+,TT Games,67.5111111111
+LEGO Star Wars: The Force Awakens,Xbox One,Action Adventure,76.0,6.7,E10+,TT Games,75.2466666667
+LEGO The Hobbit,Xbox One,Historic,69.0,6.8,E10+,TT Games,68.3387096774
+Leo's Fortune,Xbox One,Action,72.0,6.4,,1337 & Senri LLC,69.9166666667
+Letter Quest: Grimm's Journey Remastered,Xbox One,Puzzle,77.0,6.8,E,Bacon Bandit Games,74.3333333333
+Lichdom: Battlemage,Xbox One,Role-Playing,0.0,2.2,M,Xaviant Games,25.2592592593
+Life is Strange,Xbox One,Sci-Fi,85.0,8.6,M,DONTNOD Entertainment,84.8
+Life is Strange: Episode 1 - Chrysalis,Xbox One,Action Adventure,77.0,8.4,M,DONTNOD Entertainment,78.6444444444
+Life is Strange: Episode 2 - Out of Time,Xbox One,Action Adventure,73.0,8.8,M,DONTNOD Entertainment,79.8666666667
+Life is Strange: Episode 3 - Chaos Theory,Xbox One,Action Adventure,80.0,8.6,M,DONTNOD Entertainment,81.9666666667
+Life is Strange: Episode 4 - Dark Room,Xbox One,Action Adventure,74.0,8.7,M,DONTNOD Entertainment,81.7
+Life is Strange: Episode 5 - Polarized,Xbox One,Action Adventure,80.0,8.5,M,DONTNOD Entertainment,83.1333333333
+Lifeless Planet: Premier Edition,Xbox One,Action Adventure,57.0,7.6,T,Stage 2 Studios,63.6666666667
+LIMBO,Xbox One,Action,85.0,8.1,T,PLAYDEAD,70.4107142857
+LocoCycle,Xbox One,Sports,48.0,3.9,T,Twisted Pixel Games,46.1333333333
+Lords of the Fallen,Xbox One,Role-Playing,71.0,6.7,M,City Interactive,69.5050505051
+Lost Sea,Xbox One,Strategy,59.0,7.3,E10+,EastAsiaSoft,64.0416666667
+Lovely Planet,Xbox One,Action,65.0,6.0,,QUICKTEQUILA,64.2777777778
+Lovers in a Dangerous Spacetime,Xbox One,Miscellaneous,82.0,7.6,E10+,Asteroid Base,78.4545454545
+Lumo,Xbox One,Action,73.0,0.0,E10+,Triple Eh? Ltd,59.7727272727
+Mad Max,Xbox One,Action,72.0,7.7,M,Avalanche Studios,73.7626262626
+Madden NFL 15,Xbox One,Sports,80.0,6.4,E,EA Sports,75.0303030303
+Madden NFL 16,Xbox One,Sports,84.0,6.1,E,EA Sports,75.0098039216
+Madden NFL 17,Xbox One,Sports,83.0,5.8,E,EA Sports,72.8043478261
+Madden NFL 25,Xbox One,Sports,73.0,5.9,E,EA Sports,69.1609195402
+Mafia III,Xbox One,Action Adventure,67.0,4.7,M,Hangar 13,56.8586956522
+Magic Duels: Origins,Xbox One,Strategy,0.0,5.2,T,Stainless Games,66.0
+Magic: Duels of the Planeswalkers 2015,Xbox One,Strategy,59.0,5.3,T,Wizards of the Coast,57.6222222222
+Magnetic: Cage Closed,Xbox One,Adventure,55.0,0.0,T,Guru Games,37.2222222222
+MagNets: Fully Charged,Xbox One,Action,49.0,4.1,E10+,Total Monkery,49.5
+Maldita Castilla EX: Cursed Castilla,Xbox One,Action,81.0,7.4,T,Locomalito,79.6666666667
+Mantis Burn Racing,Xbox One,Sports,78.0,8.9,,VooFoo Studios,77.7777777778
+Manual Samuel,Xbox One,Role-Playing,69.0,0.0,T,Perfectly Paranormal,41.5
+Mark McMorris Infinite Air,Xbox One,Sports,0.0,7.4,T,HB Studios Multimedia,49.3333333333
+Marvel: Ultimate Alliance,Xbox One,Role-Playing,0.0,5.6,T,Raven Software,40.2722222222
+Marvel: Ultimate Alliance 2,Xbox One,Role-Playing,0.0,8.7,T,Vicarious Visions,45.3455284553
+Masquerade: The Baubles of Doom,Xbox One,Action,0.0,8.4,T,Big Ant Studios,43.8333333333
+Massive Chalice,Xbox One,Strategy,72.0,6.7,T,Double Fine Productions,70.137254902
+Max: The Curse of Brotherhood,Xbox One,Action Adventure,72.0,7.3,E10+,Press Play,72.8333333333
+McDROID,Xbox One,Strategy,63.0,0.0,E,Elefantopia LLC,41.75
+Mega Coin Squad,Xbox One,Action,74.0,6.4,T,Big Pixel Studios,66.8333333333
+Mega Man Legacy Collection,Xbox One,Miscellaneous,80.0,7.1,E,Digital Eclipse,74.7407407407
+Metal Gear Solid V: Ground Zeroes,Xbox One,Action Adventure,76.0,5.4,M,Kojima Productions,69.0392156863
+Metal Gear Solid V: Metal Gear Online,Xbox One,Action Adventure,0.0,8.5,,Kojima Productions,61.5
+Metal Gear Solid V: The Phantom Pain,Xbox One,Action Adventure,95.0,7.3,M,Kojima Productions,88.1559139785
+Metro Redux,Xbox One,Action,84.0,8.2,M,4A Games,83.091954023
+Metro: 2033 Redux,Xbox One,Action,0.0,7.9,M,4A Games,55.6666666667
+Metro: Last Light Redux,Xbox One,Action,0.0,7.5,M,4A Games,52.8333333333
+Middle-earth: Shadow of Mordor,Xbox One,Action Adventure,87.0,8.0,M,Monolith Productions,83.1937984496
+Middle-earth: Shadow of Mordor - The Bright Lord,Xbox One,Action Adventure,61.0,7.1,M,Monolith Productions,66.1
+Mighty No. 9,Xbox One,Action,55.0,4.2,E10+,Inti Creates,49.5512820513
+Minecraft: Story Mode - Episode 1: The Order of the Stone,Xbox One,Action Adventure,77.0,4.1,E10+,Telltale Games,60.8939393939
+Minecraft: Story Mode - Episode 2: Assembly Required,Xbox One,Action Adventure,61.0,3.7,E10+,Telltale Games,50.3333333333
+Minecraft: Story Mode - Episode 3: The Last Place You Look,Xbox One,Action Adventure,75.0,5.6,E10+,Telltale Games,62.9523809524
+Minecraft: Story Mode - Episode 4: A Block and a Hard Place,Xbox One,Action Adventure,71.0,5.1,E10+,Telltale Games,62.5476190476
+Minecraft: Story Mode - Episode 5: Order Up!,Xbox One,Action Adventure,69.0,5.2,E10+,Telltale Games,66.6666666667
+Minecraft: Story Mode - Episode 6: A Portal to Mystery,Xbox One,Action Adventure,71.0,6.2,E10+,Telltale Games,56.3333333333
+Minecraft: Story Mode - Episode 7: Access Denied,Xbox One,Action Adventure,71.0,0.0,E10+,Telltale Games,46.8333333333
+Minecraft: Xbox One Edition,Xbox One,Action Adventure,88.0,6.8,E10+,4J Studios,80.8888888889
+Mirror's Edge Catalyst,Xbox One,Action,72.0,4.4,T,EA DICE,63.5416666667
+Mitsurugi Kamui Hikae,Xbox One,Action,0.0,8.3,T,Zenith Blue,52.25
+Monochroma,Xbox One,Action,66.0,0.0,T,Nowhere Studios,40.6296296296
+Monopoly Plus,Xbox One,Miscellaneous,0.0,6.6,E,Asobo Studio,42.8333333333
+Monopoly: Family Fun Pack,Xbox One,Miscellaneous,0.0,6.7,E,Ubisoft,37.0
+Mortal Kombat X,Xbox One,Action,86.0,7.3,M,Warner Bros. Interactive Entertainment,80.1388888889
+Mortal Kombat XL,Xbox One,Action,0.0,6.4,M,NetherRealm Studios,65.75
+Mount & Blade: Warband,Xbox One,Role-Playing,57.0,8.6,T,Taleworlds,69.9259259259
+Murdered: Soul Suspect,Xbox One,Action,51.0,7.0,M,Airtight Games,61.7719298246
+MX vs. ATV Supercross Encore,Xbox One,Sports,45.0,0.0,,Rainbow Studios,34.3333333333
+MXGP2: The Official Motocross Videogame,Xbox One,Sports,59.0,7.2,E,Milestone S.r.l,65.7083333333
+Mystery Castle,Xbox One,Puzzle,73.0,0.0,E,Runestone Games Limited,51.0
+N.E.R.O.: Nothing Ever Remains Obscure,Xbox One,Miscellaneous,64.0,7.9,E,Storm in a Teacup,61.9722222222
+Naruto Shippuden: Ultimate Ninja Storm 4,Xbox One,Action,81.0,8.4,T,CyberConnect2,71.0058479532
+NASCAR Heat Evolution,Xbox One,Sports,0.0,1.6,E,Dusenberry Martin Racing,28.4444444444
+NBA 2K14,Xbox One,Sports,86.0,5.7,E,Visual Concepts,76.8333333333
+NBA 2K15,Xbox One,Sports,82.0,6.3,E,Visual Concepts,78.4833333333
+NBA 2K16,Xbox One,Action,86.0,6.2,E10+,Visual Concepts,79.5087719298
+NBA 2K17,Xbox One,Sports,92.0,6.9,E,Visual Concepts,82.625
+NBA Live 14,Xbox One,Sports,36.0,3.1,E,EA Sports,37.3571428571
+NBA Live 15,Xbox One,Sports,53.0,6.8,E,EA Sports,58.7179487179
+NBA Live 16,Xbox One,Sports,60.0,5.6,E,EA Sports,59.8717948718
+Necropolis,Xbox One,Action Adventure,64.0,0.0,,Harebrained Schemes LLC,38.0
+Need for Speed,Xbox One,Sports,65.0,7.8,T,Ghost Games,70.25
+Need for Speed: Rivals,Xbox One,Sports,75.0,5.8,E10+,Ghost Games,72.1578947368
+Neon Chrome,Xbox One,Action,72.0,0.0,T,10tons Entertainment,58.9047619048
+Never Alone,Xbox One,Action,66.0,7.0,E10+,Upper One Games,69.6527777778
+Neverwinter,Xbox One,Role-Playing,66.0,4.9,T,Cryptic Studios,66.4761904762
+NHL 15,Xbox One,Sports,59.0,3.2,E10+,EA Sports,52.3333333333
+NHL 16,Xbox One,Sports,80.0,6.0,E10+,EA Sports,72.7222222222
+NHL 17,Xbox One,Sports,77.0,4.1,E10+,EA Canada,69.0555555556
+Nightmares from the Deep 2: The Siren's Call,Xbox One,General,69.0,0.0,E10+,Artifex Mundi,47.1666666667
+Ninja Pizza Girl,Xbox One,Action,63.0,0.0,E10+,Disparity Games,38.2222222222
+No Time to Explain,Xbox One,Action,52.0,5.2,T,tiny Build GAMES,56.2222222222
+Not A Hero: Super Snazzy Edition,Xbox One,Action,75.0,0.0,M,roll7,50.6666666667
+Nutjitsu,Xbox One,Action,50.0,4.4,E,NinjaBee,45.7777777778
+Oceanhorn: Monster of Uncharted Seas,Xbox One,Action Adventure,72.0,8.2,E10+,Cornfox & Bros.,74.4141414141
+Octodad: Dadliest Catch,Xbox One,Adventure,0.0,7.8,E10+,Young Horses,63.9365079365
+Oddworld: Abe's Oddysee - New 'n' Tasty,Xbox One,Action,86.0,8.4,T,Just Add Water,84.0085470085
+OlliOlli,Xbox One,Sports,78.0,6.8,E,Tom Hegarty,62.5402298851
+OlliOlli2: XL Edition,Xbox One,Sports,83.0,6.0,T,roll7,73.6666666667
+One Piece: Burning Blood,Xbox One,Action,60.0,6.4,T,Spike Chunsoft,66.4019607843
+Organic Panic,Xbox One,Puzzle,66.0,0.0,,Last Limb Games,46.8333333333
+Ori and the Blind Forest,Xbox One,Action,88.0,8.5,E,Moon Studios,87.0
+Ori and the Blind Forest: Definitive Edition,Xbox One,Action,88.0,7.3,E,Moon Studios,82.9047619048
+Outlast,Xbox One,Action Adventure,80.0,7.9,M,Red Barrels,79.0416666667
+Overcooked,Xbox One,Action,78.0,5.8,E,Ghost Town Games Ltd.,74.7272727273
+Overlord: Fellowship of Evil,Xbox One,Role-Playing,36.0,3.6,T,Codemasters,34.0
+Overwatch,Xbox One,Action,91.0,5.6,T,Blizzard Entertainment,80.0972222222
+Oxenfree,Xbox One,Action Adventure,78.0,7.0,,Night School Studio,78.183908046
+Pac-Man 256,Xbox One,Action,80.0,6.3,E,HIPSTER WHALE,75.3
+Pac-Man Championship Edition 2,Xbox One,Action,76.0,8.4,E,Bandai Namco Games,79.9047619048
+Paranautical Activity,Xbox One,Action,48.0,4.3,T,Code Avarice,48.6666666667
+Party Hard,Xbox One,Action,51.0,6.4,M,Pinokl Games,65.0
+Payday 2: Crimewave Edition,Xbox One,Action,65.0,3.2,M,Overkill Software,58.3205128205
+Peggle 2,Xbox One,Miscellaneous,77.0,7.2,E,PopCap,73.2121212121
+Penarium,Xbox One,Action,72.0,0.0,T,Self Made Miracle,60.0
+Pharaonic,Xbox One,Role-Playing,71.0,0.0,M,Milkstone Studios,48.1111111111
+Pier Solar and the Great Architects,Xbox One,Role-Playing,0.0,5.5,T,Watermelon Development,55.1428571429
+Pinball FX 2,Xbox One,Action,85.0,7.0,E10+,Zen Studios,80.6153846154
+Pinball FX 2: Guardians of the Galaxy,Xbox One,Action,0.0,7.8,E10+,Zen Studios,50.5
+Pinball FX 2: Iron and Steel Pack,Xbox One,Action,74.0,0.0,,Zen Studios,49.6666666667
+Pixel Piracy,Xbox One,Strategy,53.0,3.1,T,Abstraction Games,39.0
+Plague Inc: Evolved,Xbox One,Strategy,80.0,7.5,E10+,Ndemic Creations,79.0
+Plants vs Zombies: Garden Warfare,Xbox One,Action,76.0,7.4,E10+,PopCap,75.931372549
+Plants vs Zombies: Garden Warfare 2,Xbox One,Action,80.0,8.1,E10+,PopCap,79.8827160494
+Pneuma: Breath of Life,Xbox One,Sci-Fi,63.0,6.8,E,Deco Digital,67.4666666667
+Pool Nation FX,Xbox One,Sports,0.0,5.4,E,Cherry Pop Games,44.1666666667
+Powerstar Golf,Xbox One,Sports,65.0,5.7,E,Zoe Mode,62.0833333333
+Prison Architect,Xbox One,Strategy,74.0,6.7,M,Introversion,76.9561403509
+Pro Evolution Soccer 2015,Xbox One,Action,79.0,7.3,E,Konami,77.8505747126
+Pro Evolution Soccer 2016,Xbox One,Sports,85.0,6.3,E,Konami,78.4666666667
+Pro Evolution Soccer 2017,Xbox One,Sports,88.0,6.3,E,Konami,79.1228070175
+Professional Farmer 2017,Xbox One,Simulation,33.0,0.0,E,Visual Imagination Software,17.6666666667
+Project CARS,Xbox One,Sports,81.0,5.8,E,Slightly Mad Studios,75.5591397849
+Project CARS: Game of the Year Edition,Xbox One,Sports,80.0,0.0,,Slightly Mad Studios,54.0666666667
+Project Root,Xbox One,Action,38.0,5.0,T,Pablo Testa,46.1296296296
+Project Spark,Xbox One,Action,73.0,6.9,E10+,Microsoft Game Studios,72.5
+Prototype,Xbox One,Action Adventure,0.0,4.2,M,Radical Entertainment,42.2148148148
+Prototype 2,Xbox One,Action Adventure,0.0,5.5,M,Radical Entertainment,43.0833333333
+Prototype Biohazard Bundle,Xbox One,Miscellaneous,56.0,3.1,M,Radical Entertainment,41.8333333333
+Pumped BMX +,Xbox One,Sports,56.0,0.0,E,Yeah Us!,38.8095238095
+Pure Hold 'Em,Xbox One,Miscellaneous,0.0,4.3,T,VooFoo Studios,49.2222222222
+Pure Pool,Xbox One,Alternative,68.0,7.9,E,VooFoo Studios,73.3148148148
+Q.U.B.E. Director's Cut,Xbox One,Miscellaneous,76.0,6.9,T,Toxic Games,75.5666666667
+Quantum Break,Xbox One,Action,77.0,6.8,M,Remedy Entertainment,73.8282828283
+Quantum Rush Champions,Xbox One,Sports,54.0,0.0,E,GameArt Studio GmbH,39.1111111111
+Quest of Dungeons,Xbox One,Role-Playing,76.0,0.0,E10+,Upfall Studios,47.9166666667
+Quiplash,Xbox One,Miscellaneous,83.0,8.5,T,Jackbox Games,63.2222222222
+R.B.I. Baseball 14,Xbox One,Sports,0.0,5.1,E,MLB.com,30.5
+R.B.I. Baseball 15,Xbox One,Sports,46.0,4.8,E,MLB.com,31.3333333333
+R.B.I. Baseball 16,Xbox One,Sports,34.0,4.8,E,MLB AM,48.0
+Rabbids Invasion,Xbox One,Action,53.0,5.8,E10+,Ubisoft,42.9166666667
+Raiden V,Xbox One,Action,75.0,7.4,E,Moss,74.3333333333
+Rare Replay,Xbox One,Miscellaneous,84.0,7.7,M,Rare Ltd.,81.7936507937
+Rayman Legends,Xbox One,Action,91.0,7.9,E10+,Ubisoft Montpellier,87.7898550725
+Reagan Gorbachev,Xbox One,Puzzle,59.0,0.0,M,Team2Bit,42.0
+Rebel Galaxy,Xbox One,Action,76.0,7.1,T,Double Damage Games,73.6111111111
+ReCore,Xbox One,Action Adventure,63.0,6.6,T,Armature Studio,65.0476190476
+Resident Evil 0: HD Remaster,Xbox One,Action Adventure,69.0,7.3,M,Capcom,72.2533333333
+Resident Evil 4,Xbox One,Action Adventure,76.0,7.3,M,Capcom,81.758974359
+Resident Evil 5,Xbox One,Action Adventure,75.0,8.1,M,Capcom,76.6592039801
+Resident Evil 6,Xbox One,Action Adventure,63.0,6.2,M,Capcom,65.3717948718
+Resident Evil HD Remaster,Xbox One,Horror,82.0,7.9,M,Capcom,81.6111111111
+Resident Evil: Origins Collection,Xbox One,Miscellaneous,0.0,6.5,M,Capcom,50.1666666667
+Resident Evil: Revelations 2,Xbox One,Horror,75.0,7.5,M,Capcom,75.4444444444
+Resident Evil: Revelations 2 - Episode 1: Penal Colony,Xbox One,Action Adventure,73.0,7.5,M,Capcom,72.7435897436
+Resident Evil: Revelations 2 - Episode 2: Contemplation,Xbox One,Action Adventure,74.0,8.0,M,Capcom,72.8703703704
+Resident Evil: Revelations 2 - Episode 3: Judgment,Xbox One,Action Adventure,73.0,7.8,M,Capcom,75.3333333333
+Resident Evil: Revelations 2 - Episode 4: Metamorphosis,Xbox One,Action Adventure,74.0,8.1,M,Capcom,76.0
+Reus,Xbox One,Strategy,62.0,0.0,,Soedesco,47.7692307692
+RIDE,Xbox One,Sports,54.0,5.3,E,Milestone S.r.l,61.8333333333
+Ride 2,Xbox One,Sports,0.0,9.6,E,Milestone S.r.l,65.6333333333
+Riptide GP2,Xbox One,Sports,65.0,7.7,E,Vector Unit Inc.,60.5555555556
+Rise of the Tomb Raider,Xbox One,Fantasy,86.0,8.0,M,Crystal Dynamics,83.990990991
+Rise of the Tomb Raider: Baba Yaga - The Temple of the Witch,Xbox One,Action Adventure,73.0,7.8,M,Crystal Dynamics,73.6666666667
+Rise of the Tomb Raider: Cold Darkness Awakened,Xbox One,Action Adventure,68.0,5.8,,Nixxes Software,60.3333333333
+RISK,Xbox One,Miscellaneous,0.0,6.4,E10+,Zoe Mode,48.5
+Risk: Urban Assault,Xbox One,Strategy,0.0,5.4,E10+,Zoe Mode,54.6666666667
+Rock 'N Racing Grand Prix,Xbox One,Sports,37.0,5.0,E,EnjoyUp Games,43.0
+Rock 'N Racing Off Road DX,Xbox One,Sports,29.0,0.0,E,EnjoyUp Games,21.3333333333
+Rock Band 4,Xbox One,Action,79.0,6.4,T,Harmonix Music Systems,73.8888888889
+Rock Band Rivals,Xbox One,Action,81.0,0.0,,Harmonix Music Systems,54.0
+Rock Zombie,Xbox One,Action,42.0,4.5,T,Quaternion Studio,44.8333333333
+Rocket League,Xbox One,Sports,87.0,8.3,E,Psyonix,85.6944444444
+Rocksmith 2014 Edition,Xbox One,Action,72.0,7.9,T,Ubisoft,79.7333333333
+Rogue Legacy,Xbox One,Action,84.0,7.2,E10+,Cellar Door Games,81.7592592593
+Rory McIlroy PGA Tour,Xbox One,Traditional,60.0,4.3,E,EA Tiburon,54.65
+Roundabout,Xbox One,Sports,74.0,4.6,M,No Goblin,63.9166666667
+Rugby 15,Xbox One,Alternative,20.0,3.1,E,HB Studios Multimedia,28.8666666667
+Rugby Challenge 3,Xbox One,Sports,0.0,6.6,E,Wicked Witch Software,49.0555555556
+Rugby League Live 3,Xbox One,Sports,0.0,7.1,E,Big Ant Studios,41.1666666667
+Rugby World Cup 2015,Xbox One,Sports,0.0,4.3,E,HB Studios Multimedia,22.6666666667
+Ryse: Son of Rome,Xbox One,Action Adventure,60.0,6.1,M,Crytek,60.8095238095
+Saints Row IV: Re-Elected,Xbox One,Action Adventure,73.0,7.0,M,Volition Inc.,73.4545454545
+Saints Row: Gat Out of Hell,Xbox One,Action Adventure,65.0,6.0,M,Volition Inc.,63.6865079365
+Saturday Morning RPG,Xbox One,Role-Playing,0.0,8.7,E10+,Mighty Rabbit Studios,51.3333333333
+Schrodinger's Cat and the Raiders of the Lost Quark,Xbox One,Action,67.0,0.0,E,Italic Pig,41.3333333333
+ScreamRide,Xbox One,Simulation,71.0,4.8,E10+,Frontier Developments,64.4
+Screencheat,Xbox One,Action,72.0,0.0,E10+,Samurai Punk,46.5
+Sebastien Loeb Rally Evo,Xbox One,Sports,63.0,8.2,E,Milestone S.r.l,71.858974359
+Shadow Complex Remastered,Xbox One,Action,74.0,6.9,T,Chair Entertainment,75.3333333333
+Shadow Warrior,Xbox One,Action,74.0,7.9,M,Flying Wild Hog,74.5517241379
+Shantae and the Pirate's Curse,Xbox One,Action,79.0,7.8,E10+,WayForward,79.0333333333
+Shape Up,Xbox One,Miscellaneous,58.0,8.3,E,Ubisoft Montreal,67.0
+Sheltered,Xbox One,Strategy,69.0,0.0,T,Unicube,55.3666666667
+Sherlock Holmes: Crimes & Punishments,Xbox One,Adventure,72.0,6.8,M,Frogwares,72.7160493827
+Sherlock Holmes: The Devil's Daughter,Xbox One,Adventure,66.0,7.7,T,Frogwares,69.7888888889
+Shiftlings,Xbox One,Action,63.0,5.8,T,Rock Pocket Games,61.8333333333
+Shovel Knight,Xbox One,Action,86.0,7.5,E,Yacht Club Games,83.8838383838
+Shovel Knight: Plague of Shadows,Xbox One,Action,0.0,8.1,E,Yacht Club Games,52.3333333333
+Shred It!,Xbox One,Action,53.0,0.0,E,EM Studios Ltd,38.6666666667
+Sixty Second Shooter Prime,Xbox One,Action,61.0,7.2,E,Happion Laboratories,66.0
+Skylanders Imaginators,Xbox One,Action,77.0,8.0,E10+,Toys for Bob,76.431372549
+Skylanders SuperChargers,Xbox One,Action,76.0,5.5,E10+,Vicarious Visions,68.5138888889
+Skylanders Swap Force,Xbox One,Action,0.0,5.5,E10+,Vicarious Visions,57.701754386
+Skylanders Trap Team,Xbox One,Action,78.0,7.1,E10+,Toys for Bob,74.6222222222
+Sleeping Dogs: Definitive Edition,Xbox One,Action Adventure,75.0,7.4,M,United Front Games,75.2156862745
+Slender: The Arrival,Xbox One,Adventure,59.0,7.1,T,Blue Isle Studios,62.8939393939
+SMITE,Xbox One,Strategy,80.0,7.7,T,Hi-Rez Studios,78.7222222222
+Sniper Elite III,Xbox One,Action,63.0,6.6,M,Rebellion,67.7365591398
+So Many Me,Xbox One,Puzzle,82.0,6.2,E,Extend Studio,75.9444444444
+Solar Shifter EX,Xbox One,Action,53.0,0.0,E,Elder Games,34.75
+Song of the Deep,Xbox One,Action Adventure,66.0,6.7,E,Insomniac Games,68.7708333333
+Soul Axiom,Xbox One,Adventure,54.0,0.0,T,Wales Interactive Ltd.,42.6111111111
+Sparkle 2,Xbox One,Puzzle,63.0,0.0,E,10tons Entertainment,53.8333333333
+Sparkle Unleashed,Xbox One,Puzzle,62.0,7.0,E,10tons Entertainment,62.8333333333
+Spectra: 8bit Racing,Xbox One,Sports,52.0,6.5,E,Gateway Interactive,52.3333333333
+Spy Chameleon,Xbox One,Puzzle,71.0,6.4,E,Unfinished Pixel,70.625
+Star Trek Online,Xbox One,Role-Playing,0.0,5.7,T,Cryptic Studios,40.1666666667
+Star Wars Battlefront,Xbox One,Action,75.0,4.5,T,EA DICE,65.0784313725
+Star Wars Battlefront: Outer Rim,Xbox One,Action,0.0,3.0,T,EA DICE,51.4444444444
+Stardust Galaxy Warriors: Stellar Climax,Xbox One,Action,85.0,8.9,E,Dreamloop Games,85.4444444444
+Starpoint Gemini 2,Xbox One,Strategy,71.0,7.8,T,Little Green Men,74.0
+Starwhal,Xbox One,Action,69.0,0.0,E10+,Breakfall,47.9333333333
+State of Decay: Year One Survival Edition,Xbox One,Horror,72.0,7.1,M,Undead Labs,71.1777777778
+Stealth Inc 2: A Game of Clones,Xbox One,Action,82.0,6.9,T,Curve Digital,76.2631578947
+SteamWorld Dig,Xbox One,Action,83.0,7.1,E10+,Image & Form,78.0714285714
+Steredenn,Xbox One,Action,79.0,7.0,E10+,Pixelnest Studio,76.8888888889
+Stick it to the Man!,Xbox One,Action,76.0,7.1,T,Zoink!,75.2280701754
+Stikbold! A Dodgeball Adventure,Xbox One,Action,72.0,8.8,E,Reign Bros,76.6666666667
+Stories of Bethem: Full Moon,Xbox One,Role-Playing,75.0,0.0,,GuGames DEV,51.6666666667
+Stranger of Sword City,Xbox One,Role-Playing,70.0,7.4,T,Experience Inc.,71.3333333333
+Strider,Xbox One,Action Adventure,76.0,6.9,E10+,Double Helix Games,73.9270833333
+Strike Suit Zero: Director's Cut,Xbox One,Action,67.0,5.7,T,Born Ready Games,64.3333333333
+Styx: Master of Shadows,Xbox One,Action Adventure,69.0,7.1,M,Cyanide,69.8484848485
+Submerged,Xbox One,Action Adventure,57.0,6.6,E10+,Uppercut Games Pty Ltd,58.8833333333
+Sunset Overdrive,Xbox One,Action,81.0,7.7,M,Insomniac Games,79.7647058824
+Sunset Overdrive and the Mystery of the Mooil Rig!,Xbox One,Action,65.0,7.5,M,Insomniac Games,69.75
+Sunset Overdrive: Dawn of the Rise of the Fallen Machines,Xbox One,Action,0.0,5.8,,Insomniac Games,46.0
+Super Mega Baseball: Extra Innings,Xbox One,Sports,80.0,7.6,E,Metalhead Software,78.2
+Super Mutant Alien Assault,Xbox One,Action,62.0,0.0,T,Cybernate,42.6666666667
+Super Night Riders,Xbox One,Sports,36.0,0.0,E,neko.works,22.0
+Super Time Force,Xbox One,Action,80.0,6.6,T,Capy Games,74.8958333333
+Super Toy Cars,Xbox One,Sports,47.0,5.4,E,Eclipse Games,52.1
+Super Ultra Dead Rising 3' Arcade Remix Hyper Edition EX Plus Alpha,Xbox One,Action,75.0,6.0,M,Capcom Vancouver,70.6666666667
+SUPERHOT,Xbox One,Modern,83.0,7.8,T,SUPERHOT,80.75
+Sword Coast Legends,Xbox One,Role-Playing,58.0,6.8,T,n-Space,63.1666666667
+Tachyon Project,Xbox One,Action,74.0,7.8,E,Eclipse Games,71.3888888889
+Tales from the Borderlands: A Telltale Game Series,Xbox One,Adventure,88.0,7.6,M,Telltale Games,82.9814814815
+Tales From The Borderlands: Episode 1 - Zer0 Sum,Xbox One,Miscellaneous,82.0,8.3,M,Telltale Games,82.1153846154
+Tales From The Borderlands: Episode 2 - Atlas Mugged,Xbox One,Adventure,78.0,8.0,M,Telltale Games,78.8166666667
+Tales From The Borderlands: Episode 3 - Catch A Ride,Xbox One,Adventure,65.0,7.1,M,Telltale Games,75.4777777778
+Tales From The Borderlands: Episode 4 - Escape Plan Bravo,Xbox One,Adventure,0.0,8.4,M,Telltale Games,66.9444444444
+Tales From The Borderlands: Episode 5 - The Vault of the Traveler,Xbox One,Adventure,0.0,8.2,M,Telltale Games,70.5
+Teenage Mutant Ninja Turtles: Mutants in Manhattan,Xbox One,Action,55.0,6.0,T,PlatinumGames,51.875
+Tembo the Badass Elephant,Xbox One,Action Adventure,70.0,7.3,E10+,Game Freak,71.0964912281
+Terraria,Xbox One,Action,84.0,7.7,T,Engine Software,81.2357723577
+Teslagrad,Xbox One,Action,76.0,0.0,E,Rain Games,62.8947368421
+Teslapunk,Xbox One,Action,70.0,7.7,E,klutzGames,72.6666666667
+Tetris Ultimate,Xbox One,Miscellaneous,59.0,4.3,E,Ubisoft,55.4230769231
+Tetrobot and Co.,Xbox One,Puzzle,71.0,0.0,E,Swing Swing Submarine,48.4583333333
+The Amazing Spider-Man 2,Xbox One,Action,46.0,5.2,T,Beenox,51.2555555556
+The Banner Saga,Xbox One,Role-Playing,76.0,7.9,T,Stoic,80.0757575758
+The Banner Saga 2,Xbox One,Strategy,84.0,8.1,T,Stoic Jester Studios,81.8245614035
+The Binding of Isaac: Rebirth,Xbox One,Action,0.0,7.7,M,Nicalis,68.8333333333
+The Book of Unwritten Tales 2,Xbox One,Adventure,79.0,8.3,T,KING Art,76.3148148148
+The Bridge,Xbox One,Puzzle,70.0,8.3,E,Ty Taylor and Mario Castaneda,75.6842105263
+The Bunker,Xbox One,Adventure,66.0,6.1,T,Splendy Games,65.25
+The Crew,Xbox One,Sports,64.0,5.9,T,Ubisoft Reflections,60.8494623656
+The Crew: Wild Run,Xbox One,Sports,65.0,6.9,T,Ivory Tower,69.375
+The Crew: Wild Run Edition,Xbox One,Sports,0.0,7.5,T,Ivory Tower,49.0
+The Deer God,Xbox One,Action,59.0,4.1,T,Cinopt Studios LLC,52.1666666667
+The Elder Scrolls Online: Tamriel Unlimited,Xbox One,First-Person,77.0,8.4,M,ZeniMax Media,77.380952381
+The Elder Scrolls Online: Tamriel Unlimited - Orsinium,Xbox One,Role-Playing,0.0,3.6,M,ZeniMax Media,52.0833333333
+The Elder Scrolls Online: Tamriel Unlimited - The Imperial City,Xbox One,Role-Playing,0.0,9.0,M,ZeniMax Media,57.8333333333
+The Elder Scrolls V: Skyrim Special Edition,Xbox One,Role-Playing,0.0,6.4,M,Bethesda Game Studios,49.3888888889
+The Escapists,Xbox One,Action,74.0,7.0,T,Mouldy Toof Studios,69.7272727273
+The Escapists: The Walking Dead,Xbox One,Action,65.0,7.4,T,Team 17,55.7037037037
+The Evil Within,Xbox One,Action Adventure,79.0,7.3,M,Tango Gameworks,74.9666666667
+The Evil Within: The Assignment,Xbox One,Action Adventure,80.0,8.8,M,Tango Gameworks,81.4583333333
+The Evil Within: The Consequence,Xbox One,Action Adventure,76.0,8.5,,Tango Gameworks,79.4666666667
+The Evil Within: The Executioner,Xbox One,Action Adventure,0.0,7.0,,Tango Gameworks,55.3888888889
+The Fall,Xbox One,Action Adventure,0.0,6.8,T,Over The Moon,61.2777777778
+The Final Station,Xbox One,Action Adventure,70.0,0.0,M,tinyBuild,46.7878787879
+The Flame in the Flood,Xbox One,Action Adventure,74.0,5.1,T,The Molasses Flood,67.0208333333
+The Golf Club,Xbox One,Traditional,64.0,5.3,E,HB Studios Multimedia,63.375
+The Incredible Adventures of Van Helsing,Xbox One,Role-Playing,59.0,7.5,T,NeocoreGames,68.3194444444
+The Incredible Adventures of Van Helsing II,Xbox One,Role-Playing,66.0,0.0,T,NeocoreGames,47.462962963
+The Jackbox Party Pack,Xbox One,Miscellaneous,78.0,8.0,T,Jackbox Games,66.5
+The Jackbox Party Pack 2,Xbox One,Miscellaneous,80.0,0.0,T,Jackbox Games,61.8333333333
+The Legend of Korra,Xbox One,Action Adventure,49.0,6.2,T,PlatinumGames,56.9666666667
+The LEGO Movie Videogame,Xbox One,Action Adventure,69.0,6.9,E10+,TT Games,70.0574712644
+The Living Dungeon,Xbox One,Miscellaneous,63.0,0.0,T,RadiationBurn,45.6666666667
+The Magic Circle: Gold Edition,Xbox One,Adventure,78.0,0.0,M,Question,64.6666666667
+The Park,Xbox One,Action Adventure,61.0,6.7,M,Funcom,59.875
+The Peanuts Movie: Snoopy's Grand Adventure,Xbox One,Action,60.0,0.0,E,Activision,51.4333333333
+The Pinball Arcade,Xbox One,Action,0.0,7.9,E10+,Farsight Studios,65.358974359
+The Solus Project,Xbox One,Action,69.0,5.8,T,Grip Games,64.9444444444
+The Swapper,Xbox One,Action,92.0,7.4,E10+,Facepalm Games,82.8518518519
+The Technomancer,Xbox One,Role-Playing,68.0,7.4,M,Spiders,65.0533333333
+The Turing Test,Xbox One,Action,80.0,7.9,T,Bulkhead Interactive,78.0
+The Walking Dead: A Telltale Games Series - The Complete First Season,Xbox One,Miscellaneous,0.0,8.3,M,Telltale Games,53.9761904762
+The Walking Dead: Michonne - Episode 1: In Too Deep,Xbox One,Adventure,65.0,7.2,M,Skybound LLC,69.0714285714
+The Walking Dead: Michonne - Episode 2: Give No Shelter,Xbox One,Adventure,78.0,6.3,M,Telltale Games,73.2916666667
+The Walking Dead: Michonne - Episode 3: What We Deserve,Xbox One,Adventure,73.0,7.5,M,Telltale Games,74.1333333333
+The Walking Dead: Season Two - A Telltale Games Series,Xbox One,Action,0.0,7.9,M,Telltale Games,52.9583333333
+The Witcher 3: Wild Hunt,Xbox One,Role-Playing,91.0,9.2,M,CD Projekt Red Studio,92.4864864865
+The Witcher 3: Wild Hunt - Blood and Wine,Xbox One,Role-Playing,94.0,8.5,M,CD Projekt Red Studio,90.2933333333
+The Witcher 3: Wild Hunt - Hearts of Stone,Xbox One,Role-Playing,90.0,9.1,M,CD Projekt Red Studio,90.2608695652
+The Witness,Xbox One,Adventure,86.0,7.3,E,Thekla,81.7126436782
+The Wolf Among Us,Xbox One,Action Adventure,0.0,8.5,M,Telltale Games,55.1538461538
+Thief,Xbox One,Action Adventure,69.0,5.9,M,Eidos Montreal,65.9814814815
+This War of Mine: The Little Ones,Xbox One,Strategy,78.0,7.2,M,11 bit studios,75.9791666667
+Thomas Was Alone,Xbox One,Action,0.0,6.6,E,Mike Bithell,49.303030303
+Three Fourths Home: Extended Edition,Xbox One,Adventure,64.0,3.3,M,[bracket]games,57.4444444444
+Threes!,Xbox One,Miscellaneous,0.0,6.8,E,Hidden Variable Studios,53.0
+Tiny Troopers: Joint Ops,Xbox One,Action,62.0,5.0,T,Kukouri Mobile Entertainment,57.8888888889
+Titanfall,Xbox One,Action,86.0,6.4,M,Respawn Entertainment,79.0263157895
+Titanfall 2,Xbox One,Action,91.0,7.3,M,Respawn Entertainment,83.5740740741
+Titanfall: Expedition,Xbox One,Action,73.0,4.7,M,Respawn Entertainment,64.0
+Titanfall: Frontier's Edge,Xbox One,Action,75.0,5.9,,Respawn Entertainment,68.0
+Ultratron,Xbox One,Action,74.0,6.3,E,Puppy Games,54.5555555556
+Unepic,Xbox One,Action,75.0,6.3,T,EnjoyUp Games,68.0
+Unmechanical: Extended Edition,Xbox One,Action,66.0,7.8,E,Grip Games,72.1666666667
+Uno,Xbox One,Miscellaneous,57.0,6.7,E,Ubisoft Chengdu,68.2380952381
+Unravel,Xbox One,Action,75.0,8.4,E,Coldwood Interactive,79.7222222222
+Valentino Rossi The Game,Xbox One,Sports,74.0,8.1,E,Milestone S.r.l,75.0416666667
+Valiant Hearts: The Great War,Xbox One,Action,81.0,8.0,T,Ubisoft Montpellier,81.0555555556
+Valley,Xbox One,Action Adventure,68.0,7.9,T,Blue Isle Studios,65.6984126984
+Velocity 2X,Xbox One,Action,84.0,7.3,E10+,FuturLab,70.0722222222
+Virginia,Xbox One,Adventure,80.0,7.0,M,505 Games,74.9047619048
+Volgarr the Viking,Xbox One,Action,77.0,6.2,T,Crazy Viking Studios,72.1666666667
+Warframe,Xbox One,Action,62.0,6.3,M,Digital Extremes,63.9555555556
+Warhammer: End Times - Vermintide,Xbox One,Action,78.0,8.7,M,Fatshark AB,76.625
+Warriors Orochi 3 Ultimate,Xbox One,Action,73.0,7.2,T,Omega Force,72.7444444444
+Wasteland 2: Director's Cut,Xbox One,Role-Playing,77.0,7.1,M,InXile Entertainment,77.8333333333
+Watch Dogs,Xbox One,Action Adventure,78.0,5.8,M,Ubisoft Montreal,72.3639455782
+Watch Dogs: Bad Blood,Xbox One,Action Adventure,77.0,5.6,M,Ubisoft Montreal,71.3333333333
+WE ARE DOOMED,Xbox One,Action,58.0,0.0,E,Vertex Pop,50.1333333333
+Whispering Willows,Xbox One,Adventure,57.0,6.6,T,Abstraction Games,61.4411764706
+White Night,Xbox One,Action,61.0,7.7,M,OSome Studio,68.7456140351
+Wolfenstein: The New Order,Xbox One,Action,79.0,7.8,M,MachineGames,79.8253968254
+Wolfenstein: The Old Blood,Xbox One,Action,75.0,8.0,,MachineGames,77.6888888889
+Wondershot,Xbox One,Action,65.0,0.0,E10+,Leikir Studio,44.3333333333
+World of Tanks,Xbox One,Action,76.0,6.1,T,Wargaming.net,73.2179487179
+Worms Battlegrounds,Xbox One,Strategy,70.0,6.4,E10+,Team 17,65.9696969697
+Worms W.M.D,Xbox One,Strategy,75.0,8.1,E10+,Team 17,77.6842105263
+WRC 5,Xbox One,Sports,70.0,6.0,E,Kylotonn,63.8205128205
+WRC 6: FIA World Rally Championship,Xbox One,Sports,68.0,0.0,E,Kylotonn,53.7777777778
+WWE 2K15,Xbox One,Action,56.0,5.7,T,Yuke's,58.2222222222
+WWE 2K16,Xbox One,Action,72.0,5.7,T,Yuke's,69.303030303
+WWE 2K17,Xbox One,Sports,72.0,6.2,T,Yuke's,69.8076923077
+Xbox Fitness,Xbox One,Miscellaneous,71.0,6.0,E,Sumo Digital,72.0
+#KILLALLZOMBIES,PlayStation 4,Action,63.0,6.5,T,Beatshapers,51.1
+10 Second Ninja X,PlayStation 4,Action,76.0,7.0,T,GameDesignDan,62.380952381
+1001 Spikes,PlayStation 4,Action,78.0,6.7,T,Nicalis,63.4555555556
+100ft Robot Golf,PlayStation 4,Sports,54.0,6.4,E10+,No Goblin,57.6666666667
+101 Ways to Die,PlayStation 4,Action,60.0,5.0,T,4 Door Lemon,50.8888888889
+140,PlayStation 4,Action,72.0,0.0,E,Jeppe Carlsen,61.1333333333
+7 Days to Die,PlayStation 4,Action,45.0,5.9,M,The Fun Pimps Entertainment LLC,46.6111111111
+A Boy and His Blob,PlayStation 4,Action,66.0,7.3,E,Abstraction Games,60.9920634921
+Aaru's Awakening,PlayStation 4,Action,59.0,1.8,E,Lumenox ehf,32.25
+Abyss Odyssey: Extended Dream Edition,PlayStation 4,Action Adventure,65.0,6.0,T,ACE Team,65.0
+ABZU,PlayStation 4,Fantasy,77.0,7.6,E,Giant Squid,78.0833333333
+Ace Banana,PlayStation 4,Action,38.0,4.5,E,TVR,41.5
+Action Henk,PlayStation 4,Action,73.0,4.6,E,RageSquid,55.2037037037
+Adam's Venture: Origins,PlayStation 4,Adventure,53.0,5.6,,Vertigo Games,60.3333333333
+ADR1FT,PlayStation 4,Action,56.0,5.6,T,Three One Zero,57.7083333333
+Adventure Time: Finn and Jake Investigations,PlayStation 4,Adventure,0.0,6.7,E10+,Vicious Cycle,53.8571428571
+Adventures of Pip,PlayStation 4,Action,74.0,8.5,E10+,TicToc Games,79.1111111111
+Aegis of Earth: Protonovus Assault,PlayStation 4,Strategy,57.0,7.8,T,Acquire,61.1666666667
+Afro Samurai 2: Revenge of Kuma Volume One,PlayStation 4,Action,21.0,2.8,M,Versus Evil,23.0
+Agatha Christie's The ABC Murders,PlayStation 4,Adventure,67.0,5.9,T,Microids,65.4166666667
+AIPD - Artificial Intelligence Police Department,PlayStation 4,Action,62.0,0.0,E10+,Blazing Badger,45.3333333333
+Air Conflicts: Pacific Carriers,PlayStation 4,Simulation,0.0,4.9,T,Games Farm,33.5555555556
+Air Conflicts: Vietnam Ultimate Edition,PlayStation 4,Action,30.0,2.2,T,bitComposer Entertainment AG,26.2777777778
+AirMech Arena,PlayStation 4,Simulation,0.0,6.2,E10+,Carbon Games,44.3333333333
+Akiba's Trip: Undead & Undressed,PlayStation 4,Action Adventure,57.0,7.0,M,Acquire,62.4637681159
+Albedo: Eyes from Outer Space,PlayStation 4,Action Adventure,55.0,0.0,T,Z4g0 and Ivan Venturi Productions,39.3888888889
+Alekhine's Gun,PlayStation 4,Action Adventure,36.0,3.8,M,Maximum Games,33.0952380952
+Alien: Isolation,PlayStation 4,Action Adventure,79.0,8.1,M,Creative Assembly,79.0243902439
+Alienation,PlayStation 4,Sci-Fi,79.0,8.0,M,Housemarque,79.5777777778
+Alone With You,PlayStation 4,Adventure,72.0,7.4,T,Benjamin Rivers,74.5
+Amazing Discoveries In Outer Space,PlayStation 4,Action,71.0,5.5,E,Cosmic Picnic,66.1666666667
+Among the Sleep,PlayStation 4,Adventure,65.0,6.7,T,Krillbite Studio,54.2352941176
+Amplitude,PlayStation 4,Miscellaneous,74.0,7.9,E,Harmonix Music Systems,77.8924731183
+Angry Birds Star Wars,PlayStation 4,Strategy,47.0,2.0,E,Exient Entertainment,53.1666666667
+Anima: Gate of Memories,PlayStation 4,Role-Playing,52.0,7.9,T,Edge Entertainment,71.8888888889
+Anomaly 2,PlayStation 4,Strategy,74.0,5.5,T,11 bit studios,69.3472222222
+Another World: 20th Anniversary Edition,PlayStation 4,Action,53.0,6.0,T,The Digital Lounge,59.4126984127
+Apotheon,PlayStation 4,Action,76.0,7.3,T,Alientrap,74.3529411765
+Aqua Kitty: Milk Mine Defender DX,PlayStation 4,Action,74.0,5.4,E10+,Tikipod Limited,64.5833333333
+Aragami,PlayStation 4,Action Adventure,71.0,7.1,M,Lince Works,70.8484848485
+Arc the Lad: Twilight of the Spirits,PlayStation 4,Strategy,0.0,8.5,T,Cattle Call,52.6458333333
+Back to Bed,PlayStation 4,Action,62.0,5.0,E10+,Bedtime Digital Games,58.3939393939
+Back to the Future: The Game,PlayStation 4,Adventure,0.0,7.2,T,Telltale Games,46.5555555556
+Backgammon Blitz,PlayStation 4,Miscellaneous,0.0,5.9,E,VooFoo Studios,43.0
+BADLAND: Game of the Year Edition,PlayStation 4,Action,76.0,6.2,E,Frogmind,70.4747474747
+Bard's Gold,PlayStation 4,Action,64.0,0.0,E,Erdem Sen,43.7380952381
+Basement Crawl,PlayStation 4,Action,27.0,2.6,T,Bloober Team,27.6666666667
+Bastion,PlayStation 4,Role-Playing,89.0,7.9,E10+,Supergiant Games,85.4901960784
+Batman: Arkham Knight,PlayStation 4,General,87.0,7.6,M,Rocksteady Studios,80.8558558559
+Batman: Arkham Knight - A Matter of Family,PlayStation 4,Action Adventure,61.0,6.5,M,Rocksteady Studios,60.6666666667
+Batman: Arkham VR,PlayStation 4,Action,75.0,7.6,M,Rocksteady Studios,75.0277777778
+Batman: Return to Arkham,PlayStation 4,Miscellaneous,72.0,8.5,T,Rocksteady Studios,77.1851851852
+Batman: The Telltale Series,PlayStation 4,Action,0.0,7.7,M,Telltale Games,47.0
+Batman: The Telltale Series - Episode 1: Realm of Shadows,PlayStation 4,Adventure,70.0,6.5,M,Telltale Games,68.05
+Batman: The Telltale Series - Episode 2: Children of Arkham,PlayStation 4,Adventure,66.0,7.5,M,Telltale Games,74.8939393939
+Batman: The Telltale Series - Episode 3: New World Order,PlayStation 4,Adventure,80.0,8.1,M,Telltale Games,76.5833333333
+Battle Trivia Knockout,PlayStation 4,Miscellaneous,51.0,0.0,E,Happy Dance Games,33.1111111111
+Battle Worlds: Kronos,PlayStation 4,Strategy,62.0,0.0,,KING Art,42.375
+Battleborn,PlayStation 4,Sci-Fi,68.0,6.8,T,Gearbox Software,70.3928571429
+Battlefield 1,PlayStation 4,Action,88.0,8.6,M,EA DICE,86.6666666667
+Battlefield 4,PlayStation 4,Action,85.0,6.9,M,EA DICE,77.9358974359
+Battlefield 4: China Rising,PlayStation 4,Action,0.0,5.9,M,,36.1666666667
+Battlefield 4: Dragon's Teeth,PlayStation 4,Action,0.0,5.9,M,EA DICE,46.1666666667
+Battlefield 4: Naval Strike,PlayStation 4,Action,0.0,6.4,M,EA DICE,54.3333333333
+Battlefield 4: Second Assault,PlayStation 4,Action,0.0,6.6,M,Dice,45.6666666667
+Battlefield Hardline,PlayStation 4,Modern,73.0,5.0,M,Visceral Games,64.5666666667
+Battlezone,PlayStation 4,Action,63.0,6.9,T,Rebellion,63.1794871795
+Beach Buggy Racing,PlayStation 4,Action,0.0,6.8,E,Vector Unit,56.5333333333
+Bedlam,PlayStation 4,Action,53.0,6.2,M,Standfast Interactive,50.6666666667
+Beyond Eyes,PlayStation 4,Action Adventure,52.0,3.6,E,tiger & squid,53.4722222222
+Beyond: Two Souls,PlayStation 4,Adventure,72.0,7.8,M,Quantic Dream,73.75
+Binaries,PlayStation 4,Action,71.0,0.0,E,Ant Workshop Ltd,50.3333333333
+BioShock: The Collection,PlayStation 4,Action,84.0,8.6,M,2K Games,84.5
+Blacklight: Retribution,PlayStation 4,Action,58.0,6.2,T,Zombie Studios,64.5833333333
+Bladestorm: Nightmare,PlayStation 4,Action,58.0,6.5,T,Omega Force,58.9824561404
+BlazBlue: Chrono Phantasma Extend,PlayStation 4,Action,80.0,7.6,T,Arc System Works,64.1060606061
+BlazeRush,PlayStation 4,Sports,0.0,7.4,E10+,Targem Games,49.3888888889
+Blood Bowl 2,PlayStation 4,Sports,72.0,7.5,T,Cyanide,75.2307692308
+Bloodborne,PlayStation 4,Fantasy,92.0,8.6,M,From Software,89.752688172
+Bloodborne: The Old Hunters,PlayStation 4,Role-Playing,87.0,9.0,M,From Software,86.8148148148
+Blue Estate,PlayStation 4,Action,49.0,5.8,M,HeSaw,57.3611111111
+Blues and Bullets - Episode 1: The End of Peace,PlayStation 4,Action Adventure,86.0,5.1,,A Crowd of Monsters,69.803030303
+Blues and Bullets - Episode 2: Shaking The Hive,PlayStation 4,Action Adventure,0.0,4.8,,A Crowd of Monsters,57.1666666667
+Boggle,PlayStation 4,Miscellaneous,0.0,7.2,E,Frima Studio,37.3333333333
+Borderlands: The Handsome Collection,PlayStation 4,Miscellaneous,82.0,7.8,M,Gearbox Software,80.5882352941
+Bounce Rescue!,PlayStation 4,Action,56.0,0.0,E10+,Bitecore,40.3333333333
+Bound,PlayStation 4,Action,72.0,7.4,E10+,SCE Santa Monica,71.5555555556
+Bound by Flame,PlayStation 4,Role-Playing,53.0,6.0,M,Spiders,56.9032258065
+BRAWL,PlayStation 4,Action,62.0,6.3,M,Bloober Team,61.25
+BROFORCE,PlayStation 4,Action,68.0,6.3,M,Free Lives,71.3055555556
+Broken Age,PlayStation 4,Third-Person,81.0,7.4,E10+,Double Fine Productions,78.0625
+Broken Sword 5: The Serpent's Curse,PlayStation 4,Adventure,72.0,7.2,T,Revolution Software,74.6111111111
+Brothers: A Tale of Two Sons,PlayStation 4,Action Adventure,81.0,8.6,T,Starbreeze,84.7162162162
+Brut@l,PlayStation 4,Action Adventure,68.0,6.1,T,Stormcloud Games Limited,65.5
+Bully,PlayStation 4,Action Adventure,0.0,8.0,T,Rockstar Vancouver,55.8666666667
+Cabela's African Adventures,PlayStation 4,Sports,0.0,4.6,T,FUN Labs,32.3333333333
+Call of Duty: Advanced Warfare,PlayStation 4,Action,83.0,5.7,M,Sledgehammer Games,71.188034188
+Call of Duty: Advanced Warfare - Ascendance,PlayStation 4,Action,0.0,6.2,M,Sledgehammer Games,59.0
+Call of Duty: Advanced Warfare - Havoc,PlayStation 4,Action,0.0,6.1,M,Sledgehammer Games,57.2777777778
+Call of Duty: Black Ops III,PlayStation 4,Action,81.0,4.6,M,Treyarch,68.6111111111
+Call of Duty: Black Ops III - Awakening,PlayStation 4,Action,74.0,5.3,,Treyarch,66.2916666667
+Call of Duty: Black Ops III - Descent,PlayStation 4,Action,68.0,0.0,M,Treyarch,45.8666666667
+Call of Duty: Black Ops III - Eclipse,PlayStation 4,Action,74.0,4.0,,Treyarch,63.0666666667
+Call of Duty: Black Ops III - Salvation,PlayStation 4,Action,74.0,0.0,,Treyarch,51.3333333333
+Call of Duty: Ghosts,PlayStation 4,Action,78.0,3.6,M,Infinity Ward,63.8888888889
+Call of Duty: Ghosts - Devastation,PlayStation 4,Action,0.0,5.1,M,Infinity Ward,53.6666666667
+Call of Duty: Ghosts - Invasion,PlayStation 4,Action,0.0,4.6,M,Infinity Ward,52.0
+Calvino Noir,PlayStation 4,Action Adventure,44.0,6.5,T,Calvino Noir Ltd.,54.4166666667
+Capsule Force,PlayStation 4,Action,0.0,5.8,T,klobit,39.3333333333
+Carmageddon: Max Damage,PlayStation 4,Sports,51.0,5.5,M,Stainless Games,54.3333333333
+Casey Powell Lacrosse 16,PlayStation 4,Sports,69.0,8.0,E,Crosse Studios,65.8333333333
+CastleStorm: Definitive Edition,PlayStation 4,Strategy,74.0,6.1,T,Zen Studios,69.25
+Catlateral Damage,PlayStation 4,Action,57.0,4.8,E,Manekoware,52.4666666667
+Cel Damage HD,PlayStation 4,Simulation,58.0,6.1,T,Finish Line Games,49.9047619048
+Chambara,PlayStation 4,Action,71.0,0.0,E10+,team ok,49.3333333333
+Chariot,PlayStation 4,Action,76.0,7.1,E,Frima Studio,73.9285714286
+Child of Light,PlayStation 4,Action,82.0,8.0,E10+,Ubisoft Montreal,81.2148148148
+Chivalry: Medieval Warfare,PlayStation 4,Action,58.0,5.4,M,Torn Banner Studios,58.3333333333
+Chronicles of Teddy: Harmony of Exidus,PlayStation 4,Role-Playing,79.0,8.3,E,Aksys Games,74.0
+Citizens of Earth,PlayStation 4,Role-Playing,70.0,7.1,E10+,Eden Industries,70.3333333333
+Coffin Dodgers,PlayStation 4,Sports,36.0,4.1,T,Milky Tea Studios,39.9285714286
+Color Guardians,PlayStation 4,Action,62.0,6.2,E,Fair Play Labs,60.1333333333
+Commander Cherry's Puzzled Journey,PlayStation 4,Puzzle,53.0,0.0,E,Grande Games,38.5
+Contrast,PlayStation 4,Action,59.0,6.4,T,Compulsion Games,51.5263157895
+Costume Quest 2,PlayStation 4,Role-Playing,74.0,6.9,E10+,Double Fine Productions,70.1282051282
+CounterSpy,PlayStation 4,Action,67.0,6.7,T,Dynamighty,67.05
+Crimsonland,PlayStation 4,Action,64.0,6.0,T,10tons Entertainment,65.2380952381
+Croixleur Sigma,PlayStation 4,Action,71.0,6.3,E10+,souvenir circ.,68.8888888889
+Crypt of the NecroDancer,PlayStation 4,Role-Playing,85.0,6.6,T,Brace Yourself Games,78.6222222222
+Curses 'N Chaos,PlayStation 4,Action,70.0,8.4,E10+,Tribute Games,76.0
+Dangerous Golf,PlayStation 4,Sports,56.0,5.1,E,Three Fields Entertainment,53.1388888889
+Dariusburst: Chronicle Saviours,PlayStation 4,Action,80.0,8.0,E,Pyramid,81.0555555556
+Dark Cloud,PlayStation 4,Role-Playing,0.0,7.7,T,Level 5,52.0303030303
+Dark Cloud 2,PlayStation 4,Role-Playing,0.0,8.2,T,Level 5,55.8444444444
+Dark Souls II: Scholar of the First Sin,PlayStation 4,Role-Playing,87.0,7.9,T,From Software,84.6666666667
+Dark Souls III,PlayStation 4,Role-Playing,89.0,8.7,M,From Software,87.7333333333
+Dark Souls III: Ashes of Ariandel,PlayStation 4,Role-Playing,74.0,6.9,M,From Software,57.9333333333
+Darkest Dungeon,PlayStation 4,Role-Playing,84.0,8.1,T,Red Hook Studios,82.5833333333
+Darksiders II: Deathinitive Edition,PlayStation 4,Action Adventure,72.0,7.1,M,Gunfire Games,72.3333333333
+Day of the Tentacle Remastered,PlayStation 4,Adventure,84.0,7.2,T,Double Fine Productions,80.9583333333
+Daydreamer: Awakened Edition,PlayStation 4,Action,68.0,0.0,T,Roland Studios,42.6666666667
+Daylight,PlayStation 4,Action Adventure,48.0,4.7,M,Zombie Studios,48.6363636364
+DC Universe Online,PlayStation 4,Role-Playing,75.0,6.5,T,WBIE,56.3333333333
+Dead Island: Definitive Collection,PlayStation 4,Miscellaneous,63.0,6.4,M,Techland,61.4230769231
+Dead Island: Retro Revenge,PlayStation 4,Action,65.0,6.5,M,Techland,64.1666666667
+Dead Nation: Apocalypse Edition,PlayStation 4,Action,74.0,7.0,M,Housemarque,73.3666666667
+Dead or Alive 5: Last Round,PlayStation 4,Action,74.0,7.1,M,Team Ninja,70.8181818182
+Dead or Alive Xtreme 3: Fortune,PlayStation 4,Sports,43.0,7.7,,Team Ninja,57.5
+Dead Rising,PlayStation 4,Action Adventure,84.0,7.1,M,Capcom,69.6396396396
+Dead Rising 2,PlayStation 4,Action Adventure,82.0,7.2,M,Blue Castle Games,78.3037037037
+Dead Rising Triple Pack,PlayStation 4,Action Adventure,71.0,0.0,,Capcom,48.196969697
+Dead Star,PlayStation 4,Action,70.0,6.1,E,Armature Studio,68.1111111111
+Dead Synchronicity: Tomorrow Comes Today,PlayStation 4,Adventure,76.0,0.0,M,Fictiorama Studios,49.2592592593
+Deadlight: Director's Cut,PlayStation 4,Action,70.0,7.1,M,Tequila Works,70.5303030303
+Deadpool,PlayStation 4,Action,60.0,5.7,M,High Moon Studios,50.3245614035
+Dear Esther: Landmark Edition,PlayStation 4,Adventure,68.0,6.9,T,The Chinese Room,71.5
+Deception IV: The Nightmare Princess,PlayStation 4,Strategy,69.0,7.0,M,Koei Tecmo Games,68.8333333333
+Destiny,PlayStation 4,Action,76.0,6.1,T,Bungie Software,70.5583333333
+Destiny: House of Wolves,PlayStation 4,Action,72.0,4.1,T,Bungie,60.8787878788
+Destiny: Rise of Iron,PlayStation 4,Action,71.0,4.7,,Bungie,61.2222222222
+Destiny: The Dark Below,PlayStation 4,Sci-Fi,63.0,3.0,T,Bungie,50.2380952381
+Destiny: The Taken King,PlayStation 4,Action,86.0,6.0,T,Bungie,76.7380952381
+Deus Ex: Mankind Divided,PlayStation 4,Action Adventure,84.0,7.7,M,Eidos Montreal,79.9444444444
+Deus Ex: Mankind Divided - System Rift,PlayStation 4,Action Adventure,75.0,0.0,,Eidos Montreal,46.6666666667
+Devil May Cry 4: Special Edition,PlayStation 4,Fantasy,75.0,8.1,M,Capcom,77.7638888889
+Dex (Enhanced Version),PlayStation 4,Role-Playing,67.0,7.5,M,Dreadlocks Ltd,66.6111111111
+DG2: Defense Grid 2,PlayStation 4,Strategy,77.0,7.1,E10+,Hidden Path Entertainment,76.2777777778
+Diablo III: Ultimate Evil Edition,PlayStation 4,Role-Playing,90.0,8.0,M,Blizzard Entertainment,85.8333333333
+Digimon Story Cyber Sleuth,PlayStation 4,Role-Playing,75.0,8.5,T,Media Vision,79.1428571429
+Dino Dini's Kick Off Revival,PlayStation 4,Sports,31.0,5.5,,The Digital Lounge,41.3333333333
+DiRT Rally,PlayStation 4,Sports,85.0,8.1,E,Codemasters,84.0666666667
+Disgaea 5: Alliance of Vengeance,PlayStation 4,Fantasy,80.0,8.0,T,Nippon Ichi Software,81.1666666667
+Dishonored: Definitive Edition,PlayStation 4,Action Adventure,80.0,7.0,M,Arkane Studios,75.8111111111
+Disney Infinity 2.0 Edition,PlayStation 4,Action Adventure,71.0,5.8,E10+,Avalanche Software,66.2023809524
+Disney Infinity 3.0 Edition,PlayStation 4,Action Adventure,80.0,6.0,E10+,Avalanche Software,70.5138888889
+Divekick: Addition Edition +,PlayStation 4,Action,0.0,5.4,T,Iron Galaxy Studios,38.0
+Divinity: Original Sin Enhanced Edition,PlayStation 4,Role-Playing,88.0,8.0,M,Larian Studios,84.7777777778
+DmC: Devil May Cry Definitive Edition,PlayStation 4,Fantasy,83.0,7.3,M,Ninja Theory,81.2698412698
+Dogos,PlayStation 4,Action,53.0,0.0,E10+,Pablo Testa,41.2222222222
+Doki-Doki Universe,PlayStation 4,Miscellaneous,71.0,6.2,E10+,SCEA,66.5555555556
+Don Bradman Cricket,PlayStation 4,Sports,76.0,7.3,E,Big Ant Studios,59.8333333333
+Don't Starve Together: Console Edition,PlayStation 4,Action Adventure,0.0,6.7,T,Klei Entertainment,49.0
+Don't Starve: Console Edition,PlayStation 4,Action Adventure,78.0,7.0,T,Klei Entertainment,75.2857142857
+Don't Starve: Reign of Giants,PlayStation 4,Action Adventure,0.0,5.5,T,Klei Entertainment,44.1666666667
+DOOM,PlayStation 4,Sci-Fi,85.0,8.2,M,id Software,84.4019607843
+DOOM: Unto The Evil,PlayStation 4,Action,75.0,0.0,,id Software,48.4666666667
+Downwell,PlayStation 4,Action,80.0,7.9,E,Moppin,80.4358974359
+Dragon Age: Inquisition,PlayStation 4,Role-Playing,89.0,7.4,M,BioWare,82.023255814
+Dragon Age: Inquisition - Jaws Of Hakkon,PlayStation 4,Role-Playing,0.0,6.5,,BioWare,53.8333333333
+Dragon Age: Inquisition - The Descent,PlayStation 4,Role-Playing,63.0,5.4,,BioWare,48.6666666667
+Dragon Age: Inquisition - Trespasser,PlayStation 4,Role-Playing,0.0,7.4,,BioWare,48.0
+Dragon Ball: Xenoverse,PlayStation 4,Action,69.0,7.7,T,Dimps Corporation,70.373015873
+Dragon Ball: Xenoverse 2,PlayStation 4,Action,74.0,8.1,T,Dimps Corporation,65.0
+Dragon Fantasy: The Black Tome of Ice,PlayStation 4,Role-Playing,0.0,6.9,E10+,The Muteki Corporation,48.0
+Dragon Fin Soup,PlayStation 4,General,0.0,4.8,T,Grimm Bros.,37.0
+Dragon Quest Builders,PlayStation 4,Action Adventure,83.0,8.2,E10+,Square Enix,83.2
+Dragon Quest Heroes: The World Tree's Woe and the Blight Below,PlayStation 4,2D,77.0,7.7,T,Omega Force,77.8765432099
+Dreii,PlayStation 4,Puzzle,75.0,0.0,E,Etter Studio GmbH,48.6666666667
+Driveclub,PlayStation 4,Sports,71.0,6.1,E,Evolution Studios,67.5595238095
+Driveclub Bikes,PlayStation 4,Sports,79.0,7.6,E,Evolution Studios,77.5
+Driveclub VR,PlayStation 4,Sports,66.0,5.8,,Evolution Studios,62.6666666667
+Duck Dynasty,PlayStation 4,Sports,0.0,2.0,T,FUN Labs,19.1666666667
+Duke Nukem 3D: 20th Anniversary World Tour,PlayStation 4,Action,77.0,6.1,M,Gearbox Software,70.8571428571
+Dungeon Punks,PlayStation 4,Action,0.0,6.8,E10+,Hyper Awesome Entertainment,62.0
+Dungeons 2,PlayStation 4,Strategy,61.0,7.9,T,Kalypso,69.2916666667
+Dust: An Elysian Tail,PlayStation 4,Role-Playing,79.0,7.6,E10+,Humble Hearts,78.6904761905
+Dying Light,PlayStation 4,Action Adventure,74.0,7.9,M,Techland,76.3699186992
+EA Sports UFC,PlayStation 4,Sports,70.0,6.1,T,EA Sports,67.2643678161
+EA Sports UFC 2,PlayStation 4,Sports,79.0,6.2,T,EA Sports,71.9393939394
+Earth Defense Force 4.1: The Shadow of New Despair,PlayStation 4,Action,64.0,7.8,M,Sandlot,74.3787878788
+Emily Wants To Play,PlayStation 4,Adventure,75.0,0.0,T,SKH Apps,51.6666666667
+Energy Hook,PlayStation 4,Sports,22.0,3.0,E,Happion Laboratories,27.3333333333
+Enter the Gungeon,PlayStation 4,Action,82.0,7.4,E10+,Dodge Roll,79.5238095238
+Entwined,PlayStation 4,Action,59.0,6.7,E,Pixel Opus,61.3958333333
+Escape Plan,PlayStation 4,Miscellaneous,73.0,6.8,T,Fun Bits,70.8390804598
+ETHER One,PlayStation 4,General,75.0,4.7,E10+,White Paper Games,66.2333333333
+EVE: Gunjack,PlayStation 4,Simulation,0.0,6.2,T,CCP,44.0
+EVE: Valkyrie,PlayStation 4,Action,75.0,6.5,T,CCP,70.7619047619
+Everybody's Gone to the Rapture,PlayStation 4,Action,78.0,6.5,M,The Chinese Room,72.7666666667
+Evolve,PlayStation 4,Sci-Fi,76.0,4.3,M,Turtle Rock Studios,66.4814814815
+Exist Archive: The Other Side of the Sky,PlayStation 4,Role-Playing,67.0,7.7,T,Tri-Ace,69.6666666667
+Extreme Exorcism,PlayStation 4,Action,74.0,0.0,E10+,Golden Ruby Games,46.5
+F1 2015,PlayStation 4,Sports,65.0,6.3,E,Codemasters,59.5
+F1 2016,PlayStation 4,Sports,82.0,8.4,E,Codemasters,83.0058479532
+Fairy Fencer F: Advent Dark Force,PlayStation 4,Role-Playing,71.0,6.4,T,Compile Heart,68.8888888889
+Fallout 4,PlayStation 4,General,87.0,6.4,M,Bethesda Game Studios,79.175
+Fallout 4: Automatron,PlayStation 4,Role-Playing,69.0,6.2,M,Bethesda Game Studios,68.3333333333
+Fallout 4: Contraptions Workshop,PlayStation 4,Role-Playing,0.0,3.3,,Bethesda Game Studios,29.3333333333
+Fallout 4: Far Harbor,PlayStation 4,Role-Playing,75.0,6.1,M,Bethesda Game Studios,70.6538461538
+Fallout 4: Nuka-World,PlayStation 4,Role-Playing,64.0,5.9,,Bethesda Game Studios,67.6666666667
+Fallout 4: Vault-Tec Workshop,PlayStation 4,Role-Playing,60.0,4.0,,Bethesda Game Studios,41.1666666667
+Fallout 4: Wasteland Workshop,PlayStation 4,Role-Playing,50.0,3.4,M,Bethesda Game Studios,47.8333333333
+Far Cry 4,PlayStation 4,Action,85.0,7.7,M,Ubisoft Montreal,81.0
+Far Cry 4: Escape from Durgesh Prison,PlayStation 4,Action,56.0,5.4,M,Ubisoft Montreal,56.8333333333
+Far Cry 4: Valley of the Yetis,PlayStation 4,Action,74.0,7.6,M,Ubisoft Montreal,74.75
+Far Cry Primal,PlayStation 4,Action,76.0,6.2,M,Ubisoft Montreal,71.0
+Farming Simulator 15,PlayStation 4,Simulation,54.0,5.8,E,Giants Software,60.7166666667
+Farming Simulator 17,PlayStation 4,Simulation,66.0,0.0,,Maximum Games,47.8666666667
+Fat Princess Adventures,PlayStation 4,Action,63.0,7.9,T,SCE Santa Monica,70.875
+Fenix Furia,PlayStation 4,Action,71.0,0.0,E,Green Lava Studios,48.2777777778
+Fez,PlayStation 4,Action,90.0,6.3,E,Polytron Corp.,80.7083333333
+Fibbage: The Hilarious Bluffing Party Game,PlayStation 4,Miscellaneous,0.0,7.5,T,Jackbox Games,45.1666666667
+FIFA 14,PlayStation 4,Sports,87.0,6.3,E,EA Canada,77.6388888889
+FIFA 15,PlayStation 4,Sports,82.0,5.7,E,EA Sports,72.880952381
+FIFA 16,PlayStation 4,Sports,82.0,4.3,E,EA Sports,70.0925925926
+FIFA 17,PlayStation 4,Sports,84.0,5.0,E,EA Sports,74.2916666667
+Filthy Lucre,PlayStation 4,Action,61.0,7.3,M,Fabrik Games,68.0
+Final Fantasy Type-0 HD,PlayStation 4,Role-Playing,72.0,6.6,M,HexaDrive,68.8
+Final Fantasy VII,PlayStation 4,Role-Playing,0.0,8.4,T,Square Enix,57.5185185185
+Final Fantasy X / X-2 HD Remaster,PlayStation 4,Miscellaneous,84.0,8.1,T,Virtuos,83.4803921569
+Final Fantasy XIV Online: A Realm Reborn,PlayStation 4,Massively Multiplayer,86.0,6.6,T,Square Enix,78.1034482759
+Final Fantasy XIV: Heavensward,PlayStation 4,Massively Multiplayer,86.0,7.6,T,Square Enix,83.6296296296
+Final Horizon,PlayStation 4,Strategy,0.0,5.5,E10+,Eiconic Games,43.3333333333
+Firewatch,PlayStation 4,Adventure,76.0,7.1,M,Campo Santo,76.3095238095
+Flame Over,PlayStation 4,Simulation,0.0,2.5,E,Laughing Jackal,31.9333333333
+Flockers,PlayStation 4,Puzzle,61.0,4.8,T,Team 17,58.2222222222
+flOw,PlayStation 4,Miscellaneous,71.0,6.5,E,SuperVillain Studios,68.4523809524
+flower,PlayStation 4,Miscellaneous,91.0,7.2,E,Bluepoint Games,83.3333333333
+Fluster Cluck,PlayStation 4,Action,37.0,4.0,E,LOOT Entertainment,34.4166666667
+Forced: Slightly Better Edition,PlayStation 4,Role-Playing,60.0,0.0,T,BetaDwarf,43.3333333333
+Foul Play,PlayStation 4,Action,66.0,0.0,E10+,Mediatonic,45.0
+Full Mojo Rampage,PlayStation 4,Role-Playing,66.0,0.0,T,Over the Top Games,48.3666666667
+Furi,PlayStation 4,Action,77.0,7.5,M,The Game Bakers,76.8205128205
+Futuridium EP Deluxe,PlayStation 4,Action,73.0,5.7,E,MixedBag Srl,67.5897435897
+Gal*Gun: Double Peace,PlayStation 4,Action,64.0,7.2,,Alchemist,63.3333333333
+Galak-Z: The Dimensional,PlayStation 4,Action,82.0,7.2,E10+,17-Bit,76.1388888889
+Game of Thrones: A Telltale Games Series,PlayStation 4,Action,69.0,6.7,M,Telltale Games,59.5858585859
+Game of Thrones: Episode Five - A Nest of Vipers,PlayStation 4,Action,77.0,6.8,M,Telltale Games,72.1503267974
+Game of Thrones: Episode Four - Sons of Winter,PlayStation 4,Action,73.0,7.3,M,Telltale Games,74.4509803922
+Game of Thrones: Episode One - Iron From Ice,PlayStation 4,Action,77.0,7.6,M,Telltale Games,76.7422222222
+Game of Thrones: Episode Six - The Ice Dragon,PlayStation 4,Action,75.0,6.9,M,Telltale Games,73.8333333333
+Game of Thrones: Episode Three - The Sword in the Darkness,PlayStation 4,Action,70.0,7.1,M,Telltale Games,75.3703703704
+Game of Thrones: Episode Two - The Lost Lords,PlayStation 4,Action,69.0,7.1,M,Telltale Games,74.2833333333
+Gauntlet: Slayer Edition,PlayStation 4,Role-Playing,71.0,7.0,M,Arrowhead Game Studios,72.9333333333
+Gemini: Heroes Reborn,PlayStation 4,Action Adventure,57.0,6.6,T,Phosphor Games,61.2857142857
+Gems of War,PlayStation 4,Puzzle,0.0,5.5,T,Ininity Plus 2,37.7222222222
+Geometry Wars 3: Dimensions,PlayStation 4,Action,85.0,7.9,E,Lucid Games,81.847826087
+Geometry Wars 3: Dimensions Evolved,PlayStation 4,Action,0.0,6.8,E,Lucid Games,50.2222222222
+Ghostbusters,PlayStation 4,Action,30.0,0.6,E10+,Activision,21.7727272727
+Giana Sisters: Dream Runners,PlayStation 4,Action,37.0,4.8,E,Black Forest Games,40.8095238095
+Giana Sisters: Twisted Dreams - Director's Cut,PlayStation 4,Action,80.0,7.5,E,Black Forest Games,66.0833333333
+Goat Simulator,PlayStation 4,Simulation,58.0,6.0,T,Coffee Stain Studios,60.4492753623
+God Eater 2: Rage Burst,PlayStation 4,Role-Playing,70.0,8.0,T,Shift,74.0
+God Eater Resurrection,PlayStation 4,Role-Playing,70.0,8.0,T,Shift,72.8666666667
+God of War III Remastered,PlayStation 4,Action Adventure,81.0,7.8,M,Wholesale Algorithms,79.5555555556
+Godzilla,PlayStation 4,Action,38.0,3.1,T,NATSUME ATARI Inc.,37.7333333333
+Gone Home: Console Edition,PlayStation 4,Adventure,85.0,4.2,M,The Fullbright Company,52.2777777778
+Goosebumps: The Game,PlayStation 4,Adventure,0.0,5.5,E10+,WayForward,30.5555555556
+Grand Ages: Medieval,PlayStation 4,Strategy,64.0,7.1,T,Gaming Minds Studios,63.9047619048
+Grand Kingdom,PlayStation 4,Strategy,78.0,8.1,T,Spike Chunsoft,79.4285714286
+Grand Theft Auto III,PlayStation 4,Action Adventure,0.0,7.5,M,DMA Design,56.24
+Grand Theft Auto Online,PlayStation 4,Action Adventure,0.0,7.8,,Rockstar North,49.6666666667
+Grand Theft Auto V,PlayStation 4,Action Adventure,97.0,8.3,M,Rockstar North,91.3039215686
+Grand Theft Auto: San Andreas,PlayStation 4,Action Adventure,0.0,7.9,M,Rockstar North,56.7916666667
+Grand Theft Auto: Vice City,PlayStation 4,Action Adventure,0.0,7.0,M,Rockstar North,54.6380952381
+Gravity Rush Remastered,PlayStation 4,Action,80.0,8.2,T,Bluepoint Games,80.5294117647
+Grim Fandango Remastered,PlayStation 4,General,80.0,7.8,T,Double Fine Productions,79.2708333333
+Grow Home,PlayStation 4,Action Adventure,74.0,6.1,E,Ubisoft Reflections,68.8333333333
+Grow Up,PlayStation 4,Action Adventure,70.0,6.4,E,Ubisoft Reflections,70.7179487179
+Gryphon Knight Epic,PlayStation 4,Action,0.0,8.3,E10+,Cyber Rhino Studios,47.6666666667
+Guacamelee! Super Turbo Championship Edition,PlayStation 4,Action,87.0,7.6,E10+,DrinkBox Studios,82.6428571429
+Guilty Gear Xrd -REVELATOR-,PlayStation 4,Action,86.0,8.4,T,Arc System Works,86.7407407407
+Guilty Gear Xrd -SIGN-,PlayStation 4,Action,84.0,8.0,T,Arc System Works,82.6666666667
+Guitar Hero Live,PlayStation 4,Action,80.0,6.1,T,FreeStyleGames,71.5520833333
+GUNS UP!,PlayStation 4,Action,54.0,6.4,T,Valkyrie Entertainment,61.0
+Gunscape,PlayStation 4,Action,61.0,0.0,T,Blowfish Studios,41.2777777778
+Hand of Fate,PlayStation 4,Role-Playing,79.0,7.8,T,Defiant Development,78.931372549
+Handball 16,PlayStation 4,Sports,0.0,3.0,E,EKO Software,30.6666666667
+Hard Reset Redux,PlayStation 4,Action,69.0,7.7,M,Flying Wild Hog,70.9814814815
+Hardware: Rivals,PlayStation 4,Simulation,56.0,5.5,E10+,SCEA,55.8666666667
+Harmonix Music VR,PlayStation 4,Action,43.0,5.3,E,Harmonix Music Systems,44.5
+Hatoful Boyfriend,PlayStation 4,General,72.0,6.6,E10+,Mediatonic,69.1764705882
+Hatoful Boyfriend: Holiday Star,PlayStation 4,Adventure,58.0,2.8,E10+,Mediatonic,48.6
+Hatsune Miku VR: Future Live,PlayStation 4,Action,60.0,5.5,T,SegaSoft,57.5
+Hatsune Miku: Project Diva X,PlayStation 4,Action,78.0,7.5,T,Sega,76.5714285714
+HAWKEN,PlayStation 4,Action,56.0,5.5,T,Reloaded Games Inc.,61.0
+Headlander,PlayStation 4,Action,77.0,8.1,T,Double Fine Productions,77.9166666667
+Headmaster,PlayStation 4,Sports,74.0,7.5,E10+,Frame Interactive,73.8333333333
+Heart&Slash,PlayStation 4,Action,76.0,8.4,E10+,AHEARTFULOFGAMES,75.3333333333
+Heavy Rain,PlayStation 4,Adventure,78.0,7.7,M,Quantic Dream,80.5266666667
+Heavy Rain & Beyond: Two Souls Collection,PlayStation 4,Miscellaneous,78.0,8.2,,Quantic Dream,80.0
+Helldivers,PlayStation 4,Action,81.0,8.1,T,Arrowhead Game Studios,80.4285714286
+Here They Lie,PlayStation 4,Adventure,61.0,6.7,M,The Tangentlemen,62.6666666667
+Hitman - Episode 2: Sapienza,PlayStation 4,Action Adventure,84.0,6.9,,Io Interactive,78.2727272727
+Hitman - Episode 3: Marrakesh,PlayStation 4,Action Adventure,75.0,7.2,,Io Interactive,74.8333333333
+Hitman - Episode 4: Bangkok,PlayStation 4,Action Adventure,71.0,7.8,,Io Interactive,74.125
+Hitman - Episode 5: Colorado,PlayStation 4,Action Adventure,70.0,7.6,,Io Interactive,73.2083333333
+Hitman - Intro Pack,PlayStation 4,Action Adventure,77.0,5.0,,Io Interactive,67.5151515152
+Hitman GO: Definitive Edition,PlayStation 4,Strategy,77.0,6.1,E10+,Square Enix Montreal,70.9393939394
+Hohokum,PlayStation 4,Adventure Games,75.0,6.3,E10+,Honeyslug Ltd,71.0454545455
+Home: A Unique Horror Adventure,PlayStation 4,Action Adventure,0.0,6.6,M,Benjamin Rivers,45.3333333333
+Homefront: The Revolution,PlayStation 4,Modern,48.0,3.7,M,Deep Silver Dambuster Studios,46.6049382716
+Hotline Miami,PlayStation 4,Action,0.0,8.4,M,Dennaton,56.4791666667
+Hotline Miami 2: Wrong Number,PlayStation 4,Action,75.0,7.8,M,Dennaton,77.0238095238
+How to Survive: Storm Warning Edition,PlayStation 4,Action Adventure,65.0,6.1,M,EKO Software,64.7777777778
+Hue,PlayStation 4,Puzzle,77.0,8.2,E,Fiddlesticks Games,79.1818181818
+Hustle Kings,PlayStation 4,Sports,0.0,6.9,E,VooFoo Studios,47.7948717949
+Hyper Light Drifter,PlayStation 4,Role-Playing,79.0,7.8,T,Heart Machine,78.9111111111
+Hyper Void,PlayStation 4,Action,70.0,7.5,E10+,IN|FRAMEZ TECHNOLOGY CORP.,72.5555555556
+I Am Bread,PlayStation 4,Miscellaneous,51.0,4.9,E10+,Just Add Water,53.7575757576
+I Am Setsuna,PlayStation 4,Role-Playing,74.0,7.5,E10+,Tokyo RPG Factory,72.768115942
+In Space We Brawl,PlayStation 4,Action,54.0,4.4,E,Forge Reply,52.1666666667
+Indigo Prophecy,PlayStation 4,Adventure,0.0,7.0,M,Quantic Dream,51.8421052632
+inFamous: First Light,PlayStation 4,Action Adventure,73.0,7.5,T,Sucker Punch,73.196969697
+inFamous: Second Son,PlayStation 4,Action Adventure,80.0,7.9,T,Sucker Punch,79.03125
+Infinifactory,PlayStation 4,Puzzle,70.0,0.0,T,Zachtronics Industries,47.7777777778
+Infinity Runner,PlayStation 4,Action,45.0,5.5,T,Wales Interactive Ltd.,49.5641025641
+Injustice: Gods Among Us - Ultimate Edition,PlayStation 4,Action,80.0,7.2,T,NetherRealm Studios,77.4761904762
+INSIDE,PlayStation 4,Action,91.0,7.9,M,PLAYDEAD,86.2254901961
+Ironcast,PlayStation 4,Puzzle,70.0,0.0,E10+,Dreadbit,48.9
+Ironclad Tactics,PlayStation 4,Strategy,66.0,5.6,T,Zachtronics Industries,64.7222222222
+J-Stars Victory Vs+,PlayStation 4,Action,61.0,6.4,T,Bandai Namco Games,63.2142857143
+Jamestown+,PlayStation 4,Scrolling,83.0,7.6,E10+,Final Form Games,79.3333333333
+Jazzpunk: Director's Cut,PlayStation 4,Adventure,80.0,0.0,T,Necrophone,53.3333333333
+Job Simulator,PlayStation 4,Action,77.0,7.0,E10+,Owlchemy Labs,73.0
+Joe Dever's Lone Wolf Console Edition,PlayStation 4,Adventure,79.0,7.5,T,Forge Reply,75.4444444444
+JoJo's Bizarre Adventure: Eyes of Heaven,PlayStation 4,Action,61.0,7.4,T,CyberConnect2,65.3888888889
+Jotun: Valhalla Edition,PlayStation 4,Action,72.0,0.0,T,Thunder Lotus Games,50.0833333333
+Journey,PlayStation 4,Action,92.0,8.3,E,Tricky Pixels,89.0701754386
+Journey Collector's Edition,PlayStation 4,Miscellaneous,0.0,8.4,E,SCE Australia,58.0
+Just Cause 3,PlayStation 4,Sci-Fi,73.0,6.5,M,Avalanche Studios,70.4476190476
+Just Cause 3: Mech Land Assault,PlayStation 4,Action Adventure,0.0,3.8,,Avalanche Studios,37.3333333333
+Just Cause 3: Sky Fortress,PlayStation 4,Action Adventure,72.0,7.6,,Avalanche Studios,72.5555555556
+Just Dance 2014,PlayStation 4,Action,75.0,5.5,E10+,Ubisoft,70.1444444444
+Just Dance 2015,PlayStation 4,Action,72.0,5.8,E10+,Ubisoft,70.2692307692
+Just Dance 2016,PlayStation 4,Action,73.0,6.8,E10+,Ubisoft,69.75
+Just Sing,PlayStation 4,Action,60.0,7.0,E10+,Ubisoft,62.2222222222
+Keep Talking and Nobody Explodes,PlayStation 4,First-Person,89.0,7.1,E10+,Steel Crate Games,68.6666666667
+Kerbal Space Program,PlayStation 4,Simulation,77.0,6.0,E,Flying Tiger Development,76.9
+Kholat,PlayStation 4,Adventure,64.0,5.8,T,IMGN.PRO,63.2631578947
+Kick & Fennick,PlayStation 4,Action,73.0,0.0,E10+,Jaywalkers Interactive,45.1818181818
+KickBeat: Special Edition,PlayStation 4,Action,60.0,4.0,T,Zen Studios,52.2424242424
+Kill Strain,PlayStation 4,Action,53.0,7.4,T,SCEA San Diego Studios,61.2222222222
+Killzone: Shadow Fall,PlayStation 4,Action,73.0,6.8,M,Guerrilla,72.0104166667
+Killzone: Shadow Fall - Intercept,PlayStation 4,Action,72.0,6.9,M,Guerrilla,70.6666666667
+King Oddball,PlayStation 4,Miscellaneous,64.0,4.6,E10+,10tons Ltd,50.5333333333
+King's Quest Chapter 1: A Knight to Remember,PlayStation 4,Adventure,77.0,7.3,E10+,The Odd Gentlemen,77.8666666667
+King's Quest Chapter 2: Rubble Without a Cause,PlayStation 4,Adventure,68.0,4.6,E10+,The Odd Gentlemen,62.3703703704
+King's Quest Chapter 3: Once Upon a Climb,PlayStation 4,Adventure,79.0,6.1,E10+,The Odd Gentlemen,71.3333333333
+King's Quest Chapter 4: Snow Place Like Home,PlayStation 4,Adventure,67.0,6.3,E10+,The Odd Gentlemen,70.2222222222
+Klaus,PlayStation 4,Action,76.0,7.6,E10+,La Cosa Entertainment,75.2857142857
+Knack,PlayStation 4,Action,54.0,6.5,E10+,SCE Japan Studio,57.6547619048
+Knock-knock,PlayStation 4,Miscellaneous,51.0,7.7,E,Ice-Pick Lodge,62.7916666667
+Koi,PlayStation 4,Action Adventure,51.0,6.5,E,Oasis Games,55.5714285714
+Krinkle Krusher,PlayStation 4,Action,52.0,6.4,E10+,Ilusis Interactive Graphics,58.5
+Kromaia Omega,PlayStation 4,Action,68.0,7.5,E10+,Kraken Empire,71.8333333333
+Kung Fu Panda: Showdown of Legendary Legends,PlayStation 4,Action,63.0,6.8,E10+,Vicious Cycle,62.6333333333
+Kung Fury: Street Rage,PlayStation 4,Action,0.0,6.8,T,Hello There,36.0
+LA Cops,PlayStation 4,Action,0.0,5.2,M,Modern Dream,45.5396825397
+Lara Croft and the Temple of Osiris,PlayStation 4,Action,74.0,6.7,T,Nixxes Software,68.5595238095
+Laserlife,PlayStation 4,Action,65.0,0.0,E,Choice Provisions,46.1666666667
+Layers of Fear,PlayStation 4,Adventure,75.0,8.2,M,Bloober Team,75.5444444444
+Layers of Fear: Inheritance,PlayStation 4,Adventure,61.0,8.0,M,Bloober Team,70.1388888889
+Legend of Kay Anniversary,PlayStation 4,Action Adventure,62.0,6.4,E10+,Neon Studios,63.6666666667
+LEGO Batman 3: Beyond Gotham,PlayStation 4,Action Adventure,73.0,7.1,E10+,TT Games,73.0632183908
+LEGO Dimensions,PlayStation 4,Action Adventure,80.0,7.3,E10+,Traveller's Tales,76.9833333333
+LEGO Harry Potter Collection,PlayStation 4,Miscellaneous,73.0,0.0,E10+,Warner Bros. Interactive Entertainment,47.8666666667
+LEGO Jurassic World,PlayStation 4,Action Adventure,70.0,7.0,E10+,TT Games,70.4382716049
+LEGO Marvel Super Heroes,PlayStation 4,Action Adventure,83.0,7.7,E10+,TT Games,64.6380952381
+LEGO Marvel's Avengers,PlayStation 4,Action Adventure,71.0,7.0,E10+,TT Games,67.5111111111
+LEGO Star Wars: The Force Awakens,PlayStation 4,Action Adventure,78.0,7.4,E10+,TT Games,75.2466666667
+LEGO The Hobbit,PlayStation 4,Historic,72.0,6.6,E10+,TT Games,68.3387096774
+Leo's Fortune,PlayStation 4,Action,66.0,6.1,E,1337 & Senri LLC,69.9166666667
+Letter Quest: Grimm's Journey Remastered,PlayStation 4,Puzzle,73.0,6.8,E,Bacon Bandit Games,74.3333333333
+Lichdom: Battlemage,PlayStation 4,Role-Playing,0.0,1.2,M,Xaviant Games,25.2592592593
+Lichtspeer,PlayStation 4,Action Adventure,64.0,6.6,T,Lichthund,67.0833333333
+Life Goes On: Done to Death,PlayStation 4,Action,77.0,7.2,E10+,Infinite Monkeys,75.8333333333
+Life is Strange,PlayStation 4,Sci-Fi,85.0,8.6,M,DONTNOD Entertainment,84.8
+Life is Strange: Episode 1 - Chrysalis,PlayStation 4,Action Adventure,75.0,8.2,M,DONTNOD Entertainment,78.6444444444
+Life is Strange: Episode 2 - Out of Time,PlayStation 4,Action Adventure,78.0,8.4,M,DONTNOD Entertainment,79.8666666667
+Life is Strange: Episode 3 - Chaos Theory,PlayStation 4,Action Adventure,81.0,8.4,M,DONTNOD Entertainment,81.9666666667
+Life is Strange: Episode 4 - Dark Room,PlayStation 4,Action Adventure,81.0,8.6,M,DONTNOD Entertainment,81.7
+Life is Strange: Episode 5 - Polarized,PlayStation 4,Action Adventure,81.0,8.4,M,DONTNOD Entertainment,83.1333333333
+Lifeless Planet: Premier Edition,PlayStation 4,Action Adventure,60.0,5.5,T,Stage 2 Studios,63.6666666667
+LIMBO,PlayStation 4,Action,0.0,7.8,T,PLAYDEAD,70.4107142857
+LittleBigPlanet 3,PlayStation 4,Action,79.0,7.1,E,Sumo Digital,76.4230769231
+Livelock,PlayStation 4,Action,68.0,8.2,T,Tuque Games,73.6
+Loading Human: Chapter 1,PlayStation 4,Adventure,53.0,8.1,T,Untold Games,56.3333333333
+Loadout,PlayStation 4,Action,59.0,5.9,M,Edge of Reality,61.0
+Lone Survivor: The Director's Cut,PlayStation 4,Action Adventure,0.0,7.0,T,Curve Studios,50.1666666667
+Lords of the Fallen,PlayStation 4,Role-Playing,68.0,6.6,M,City Interactive,69.5050505051
+Lords of the Fallen - Ancient Labyrinth,PlayStation 4,Role-Playing,0.0,5.1,,City Interactive,35.0
+Lost Orbit,PlayStation 4,Action,77.0,7.5,T,PixelNAUTS,74.4074074074
+Lost Sea,PlayStation 4,Strategy,59.0,7.8,E10+,EastAsiaSoft,64.0416666667
+LOUD on Planet X,PlayStation 4,Action,72.0,0.0,T,Pop Sandbox,46.7777777778
+Lovers in a Dangerous Spacetime,PlayStation 4,Action,82.0,6.8,E10+,Asteroid Base,78.4545454545
+Lumo,PlayStation 4,Action,73.0,6.5,E10+,Triple Eh? Ltd,59.7727272727
+Mad Max,PlayStation 4,Action,69.0,7.8,M,Avalanche Studios,73.7626262626
+Madden NFL 15,PlayStation 4,Sports,81.0,6.1,E,EA Sports,75.0303030303
+Madden NFL 16,PlayStation 4,Sports,83.0,5.9,E,EA Sports,75.0098039216
+Madden NFL 17,PlayStation 4,Sports,82.0,5.0,E,EA Sports,72.8043478261
+Madden NFL 25,PlayStation 4,Sports,74.0,5.2,E,EA Sports,69.1609195402
+Mafia III,PlayStation 4,Action Adventure,69.0,5.2,M,Hangar 13,56.8586956522
+Magicka 2,PlayStation 4,Fantasy,72.0,6.1,T,Pieces Interactive,67.1111111111
+Manhunt,PlayStation 4,Action Adventure,0.0,7.8,M,Rockstar North,50.4561403509
+Mantis Burn Racing,PlayStation 4,Sports,71.0,8.3,E,VooFoo Studios,77.7777777778
+Manual Samuel,PlayStation 4,Adventure,49.0,6.1,T,Perfectly Paranormal,41.5
+Mark McMorris Infinite Air,PlayStation 4,Sports,46.0,6.8,T,HB Studios Multimedia,49.3333333333
+Marvel: Ultimate Alliance,PlayStation 4,Role-Playing,0.0,3.0,T,Raven Software,40.2722222222
+Marvel: Ultimate Alliance 2,PlayStation 4,Role-Playing,0.0,4.8,T,Vicarious Visions,45.3455284553
+Marvel: Ultimate Alliance Bundle,PlayStation 4,Miscellaneous,61.0,0.0,,Raven Software,39.6666666667
+Masquerade: The Baubles of Doom,PlayStation 4,Action,0.0,7.9,T,Big Ant Studios,43.8333333333
+McDROID,PlayStation 4,Strategy,57.0,0.0,E,Elefantopia LLC,41.75
+Mega Man Legacy Collection,PlayStation 4,Miscellaneous,77.0,6.2,E,Digital Eclipse,74.7407407407
+Megadimension Neptunia VII,PlayStation 4,Role-Playing,71.0,6.8,T,Idea Factory,71.1666666667
+Mercenary Kings,PlayStation 4,Action,70.0,5.9,T,Tribute Games,66.0303030303
+Metal Gear Solid V: Ground Zeroes,PlayStation 4,Action Adventure,75.0,6.2,M,Kojima Productions,69.0392156863
+Metal Gear Solid V: Metal Gear Online,PlayStation 4,Action Adventure,72.0,7.2,,Kojima Productions,61.5
+Metal Gear Solid V: The Definitive Experience,PlayStation 4,Miscellaneous,0.0,8.3,M,Kojima Productions,57.0
+Metal Gear Solid V: The Phantom Pain,PlayStation 4,Action Adventure,93.0,8.2,M,Kojima Productions,88.1559139785
+Metal Slug 3,PlayStation 4,Action,0.0,6.8,T,Code Mystics Inc.,48.3333333333
+Metrico+,PlayStation 4,Puzzle,81.0,6.3,E,Digital Dreams,74.6666666667
+Metro Redux,PlayStation 4,Action,83.0,8.1,M,4A Games,83.091954023
+Metro: 2033 Redux,PlayStation 4,Action,0.0,7.9,M,4A Games,55.6666666667
+Metro: Last Light Redux,PlayStation 4,Action,0.0,7.6,M,4A Games,52.8333333333
+Middle-earth: Shadow of Mordor,PlayStation 4,Action Adventure,84.0,8.1,M,Monolith Productions,83.1937984496
+Middle-earth: Shadow of Mordor - The Bright Lord,PlayStation 4,Action Adventure,68.0,6.5,M,Monolith Productions,66.1
+Might & Magic: Duel of Champions - Forgotten Wars,PlayStation 4,Strategy,0.0,4.2,T,Ubisoft,30.6666666667
+Mighty No. 9,PlayStation 4,Action,52.0,3.5,E10+,Inti Creates,49.5512820513
+MilitAnt,PlayStation 4,Action,44.0,5.3,E10+,Xibalba Studios,49.8333333333
+Minecraft: PlayStation 4 Edition,PlayStation 4,Action Adventure,89.0,6.4,E10+,4J Studios,79.3333333333
+Minecraft: Story Mode - Episode 1: The Order of the Stone,PlayStation 4,Action Adventure,71.0,3.4,E10+,Telltale Games,60.8939393939
+Minecraft: Story Mode - Episode 2: Assembly Required,PlayStation 4,Action Adventure,53.0,3.6,E10+,Telltale Games,50.3333333333
+Minecraft: Story Mode - Episode 3: The Last Place You Look,PlayStation 4,Action Adventure,73.0,4.0,E10+,Telltale Games,62.9523809524
+Minecraft: Story Mode - Episode 4: A Block and a Hard Place,PlayStation 4,Action Adventure,72.0,5.1,E10+,Telltale Games,62.5476190476
+Minecraft: Story Mode - Episode 5: Order Up!,PlayStation 4,Action Adventure,72.0,6.2,E10+,Telltale Games,66.6666666667
+Minecraft: Story Mode - Episode 6: A Portal to Mystery,PlayStation 4,Action Adventure,69.0,0.0,E10+,Telltale Games,56.3333333333
+Minecraft: Story Mode - Episode 7: Access Denied,PlayStation 4,Action Adventure,68.0,0.0,E10+,Telltale Games,46.8333333333
+Minecraft: Story Mode - Episode 8: A Journey's End?,PlayStation 4,Action Adventure,69.0,7.0,E10+,Telltale Games,66.5833333333
+Minutes,PlayStation 4,Action,76.0,7.2,E,Red Phantom Games,71.8888888889
+Mirror's Edge Catalyst,PlayStation 4,Action,69.0,4.6,T,EA DICE,63.5416666667
+Mitsurugi Kamui Hikae,PlayStation 4,Action,58.0,3.6,T,Zenith Blue,52.25
+MLB 14: The Show,PlayStation 4,Sports,83.0,7.7,E,SCEA San Diego Studios,80.5098039216
+MLB 15: The Show,PlayStation 4,Traditional,80.0,7.8,E,SCEA San Diego Studios,79.2666666667
+MLB The Show 16,PlayStation 4,Sports,85.0,7.4,E,SCEA San Diego Studios,81.7916666667
+Monopoly Plus,PlayStation 4,Miscellaneous,0.0,5.1,E,Asobo Studio,42.8333333333
+Monopoly: Family Fun Pack,PlayStation 4,Miscellaneous,0.0,4.5,E,Ubisoft,37.0
+Moon Hunters,PlayStation 4,Role-Playing,63.0,5.3,E10+,Kitfox Games,59.3333333333
+Mordheim: City of the Damned,PlayStation 4,Strategy,74.0,0.0,M,Rogue Factor,49.625
+Mortal Kombat X,PlayStation 4,Action,83.0,7.7,M,Warner Bros. Interactive Entertainment,80.1388888889
+Mortal Kombat XL,PlayStation 4,Action,85.0,7.3,M,NetherRealm Studios,65.75
+MotoGP 14,PlayStation 4,Sports,73.0,6.4,E,Milestone S.r.l,70.8666666667
+Motorcycle Club,PlayStation 4,Sports,26.0,1.8,E,Bigben Interactive,25.0
+Mount & Blade: Warband,PlayStation 4,Role-Playing,67.0,6.3,T,Koch Media,69.9259259259
+MouseCraft,PlayStation 4,Miscellaneous,72.0,5.6,E,Crunching Koalas,67.0
+Murdered: Soul Suspect,PlayStation 4,Action,59.0,6.9,M,Airtight Games,61.7719298246
+Mutant Mudds: Super Challenge,PlayStation 4,Action,78.0,0.0,E,Renegade Kid,51.4444444444
+MX vs. ATV Supercross Encore,PlayStation 4,Sports,42.0,4.1,E,Rainbow Studios,34.3333333333
+MXGP2: The Official Motocross Videogame,PlayStation 4,Sports,65.0,7.2,E,Milestone S.r.l,65.7083333333
+MXGP: The Official Motocross Videogame,PlayStation 4,Sports,66.0,6.2,E,Milestone S.r.l,65.7777777778
+My Night Job,PlayStation 4,Action,60.0,7.4,T,Webcore Games,61.3333333333
+N++,PlayStation 4,Action,82.0,6.6,E10+,Metanet Software Inc.,79.5777777778
+N.E.R.O.: Nothing Ever Remains Obscure,PlayStation 4,Adventure,59.0,6.3,E,Storm in a Teacup,61.9722222222
+Nano Assault NEO-X,PlayStation 4,Action,66.0,6.0,E,Shin'en,58.6666666667
+Naruto Shippuden: Ultimate Ninja Storm 4,PlayStation 4,Action,79.0,8.2,T,CyberConnect2,71.0058479532
+NASCAR Heat Evolution,PlayStation 4,Sports,66.0,3.8,E,Dusenberry Martin Racing,28.4444444444
+Natural Doctrine,PlayStation 4,Strategy,53.0,6.0,M,Kadokawa,55.2444444444
+NBA 2K14,PlayStation 4,Sports,85.0,6.5,E,Visual Concepts,76.8333333333
+NBA 2K15,PlayStation 4,Sports,83.0,7.0,E,Visual Concepts,78.4833333333
+NBA 2K16,PlayStation 4,Action,87.0,6.7,E10+,Visual Concepts,79.5087719298
+NBA 2K17,PlayStation 4,Sports,89.0,6.8,E,Visual Concepts,82.625
+NBA Live 14,PlayStation 4,Sports,43.0,2.7,E,EA Sports,37.3571428571
+NBA Live 15,PlayStation 4,Sports,59.0,5.6,E,EA Sports,58.7179487179
+NBA Live 16,PlayStation 4,Sports,59.0,6.1,E,EA Sports,59.8717948718
+Necropolis,PlayStation 4,Action Adventure,49.0,0.0,,Harebrained Schemes LLC,38.0
+Need for Speed,PlayStation 4,Sports,66.0,7.2,T,Ghost Games,70.25
+Need for Speed: Rivals,PlayStation 4,Sports,80.0,6.2,E10+,Ghost Games,72.1578947368
+Neon Chrome,PlayStation 4,Action,64.0,8.2,T,10tons Entertainment,58.9047619048
+Never Alone,PlayStation 4,Action,73.0,6.6,E10+,Upper One Games,69.6527777778
+Never Alone: Foxtales,PlayStation 4,Action,0.0,6.3,E10+,Upper One Games,47.6666666667
+Neverending Nightmares,PlayStation 4,Action Adventure,74.0,8.1,M,Infinitap Games,75.2727272727
+Neverwinter,PlayStation 4,Role-Playing,74.0,7.1,T,Cryptic Studios,66.4761904762
+NHL 15,PlayStation 4,Sports,60.0,3.6,E10+,EA Sports,52.3333333333
+NHL 16,PlayStation 4,Sports,78.0,5.6,E10+,EA Sports,72.7222222222
+NHL 17,PlayStation 4,Sports,79.0,5.8,E10+,EA Canada,69.0555555556
+Nidhogg,PlayStation 4,Action,0.0,6.3,T,Code Mystics Inc.,47.9444444444
+Nightmares from the Deep: The Cursed Heart,PlayStation 4,Puzzle,58.0,0.0,T,Artifex Mundi,36.0
+Nights of Azure,PlayStation 4,Role-Playing,67.0,7.5,T,Gust,69.8461538462
+Ninja Senki DX,PlayStation 4,Action,64.0,5.7,E10+,Jonathan Lavigne,58.7777777778
+Nitroplus Blasterz: Heroines Infinite Duel,PlayStation 4,Action,70.0,6.8,T,Examu,69.3
+No Man's Sky,PlayStation 4,Action,71.0,4.5,T,Hello Games,61.1904761905
+Nobunaga's Ambition: Sphere of Influence,PlayStation 4,Strategy,80.0,8.1,T,Koei Tecmo Games,80.380952381
+Nom Nom Galaxy,PlayStation 4,Action,70.0,7.1,E,Q-Games,71.0
+Not a Hero,PlayStation 4,General,74.0,6.6,M,roll7,71.803030303
+NOVA-111,PlayStation 4,Sci-Fi,73.0,5.8,E,Funktronic Labs,68.7
+Now That's What I Call Sing,PlayStation 4,Action,55.0,0.0,,Ravenscourt,41.6666666667
+Nuclear Throne,PlayStation 4,Action,82.0,6.3,E10+,Vlambeer,77.1
+Obliteracers,PlayStation 4,Sports,70.0,0.0,E,Varkian Empire,59.4
+Oceanhorn: Monster of Uncharted Seas,PlayStation 4,Action Adventure,67.0,8.1,E10+,Cornfox & Bros.,74.4141414141
+Octodad: Dadliest Catch,PlayStation 4,Adventure Games,69.0,7.0,E10+,Kevin Zuhn,63.9365079365
+Oddworld: Abe's Oddysee - New 'n' Tasty,PlayStation 4,Action,84.0,8.0,T,Just Add Water,84.0085470085
+Odin Sphere Leifthrasir,PlayStation 4,Role-Playing,87.0,8.2,T,Vanillaware,85.4791666667
+Okage: Shadow King,PlayStation 4,Role-Playing,0.0,9.8,T,Zener Works,55.2
+OlliOlli,PlayStation 4,Sports,0.0,7.0,E,Tom Hegarty,62.5402298851
+OlliOlli2: Welcome to Olliwood,PlayStation 4,Sports,86.0,6.5,T,roll7,78.7083333333
+Omega Quintet,PlayStation 4,Role-Playing,58.0,7.2,T,Compile Heart,62.0476190476
+One Piece: Burning Blood,PlayStation 4,Action,66.0,7.9,T,Spike Chunsoft,66.4019607843
+One Piece: Pirate Warriors 3,PlayStation 4,Action,74.0,7.4,T,Omega Force,73.9285714286
+One Upon Light,PlayStation 4,Puzzle,59.0,0.0,E10+,Singapore University of Technology and Design,38.5555555556
+One Way Trip,PlayStation 4,Action,41.0,0.0,M,Beret Applications LLC,26.1111111111
+Onechanbara Z2: Chaos,PlayStation 4,Action Adventure,57.0,6.6,M,Tamsoft,59.0833333333
+Organ Trail: Complete Edition,PlayStation 4,Action,0.0,8.5,T,The Men Who Wear Many Hats LLC,55.0
+Organic Panic,PlayStation 4,Puzzle,75.0,0.0,E10+,Last Limb Games,46.8333333333
+Outlast,PlayStation 4,Action Adventure,78.0,7.8,M,Red Barrels,79.0416666667
+Outlast: Whistleblower,PlayStation 4,Action Adventure,74.0,7.8,M,,75.6666666667
+Overcooked,PlayStation 4,Action,78.0,7.4,E,Ghost Town Games Ltd.,74.7272727273
+Overlord: Fellowship of Evil,PlayStation 4,Role-Playing,33.0,2.3,T,Codemasters,34.0
+Overwatch,PlayStation 4,Action,90.0,6.1,T,Blizzard Entertainment,80.0972222222
+Oxenfree,PlayStation 4,Action Adventure,79.0,8.1,T,Night School Studio,78.183908046
+Pac-Man 256,PlayStation 4,Action,79.0,7.7,E,HIPSTER WHALE,75.3
+Pac-Man Championship Edition 2,PlayStation 4,Action,80.0,8.3,E,Bandai Namco Games,79.9047619048
+Pang Adventures,PlayStation 4,Action,63.0,7.0,E,Pasta Games,68.0555555556
+Paperbound,PlayStation 4,Action,69.0,7.3,E10+,Dissident Logic,69.0
+PaRappa the Rapper 2,PlayStation 4,Action,0.0,7.1,E,NanaOn-Sha,46.7777777778
+Party Hard,PlayStation 4,Action,65.0,7.1,M,Pinokl Games,65.0
+Payday 2: Crimewave Edition,PlayStation 4,Action,71.0,3.9,M,Overkill Software,58.3205128205
+Peggle 2,PlayStation 4,Miscellaneous,72.0,7.3,E,PopCap,73.2121212121
+Penarium,PlayStation 4,Action,71.0,7.0,T,Self Made Miracle,60.0
+Perfect Universe,PlayStation 4,Action,60.0,0.0,E10+,Will Sykes Games,43.3333333333
+Phantom Breaker: Battle Grounds Overdrive,PlayStation 4,Action,72.0,7.0,E10+,5pb,70.6666666667
+Pier Solar and the Great Architects,PlayStation 4,Role-Playing,69.0,7.0,T,Watermelon Development,55.1428571429
+Pillar,PlayStation 4,Puzzle,59.0,6.6,T,MichaelArts,61.6666666667
+Pix the Cat,PlayStation 4,Action,80.0,6.1,E,Pasta Games,72.6666666667
+Pixel Gear,PlayStation 4,Action,51.0,4.4,E10+,Geronimo Interactive,48.3333333333
+Pixel Piracy,PlayStation 4,Strategy,50.0,0.0,T,Abstraction Games,39.0
+PixelJunk Shooter Ultimate,PlayStation 4,Action,82.0,7.2,E,Double Eleven,78.8333333333
+PlanetSide 2,PlayStation 4,Action,78.0,7.1,T,Sony Online Entertainment,76.9333333333
+Plants vs Zombies: Garden Warfare,PlayStation 4,Action,75.0,7.6,E10+,PopCap,75.931372549
+Plants vs Zombies: Garden Warfare 2,PlayStation 4,General,81.0,7.7,E10+,PopCap,79.8827160494
+PlayStation VR WORLDS,PlayStation 4,Miscellaneous,57.0,5.9,,Sony Interactive Entertainment,57.0740740741
+Pneuma: Breath of Life,PlayStation 4,Adventure,69.0,7.0,E,Deco Digital,67.4666666667
+PONCHO,PlayStation 4,Action,63.0,4.6,E,Delve Interactive,56.75
+Primal Carnage: Extinction,PlayStation 4,Action,46.0,5.8,T,Lukewarm Media,53.0
+Prison Architect,PlayStation 4,Strategy,80.0,8.0,M,Introversion,76.9561403509
+Pro Evolution Soccer 2015,PlayStation 4,Action,82.0,7.2,E,Konami,77.8505747126
+Pro Evolution Soccer 2016,PlayStation 4,Sports,87.0,7.1,E,Konami,78.4666666667
+Pro Evolution Soccer 2017,PlayStation 4,Sports,85.0,7.6,E,Konami,79.1228070175
+Project CARS,PlayStation 4,Sports,83.0,6.6,E,Slightly Mad Studios,75.5591397849
+Project Root,PlayStation 4,Action,45.0,5.6,T,Pablo Testa,46.1296296296
+Prominence Poker,PlayStation 4,Miscellaneous,0.0,7.5,T,Pipeworks Software,45.0
+Prototype,PlayStation 4,Action Adventure,0.0,5.4,M,Radical Entertainment,42.2148148148
+Prototype 2,PlayStation 4,Action Adventure,0.0,5.0,M,Radical Entertainment,43.0833333333
+Prototype Biohazard Bundle,PlayStation 4,Miscellaneous,48.0,2.0,M,Radical Entertainment,41.8333333333
+Psycho-Pass: Mandatory Happiness,PlayStation 4,Adventure,74.0,8.1,T,5pb,74.5151515152
+Puddle,PlayStation 4,Miscellaneous,0.0,5.5,T,Neko Entertainment,41.2307692308
+Pure Chess,PlayStation 4,Miscellaneous,0.0,5.7,E,VooFoo Studios,39.0
+Pure Hold 'Em,PlayStation 4,Miscellaneous,73.0,4.6,T,VooFoo Studios,49.2222222222
+Pure Pool,PlayStation 4,Alternative,75.0,7.1,E,VooFoo Studios,73.3148148148
+Push Me Pull You,PlayStation 4,Sports,75.0,8.8,E,House House,78.5
+Putty Squad,PlayStation 4,Action,38.0,2.9,E10+,System 3,38.3333333333
+Q*bert: Rebooted,PlayStation 4,Action,44.0,5.2,E,LOOT Entertainment,48.7222222222
+Q.U.B.E. Director's Cut,PlayStation 4,Puzzle,76.0,8.0,T,Toxic Games,75.5666666667
+Quiplash,PlayStation 4,Miscellaneous,0.0,7.7,T,Jackbox Games,63.2222222222
+R.B.I. Baseball 14,PlayStation 4,Sports,0.0,2.2,E,MLB.com,30.5
+R.B.I. Baseball 15,PlayStation 4,Sports,0.0,4.5,E,MLB.com,31.3333333333
+R.B.I. Baseball 16,PlayStation 4,Sports,52.0,2.4,E,MLB AM,48.0
+Rabbids Invasion,PlayStation 4,Action,0.0,4.4,E10+,Ubisoft,42.9166666667
+Race the Sun,PlayStation 4,Action,76.0,6.0,E,Flippfly,74.0333333333
+Rack N Ruin,PlayStation 4,Action Adventure,59.0,6.6,T,LifeSpark Entertainment,62.0833333333
+Rainbow Moon,PlayStation 4,Strategy,70.0,6.0,E10+,SideQuest Studios,66.2592592593
+Ratchet & Clank,PlayStation 4,Action,85.0,8.6,E10+,Insomniac Games,86.1282051282
+Rayman Legends,PlayStation 4,Action,90.0,8.5,E10+,Ubisoft Montpellier,87.7898550725
+Rebel Galaxy,PlayStation 4,Action,64.0,6.8,T,Double Damage Games,73.6111111111
+Red Goddess: Inner World,PlayStation 4,Action,49.0,7.1,E10+,Yanim Studio,58.037037037
+Republique,PlayStation 4,Action Adventure,72.0,5.7,M,Camouflaj,67.0277777778
+Resident Evil 0: HD Remaster,PlayStation 4,Action Adventure,70.0,7.8,M,Capcom,72.2533333333
+Resident Evil 4,PlayStation 4,Action Adventure,82.0,7.9,M,Capcom,81.758974359
+Resident Evil 5,PlayStation 4,Action Adventure,69.0,7.4,M,Capcom,76.6592039801
+Resident Evil 6,PlayStation 4,Action Adventure,60.0,6.9,M,Capcom,65.3717948718
+Resident Evil HD Remaster,PlayStation 4,Horror,83.0,8.3,M,Capcom,81.6111111111
+Resident Evil: Origins Collection,PlayStation 4,Miscellaneous,0.0,7.6,M,Capcom,50.1666666667
+Resident Evil: Revelations 2,PlayStation 4,Horror,75.0,7.7,M,Capcom,75.4444444444
+Resident Evil: Revelations 2 - Episode 1: Penal Colony,PlayStation 4,Action Adventure,75.0,7.1,M,Capcom,72.7435897436
+Resident Evil: Revelations 2 - Episode 2: Contemplation,PlayStation 4,Action Adventure,75.0,6.6,M,Capcom,72.8703703704
+Resident Evil: Revelations 2 - Episode 3: Judgment,PlayStation 4,Action Adventure,77.0,6.8,M,Capcom,75.3333333333
+Resident Evil: Revelations 2 - Episode 4: Metamorphosis,PlayStation 4,Action Adventure,75.0,7.1,M,Capcom,76.0
+Resogun,PlayStation 4,Action,84.0,7.7,E10+,Housemarque,81.64
+Resogun: Defenders,PlayStation 4,Action,85.0,7.2,,XDEV,79.5555555556
+Resogun: Heroes,PlayStation 4,Action,86.0,7.4,E10+,XDEV,83.3333333333
+Reus,PlayStation 4,Strategy,74.0,0.0,E10+,Soedesco,47.7692307692
+Rez Infinite,PlayStation 4,Action,90.0,7.4,E10+,Q Entertainment,84.1666666667
+RIDE,PlayStation 4,Sports,66.0,7.0,E,Milestone S.r.l,61.8333333333
+Ride 2,PlayStation 4,Sports,72.0,7.9,E,Milestone S.r.l,65.6333333333
+RIGS: Mechanized Combat League,PlayStation 4,Simulation,77.0,8.4,T,Guerilla Cambridge,79.7619047619
+Riptide GP2,PlayStation 4,Sports,0.0,7.3,E,Vector Unit Inc.,60.5555555556
+Riptide GP: Renegade,PlayStation 4,General,71.0,6.5,E10+,Vector Unit,72.4666666667
+Rise of the Tomb Raider: 20 Year Celebration,PlayStation 4,Action Adventure,88.0,8.3,M,Crystal Dynamics,86.380952381
+Risen 3: Titan Lords - Enhanced Edition,PlayStation 4,Role-Playing,51.0,4.5,M,Piranha Bytes,50.5925925926
+RISK,PlayStation 4,Miscellaneous,58.0,6.1,E10+,Zoe Mode,48.5
+Risk of Rain,PlayStation 4,Action,81.0,7.7,T,Hopoo Games,79.0833333333
+Risk: Urban Assault,PlayStation 4,Strategy,61.0,8.3,E10+,Zoe Mode,54.6666666667
+RIVE,PlayStation 4,Action,74.0,8.5,E10+,Two Tribes,79.0
+Road Not Taken,PlayStation 4,Miscellaneous,70.0,5.5,E,Spry Fox,66.8039215686
+Rock Band 4,PlayStation 4,Action,78.0,6.4,T,Harmonix Music Systems,73.8888888889
+Rock Boshers DX: Director's Cut,PlayStation 4,Action,74.0,6.5,E10+,Tikipod Limited,72.0
+Rocket League,PlayStation 4,Sports,85.0,8.7,E,Psyonix,85.6944444444
+Rocketbirds 2: Evolution,PlayStation 4,Action,67.0,7.0,T,Ratloop Asia Pte Ltd,69.1333333333
+Rocksmith 2014 Edition,PlayStation 4,Action,82.0,7.5,T,Ubisoft,79.7333333333
+Rogue Galaxy,PlayStation 4,Role-Playing,0.0,8.2,T,Level 5,55.1884057971
+Rogue Legacy,PlayStation 4,Action,85.0,7.8,E10+,Cellar Door Games,81.7592592593
+Rollers of the Realm,PlayStation 4,Action,75.0,7.1,T,Phantom Compass,72.0277777778
+Romance of the Three Kingdoms XIII,PlayStation 4,Strategy,67.0,7.1,E10+,Koei Tecmo Games,67.8571428571
+Rory McIlroy PGA Tour,PlayStation 4,Traditional,61.0,3.7,E,EA Tiburon,54.65
+Rugby 15,PlayStation 4,Alternative,19.0,3.4,E,HB Studios Multimedia,28.8666666667
+Rugby Challenge 3,PlayStation 4,Sports,64.0,7.1,E,Wicked Witch Software,49.0555555556
+Rugby League Live 3,PlayStation 4,Sports,0.0,7.6,E,Big Ant Studios,41.1666666667
+Rugby World Cup 2015,PlayStation 4,Sports,25.0,1.8,E,HB Studios Multimedia,22.6666666667
+Saint Seiya: Soldiers' Soul,PlayStation 4,Action,59.0,7.7,T,Dimps Corporation,53.0
+Saints Row IV: Re-Elected,PlayStation 4,Action Adventure,75.0,7.2,M,Volition Inc.,73.4545454545
+Saints Row IV: Re-Elected & Gat Out of Hell,PlayStation 4,Action Adventure,66.0,7.5,M,Volition Inc.,67.0
+Saints Row: Gat Out of Hell,PlayStation 4,Action Adventure,64.0,5.7,M,Volition Inc.,63.6865079365
+Salt and Sanctuary,PlayStation 4,Action,84.0,8.1,M,Ska Studios,82.8205128205
+Samurai Warriors 4,PlayStation 4,Action,76.0,8.1,T,Omega Force,78.2857142857
+Samurai Warriors 4 Empires,PlayStation 4,Action,71.0,6.5,T,Omega Force,69.6666666667
+Samurai Warriors 4-II,PlayStation 4,Action,73.0,7.2,T,Omega Force,73.7333333333
+Saturday Morning RPG,PlayStation 4,Role-Playing,0.0,7.5,E10+,Mighty Rabbit Studios,51.3333333333
+Schrodinger's Cat and the Raiders of the Lost Quark,PlayStation 4,Action,61.0,0.0,E,Italic Pig,41.3333333333
+Score Rush Extended,PlayStation 4,Action,80.0,8.2,E,Xona Games,78.6666666667
+Scrabble,PlayStation 4,Miscellaneous,0.0,7.3,E,Ubisoft Chengdu,44.3333333333
+Scram Kitty DX,PlayStation 4,Action,74.0,7.3,E,Dakko Dakko,75.7333333333
+Screencheat,PlayStation 4,Action,69.0,0.0,E10+,Samurai Punk,46.5
+Sebastien Loeb Rally Evo,PlayStation 4,Sports,71.0,8.1,E,Milestone S.r.l,71.858974359
+Secret Ponchos,PlayStation 4,Action,64.0,6.6,T,Switchblade Monkeys,65.3888888889
+Senran Kagura: Estival Versus,PlayStation 4,Action,67.0,8.0,M,Marvelous Inc.,73.625
+Shadow Blade: Reload,PlayStation 4,Action,63.0,7.3,T,Dead Mage,68.1333333333
+Shadow Complex Remastered,PlayStation 4,Action,80.0,7.4,T,Chair Entertainment,75.3333333333
+Shadow of the Beast,PlayStation 4,Action Adventure,64.0,7.6,M,Heavy Spectrum,69.25
+Shadow Warrior,PlayStation 4,Action,70.0,7.7,M,Flying Wild Hog,74.5517241379
+Shadwen,PlayStation 4,Action Adventure,51.0,7.5,M,Frozenbyte,60.3333333333
+Shantae and the Pirate's Curse,PlayStation 4,Action,75.0,7.9,E10+,WayForward,79.0333333333
+Shantae: Risky's Revenge - Director's Cut,PlayStation 4,Action,74.0,7.4,,WayForward,74.3333333333
+Sheltered,PlayStation 4,Strategy,70.0,6.1,T,Unicube,55.3666666667
+Sherlock Holmes: Crimes & Punishments,PlayStation 4,Adventure,73.0,7.3,M,Frogwares,72.7160493827
+Sherlock Holmes: The Devil's Daughter,PlayStation 4,Adventure,70.0,6.8,T,Frogwares,69.7888888889
+Shiftlings,PlayStation 4,Action,63.0,6.4,T,Rock Pocket Games,61.8333333333
+Shovel Knight,PlayStation 4,Action,90.0,7.6,E,Yacht Club Games,83.8838383838
+Shovel Knight: Plague of Shadows,PlayStation 4,Action,0.0,6.6,E,Yacht Club Games,52.3333333333
+Shu,PlayStation 4,Action,80.0,8.5,E,Coatsink Software,79.6666666667
+Shutshimi,PlayStation 4,Action,0.0,6.3,E10+,Neon Deity Games,47.4444444444
+SingStar,PlayStation 4,Action,0.0,5.3,E,SCEE London Studio,45.2916666667
+SingStar: Ultimate Party,PlayStation 4,Miscellaneous,47.0,4.2,,SCEE,47.1666666667
+Skullgirls: 2nd Encore,PlayStation 4,Action,82.0,7.5,T,Lab Zero Games,79.3333333333
+Skulls of the Shogun: Bone-a-Fide Edition,PlayStation 4,Fantasy,80.0,6.4,T,17-Bit,74.6666666667
+Skylanders Imaginators,PlayStation 4,Action,81.0,6.2,E10+,Toys for Bob,76.431372549
+Skylanders SuperChargers,PlayStation 4,Action,81.0,3.4,E10+,Vicarious Visions,68.5138888889
+Skylanders Swap Force,PlayStation 4,Action,79.0,5.2,E10+,Vicarious Visions,57.701754386
+Skylanders Trap Team,PlayStation 4,Action,78.0,5.8,E10+,Toys for Bob,74.6222222222
+Slain: Back From Hell,PlayStation 4,Action,66.0,8.2,M,Wolf Brew Games,62.6666666667
+Sleeping Dogs: Definitive Edition,PlayStation 4,Action Adventure,77.0,7.2,M,United Front Games,75.2156862745
+Slender: The Arrival,PlayStation 4,Adventure,60.0,6.7,T,Blue Isle Studios,62.8939393939
+SMITE,PlayStation 4,Strategy,79.0,7.3,T,Hi-Rez Studios,78.7222222222
+Sniper Elite III,PlayStation 4,Action,67.0,7.1,M,Rebellion,67.7365591398
+Sniper Elite III: Ultimate Edition,PlayStation 4,Action,74.0,7.3,M,Rebellion,73.6666666667
+Soft Body,PlayStation 4,Puzzle,69.0,0.0,E,Bodysoft,46.8888888889
+SOMA,PlayStation 4,Action Adventure,79.0,8.3,M,Frictional Games,81.8777777778
+Song of the Deep,PlayStation 4,Action Adventure,69.0,7.3,E,Insomniac Games,68.7708333333
+Soul Axiom,PlayStation 4,Adventure,47.0,4.8,T,Wales Interactive Ltd.,42.6111111111
+Sound Shapes,PlayStation 4,Action,84.0,7.1,E,SCEA,79.5238095238
+South Park: The Stick of Truth,PlayStation 4,Role-Playing,0.0,8.5,M,Obsidian Entertainment,55.9122807018
+Sparkle 2,PlayStation 4,Action,66.0,5.7,E,10tons Ltd,53.8333333333
+Speakeasy,PlayStation 4,Action,0.0,2.0,T,Super Soul,15.0
+Spelunker World,PlayStation 4,Action,0.0,4.9,E,Tozai Games,37.6666666667
+Spelunky,PlayStation 4,Action,0.0,6.7,T,Mossmouth,51.1428571429
+Splice,PlayStation 4,Puzzle,74.0,5.0,E,Cipher Prime Studios,64.8095238095
+SportsBarVR,PlayStation 4,Sports,62.0,5.9,E,Cherry Pop Games,58.6666666667
+Sportsfriends,PlayStation 4,Sports,82.0,6.3,E10+,Die Gute Fabrik,75.125
+Star Ocean: Integrity and Faithlessness,PlayStation 4,Role-Playing,59.0,5.9,T,Tri-Ace,60.2941176471
+Star Trek Online,PlayStation 4,Role-Playing,0.0,5.1,T,Cryptic Studios,40.1666666667
+Star Wars Battlefront,PlayStation 4,Action,73.0,5.0,T,EA DICE,65.0784313725
+Star Wars Battlefront: Bespin,PlayStation 4,Action,0.0,8.0,,EA DICE,48.3333333333
+Star Wars Battlefront: Death Star,PlayStation 4,Action,70.0,6.0,,EA DICE,65.0
+Star Wars Battlefront: Outer Rim,PlayStation 4,Action,70.0,5.8,T,EA DICE,51.4444444444
+Star Wars Pinball: Heroes Within,PlayStation 4,Action,80.0,5.2,E10+,Zen Studios,71.0555555556
+Star Wars Pinball: The Force Awakens,PlayStation 4,Action,81.0,4.9,,Zen Studios,70.9166666667
+Star Wars: Jedi Starfighter,PlayStation 4,Simulation,0.0,8.0,T,LucasArts,53.1212121212
+Table Top Racing: World Tour,PlayStation 4,Sports,55.0,6.5,E,Playrise Edge Ltd.,57.75
+Tachyon Project,PlayStation 4,Action,71.0,6.4,E,Eclipse Games,71.3888888889
+Tales from the Borderlands: A Telltale Game Series,PlayStation 4,Adventure,86.0,8.1,M,Telltale Games,82.9814814815
+Tales From The Borderlands: Episode 1 - Zer0 Sum,PlayStation 4,Miscellaneous,80.0,8.1,M,Telltale Games,82.1153846154
+Tales From The Borderlands: Episode 2 - Atlas Mugged,PlayStation 4,Adventure,81.0,7.8,M,Telltale Games,78.8166666667
+Tales From The Borderlands: Episode 3 - Catch A Ride,PlayStation 4,Adventure,83.0,7.8,M,Telltale Games,75.4777777778
+Tales From The Borderlands: Episode 4 - Escape Plan Bravo,PlayStation 4,Adventure,78.0,8.3,M,Telltale Games,66.9444444444
+Tales From The Borderlands: Episode 5 - The Vault of the Traveler,PlayStation 4,Adventure,90.0,8.2,M,Telltale Games,70.5
+Tales of Zestiria,PlayStation 4,Role-Playing,72.0,7.0,T,Bandai Namco Games,72.0
+Tearaway Unfolded,PlayStation 4,Action Adventure,81.0,8.1,E,Media Molecule,81.55
+Teenage Mutant Ninja Turtles: Mutants in Manhattan,PlayStation 4,Action,44.0,5.4,T,PlatinumGames,51.875
+Tembo the Badass Elephant,PlayStation 4,Action Adventure,72.0,7.0,E10+,Game Freak,71.0964912281
+Tennis in the Face,PlayStation 4,Puzzle,68.0,5.1,T,10tons Ltd,64.0
+Terraria,PlayStation 4,Action,83.0,7.8,T,Engine Software,81.2357723577
+Teslagrad,PlayStation 4,Action,78.0,6.6,E,Rain Games,62.8947368421
+Tethered,PlayStation 4,Action,78.0,8.0,E10+,SECRET SORCERY LIMITED,79.3333333333
+Tetris Ultimate,PlayStation 4,Miscellaneous,63.0,3.6,E,Ubisoft,55.4230769231
+Tharsis,PlayStation 4,Miscellaneous,65.0,5.9,M,Choice Provisions,64.5833333333
+That Trivia Game,PlayStation 4,Miscellaneous,37.0,3.2,E,The Game Room,31.3333333333
+The Amazing Spider-Man 2,PlayStation 4,Action,49.0,5.4,T,Beenox,51.2555555556
+The Assembly,PlayStation 4,Miscellaneous,53.0,0.0,T,nDreams,35.4444444444
+The Banner Saga,PlayStation 4,Role-Playing,79.0,8.5,T,Stoic,80.0757575758
+The Banner Saga 2,PlayStation 4,Role-Playing,78.0,8.1,T,Stoic,81.8245614035
+The Binding of Isaac: Afterbirth,PlayStation 4,Action,0.0,8.5,,Nicalis,56.7777777778
+The Binding of Isaac: Rebirth,PlayStation 4,Horror,88.0,7.7,M,Nicalis,68.8333333333
+THE BIT.TRIP,PlayStation 4,Miscellaneous,80.0,5.0,E,Choice Provisions,70.0
+The Book of Unwritten Tales 2,PlayStation 4,Adventure,63.0,8.5,,KING Art,76.3148148148
+The Bunker,PlayStation 4,Adventure,70.0,6.4,T,Splendy Games,65.25
+The Castle Game,PlayStation 4,Strategy,68.0,7.0,E10+,Neptune Interactive Inc.,68.5
+The Crew,PlayStation 4,Sports,61.0,5.4,T,Ubisoft Reflections,60.8494623656
+The Crew: Wild Run,PlayStation 4,Sports,73.0,6.8,T,Ivory Tower,69.375
+The Crew: Wild Run Edition,PlayStation 4,Sports,0.0,8.1,,Ivory Tower,49.0
+The Deadly Tower of Monsters,PlayStation 4,General,72.0,7.9,T,ACE Team,74.9583333333
+The Elder Scrolls Online: Tamriel Unlimited,PlayStation 4,First-Person,74.0,7.6,M,ZeniMax Media,77.380952381
+The Elder Scrolls Online: Tamriel Unlimited - Orsinium,PlayStation 4,Role-Playing,72.0,5.5,M,ZeniMax Media,52.0833333333
+The Elder Scrolls Online: Tamriel Unlimited - The Imperial City,PlayStation 4,Role-Playing,0.0,8.7,M,ZeniMax Media,57.8333333333
+The Elder Scrolls Online: Tamriel Unlimited - Thieves Guild,PlayStation 4,Role-Playing,75.0,0.0,,ZeniMax Media,53.5
+The Elder Scrolls V: Skyrim Special Edition,PlayStation 4,Role-Playing,0.0,6.6,M,Bethesda Game Studios,49.3888888889
+The Escapists,PlayStation 4,Action,71.0,6.2,T,Mouldy Toof Studios,69.7272727273
+The Escapists: The Walking Dead,PlayStation 4,Action,63.0,0.0,T,Team 17,55.7037037037
+The Evil Within,PlayStation 4,Action Adventure,75.0,7.3,M,Tango Gameworks,74.9666666667
+The Evil Within: The Assignment,PlayStation 4,Action Adventure,80.0,8.2,M,Tango Gameworks,81.4583333333
+The Evil Within: The Consequence,PlayStation 4,Action Adventure,75.0,8.0,,Tango Gameworks,79.4666666667
+The Evil Within: The Executioner,PlayStation 4,Action Adventure,59.0,6.2,,Tango Gameworks,55.3888888889
+The Fall,PlayStation 4,Action Adventure,79.0,6.5,T,Over The Moon,61.2777777778
+The Final Station,PlayStation 4,Action Adventure,68.0,0.0,M,tinyBuild,46.7878787879
+The Golf Club,PlayStation 4,Traditional,66.0,6.3,E,HB Studios Multimedia,63.375
+The Huntsman: Winter's Curse,PlayStation 4,Role-Playing,45.0,0.0,T,Desert Owl Games LLC,30.8333333333
+The Jackbox Party Pack,PlayStation 4,Miscellaneous,0.0,8.1,T,Jackbox Games,66.5
+The Jackbox Party Pack 2,PlayStation 4,Miscellaneous,71.0,8.0,T,Jackbox Games,61.8333333333
+The King of Fighters XIV,PlayStation 4,Action,79.0,8.6,T,SNK Playmore,81.1666666667
+The Last of Us Remastered,PlayStation 4,Action Adventure,95.0,9.0,M,Naughty Dog,93.25
+The Last of Us: Left Behind,PlayStation 4,Action Adventure,0.0,8.6,M,Naughty Dog,58.2298850575
+The Last Tinker: City of Colors,PlayStation 4,Action,66.0,6.1,E10+,LOOT Entertainment,65.1071428571
+The Legend of Korra,PlayStation 4,Action Adventure,54.0,6.5,T,PlatinumGames,56.9666666667
+The LEGO Movie Videogame,PlayStation 4,Action Adventure,71.0,7.1,E10+,TT Games,70.0574712644
+The Magic Circle: Gold Edition,PlayStation 4,Adventure,76.0,7.8,M,Question,64.6666666667
+The Order: 1886,PlayStation 4,Action,63.0,6.6,M,Ready at Dawn,65.0574712644
+The Park,PlayStation 4,Action Adventure,55.0,6.0,M,Funcom,59.875
+The Peanuts Movie: Snoopy's Grand Adventure,PlayStation 4,Action,59.0,6.6,E,Activision,51.4333333333
+The Pinball Arcade,PlayStation 4,Action,82.0,6.9,E10+,Farsight Studios,65.358974359
+The Playroom VR,PlayStation 4,Miscellaneous,74.0,7.6,E,Sony Interactive Entertainment,74.6666666667
+The Sun and Moon,PlayStation 4,Action,64.0,0.0,E,Daniel Linssen,48.3333333333
+The Swapper,PlayStation 4,Action,83.0,7.7,E10+,Facepalm Games,82.8518518519
+The Swindle,PlayStation 4,Action,73.0,6.1,E10+,Size Five Games,68.3571428571
+The Talos Principle,PlayStation 4,Adventure,88.0,8.4,E10+,Croteam,85.8888888889
+The Technomancer,PlayStation 4,Role-Playing,60.0,6.8,M,Spiders,65.0533333333
+The Tomorrow Children,PlayStation 4,Sci-Fi,54.0,5.7,T,Q-Games,54.7435897436
+The Unfinished Swan,PlayStation 4,Action,83.0,7.5,E10+,Armature Studio,79.4814814815
+The Vanishing of Ethan Carter,PlayStation 4,Miscellaneous,81.0,7.8,M,The Astronauts,80.1505376344
+The Walking Dead: A Telltale Games Series - The Complete First Season,PlayStation 4,Miscellaneous,0.0,8.4,M,Telltale Games,53.9761904762
+The Walking Dead: Michonne - A Telltale Miniseries,PlayStation 4,Adventure,64.0,6.3,,Skybound LLC,64.2222222222
+The Walking Dead: Michonne - Episode 1: In Too Deep,PlayStation 4,Adventure,70.0,7.0,M,Skybound LLC,69.0714285714
+The Walking Dead: Michonne - Episode 2: Give No Shelter,PlayStation 4,Adventure,82.0,7.1,M,Telltale Games,73.2916666667
+The Walking Dead: Michonne - Episode 3: What We Deserve,PlayStation 4,Adventure,76.0,7.9,M,Telltale Games,74.1333333333
+UEFA EURO 2016,PlayStation 4,Sports,72.0,6.6,E,Konami,71.5555555556
+Ultra Street Fighter IV,PlayStation 4,Action,71.0,5.8,T,Other Ocean Interactive,73.1428571429
+Ultratron,PlayStation 4,Action,0.0,5.8,E,Puppy Games,54.5555555556
+Umbrella Corps,PlayStation 4,Action,39.0,2.5,M,Capcom,33.4444444444
+Uncharted 4: A Thief's End,PlayStation 4,General,93.0,7.9,T,Naughty Dog,88.6206896552
+Uncharted: The Nathan Drake Collection,PlayStation 4,Action Adventure,86.0,8.1,T,Bluepoint Games,84.8405797101
+Unepic,PlayStation 4,Action,66.0,6.0,T,A Crowd of Monsters,68.0
+Unmechanical: Extended Edition,PlayStation 4,Action,75.0,6.2,E,Grip Games,72.1666666667
+Uno,PlayStation 4,Miscellaneous,71.0,6.0,E,Ubisoft Chengdu,68.2380952381
+Unravel,PlayStation 4,Action,78.0,8.4,E,Coldwood Interactive,79.7222222222
+Until Dawn,PlayStation 4,Action Adventure,79.0,8.2,M,SuperMassive Games,80.6767676768
+Until Dawn: Rush of Blood,PlayStation 4,Action,72.0,7.6,M,SuperMassive Games,72.7916666667
+Valentino Rossi The Game,PlayStation 4,Sports,75.0,8.0,E,Milestone,75.0416666667
+Valiant Hearts: The Great War,PlayStation 4,Action,77.0,8.4,T,Ubisoft Montpellier,81.0555555556
+Valkyria Chronicles Remastered,PlayStation 4,Strategy,84.0,8.3,T,Sega,83.5476190476
+Valley,PlayStation 4,Action Adventure,72.0,7.6,T,Blue Isle Studios,65.6984126984
+Velocibox,PlayStation 4,Action,62.0,7.0,E,Shawn Beck,54.6666666667
+Velocity 2X,PlayStation 4,Action,86.0,6.9,E10+,FuturLab,70.0722222222
+Verdun,PlayStation 4,Action,55.0,7.6,M,Blackmill Games,69.4333333333
+VVVVVV,PlayStation 4,Action,0.0,7.3,E10+,Terry Cavanagh,52.3518518519
+Wander,PlayStation 4,Simulation,28.0,1.9,E,Wander,23.3333333333
+War Thunder,PlayStation 4,Action,76.0,6.0,T,Gaijin Entertainment,73.7142857143
+Warframe,PlayStation 4,Action,64.0,6.9,M,Digital Extremes,63.9555555556
+Warhammer: End Times - Vermintide,PlayStation 4,Action,73.0,6.7,M,Fatshark AB,76.625
+Warriors Orochi 3 Ultimate,PlayStation 4,Action,77.0,6.5,T,Omega Force,72.7444444444
+Wasteland 2: Director's Cut,PlayStation 4,Role-Playing,80.0,7.6,M,InXile Entertainment,77.8333333333
+Watch Dogs,PlayStation 4,Action Adventure,80.0,6.3,M,Ubisoft Montreal,72.3639455782
+Watch Dogs: Bad Blood,PlayStation 4,Action Adventure,76.0,7.2,M,Ubisoft Montreal,71.3333333333
+Wayward Sky,PlayStation 4,Action,72.0,7.0,T,Uber Entertainment,71.1666666667
+WE ARE DOOMED,PlayStation 4,Action,61.0,6.7,E,Vertex Pop,50.1333333333
+Whispering Willows,PlayStation 4,Adventure,63.0,5.9,T,LOOT Interactive,61.4411764706
+White Night,PlayStation 4,Action Adventure,67.0,6.8,M,OSome Studio,68.7456140351
+Wild Arms 3,PlayStation 4,Role-Playing,0.0,9.3,T,Media Vision,56.75
+Windlands VR,PlayStation 4,Adventure,0.0,6.4,E,Psytec Games Ltd,46.6666666667
+Woah Dave!,PlayStation 4,Action,0.0,5.7,E,Choice Provisions,42.9
+Wolfenstein: The New Order,PlayStation 4,Action,79.0,8.1,M,MachineGames,79.8253968254
+Wolfenstein: The Old Blood,PlayStation 4,Action,76.0,8.0,,MachineGames,77.6888888889
+World of Final Fantasy,PlayStation 4,Role-Playing,78.0,8.3,E10+,Square Enix,80.6470588235
+World of Tanks,PlayStation 4,Action,80.0,6.2,T,Wargaming.net,73.2179487179
+Worms Battlegrounds,PlayStation 4,Strategy,62.0,6.2,E10+,Team 17,65.9696969697
+Worms W.M.D,PlayStation 4,Strategy,78.0,7.6,E10+,Team 17,77.6842105263
+WRC 5,PlayStation 4,Sports,62.0,6.0,E,Kylotonn,63.8205128205
+WRC 6: FIA World Rally Championship,PlayStation 4,Sports,68.0,5.7,E,Kylotonn,53.7777777778
+WWE 2K15,PlayStation 4,Action,62.0,5.1,T,Yuke's,58.2222222222
+WWE 2K16,PlayStation 4,Action,73.0,7.4,T,Yuke's,69.303030303
+WWE 2K17,PlayStation 4,Sports,68.0,6.9,T,Yuke's,69.8076923077
+XCOM 2,PlayStation 4,Strategy,87.0,8.0,T,Firaxis Games,83.9365079365
+Xeodrifter,PlayStation 4,Action,77.0,5.5,E,Renegade Kid,55.9722222222
+007 Legends,PC,Action,26.0,2.4,T,Eurocom Entertainment Software,31.5119047619
+007: NightFire,PC,Action,59.0,6.3,T,Gearbox Software,57.4
+007: Quantum of Solace,PC,Action,70.0,6.3,T,Treyarch,65.4649122807
+0RBITALIS,PC,Miscellaneous,73.0,7.3,,Alan Zucconi,71.6666666667
+10 Second Ninja,PC,Action,72.0,7.9,,GameDesignDan,75.6
+10 Second Ninja X,PC,Action,0.0,4.8,,Four Circle Interactive,62.380952381
+1000 Amps,PC,Miscellaneous,0.0,7.4,,Brandon Brizzi,46.0
+1001 Spikes,PC,Action,80.0,6.7,T,Nicalis,63.4555555556
+12 is Better Than 6,PC,Action,74.0,7.5,,Ink Stains Games,76.0
+140,PC,Action,80.0,7.4,,Jeppe Carlsen,61.1333333333
+15 Days,PC,Adventure,63.0,5.8,,DTP Entertainment,60.0833333333
+1503 A.D. - The New World,PC,Strategy,74.0,7.5,T,Sunflowers Interactive,75.0
+1701 A.D.,PC,Strategy,79.0,8.3,E10+,Related Designs,80.1538461538
+18 Wheels of Steel: American Long Haul,PC,Simulation,0.0,6.9,E,SCS Software,48.0
+18 Wheels of Steel: Extreme Trucker,PC,Sports,0.0,8.0,E,,39.0
+1849,PC,Strategy,60.0,0.0,,SomaSim,41.5555555556
+1954: Alcatraz,PC,Puzzle,58.0,6.4,,Daedalic Entertainment,59.303030303
+1979 Revolution: Black Friday,PC,Adventure,80.0,7.8,,N-Fusion Interactive Entertainment Corp.,79.0
+1nsane,PC,Sports,69.0,8.5,E,Invictus,75.9047619048
+2002 FIFA World Cup,PC,Sports,80.0,7.8,E,EA Sports,78.1111111111
+25 to Life,PC,Action,39.0,5.1,M,Ritual Entertainment,42.8148148148
+A Bird Story,PC,Action,66.0,7.3,,Freebird Games,71.9333333333
+A City Sleeps,PC,Action,61.0,6.3,,Harmonix Music Systems,61.0
+A Druid's Duel,PC,Strategy,70.0,0.0,,Thoughtshelter Games,46.6666666667
+A Fistful of Gun,PC,Action,60.0,7.9,,FarmerGnome,71.2222222222
+A Game of Dwarves,PC,Strategy,60.0,6.6,,Zeal Game Studios,64.2222222222
+A Game of Thrones: Genesis,PC,Strategy,53.0,4.0,,Cyanide,47.9444444444
+A Golden Wake,PC,Miscellaneous,68.0,6.0,,Grundislav Games,66.2857142857
+A Kingdom for Keflings,PC,Strategy,0.0,7.5,E,NinjaBee,50.9
+A New Beginning: Final Cut,PC,Adventure,72.0,6.7,,Daedalic Entertainment,71.3666666667
+A Pixel Story,PC,Action,74.0,5.8,,Lamplight Studios,69.4444444444
+A Quiet Weekend in Capri,PC,Adventure,63.0,7.4,E,Silvio & Gey Savarese,68.8
+A Story About My Uncle,PC,Action,73.0,7.5,,Gone North Games,74.4761904762
+A Stroke of Fate: Operation Valkyrie,PC,Adventure,58.0,5.2,,Spline,56.0833333333
+A Tale in the Desert,PC,Role-Playing,79.0,8.3,,eGenesis,78.8333333333
+A Valley Without Wind,PC,Action Adventure,54.0,6.8,T,Arcen Games,61.9166666667
+A Valley Without Wind 2,PC,Action,68.0,7.2,,Arcen Games,70.8888888889
+A Vampyre Story,PC,Adventure,75.0,8.5,T,Autumn Moon,77.8148148148
+A Virus Named TOM,PC,Miscellaneous,65.0,6.3,,Misfits Attic,63.1666666667
+A Walk in the Dark,PC,Action,67.0,5.7,,Flying Turtle Software,54.6666666667
+A.R.E.S. Extinction Agenda,PC,Action,68.0,6.2,,EXTEND Interactive,69.1666666667
+AaaaaAAaaaAAAaaAAAAaAAAAA!!! for the Awesome,PC,Action,0.0,6.8,,Dejobaan Games,49.3333333333
+B-17 Flying Fortress: The Mighty 8th,PC,Simulation,82.0,7.3,M,Wayward Simulations,77.5333333333
+B-17 Gunner: Air War Over Germany,PC,Simulation,46.0,0.0,T,Sunstorm Interactive,28.3333333333
+Babel Rising,PC,Strategy,0.0,2.9,E10+,Mondo Productions,27.2820512821
+Back in 1995,PC,Action Adventure,52.0,5.0,,Throw the Warped Code Out,51.5555555556
+Back to Bed,PC,Action,57.0,6.3,,Bedtime Digital Games,58.3939393939
+Back to the Future: The Game,PC,Miscellaneous,0.0,7.3,T,Telltale Games,46.5555555556
+Back to the Future: The Game - Episode I: It's About Time,PC,Action Adventure,74.0,7.1,,Telltale Games,73.6
+Back to the Future: The Game - Episode II: Get Tannen!,PC,Action Adventure,74.0,7.3,RP,Telltale Games,72.5151515152
+Back to the Future: The Game - Episode III: Citizen Brown,PC,Action Adventure,71.0,5.8,E,Telltale Games,66.2592592593
+Back to the Future: The Game - Episode IV: Double Visions,PC,Action Adventure,71.0,6.0,RP,Telltale Games,67.1111111111
+Back to the Future: The Game - Episode V: OUTATIME,PC,Action Adventure,75.0,7.2,RP,Telltale Games,74.1666666667
+Backyard Skateboarding (2004),PC,Sports,0.0,7.6,E,Humongous Entertainment,52.0
+Bad Bots,PC,Action,49.0,4.8,,Point 5 Projects,45.5555555556
+Bad Hotel,PC,Miscellaneous,0.0,3.6,,Lucky Frame,39.7777777778
+Bad Mojo,PC,Action Adventure,74.0,6.9,T,Pulse Entertainment,76.2777777778
+Bad Mojo: Redux,PC,Action Adventure,74.0,7.0,T,Pulse Entertainment,76.3888888889
+Bad Piggies,PC,Puzzle,0.0,6.8,E,Rovio Mobile,50.5714285714
+BADLAND: Game of the Year Edition,PC,Action,79.0,7.7,E,Frogmind,70.4747474747
+Baldur's Gate,PC,Role-Playing,91.0,9.0,T,BioWare,91.0476190476
+Baldur's Gate II: Enhanced Edition,PC,Role-Playing,78.0,7.5,,Overhaul Games,76.7179487179
+Baldur's Gate II: Shadows of Amn,PC,Role-Playing,95.0,9.2,T,BioWare,93.9090909091
+Baldur's Gate: Enhanced Edition,PC,Role-Playing,78.0,7.0,T,Overhaul Games,75.1833333333
+Baldur's Gate: Siege of Dragonspear,PC,Role-Playing,77.0,3.6,,Overhaul Games,63.4666666667
+Ballistics,PC,Sports,71.0,7.8,E,GRIN,72.2777777778
+Cabela's African Adventures,PC,Sports,0.0,4.8,T,Activision,32.3333333333
+Cabela's Big Game Hunter 2005 Adventures,PC,Sports,0.0,7.4,T,FUN Labs,40.3333333333
+Cabela's Big Game Hunter: Pro Hunts,PC,Sports,0.0,7.6,T,Cauldron Ltd.,44.5
+Cabela's Dangerous Hunts,PC,Sports,68.0,7.4,T,FUN Labs,70.0
+Cabela's Dangerous Hunts 2,PC,Sports,0.0,5.5,T,FUN Labs,26.6666666667
+Cabela's Dangerous Hunts 2013,PC,Sports,0.0,4.4,T,Activision,34.6666666667
+Caesar IV,PC,Strategy,74.0,7.6,E10+,Tilted Mill,74.875
+CALENDULA,PC,Adventure,67.0,8.1,,Blooming Buds Studio,72.6666666667
+Californium,PC,First-Person,64.0,5.9,,Nova Production,61.25
+Call of Cthulhu: Dark Corners of the Earth,PC,Action Adventure,76.0,7.6,M,Headfirst Productions,76.5357142857
+Call of Cthulhu: The Wasted Land,PC,Strategy,0.0,7.4,,Red Wasp Design,44.4666666667
+Call of Duty,PC,Action,91.0,8.5,T,Infinity Ward,88.7192982456
+Call of Duty 2,PC,Action,86.0,8.4,T,Infinity Ward,85.7638888889
+Call of Duty 4: Modern Warfare,PC,Action,92.0,8.5,M,Infinity Ward,89.0740740741
+Call of Duty: Advanced Warfare,PC,Action,78.0,4.5,M,Sledgehammer Games,71.188034188
+Call of Duty: Black Ops,PC,Action,81.0,5.2,M,Treyarch,72.7128205128
+Call of Duty: Black Ops - Annihilation,PC,Action,0.0,5.3,M,Treyarch,43.0333333333
+Call of Duty: Black Ops - Escalation,PC,Action,0.0,5.4,M,Treyarch,43.9166666667
+Call of Duty: Black Ops - First Strike,PC,Action,0.0,5.3,M,Treyarch,43.6666666667
+Call of Duty: Black Ops - Rezurrection,PC,Action,0.0,2.5,M,Treyarch,32.1111111111
+Call of Duty: Black Ops II,PC,Action,74.0,4.1,M,Treyarch,66.0266666667
+Call of Duty: Black Ops II - Apocalypse,PC,Action,0.0,3.0,M,Treyarch,32.6111111111
+Call of Duty: Black Ops II - Revolution,PC,Action,0.0,3.8,M,Treyarch,37.4583333333
+Call of Duty: Black Ops II - Uprising,PC,Action,0.0,5.0,M,Treyarch,44.1111111111
+Call of Duty: Black Ops II - Vengeance,PC,Action,0.0,4.4,M,Treyarch,38.9333333333
+Call of Duty: Ghosts - Invasion,PC,Action,0.0,6.6,M,Infinity Ward,52.0
+Call of Duty: Modern Warfare 2,PC,Action,86.0,4.2,M,Infinity Ward,72.7636363636
+Call of Duty: Modern Warfare 2 - Stimulus Package,PC,Action,0.0,1.9,M,Infinity Ward,32.4444444444
+Call of Duty: United Offensive,PC,Action,87.0,8.3,T,Gray Matter,85.5
+D-Day,PC,Strategy,56.0,8.2,T,Digital Reality,63.8888888889
+D.i.R.T. - Origin of the Species,PC,Action,0.0,3.8,M,Nu Generation Games,20.0
+Danganronpa 2: Goodbye Despair,PC,Adventure,84.0,8.3,,Spike Chunsoft,82.6888888889
+Danganronpa: Trigger Happy Havoc,PC,Adventure,83.0,7.9,,Spike Chunsoft,80.862745098
+Dangerous Golf,PC,Sports,54.0,3.2,,Three Fields Entertainment,53.1388888889
+Dangerous High School Girls in Trouble,PC,Role-Playing,81.0,5.9,,Mousechief,73.5
+Dangerous Waters,PC,Simulation,82.0,8.8,E,Sonalysts,83.0
+Dariusburst: Chronicle Saviours,PC,Action,80.0,8.4,,Pyramid,81.0555555556
+DARK,PC,Action Adventure,41.0,4.2,M,Kalypso,39.9791666667
+Dark Age of Camelot,PC,Role-Playing,88.0,8.9,T,Mythic Entertainment,88.380952381
+Dark Age of Camelot: Catacombs,PC,Role-Playing,83.0,8.8,T,Mythic Entertainment,84.8888888889
+Dark Age of Camelot: Darkness Rising,PC,Role-Playing,76.0,8.0,T,Mythic Entertainment,76.6666666667
+Dark Age of Camelot: Shrouded Isles,PC,Role-Playing,85.0,8.8,T,Mythic Entertainment,85.2666666667
+Dark Age of Camelot: Trials of Atlantis,PC,Role-Playing,75.0,7.6,T,Mythic Entertainment,74.4761904762
+Dark Fall 3: Lost Souls,PC,Adventure,75.0,7.2,,Darkling Room,74.6666666667
+Dark Fall: Lights Out,PC,Adventure,66.0,7.1,T,XXV Productions,68.5128205128
+Dark Fall: The Journal,PC,Adventure,68.0,7.4,T,XXV Productions,71.7878787879
+Dark Fear,PC,Role-Playing,66.0,0.0,,Arif Games,43.3333333333
+Dark Horizon,PC,Simulation,55.0,5.4,E10+,Paradox Interactive,53.4666666667
+Dark Matter (2013),PC,Action Adventure,0.0,1.4,,Interwave Studios,18.0
+Dark Messiah of Might and Magic,PC,Action,72.0,8.7,M,Arkane Studios,77.0793650794
+E.T. Armies,PC,Action,54.0,6.5,,Raspina Studio,56.3333333333
+E.Y.E: Divine Cybermancy,PC,Role-Playing,61.0,6.9,RP,Streum On Studio,64.037037037
+Eador: Genesis,PC,Strategy,0.0,8.8,,Snowbird Game Studios,52.6666666667
+Eador: Masters of the Broken World,PC,Strategy,74.0,7.3,,Snowbird Game Studios,74.1481481481
+Eagle Flight,PC,Action,74.0,0.0,E10+,FunHouse,48.0
+Earth & Beyond,PC,Role-Playing,82.0,7.1,T,Westwood Studios,77.696969697
+Earth 2150,PC,Strategy,78.0,8.5,T,TopWare Interactive,79.5238095238
+Earth 2150: Lost Souls,PC,Strategy,67.0,7.8,T,Zuxxez,68.7222222222
+Earth 2150: The Moon Project,PC,Strategy,75.0,7.9,T,TopWare Interactive,76.9333333333
+Earth 2160,PC,Strategy,73.0,7.5,T,Reality Pump,74.037037037
+Earth Defense Force 4.1: The Shadow of New Despair,PC,Action,79.0,8.6,,Sandlot,74.3787878788
+Earth Defense Force: Insect Armageddon,PC,Action,69.0,7.0,T,Vicious Cycle,68.0138888889
+Earthrise,PC,Role-Playing,0.0,2.8,RP,Masthead Studios,22.6666666667
+Earthworm Jim 2,PC,Action,0.0,7.8,K-A,Rainbow Arts,46.0
+East India Company,PC,Action Adventure,67.0,5.7,T,Nitro Games,63.5476190476
+East India Company: Privateer,PC,Action Adventure,63.0,5.6,,Nitro Games,63.0
+East Side Story - A Carol Reed Mystery,PC,Adventure,73.0,0.0,,MDNA Games,49.1111111111
+Echelon,PC,Simulation,70.0,6.5,E,Buka Entertainment,67.0952380952
+Echelon: Wind Warriors,PC,Simulation,63.0,7.8,T,Buka Entertainment,64.1666666667
+Echo Of Soul,PC,Role-Playing,0.0,6.6,,Aeria Games & Entertainment,42.0
+Echo Prime,PC,Action,50.0,0.0,,Robot Entertainment,36.6666666667
+Echo: Secrets of the Lost Cavern,PC,Adventure,71.0,7.9,E,Kheops Studio,73.6388888889
+Eden*,PC,Adventure,0.0,7.0,M,Minor I,52.6666666667
+Edge,PC,Action,74.0,7.6,,Two Tribes,75.6222222222
+F.E.A.R.,PC,Action,88.0,8.3,M,Monolith Productions,84.6025641026
+F.E.A.R. 2: Project Origin,PC,Action,79.0,7.8,M,Monolith Productions,77.3971631206
+F.E.A.R. 3,PC,First-Person Shooters,74.0,5.9,M,Day 1 Studios,69.0283687943
+F.E.A.R. Combat,PC,Action,90.0,7.7,M,Monolith Productions,87.1666666667
+F.E.A.R. Extraction Point,PC,Action,75.0,7.5,M,Monolith Productions,74.880952381
+F.E.A.R. Perseus Mandate,PC,Action,61.0,7.3,M,TimeGate Studios,67.5384615385
+F1 2001,PC,Sports,79.0,7.5,E,EA Sports,78.125
+F1 2002,PC,Sports,88.0,7.4,E,EA Sports,80.1111111111
+F1 2010,PC,Sports,84.0,6.6,E,Codemasters Birmingham,78.0322580645
+F1 2011,PC,Sports,83.0,7.2,E,Codemasters,77.4807692308
+F1 2012,PC,Sports,80.0,6.9,E,Codemasters,77.1149425287
+F1 2013,PC,Sports,77.0,6.3,E,Codemasters,72.2777777778
+F1 2014,PC,Sports,61.0,4.7,E,Codemasters Birmingham,57.1833333333
+F1 2015,PC,Sports,61.0,3.6,E,Codemasters,59.5
+F1 2016,PC,Sports,86.0,8.2,E,Codemasters,83.0058479532
+F1 Challenge '99-'02,PC,Sports,91.0,8.2,E,Electronic Arts,87.25
+F1 Championship Season 2000,PC,Sports,70.0,7.5,E,Image Space Incorporated,74.75
+F1 Race Stars,PC,Sports,62.0,5.4,E,Codemasters,59.641025641
+F1 World Grand Prix,PC,Sports,71.0,3.8,E,Video System,58.2222222222
+Fable Anniversary,PC,Role-Playing,0.0,4.6,M,Lionhead Studios,38.0222222222
+Fable III,PC,Role-Playing,75.0,5.4,M,Lionhead Studios,69.0064102564
+Face Noir,PC,Adventure,59.0,6.3,,Mad Orange,62.8333333333
+Faces of War,PC,Strategy,67.0,8.6,M,Best Way,72.1212121212
+Faery: Legends of Avalon,PC,Role-Playing,59.0,6.6,E10+,Spiders,62.037037037
+Fahrenheit: Indigo Prophecy Remastered,PC,Action,61.0,7.4,M,Aspyr,70.8333333333
+Fair Strike,PC,Simulation,56.0,0.0,T,G5 Software,35.6666666667
+Fairy Fencer F,PC,Role-Playing,66.0,8.0,T,Idea Factory,70.4444444444
+Falcon 4.0,PC,Simulation,85.0,8.0,T,Atari,83.2380952381
+Falcon 4.0: Allied Force,PC,Simulation,90.0,8.6,T,Lead Pursuit,88.5
+Fallen Earth: Welcome to the Apocalypse,PC,Role-Playing,71.0,6.9,M,Fallen Earth,68.2222222222
+Fallen Enchantress: Legendary Heroes,PC,Strategy,80.0,7.7,,Stardock,77.8148148148
+G-Force,PC,Action,61.0,8.5,E10+,Eurocom Entertainment Software,71.1176470588
+G.I. Combat,PC,Strategy,38.0,3.6,T,Freedom Games,37.5333333333
+Gabriel Knight: Sins of the Fathers 20th Anniversary Edition,PC,Adventure,74.0,8.1,,Pinkerton Road Studio,77.2444444444
+Galacide,PC,Action,76.0,0.0,,Puny Human Games,47.8333333333
+Galactic Assault: Prisoner of Power,PC,Strategy,68.0,8.0,T,Wargaming.net,72.5238095238
+Galactic Civilizations,PC,Strategy,83.0,8.1,E,Stardock,82.5925925926
+Galactic Civilizations II: Dark Avatar,PC,Strategy,91.0,8.3,,Stardock,88.6
+Galactic Civilizations II: Dread Lords,PC,Strategy,86.0,8.0,E10+,Stardock,85.1458333333
+Galactic Civilizations II: Twilight of the Arnor,PC,Strategy,92.0,8.4,,Stardock,89.6296296296
+Galactic Civilizations III,PC,Strategy,81.0,6.5,,Stardock,75.9166666667
+Galactic Civilizations III: Mercenaries,PC,General,66.0,0.0,,Stardock,42.8888888889
+Galactic Civilizations: Altarian Prophecy,PC,Strategy,77.0,7.8,E,Stardock,78.0833333333
+Galactic Command: Echo Squad,PC,Simulation,0.0,1.2,,3000AD,20.0
+Galaga: Destination Earth,PC,Action,59.0,6.4,E,King of the Jungle,60.6666666667
+Galak-Z: The Dimensional,PC,Action,78.0,6.5,,17-Bit,76.1388888889
+Galaxy On Fire 2 Full HD,PC,Simulation,63.0,6.5,,Fishlabs,64.8888888889
+Galcon Fusion,PC,Strategy,68.0,6.4,,Phil Hassey,68.7777777778
+Galcon Legends,PC,Strategy,0.0,5.7,,Hassey Enterprises,44.5
+Game Dev Tycoon,PC,Strategy,68.0,8.0,,Greenheart Games,71.4333333333
+Game of Thrones,PC,Role-Playing,58.0,6.5,M,Cyanide,60.6282051282
+Game of Thrones: A Telltale Games Series,PC,Action,64.0,6.5,M,Telltale Games,59.5858585859
+Game of Thrones: Episode Five - A Nest of Vipers,PC,Action,74.0,6.7,M,Telltale Games,72.1503267974
+Game of Thrones: Episode Four - Sons of Winter,PC,Action,77.0,7.9,M,Telltale Games,74.4509803922
+Game of Thrones: Episode One - Iron From Ice,PC,Action,75.0,7.3,M,Telltale Games,76.7422222222
+Game of Thrones: Episode Six - The Ice Dragon,PC,Action,70.0,6.5,,Telltale Games,73.8333333333
+Game of Thrones: Episode Three - The Sword in the Darkness,PC,Action,77.0,7.8,M,Telltale Games,75.3703703704
+Game of Thrones: Episode Two - The Lost Lords,PC,Action,73.0,7.8,M,Telltale Games,74.2833333333
+Game Tycoon,PC,Strategy,42.0,3.4,E10+,Tri Synergy,38.0833333333
+Hack 'n' Slash,PC,Action,73.0,5.2,,Double Fine Productions,66.0
+Hacker Evolution Duality,PC,Strategy,0.0,2.3,,exoSyphen Studios,27.6666666667
+Hacknet,PC,Miscellaneous,82.0,7.5,,Orann,80.3333333333
+Halcyon 6: Starbase Commander,PC,Strategy,73.0,7.8,,Massive Damage,77.25
+Half Minute Hero: The Second Coming,PC,Role-Playing,79.0,7.0,,Opus,76.1666666667
+Half-Life,PC,Action,96.0,9.1,M,Valve Software,92.1296296296
+Half-Life 2,PC,Action,96.0,9.1,M,Valve Software,94.196969697
+Half-Life 2: Episode One,PC,Action,87.0,8.6,M,Valve Software,87.0
+Half-Life 2: Episode Two,PC,Action,90.0,9.2,M,Valve Software,91.1851851852
+Half-Life: Blue Shift,PC,Action,71.0,8.3,M,Gearbox Software,73.2222222222
+Half-Minute Hero: Super Mega Neo Climax Ultimate Boy,PC,Role-Playing,75.0,7.6,,Opus,73.5
+Halfway,PC,Strategy,69.0,6.1,,Robotality,66.9444444444
+Halo 2,PC,Action,72.0,5.5,M,Microsoft Game Studios,71.8553459119
+Halo: Combat Evolved,PC,Action,83.0,7.4,M,Gearbox Software,82.7272727273
+Halo: Spartan Assault,PC,Action,70.0,6.1,T,Vanguard,57.2280701754
+Halo: Spartan Strike,PC,Scrolling,66.0,6.1,T,343 Industries,65.2
+Hamilton's Great Adventure,PC,Adventure,77.0,7.5,E,Fatshark AB,75.9523809524
+Hammer & Sickle,PC,Strategy,52.0,8.6,T,Nival Interactive,63.1388888889
+Hammerwatch,PC,Action,72.0,7.5,,Crackshell,73.1666666667
+Hand of Fate,PC,Role-Playing,78.0,8.0,T,Defiant Development,78.931372549
+Hannah Montana: The Movie,PC,Action,0.0,1.4,E,n-Space,16.3333333333
+Hans Christian Andersen: The Ugly Prince Duckling,PC,Adventure,63.0,0.0,E,Guppyworks,42.3333333333
+Happy Feet,PC,Adventure,42.0,4.0,E,Artificial Mind and Movement,42.6363636364
+Happy Tree Friends: False Alarm,PC,Action,0.0,4.3,M,Stainless Games,31.4166666667
+Happy Wars,PC,Action,0.0,4.8,T,Toylogic Inc.,37.7619047619
+Harbinger,PC,Role-Playing,57.0,6.6,T,Silverback Entertainment,61.3666666667
+Hard Reset,PC,Action,73.0,7.3,M,Flying Wild Hog,73.1212121212
+Hard Reset Redux,PC,Action,73.0,6.4,,Flying Wild Hog,70.9814814815
+I Am Alive,PC,Action Adventure,66.0,6.0,M,Ubisoft Shanghai,65.9696969697
+I Am Bread,PC,Miscellaneous,60.0,4.6,E10+,Bossa Studios,53.7575757576
+I Am Setsuna,PC,Role-Playing,70.0,7.1,E10+,Tokyo RPG Factory,72.768115942
+I Can't Escape: Darkness,PC,Adventure,40.0,0.0,,Fancy Fish Games,23.3333333333
+I Get This Call Every Day,PC,Simulation,0.0,3.1,,David S Gallant,33.6666666667
+I of the Dragon,PC,Role-Playing,55.0,8.4,M,Primal Software,67.4848484848
+I Want To Be Human,PC,Action,53.0,0.0,,Sinclair Strange,31.0
+I Was an Atomic Mutant!,PC,Action,64.0,4.5,T,Canopy Games,56.25
+I'm not Alone,PC,Action Adventure,44.0,3.6,,TGC,41.0
+I-Fluid,PC,Adventure,69.0,5.9,,Exkee,66.0
+Ian's Eyes,PC,Action Adventure,36.0,0.0,,Sindie Games,22.8333333333
+Ibb & Obb,PC,General,83.0,8.2,E,Sparpweed,81.6666666667
+iBomber Attack,PC,Adventure,0.0,6.0,,Chillingo Ltd,46.6666666667
+iBomber Defense,PC,Action,0.0,7.2,,Cobra Mobile,52.3333333333
+iBomber Defense Pacific,PC,Strategy,0.0,5.8,,Cobra Mobile,42.6666666667
+Ice Age 2: The Meltdown,PC,Action,0.0,6.4,E10+,Vivendi Games,42.6904761905
+Ice Age: Dawn of the Dinosaurs,PC,Action,67.0,0.0,E10+,Activision,45.6888888889
+Icewind Dale,PC,Role-Playing,87.0,8.3,T,Black Isle Studios,85.3939393939
+Icewind Dale II,PC,Role-Playing,83.0,8.3,T,Black Isle Studios,81.1818181818
+Icewind Dale: Enhanced Edition,PC,Role-Playing,80.0,7.4,,Black Isle Studios,79.25
+Icewind Dale: Heart of Winter,PC,Role-Playing,74.0,7.9,T,Black Isle Studios,74.9583333333
+ICY,PC,Role-Playing,56.0,6.5,,Inner Void,60.8888888889
+Iesabel,PC,Action,0.0,5.5,,Madman Theory Games,36.1111111111
+If My Heart Had Wings,PC,Adventure,0.0,8.5,T,Pulltop,51.6666666667
+IGI 2: Covert Strike,PC,Action Adventure,64.0,8.5,M,Innerloop,72.8461538462
+Ignite,PC,Sports,59.0,6.2,,Nemesys,59.7333333333
+Ikaruga,PC,Action,84.0,7.9,,Treasure,83.1764705882
+IL-2 Sturmovik,PC,Simulation,91.0,8.8,T,1C,90.7222222222
+IL-2 Sturmovik: 1946,PC,Simulation,86.0,8.8,T,1C: Maddox Games,88.4444444444
+J.U.L.I.A.,PC,Strategy,64.0,0.0,,Cardboard Box Entertainment,42.5
+J.U.L.I.A.: Among the Stars,PC,Strategy,71.0,7.6,,Cardboard Box Entertainment,73.3333333333
+Jack Keane,PC,Adventure,69.0,7.0,T,Legacy Interactive,68.2121212121
+Jack Keane 2: The Fire Within,PC,Adventure,52.0,6.5,T,Deck 13,57.7619047619
+Jack Lumber,PC,Action,0.0,6.0,,Owlchemy Labs,42.7777777778
+Jack the Ripper,PC,Adventure,58.0,6.4,T,Galilea Multimedia,57.0
+Jade Empire: Special Edition,PC,Role-Playing,81.0,8.2,M,BioWare,80.9791666667
+Jagged Alliance 2: Unfinished Business,PC,Strategy,64.0,8.1,T,Sir-Tech Software Inc.,71.4074074074
+Jagged Alliance 2: Wildfire,PC,Strategy,0.0,8.5,T,I-Deal Games Studios,52.3333333333
+Jagged Alliance: Back in Action,PC,Strategy,62.0,5.5,M,Kalypso,59.1666666667
+Jagged Alliance: Crossfire,PC,Strategy,63.0,4.1,T,Kalypso,53.5555555556
+Jagged Alliance: Flashback,PC,Strategy,52.0,4.3,,Full Control ApS,45.0
+James Bond 007: Blood Stone,PC,Action,63.0,7.1,T,Bizarre Creations,66.0666666667
+James Cameron's Avatar: The Game,PC,Action,59.0,7.3,T,Ubisoft,63.3658536585
+Jamestown: Legend of the Lost Colony,PC,Action,81.0,7.5,,Final Form Games,79.6666666667
+Jane's Attack Squadron,PC,Simulation,58.0,0.0,E,Mad Doc Software,36.0
+JASF: Jane's Advanced Strike Fighters,PC,Action,48.0,3.1,T,Trickstar Games,40.2083333333
+Jaws Unleashed,PC,Action,55.0,7.5,M,Appaloosa Interactive,59.6481481481
+Jazz and Faust,PC,Adventure,42.0,0.0,T,Saturn+,30.3703703704
+Jazzpunk,PC,Adventure Games,75.0,7.7,,Necrophone,74.0512820513
+Jekyll & Hyde (2001),PC,Action,34.0,7.0,T,In Utero,43.0
+Jerry McPartlin - Rebel with a Cause,PC,Adventure,0.0,4.7,,bluebox interactive,29.0
+Jet Car Stunts,PC,Action,57.0,6.8,E,True Axis,60.9
+Jet Set Radio,PC,Action,0.0,7.5,T,Sega,49.0350877193
+Jetfighter 2015,PC,Simulation,63.0,0.0,T,,41.6666666667
+JetFighter IV: Fortress America,PC,Simulation,60.0,7.5,E,Mission Studios,66.6666666667
+JetFighter V: Homeland Protector,PC,Simulation,56.0,4.0,T,InterActive Vision Games,51.3333333333
+K-Hawk: Survival Instinct,PC,Action Adventure,59.0,0.0,T,Similis,39.0
+KAIRO,PC,Adventure,76.0,8.0,,Perrin,77.8
+Kalimba,PC,Action,81.0,0.0,,Press Play,67.625
+KAMI,PC,Miscellaneous,0.0,7.7,,State of Play Games,50.6666666667
+Kane & Lynch 2: Dog Days,PC,Action,66.0,5.7,M,Nixxes Software,62.36
+Kane & Lynch: Dead Men,PC,Action,67.0,5.9,M,Io Interactive,63.1666666667
+KAO the Kangaroo,PC,Action,60.0,7.8,E,Titus Software,66.3888888889
+Kao the Kangaroo Round 2,PC,Action,0.0,7.9,E,Tate Interactive,45.375
+Kaptain Brawe: A Brawe New World,PC,Adventure,69.0,0.0,T,Cateia Games,46.7333333333
+Karate Master 2 Knock Down Blow,PC,Sports,0.0,7.8,,Crian Soft,42.6666666667
+Karateka,PC,Action,48.0,4.8,T,Liquid Entertainment,53.3636363636
+Karma. Incarnation 1,PC,Action,0.0,6.5,,AuraLab,51.6666666667
+Karmaflow: The Rock Opera Videogame,PC,Action,47.0,0.0,,Basecamp Games,32.3333333333
+Katawa Shoujo,PC,Adventure,0.0,8.7,,Four Leaf Studios,51.5
+Kathy Rain,PC,Adventure,77.0,6.7,,Clifftop Games,74.5555555556
+Keep Talking and Nobody Explodes,PC,Adventure,67.0,8.5,,Steel Crate Games,68.6666666667
+Keepsake,PC,Adventure,68.0,6.9,E,Wicked Studios,67.3333333333
+Kelly Slater's Pro Surfer,PC,Sports,82.0,7.8,T,Beenox,78.75
+Kelvin and the Infamous Machine,PC,Adventure,79.0,7.5,,Blyts,76.5555555556
+Kentucky Route Zero - Act I,PC,Adventure,81.0,7.6,,Cardboard Computer,78.5833333333
+Kentucky Route Zero - Act II,PC,Adventure,82.0,8.1,,Cardboard Computer,80.0
+Kentucky Route Zero - Act III,PC,Adventure,91.0,6.6,,Cardboard Computer,82.3333333333
+Kentucky Route Zero - Act IV,PC,Adventure,90.0,6.5,,Cardboard Computer,81.0555555556
+Kerbal Space Program,PC,Sci-Fi,88.0,8.2,,SQUADTeam,76.9
+Kero Blaster,PC,General,82.0,7.0,,Studio Pixel,76.2666666667
+Kholat,PC,Fantasy,64.0,7.4,,IMGN.PRO,63.2631578947
+Kick-Ass 2,PC,Action,0.0,2.1,,Freedom Factory Studios,18.5
+KickBeat: Steam Edition,PC,Action,66.0,7.4,T,Zen Studios,69.1666666667
+Kill the Bad Guy,PC,Miscellaneous,62.0,6.1,,Exkee,63.0833333333
+kill.switch,PC,Action,66.0,7.8,T,Namco,71.6363636364
+L.A. Noire: The Complete Edition,PC,Adventure,83.0,7.9,M,Rockstar Leeds,82.3333333333
+LA Cops,PC,Action,45.0,6.1,,Modern Dream,45.5396825397
+La Grande Armee at Austerlitz,PC,Strategy,67.0,5.3,,HistWar,60.1666666667
+La-Mulana (Remake),PC,Action,80.0,7.1,,Nigoro,76.1666666667
+Land of Legends,PC,Strategy,70.0,0.0,,Tiny Hero Game Studios,48.6666666667
+Land of the Dead: Road to Fiddler's Green,PC,Action,36.0,6.6,M,Brainbox Games,45.4666666667
+Lantern Forge,PC,Action,0.0,6.9,,Hearthfire Studios,53.0
+Lara Croft and the Guardian of Light,PC,Action Adventure,82.0,8.1,T,Crystal Dynamics,82.5128205128
+Lara Croft and the Temple of Osiris,PC,Action,73.0,5.4,T,Nixxes Software,68.5595238095
+Lara Croft Tomb Raider: The Angel of Darkness,PC,Action Adventure,49.0,6.4,T,Core Design Ltd.,55.1666666667
+Larry Ragland 4x4 Challenge,PC,Sports,51.0,0.0,E,Xpiral,31.5
+Larva Mortus,PC,Action,64.0,7.4,,Rake in Grass,71.0
+Laser Squad Nemesis,PC,Strategy,73.0,7.3,T,Codo Games,73.5555555556
+Last Knight,PC,Action,0.0,7.9,,Davision,48.0
+Last Word,PC,Role-Playing,67.0,8.4,,Twelve Tiles,74.1111111111
+Law & Order II: Double or Nothing,PC,Adventure,74.0,6.0,T,Legacy Interactive,69.5
+Law & Order: Criminal Intent,PC,Adventure,56.0,6.3,M,Legacy Interactive,62.1111111111
+Law & Order: Dead on the Money,PC,Adventure,70.0,8.7,T,Legacy Interactive,73.2916666667
+Law & Order: Justice Is Served,PC,Adventure,77.0,7.5,T,Legacy Interactive,76.2083333333
+Law & Order: Legacies,PC,Miscellaneous,53.0,7.5,,Telltale Games,64.3333333333
+Laxius Force - Heroes Never Die,PC,Role-Playing,0.0,8.9,,Aldorlea Games,57.6666666667
+Laxius Force III - The Last Stand,PC,Role-Playing,0.0,9.0,,Aldorlea Games,58.3333333333
+Layers of Fear,PC,Adventure,72.0,7.9,,Bloober Team,75.5444444444
+Layers of Fear: Inheritance,PC,Adventure,70.0,8.2,M,Bloober Team,70.1388888889
+Le Mans 24 Hours,PC,Sports,60.0,0.0,E,Atari,42.4814814815
+Lead and Gold: Gangs of the Wild West,PC,Action,70.0,8.4,M,Fatshark AB,76.0925925926
+Leadfoot,PC,Sports,69.0,7.6,E,Ratbag,70.1333333333
+M.U.D. TV,PC,Strategy,53.0,4.3,T,Realmforge Studios,58.0
+MacGuffin's Curse,PC,Adventure,73.0,7.8,,Brawsome,75.3333333333
+Machinarium,PC,Adventure,85.0,8.8,,Amanita Design,86.5555555556
+Mad Max,PC,Action,73.0,7.8,M,Avalanche Studios,73.7626262626
+Mad Riders,PC,Sports,0.0,7.0,E,Techland,46.1666666667
+Madagascar,PC,Action,73.0,7.7,E10+,Beenox,73.3611111111
+Madagascar: Escape 2 Africa,PC,Action,58.0,8.0,E10+,Aspyr,66.8888888889
+Madballs in Babo: Invasion,PC,Action,79.0,8.8,,Playbrains,80.7142857143
+Madden NFL 06,PC,Sports,78.0,6.8,E,BudCat,73.8777777778
+Madden NFL 07,PC,Sports,80.0,7.3,E,EA Tiburon,77.1898148148
+Madden NFL 08,PC,Sports,75.0,6.2,E,EA Tiburon,71.6870748299
+Madden NFL 2001,PC,Sports,78.0,5.8,E,EA Sports,74.4444444444
+Madden NFL 2002,PC,Sports,71.0,7.9,E,EA Sports,78.2133333333
+Madden NFL 2003,PC,Sports,89.0,7.7,E,EA Sports,84.7166666667
+Madden NFL 2004,PC,Sports,91.0,7.7,E,EA Tiburon,85.3913043478
+Madden NFL 2005,PC,Sports,85.0,6.4,E,BudCat,76.7027027027
+Made Man: Confessions of the Family Blood,PC,Action Adventure,40.0,5.7,M,Silverback Studios,46.9166666667
+Maelstrom,PC,Strategy,58.0,6.4,T,KDV Games,60.9696969697
+Mafia,PC,Action Adventure,88.0,9.1,M,Illusion Softworks,84.6436781609
+Mafia II,PC,Action Adventure,77.0,7.9,M,2K Czech,77.0266666667
+Mafia II: Jimmy's Vendetta,PC,Action Adventure,67.0,4.0,M,2K Czech,54.5833333333
+Mafia II: Joe's Adventures,PC,Action Adventure,0.0,5.6,M,2K Czech,40.0952380952
+Mafia III,PC,Action Adventure,62.0,3.2,M,Hangar 13,56.8586956522
+Mage Knight: Apocalypse,PC,Role-Playing,47.0,5.8,T,InterServ International,51.3333333333
+Magic & Mayhem: The Art of Magic,PC,Strategy,71.0,7.0,T,Charybdis,69.2857142857
+Magic Duels: Origins,PC,Strategy,77.0,5.9,,Stainless Games,66.0
+N++,PC,Action,90.0,6.6,,Metanet Software Inc.,79.5777777778
+N++,PC,Action,90.0,6.6,,Metanet Software Inc.,79.5777777778
+N.E.R.O.: Nothing Ever Remains Obscure,PC,Adventure,59.0,5.4,E,Storm in a Teacup,61.9722222222
+nail'd,PC,Sports,69.0,7.7,E10+,Techland,70.6666666667
+NaissanceE,PC,Adventure Games,66.0,7.1,,Limasse Five,69.0
+Naked War,PC,Strategy,83.0,0.0,,The Pickford Brothers,55.6666666667
+Namco Museum 50th Anniversary,PC,Miscellaneous,52.0,0.0,E10+,Namco,38.2407407407
+Land of Legends,PC,Strategy,70.0,0.0,,Tiny Hero Game Studios,48.6666666667
+Land of the Dead: Road to Fiddler's Green,PC,Action,36.0,6.6,M,Brainbox Games,45.4666666667
+Lantern Forge,PC,Action,0.0,6.9,,Hearthfire Studios,53.0
+Lara Croft and the Guardian of Light,PC,Action Adventure,82.0,8.1,T,Crystal Dynamics,82.5128205128
+Lara Croft and the Temple of Osiris,PC,Action,73.0,5.4,T,Nixxes Software,68.5595238095
+Lara Croft Tomb Raider: The Angel of Darkness,PC,Action Adventure,49.0,6.4,T,Core Design Ltd.,55.1666666667
+Larry Ragland 4x4 Challenge,PC,Sports,51.0,0.0,E,Xpiral,31.5
+Larva Mortus,PC,Action,64.0,7.4,,Rake in Grass,71.0
+Laser Squad Nemesis,PC,Strategy,73.0,7.3,T,Codo Games,73.5555555556
+Last Knight,PC,Action,0.0,7.9,,Davision,48.0
+Last Word,PC,Role-Playing,67.0,8.4,,Twelve Tiles,74.1111111111
+Law & Order II: Double or Nothing,PC,Adventure,74.0,6.0,T,Legacy Interactive,69.5
+Law & Order: Criminal Intent,PC,Adventure,56.0,6.3,M,Legacy Interactive,62.1111111111
+Law & Order: Dead on the Money,PC,Adventure,70.0,8.7,T,Legacy Interactive,73.2916666667
+Law & Order: Justice Is Served,PC,Adventure,77.0,7.5,T,Legacy Interactive,76.2083333333
+Law & Order: Legacies,PC,Miscellaneous,53.0,7.5,,Telltale Games,64.3333333333
+Laxius Force - Heroes Never Die,PC,Role-Playing,0.0,8.9,,Aldorlea Games,57.6666666667
+Laxius Force III - The Last Stand,PC,Role-Playing,0.0,9.0,,Aldorlea Games,58.3333333333
+Layers of Fear,PC,Adventure,72.0,7.9,,Bloober Team,75.5444444444
+Layers of Fear: Inheritance,PC,Adventure,70.0,8.2,M,Bloober Team,70.1388888889
+Le Mans 24 Hours,PC,Sports,60.0,0.0,E,Atari,42.4814814815
+Lead and Gold: Gangs of the Wild West,PC,Action,70.0,8.4,M,Fatshark AB,76.0925925926
+Leadfoot,PC,Sports,69.0,7.6,E,Ratbag,70.1333333333
+M.U.D. TV,PC,Strategy,53.0,4.3,T,Realmforge Studios,58.0
+MacGuffin's Curse,PC,Adventure,73.0,7.8,,Brawsome,75.3333333333
+Machinarium,PC,Adventure,85.0,8.8,,Amanita Design,86.5555555556
+Mad Max,PC,Action,73.0,7.8,M,Avalanche Studios,73.7626262626
+Mad Riders,PC,Sports,0.0,7.0,E,Techland,46.1666666667
+Madagascar,PC,Action,73.0,7.7,E10+,Beenox,73.3611111111
+Madagascar: Escape 2 Africa,PC,Action,58.0,8.0,E10+,Aspyr,66.8888888889
+Madballs in Babo: Invasion,PC,Action,79.0,8.8,,Playbrains,80.7142857143
+Madden NFL 06,PC,Sports,78.0,6.8,E,BudCat,73.8777777778
+Madden NFL 07,PC,Sports,80.0,7.3,E,EA Tiburon,77.1898148148
+Madden NFL 08,PC,Sports,75.0,6.2,E,EA Tiburon,71.6870748299
+Madden NFL 2001,PC,Sports,78.0,5.8,E,EA Sports,74.4444444444
+Madden NFL 2002,PC,Sports,71.0,7.9,E,EA Sports,78.2133333333
+Madden NFL 2003,PC,Sports,89.0,7.7,E,EA Sports,84.7166666667
+Madden NFL 2004,PC,Sports,91.0,7.7,E,EA Tiburon,85.3913043478
+Madden NFL 2005,PC,Sports,85.0,6.4,E,BudCat,76.7027027027
+Made Man: Confessions of the Family Blood,PC,Action Adventure,40.0,5.7,M,Silverback Studios,46.9166666667
+Maelstrom,PC,Strategy,58.0,6.4,T,KDV Games,60.9696969697
+Mafia,PC,Action Adventure,88.0,9.1,M,Illusion Softworks,84.6436781609
+Mafia II,PC,Action Adventure,77.0,7.9,M,2K Czech,77.0266666667
+Mafia II: Jimmy's Vendetta,PC,Action Adventure,67.0,4.0,M,2K Czech,54.5833333333
+Mafia II: Joe's Adventures,PC,Action Adventure,0.0,5.6,M,2K Czech,40.0952380952
+Mafia III,PC,Action Adventure,62.0,3.2,M,Hangar 13,56.8586956522
+Mage Knight: Apocalypse,PC,Role-Playing,47.0,5.8,T,InterServ International,51.3333333333
+Magic & Mayhem: The Art of Magic,PC,Strategy,71.0,7.0,T,Charybdis,69.2857142857
+Magic Duels: Origins,PC,Strategy,77.0,5.9,,Stainless Games,66.0
+N++,PC,Action,90.0,6.6,,Metanet Software Inc.,79.5777777778
+N++,PC,Action,90.0,6.6,,Metanet Software Inc.,79.5777777778
+N.E.R.O.: Nothing Ever Remains Obscure,PC,Adventure,59.0,5.4,E,Storm in a Teacup,61.9722222222
+nail'd,PC,Sports,69.0,7.7,E10+,Techland,70.6666666667
+NaissanceE,PC,Adventure Games,66.0,7.1,,Limasse Five,69.0
+Naked War,PC,Strategy,83.0,0.0,,The Pickford Brothers,55.6666666667
+Namco Museum 50th Anniversary,PC,Miscellaneous,52.0,0.0,E10+,Namco,38.2407407407
+Nancy Drew Dossier: Resorting to Danger,PC,Miscellaneous,77.0,8.0,E10+,Her Interactive,75.6666666667
+Nancy Drew: Curse of Blackmoor Manor,PC,Adventure,81.0,8.7,E,Her Interactive,82.0
+Nancy Drew: Danger By Design,PC,Adventure,70.0,5.7,E,Her Interactive,63.4166666667
+Nancy Drew: Danger on Deception Island,PC,Adventure,81.0,7.7,E,Her Interactive,79.25
+Nancy Drew: Ghost of Thornton Hall,PC,Action,0.0,8.2,E,Her Interactive,50.6666666667
+Nancy Drew: Last Train to Blue Moon Canyon,PC,Adventure,77.0,7.8,E,Her Interactive,78.4444444444
+Nancy Drew: Legend of the Crystal Skull,PC,Adventure,79.0,8.5,E,Her Interactive,83.1666666667
+Narco Terror,PC,Action,0.0,4.6,M,Koch Media,32.4333333333
+Naruto Shippuden: Ultimate Ninja Storm 3 Full Burst,PC,Action,80.0,7.9,T,CyberConnect2,78.3333333333
+Naruto Shippuden: Ultimate Ninja Storm 4,PC,Action,0.0,7.4,T,CyberConnect2,71.0058479532
+Naruto Shippuden: Ultimate Ninja Storm Revolution,PC,Action,61.0,6.4,T,CyberConnect2,65.1166666667
+NASCAR '14,PC,Sports,0.0,5.1,E,Eutechnyx,39.8666666667
+NASCAR Heat,PC,Sports,81.0,8.6,E,Monster Games Inc.,78.1666666667
+NASCAR Heat Evolution,PC,Sports,0.0,4.6,E,Dusenberry Martin Racing,28.4444444444
+NASCAR Racing 2002 Season,PC,Sports,89.0,5.8,E,Papyrus,78.2380952381
+O.R.B.,PC,Strategy,68.0,0.0,T,Strategy First,44.8095238095
+Obduction,PC,Adventure,77.0,8.0,,Cyan Worlds,76.9047619048
+Obliteracers,PC,Sports,78.0,7.4,E,Space Dust Studios,59.4
+Oblitus,PC,Action,69.0,7.0,,Connor Ullmann,69.3888888889
+Obscure,PC,Action Adventure,63.0,8.0,M,Hydravision,69.5873015873
+Obscure: The Aftermath,PC,Action Adventure,59.0,7.3,M,Hydravision,64.2380952381
+Obscuritas,PC,Adventure,63.0,3.3,,Visual Imagination Software,54.1666666667
+Obsidian,PC,Adventure,85.0,8.3,K-A,Rocket Science Games,84.1111111111
+Ocean City Racing,PC,Sports,0.0,6.4,,Ocean City Racing Dev Team,34.6666666667
+Oceanhorn: Monster of Uncharted Seas,PC,Action Adventure,74.0,6.9,,Cornfox & Bros.,74.4141414141
+Octodad: Dadliest Catch,PC,Adventure Games,69.0,7.6,E10+,Young Horses,63.9365079365
+Odallus: The Dark Call,PC,Action Adventure,80.0,9.0,,JoyMasher,82.2222222222
+Oddworld: Abe's Exoddus,PC,Action,0.0,8.6,T,Digital Dialect,59.3333333333
+Oddworld: Abe's Oddysee,PC,Action,0.0,8.6,T,Digital Dialect,56.4
+Oddworld: Abe's Oddysee - New 'n' Tasty,PC,Action,87.0,7.8,T,Just Add Water,84.0085470085
+Oddworld: Munch's Oddysee,PC,Action,0.0,6.9,T,Oddworld Inhabitants,45.5740740741
+Odyssey: The Search for Ulysses,PC,Adventure,58.0,0.0,E,In Utero,38.0
+Of Light and Darkness: The Prophecy,PC,Adventure,58.0,0.0,,Tribal Dreams,39.8
+Of Orcs and Men,PC,Role-Playing,69.0,6.8,RP,Cyanide,67.4375
+Off-Road Drive,PC,Sports,60.0,6.4,,Avalon Style,63.0
+Off-Road Redneck Racing,PC,Sports,65.0,0.0,E,Rage Software,41.4285714286
+Officers,PC,Strategy,64.0,7.2,E10+,3A Games,65.6
+Offspring Fling,PC,Miscellaneous,79.0,6.9,,Kyle Pulver,76.0
+Offworld Trading Company,PC,Strategy,79.0,7.5,,Mohawk Games,79.5416666667
+QuestRun,PC,Role-Playing,0.0,6.5,,Cuve,33.3333333333
+Quiplash,PC,Miscellaneous,0.0,8.4,,Jackbox Games,63.2222222222
+Qvadriga,PC,Strategy,72.0,4.7,,Turnopia,64.6666666667
+R.B.I. Baseball 15,PC,Sports,0.0,2.3,E,MLB.com,31.3333333333
+R.I.P.D. The Game,PC,Action,26.0,1.6,T,Old School Games,25.4583333333
+R.U.S.E.,PC,Strategy,76.0,8.1,T,Eugen Systems,78.0810810811
+Rabi-Ribi,PC,Action,0.0,7.9,,CreSpirit,54.6666666667
+RACE 07: Official WTCC Game,PC,Sports,83.0,9.0,E,SimBin,84.6666666667
+Race Injection,PC,Sports,72.0,8.6,,SimBin,77.6666666667
+RACE On,PC,Sports,73.0,8.2,E,SimBin,75.8666666667
+Race the Sun,PC,Action,79.0,7.4,,Flippfly,74.0333333333
+RACE: The WTCC Game,PC,Sports,81.0,7.5,E,SimBin,80.0
+Rag Doll Kung Fu,PC,Action,69.0,4.9,T,Mark Healey,62.1111111111
+Rage,PC,Action,79.0,5.2,M,id Software,69.6736111111
+RAGE: The Scorchers,PC,Action,0.0,6.8,,id Software,48.380952381
+Raging Tiger: The Second Korean War,PC,Strategy,54.0,0.0,,ProSim,37.5
+Ragnarok Online,PC,Role-Playing,79.0,8.3,T,Gravity Corporation,78.3333333333
+Ragnarok Online 2: Legend of the Second,PC,Role-Playing,0.0,3.4,,Gravity Corporation,29.3333333333
+RaiderZ,PC,Role-Playing,64.0,6.6,,Maiet Entertainment,62.3333333333
+Rail Simulator,PC,Simulation,72.0,6.9,E,Kuju Entertainment,71.1666666667
+Railroad Pioneer,PC,Strategy,50.0,7.3,E,Kritzelkratz,51.3333333333
+Railroad Tycoon 3,PC,Strategy,80.0,7.7,E,PopTop Software,77.6666666667
+Railroad Tycoon II,PC,Strategy,89.0,8.5,E,PopTop Software,85.619047619
+Rails Across America,PC,Strategy,81.0,8.0,E,Flying Lab Software,82.1111111111
+RailWorks,PC,Simulation,0.0,6.9,E,RailSimulator.com,47.3333333333
+Railworks 3: Train Simulator 2012,PC,Simulation,67.0,6.4,E,RailSimulator.com,65.2
+Rain Blood Chronicles: Mirage,PC,Action,68.0,7.1,,S-Game,70.5
+RalliSport Challenge,PC,Sports,77.0,6.4,E,Digital Illusions,71.2083333333
+Rally Trophy,PC,Sports,82.0,8.6,E,Bugbear,83.25
+S.T.A.L.K.E.R.: Call of Pripyat,PC,Action,80.0,8.7,M,GSC Game World,82.0416666667
+S.T.A.L.K.E.R.: Clear Sky,PC,Action,75.0,7.7,M,GSC Game World,75.3137254902
+S.T.A.L.K.E.R.: Shadow of Chernobyl,PC,Action,82.0,8.4,M,GSC Game World,82.9206349206
+S.W.I.N.E.,PC,Strategy,65.0,8.7,T,Stormregion,68.9444444444
+Sacred,PC,Role-Playing,74.0,7.8,T,Ascaron Entertainment GmbH,76.3137254902
+Sacred 2: Fallen Angel,PC,Role-Playing,71.0,6.9,M,Ascaron Entertainment GmbH,70.3475177305
+Sacred 3,PC,Role-Playing,57.0,1.4,M,Deep Silver,43.0689655172
+Sacred Citadel,PC,Action,61.0,5.5,T,Southend Interactive,59.52
+Sacred Underworld,PC,Role-Playing,73.0,7.7,T,Ascaron Entertainment GmbH,74.1666666667
+Sacrifice,PC,Strategy,89.0,8.8,M,Shiny Entertainment,88.9166666667
+Safecracker: The Ultimate Puzzle Adventure,PC,Miscellaneous,69.0,7.0,E,Kheops Studio,68.303030303
+Saga,PC,Role-Playing,61.0,8.0,,Wahoo Studios,71.6666666667
+Saint Seiya: Soldiers' Soul,PC,Action,0.0,6.3,T,Dimps Corporation,53.0
+Saints Row 2,PC,Action Adventure,72.0,6.8,M,Volition Inc.,73.0081300813
+Saints Row IV,PC,Action Adventure,86.0,7.4,M,Volition Inc.,80.5984848485
+Saints Row IV: Enter the Dominatrix,PC,Action Adventure,0.0,7.3,,Volition Inc.,47.5833333333
+Saints Row: Gat Out of Hell,PC,Action Adventure,66.0,6.2,M,Volition Inc.,63.6865079365
+Saints Row: The Third,PC,Action Adventure,84.0,8.1,M,Volition Inc.,82.7823129252
+Saints Row: The Third - Gangstas in Space,PC,Action Adventure,0.0,5.8,M,Volition Inc.,42.4444444444
+Saints Row: The Third - Genki Bowl VII,PC,Action,0.0,4.8,M,Volition Inc.,32.2916666667
+Saints Row: The Third - The Trouble with Clones,PC,Action Adventure,0.0,5.6,M,Volition Inc.,37.5555555556
+Saira,PC,Action,0.0,6.9,,nifflas,49.4444444444
+Sakura Angels,PC,Adventure,0.0,6.1,,Winged Cloud,32.0
+Sakura Clicker,PC,Action,0.0,5.2,,Winged Cloud,29.0
+Sakura Fantasy,PC,Adventure,0.0,2.6,,Winged Cloud,23.6666666667
+Sakura Spirit,PC,Miscellaneous,0.0,5.6,,Winged Cloud,28.6666666667
+Salammbo: Battle of Carthage,PC,Adventure,77.0,7.6,T,Cryo Interactive,78.2222222222
+Salt and Sanctuary,PC,Action,84.0,7.9,,Ska Studios,82.8205128205
+Salt Lake 2002,PC,Sports,44.0,0.0,E,Attention To Detail,31.0416666667
+Salvation Prophecy,PC,Simulation,0.0,7.5,,Firedance Games,41.6666666667
+Salvo!,PC,Action Adventure,58.0,0.0,,Spruegames,37.6666666667
+Sam & Max Episode 101: Culture Shock,PC,Adventure,81.0,8.7,T,Telltale Games,82.9861111111
+Sam & Max Episode 102: Situation: Comedy,PC,Adventure,79.0,7.9,T,Telltale Games,79.4210526316
+Sam & Max Episode 104: Abe Lincoln Must Die!,PC,Adventure,80.0,7.8,,Telltale Games,79.7222222222
+Sam & Max Episode 105: Reality 2.0,PC,Adventure,82.0,8.4,,Telltale Games,82.8484848485
+Sam & Max Episode 106: Bright Side of the Moon,PC,Adventure,79.0,7.3,T,Telltale Games,76.8
+Sam & Max Episode 201: Ice Station Santa,PC,Adventure,82.0,8.5,T,Telltale Games,83.0
+Sam & Max Episode 202: Moai Better Blues,PC,Adventure,80.0,7.7,T,Telltale Games,79.0
+Sam & Max Episode 203: Night of the Raving Dead,PC,Adventure,79.0,8.2,T,Telltale Games,80.037037037
+Sam & Max Episode 204: Chariots of the Dogs,PC,Adventure,85.0,8.1,T,Telltale Games,84.375
+Sam & Max: Season One,PC,Miscellaneous,0.0,8.2,T,Telltale Games,52.0909090909
+UberSoldier,PC,Action,57.0,6.5,M,Burut Software,59.75
+UberSoldier II,PC,Action,62.0,7.2,M,Burut Software,66.6666666667
+UEFA Euro 2004: Portugal,PC,Sports,76.0,6.5,E,EA Canada,71.2888888889
+UEFA Euro 2012,PC,Sports,64.0,2.9,E,EA Canada,51.6923076923
+UFO: Afterlight,PC,Strategy,71.0,7.6,T,Altar Interactive,71.8888888889
+UFO: Aftermath,PC,Strategy,67.0,5.9,T,Altar Interactive,63.6153846154
+UFO: Aftershock,PC,Strategy,67.0,7.7,T,Altar Interactive,70.4074074074
+UFO: Extraterrestrials,PC,Strategy,68.0,6.9,E10+,Chaos Concept,68.25
+Ultima Online,PC,Role-Playing,59.0,8.8,M,Origin,71.1333333333
+Ultima Online: Age of Shadows,PC,Role-Playing,74.0,7.0,T,Electronic Arts,70.1666666667
+Ultima Online: Lord Blackthorn's Revenge,PC,Role-Playing,65.0,5.4,T,Electronic Arts,57.5
+Ultima Online: Samurai Empire,PC,Role-Playing,62.0,5.7,T,EA Games,53.0
+Ultima Online: Third Dawn,PC,Role-Playing,69.0,0.0,T,Electronic Arts,46.0
+Ultimate General: Gettysburg,PC,Strategy,84.0,8.0,,Game-Labs,80.8333333333
+Ultimate Ride,PC,Action,68.0,8.2,E,Gigawatt Studios,73.4666666667
+Ultimate Ride Coaster Deluxe,PC,Strategy,77.0,5.9,E,Gigawatt Studios,71.5
+Ultimate Ride: Disney Coaster,PC,Strategy,72.0,7.0,E,Disney Interactive,70.6666666667
+Ultimate Spider-Man,PC,Action,75.0,8.4,T,Beenox,78.1241830065
+Ultra Street Fighter IV,PC,Action,82.0,6.9,T,Capcom,73.1428571429
+Ultratron,PC,Action,0.0,7.9,E,Puppy Games,54.5555555556
+Umbrella Corps,PC,Action,36.0,2.3,M,Capcom,33.4444444444
+Unbox,PC,Action,68.0,0.0,,Prospect Games,39.3333333333
+Uncanny Valley,PC,Action Adventure,67.0,7.4,,Cowardly Creations,70.2666666667
+Uncommon Valor: Campaign for the South Pacific,PC,Strategy,79.0,7.6,E,2By3 Games,76.5
+VA-11 Hall-A: Cyberpunk Bartender Action,PC,Simulation,77.0,8.0,,Sukeban Games,76.5
+Valdis Story: Abyssal City,PC,Action,83.0,8.1,,Endless Fluff,82.4166666667
+Valentino Rossi The Game,PC,Sports,72.0,6.2,E,Milestone,75.0416666667
+Valhalla Chronicles,PC,Role-Playing,0.0,6.0,T,Paradox Interactive,31.3333333333
+Valhalla Hills,PC,Strategy,69.0,7.6,,Daedalic Entertainment,70.1111111111
+Valiant Hearts: The Great War,PC,Action,79.0,8.6,T,Ubisoft Montpellier,81.0555555556
+Valkyria Chronicles,PC,General,85.0,8.2,T,Sega,84.5308641975
+Valley,PC,Action Adventure,0.0,7.9,T,Blue Isle Studios,65.6984126984
+Vampire: The Masquerade - Bloodlines,PC,Role-Playing,80.0,9.0,M,Troika Games,83.4487179487
+Vampire: The Masquerade - Redemption,PC,Role-Playing,74.0,8.4,M,Nihilistic,78.6666666667
+Van Helsing I: Complete Pack,PC,Role-Playing,85.0,8.2,,NeocoreGames,85.0
+Vancouver 2010 - The Official Video Game of the Olympic Winter Games,PC,Sports,57.0,3.7,E,Eurocom Entertainment Software,49.4133333333
+Vanguard: Saga of Heroes,PC,Role-Playing,68.0,7.1,T,Sigil Games Online,69.1904761905
+Vector,PC,Action,0.0,7.7,,Nekki,49.0
+Vector Thrust,PC,Miscellaneous,57.0,5.0,,timesymmetry,52.8888888889
+Vegas Tycoon,PC,Strategy,76.0,7.4,T,Deep Red,75.0833333333
+Velocibox,PC,Action,0.0,6.8,,Shawn Beck,54.6666666667
+Velocity 2X,PC,Action,0.0,5.6,,FuturLab,70.0722222222
+Velvet Assassin,PC,Action,61.0,6.2,M,Replay Studios,59.9743589744
+Vendetta Online,PC,Role-Playing,62.0,7.3,T,Guild Software,63.4166666667
+Vendetta: Curse of Raven's Cry,PC,Strategy,0.0,3.7,,Reality Pump,31.3333333333
+Venetica,PC,Role-Playing,61.0,6.9,T,Deck 13,61.4047619048
+Verdun,PC,Action,70.0,7.8,,M2H,69.4333333333
+Wailing Heights,PC,Adventure,70.0,6.9,,Outsider Games,70.5555555556
+WAKFU,PC,Role-Playing,76.0,5.5,,Ankama Games,67.6666666667
+Waking Mars,PC,Action,79.0,7.7,,Tiger Style,79.5238095238
+WALL-E,PC,Action,58.0,6.8,E,Heavy Iron Studios,60.9139784946
+Wanda - A Beautiful Apocalypse,PC,Role-Playing,0.0,6.8,,Kodots Games,44.3333333333
+Wander,PC,Simulation,0.0,4.3,,Wander,23.3333333333
+Wanderlust: Rebirth,PC,Role-Playing,0.0,4.9,,Yeti Trunk,36.3333333333
+Wanted: A Wild Western Adventure,PC,Action Adventure,66.0,8.4,E,Revistonic,73.0606060606
+Wanted: Weapons of Fate,PC,Action,62.0,7.3,M,GRIN,65.0925925926
+War for the Overworld,PC,Strategy,65.0,7.6,,Subterranean Games,70.0
+War Front: Turning Point,PC,Strategy,73.0,7.2,T,Digital Reality,73.0
+War Inc. Battle Zone,PC,Action,0.0,4.5,,Online Warmongers LLC,40.6666666667
+War Leaders: Clash of Nations,PC,Strategy,0.0,6.4,T,Enigma Software Productions,33.0
+War of the Immortals,PC,Role-Playing,0.0,4.7,,Perfect World Beijing,39.0
+War of the Roses,PC,Action,73.0,5.8,RP,Fatshark AB,67.2083333333
+War of the Vikings,PC,Action,62.0,6.1,RP,Fatshark AB,61.2666666667
+War Rock,PC,Action,53.0,5.5,T,Dream Execution,55.380952381
+War Thunder,PC,Action,82.0,6.6,T,Gaijin Entertainment,73.7142857143
+War Times,PC,Strategy,53.0,0.0,T,Legend Studios,36.5833333333
+War World: Tactical Combat,PC,Action,74.0,7.7,,Third Wave Games,75.5555555556
+WarBirds III,PC,Simulation,78.0,6.3,,iEntertainment Network,72.0
+X Rebirth,PC,Simulation,33.0,3.3,T,Egosoft,33.5185185185
+X-Blades,PC,Action,54.0,6.6,M,Gaijin Entertainment,56.0357142857
+X-COM: Enforcer,PC,Action,65.0,7.2,T,MicroProse,67.8095238095
+X-Men Legends II: Rise of Apocalypse,PC,Role-Playing,80.0,8.5,T,Raven Software,81.8
+X-Men Origins: Wolverine,PC,Action,77.0,8.1,M,Raven Software,76.66
+X-Men: The Official Game,PC,Action,52.0,6.8,T,Beenox,57.9866666667
+X-Plane,PC,Simulation,69.0,5.8,E,Laminar Research,62.75
+X-Plane 8,PC,Simulation,82.0,7.9,E,Laminar Research,77.8333333333
+X2: The Threat,PC,Simulation,72.0,7.2,T,Egosoft,70.6041666667
+X2: Wolverine's Revenge,PC,Action Adventure,55.0,4.3,T,Livesay Technologies,52.5
+X3: Albion Prelude,PC,Action,75.0,8.4,,Egosoft,79.6666666667
+X3: Reunion,PC,Simulation,71.0,6.9,T,Egosoft,70.1282051282
+X3: Terran Conflict,PC,Simulation,73.0,7.9,T,Egosoft,73.4666666667
+X: Beyond the Frontier,PC,Simulation,67.0,7.3,T,Egosoft,67.7142857143
+XCOM 2,PC,Strategy,88.0,7.1,T,Firaxis Games,83.9365079365
+XCOM 2 - Alien Hunters,PC,Strategy,0.0,4.8,,Firaxis Games,42.0
+XCOM: Enemy Unknown,PC,Strategy,89.0,8.2,M,Firaxis Games,86.8503401361
+XCOM: Enemy Unk                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                ,75.5555555556
+2362,WarBirds III,PC,Simulation,78.0,6.3,,iEntertainment Network,72.0
+2366,X Rebirth,PC,Simulation,33.0,3.3,T,Egosoft,33.5185185185
+2367,X-Blades,PC,Action,54.0,6.6,M,Gaijin Entertainment,56.0357142857
+2369,X-COM: Enforcer,PC,Action,65.0,7.2,T,MicroProse,67.8095238095
+2373,X-Men Legends II: Rise of Apocalypse,PC,Role-Playing,80.0,8.5,T,Raven Software,81.8
+2374,X-Men Origins: Wolverine,PC,Action,77.0,8.1,M,Raven Software,76.66
+2375,X-Men: The Official Game,PC,Action,52.0,6.8,T,Beenox,57.9866666667
+2376,X-Plane,PC,Simulation,69.0,5.8,E,Laminar Research,62.75
+2377,X-Plane 8,PC,Simulation,82.0,7.9,E,Laminar Research,77.8333333333
+2380,X2: The Threat,PC,Simulation,72.0,7.2,T,Egosoft,70.6041666667
+2381,X2: Wolverine's Revenge,PC,Action Adventure,55.0,4.3,T,Livesay Technologies,52.5
+2382,X3: Albion Prelude,PC,Action,75.0,8.4,,Egosoft,79.6666666667
+2383,X3: Reunion,PC,Simulation,71.0,6.9,T,Egosoft,70.1282051282
+2384,X3: Terran Conflict,PC,Simulation,73.0,7.9,T,Egosoft,73.4666666667
+2385,X: Beyond the Frontier,PC,Simulation,67.0,7.3,T,Egosoft,67.7142857143
+2386,XCOM 2,PC,Strategy,88.0,7.1,T,Firaxis Games,83.9365079365
+2387,XCOM 2 - Alien Hunters,PC,Strategy,0.0,4.8,,Firaxis Games,42.0
+2388,XCOM: Enemy Unknown,PC,Strategy,89.0,8.2,M,Firaxis Games,86.8503401361
+2390,XCOM: Enemy Unknown - Slingshot,PC,Strategy,0.0,8.6,M,Firaxis Games,50.3333333333
+2391,XCOM: Enemy Within,PC,Strategy,86.0,8.0,M,Firaxis Games,83.6025641026
+2392,Xenonauts,PC,Strategy,77.0,8.0,,Gamethunks,78.5
+2393,Xeodrifter,PC,Action,0.0,6.0,E,Renegade Kid,55.9722222222
+2394,XIII,PC,Action,72.0,7.8,M,Ubisoft Paris,74.5
+2396,Xotic,PC,Action,67.0,7.6,,WXP,68.6060606061
+2397,Xpand Rally,PC,Sports,82.0,7.4,E,Techland,78.6666666667
+2400,Xtreme Air Racing,PC,Simulation,83.0,5.9,E,eGames,75.0833333333
+2401,Yaiba: Ninja Gaiden Z,PC,Action Adventure,49.0,6.0,M,Spark Unlimited,52.4927536232
+2402,Yar's Revenge,PC,Action,56.0,0.0,E10+,Killspace Entertainment,34.1666666667
+2403,Yatagarasu: Attack on Cataclysm,PC,Action,73.0,5.0,,PDW: Hotapen,65.6666666667
+2404,Year Walk,PC,Miscellaneous,87.0,7.0,,Simogo,81.1111111111
+2405,Yesterday,PC,Adventure,65.0,6.6,,Pendulo Studios,67.6825396825
+2407,Yomawari: Night Alone,PC,Adventure,0.0,8.4,,Nippon Ichi Software,52.9333333333
+2408,Yomi,PC,Strategy,0.0,6.3,,Sirlin Games,44.3333333333
+2410,You Are Empty,PC,Action,34.0,5.4,M,Digital Spray Studios,44.0666666667
+2411,You Don't Know Jack (2011),PC,Miscellaneous,71.0,6.0,T,Jellyvision,67.0
+2412,You Don't Know Jack 6: The Lost Gold,PC,Miscellaneous,67.0,6.1,,Jellyvision,62.6666666667
+2413,You Don't Know Jack: 5th Dementia,PC,Miscellaneous,77.0,8.0,T,Jellyvision,75.5555555556
+2414,You Have to Win the Game,PC,Action,0.0,7.2,,Pirate Hearts,50.6666666667
+2415,You Must Build A Boat,PC,Action,71.0,7.7,,EightyEight Games,76.0
+2416,Young Justice: Legacy,PC,Action,0.0,4.7,T,Freedom Factory Studios,25.4444444444
+2417,Your Doodles Are Bugged!,PC,Miscellaneous,69.0,5.6,,Spyn Doctor,66.6666666667
+2418,Ys I & II Chronicles,PC,Role-Playing,0.0,7.1,T,Falcom,47.619047619
+2419,Ys Origin,PC,Role-Playing,76.0,8.7,,Falcom,79.4166666667
+2420,Ys VI: The Ark of Napishtim,PC,Role-Playing,76.0,7.8,,Falcom,78.25
+2421,Ys: The Oath in Felghana,PC,Role-Playing,73.0,8.0,,Falcom,77.4523809524
+2422,Yu-Gi-Oh! Online,PC,Miscellaneous,60.0,5.8,E,Konami,58.6666666667
+2423,Yu-Gi-Oh! Power of Chaos: Joey the Passion,PC,Miscellaneous,0.0,6.8,E,Konami,33.3333333333
+2424,Yu-Gi-Oh! Power of Chaos: Kaiba the Revenge,PC,Miscellaneous,0.0,7.7,E,KCEJ,41.2222222222
+2425,Yu-Gi-Oh! Power of Chaos: Yugi the Destiny,PC,Strategy,52.0,5.9,E,Konami,53.5
